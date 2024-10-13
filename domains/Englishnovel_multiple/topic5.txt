@@ -1,0 +1,1155 @@
+222 8
+ (4, 4),
+1,null,null,To see the strange places of the world
+2,null,null,and the stranger people
+3,null,null,to become a man of wealth and influence such as Monsieur Vigo
+4,fear,fear,and ( I fear I loved it best ) to match my brains with others at a bargain
+5,null,null,I turned it all over slowly
+6,null,null,gravely
+7,null,null,in my boyish mind
+8,null,null,rubbing the hard dirt on the floor with the toe of my moccasin .
+237 5
+ (4, 4),
+1,null,null,This furnished Madame de Fondege with another excuse for proffering her advice
+2,null,null,But Mademoiselle Marguerite would not allow herself to be convinced at once
+3,null,null,She raised a great many objections
+4,happiness,happiness,and parleyed for a long time before telling Madame de Fondege that she would be happy to accept the hospitality which had been offered her
+5,null,null,And her consent was by no means unconditional .
+238 10
+ (3, 9),
+1,null,null,Fortunat 's address must be there
+2,null,null,so she asked and obtained permission to examine this notebook
+3,happiness,to her great joy,and to her great joy
+4,null,null,under the letter  "  F
+5,null,null,"   she found the entry :   "  Fortunat ( Isidore )
+6,null,null,No
+7,null,null,28 Place de la Bourse
+8,null,null,"  Ah
+9,null,happiness,im sure that I shall find Pascal now
+10,null,null,"   she exclaimed .
+240 4
+ (1, 1),
+1,fear,fear,It was easy to see by Madame de Fondege 's earnestness that she feared Mademoiselle Marguerite would avail herself of this opportunity of recovering her liberty
+2,null,null,"  What shall I do
+3,null,null,then
+4,null,null,"   asked the girl .
+247 6
+ (3, 3),
+1,null,null,He was in all the greater haste as it was Sunday
+2,null,null,Fortunat was in the habit of passing these days in the country
+3,fear,fear,and Chupin feared he might fail to see him if he was not expeditious in his movements
+4,null,null,And while running to the Place de la Bourse
+5,null,null,he carefully prepared the story he meant to relate
+6,null,null,deeply impressed by the wisdom of the popular maxim which says :   "  It is not always well to tell the whole truth .  "
+249 16
+ (11, 9),
+1,null,null,However
+2,null,null,the effect of this discovery was to dispel his anger
+3,null,null,or rather to restore his calmness
+4,null,null,and
+5,null,null,addressing M
+6,null,null,de Coralth
+7,null,null,he exclaimed :   "  dont be angry at what i 've said
+8,null,null,m ' sieur
+9,null,anger,it was only a jest I know that there 's a wide difference between a poor devil like me and a viscount like you I have n't a sou
+10,null,null,you see
+11,anger,maddens,and that maddens me
+12,null,null,But im not so very bad looking
+13,null,null,fortunately
+14,null,null,and im always hoping that the daughter of some rich banker will fall in love with me and marry me
+15,null,null,Some people have such luck
+16,null,null,you know .
+250 3
+ (2, 2),
+1,null,null,What if he knew that there 's a fortune waiting for a claimant
+2,surprise,surprise,I should n't at all be surprised if I found that he wanted to cook his bread in our oven
+3,null,null,But father Fortunat would n't be pleased with the news .
+255 6
+ (2, 2),
+1,null,null,Having come with the intention of offering his agent a handsome sum
+2,surprise,surprise,he was agreeably surprised to find that Chupin 's scruples would enable him to save his money
+3,null,null,"  If I had not found you engaged in study
+4,null,null,Victor
+5,null,null,"   he said
+6,null,null,"  I should have thought you had been drinking .
+256 6
+ (2, 3),
+1,null,null,Fortunat was amazed
+2,anger,annoyed,and at the same time much annoyed
+3,null,anger,to find himself forsaken on account of such a trifle
+4,null,null,He feared
+5,null,null,too
+6,null,null,that Chupin might let his tongue wag if he left his employment .
+257 9
+ (4, 6),
+1,null,null,Fortunat was amazed
+2,null,null,and at the same time much annoyed
+3,null,null,to find himself forsaken on account of such a trifle
+4,fear,feared,He feared
+5,null,null,too
+6,null,fear,that Chupin might let his tongue wag if he left his employment
+7,null,null,So
+8,null,null,since he had confided this project to Chupin
+9,null,null,he was determined that Chupin alone should carry it into execution .
+258 6
+ (4, 4),
+1,null,null,If any one heard them
+2,null,null,no one came
+3,null,null,still they recalled Pascal to a sense of the situation
+4,sadness,sadness,and he was ashamed of his violence
+5,null,null,He released Madame Leon
+6,null,null,and his manner suddenly became as humble as it had been threatening .
+265 4
+ (2, 2),
+1,null,null,"  Crazy in the fullest sense of the word
+2,fear,fear,She refuses the count 's millions from a silly fear of telling people that she belongs to the Chalusse family
+3,null,null,She threatened her brother
+4,null,null,but she would never have carried her threats into execution .
+267 6
+ (6, 6),
+1,null,null,There was but one certain and positive thing
+2,null,null,and this was that the money he had counted upon had escaped him
+3,null,null,and he experienced as acute a pang as if he had lost forty thousand francs a second time
+4,null,null,Perhaps
+5,null,null,at that moment
+6,sadness,sadness,he was sorry that he had severed his connection with the marquis .
+294 7
+ (4, 4),
+1,null,null,But M
+2,null,null,Fortunat had resolved to listen to nothing
+3,null,null,He wished for no explanations
+4,fear,fear,so distrustful was he of himself so much did he fear that his adventurous nature would urge him to incur further risk
+5,null,null,He was positively afraid of the Marquis de Valorsay 's eloquence
+6,null,null,besides
+7,null,null,he knew well enough that the person who consents to listen is at least half convinced .
+312 7
+ (2, 3),
+1,null,null,Monsieur
+2,happiness,happy,you make my daughter very happy
+3,null,happiness,She want those bird ever sence Captain Lopez he die
+4,null,null,Monsieur
+5,null,null,I am Jean Baptiste Lenoir
+6,null,null,Colonel Chouteau 's miller
+7,null,null,and we very happy to see you at the pon'
+318 9
+ (7, 7),
+1,null,null,Like a dutiful son
+2,null,null,'' said Monsieur de St
+3,null,null,Gre
+4,null,null,you heard I was in town
+5,null,null,and called to pay your respects
+6,null,null,I am sure
+7,happiness,happiness,I am delighted to find you
+8,null,null,In fact
+9,null,null,I came to town for that purpose
+393 11
+ (6, 7),
+1,null,null,but I was wrong
+2,null,null,for in the afternoon he sent a message
+3,null,null,through Madame Leon
+4,null,null,requesting me to join him in the garden
+5,null,null,I hastened there
+6,surprise,surprised,very much surprised
+7,null,surprise,for the weather was extremely disagreeable
+8,null,null,' dear Marguerite
+9,null,null,' he said
+10,null,null,on seeing me
+11,null,null,' help me to find the fragments of that letter which I flung from the window this morning .
+394 5
+ (4, 5),
+1,null,null,"  I was much grieved at the count 's disappointment
+2,null,null,"   continued Mademoiselle Marguerite
+3,null,null,"  but suddenly he exclaimed
+4,happiness,joyfully :,joyfully :  ' that address why
+5,null,happiness,such a person will give it to me what a fool I am
+399 7
+ (3, 3),
+1,null,null,As a rule
+2,null,null,Chupin was not easily impressed
+3,fear,fear,but he felt almost frightened by his employer 's agitation
+4,null,null,"  I only repeated what M
+5,null,null,Casimir told me
+6,null,null,monsieur
+7,null,null,"   was his reply .
+401 12
+ (7, 4),(7, 6),
+1,null,null,The woman looked at him
+2,null,null,Most job masters are in the habit of giving five sous to any servant who comes in search of a cab for his master
+3,null,null,and this was the custom here
+4,null,anger,But the keeper of the office
+5,null,null,who felt sure that Chupin was not a servant
+6,null,anger,hesitated
+7,anger,angry,and this made the young fellow angry
+8,null,null,"  Make haste
+9,null,null,"   he cried
+10,null,null,imperiously
+11,null,null,"  If you dont
+12,null,null,I shall run to the nearest stand .  "
+403 11
+ (7, 10),
+1,null,null,Fortunat 's countenance wore an expression of profound commiseration
+2,null,null,A looker on would have supposed him interested and sympathetic to the last degree
+3,null,null,but in reality
+4,null,null,he was furious
+5,null,null,Time was passing
+6,null,null,and the conversation was wandering farther and farther from the object of his visit
+7,surprise,surprised,"  I am surprised
+8,null,null,madame
+9,null,null,"   said he
+10,null,surprise,"  that you never applied to your former employer
+11,null,null,the Count de Chalusse .  "
+404 10
+ (5, 5),
+1,null,null,Isidore Fortunat was literally upon the rack
+2,null,null,and to make his sufferings still more horrible
+3,null,null,he dared not ask any direct question
+4,null,null,nor allow his curiosity to become manifest
+5,fear,fear,for fear of alarming the woman
+6,null,null,"  Let me see
+7,null,null,"   said he
+8,null,null,"  I think I am sure that I have heard or that I have read I cannot say which some story about a Mademoiselle de Chalusse
+9,null,null,It was something terrible
+10,null,null,wasnt it
+406 8
+ (4, 5),
+1,null,null,At this point in her narrative Madame Vantrasson evinced a desire to pause and draw a breath
+2,null,null,and perhaps partake of some slight refreshment
+3,null,null,but M
+4,disgust,impatient,Fortunat was impatient
+5,null,disgust,The woman 's husband might return at any moment
+6,null,null,"  And
+7,null,null,after that
+8,null,null,"   he inquired .
+407 13
+ (7, 7),
+1,null,null,It was the old
+2,null,null,sad story of a ruined girl paying for a moment 's madness with her happiness and all her after life
+3,null,null,A terrible drama
+4,null,null,no doubt
+5,null,null,but one that is of such frequent occurrence that it seems as commonplace as life itself
+6,null,null,Thus any one who was acquainted with M
+7,surprise,surprise,Isidore Fortunat would have been surprised to see how greatly he was moved by such a trifle
+8,null,null,"  Poor girl
+9,null,null,"   said he
+10,null,null,in view of saying something
+11,null,null,And then
+12,null,null,in a tone of assumed carelessness
+13,null,null,he inquired :    "  Did they never discover what scoundrel carried Mademoiselle de Chalusse away
+408 16
+ (11, 11),
+1,null,null,You could not say that M
+2,null,null,Fortunat was angry
+3,null,null,Such a man
+4,null,null,as cold and as smooth as a hundred franc piece
+5,null,null,has no useless passions
+6,null,null,But he was intensely irritated to hear his client foolishly chanting the paeons of victory
+7,null,null,while he was compelled to conceal his grief at the loss of his forty thousand francs
+8,null,null,deep in the recesses of his heart
+9,null,null,So
+10,null,null,far from being touched by the marquis 's evident alarm
+11,happiness,happiness,it pleased him to be able to turn the dagger in the wound he had just inflicted
+12,null,null,"  You must excuse my incredulity
+13,null,null,"   said he
+14,null,null,"  It comes entirely from something you
+15,null,null,yourself
+16,null,null,told me about a week ago .  "
+409 12
+ (3, 2),
+1,null,null,de Valorsay paced the floor in a state of intense agitation
+2,null,fear,Had he caught a glimpse of his own face in the looking-glass
+3,fear,frightened,it would have frightened him
+4,null,null,"  A gentleman
+5,null,null,"   he repeated
+6,null,null,in a tone of suppressed rage
+7,null,null,"  a gentleman
+8,null,null,That word is in everybody 's mouth
+9,null,null,nowadays
+10,null,null,Pray
+11,null,null,what do you understand by a gentleman
+12,null,null,Mons .
+410 9
+ (5, 5),
+1,null,null,Fortunat would certainly have preferred to lose a good pound of flesh rather than the sum of money mentioned
+2,null,null,but
+3,null,null,on the other hand
+4,null,null,he felt that it would not do for him to sever his connection with his client until the death of the Count de Chalusse was certain
+5,fear,fear,and being anxious to save his money and to keep his client
+6,null,null,his embarrassment was extreme
+7,null,null,"  It was the most unfortunate thing in the world
+8,null,null,"   he stammered
+9,null,null,"  I apprehended no difficulty whatever  "
+411 9
+ (6, 9),
+1,null,null,Fortunat would certainly have preferred to lose a good pound of flesh rather than the sum of money mentioned
+2,null,null,but
+3,null,null,on the other hand
+4,null,null,he felt that it would not do for him to sever his connection with his client until the death of the Count de Chalusse was certain
+5,null,null,and being anxious to save his money and to keep his client
+6,disgust,embarrassment,his embarrassment was extreme
+7,null,null,"  It was the most unfortunate thing in the world
+8,null,null,"   he stammered
+9,null,disgust,"  I apprehended no difficulty whatever  "
+412 8
+ (8, 6),(8, 7),
+1,null,null,Fortunat 's embarrassment was really painful to witness
+2,null,null,He was not usually wanting in courage
+3,null,null,but the events of the evening had shaken his confidence and his composure
+4,null,null,The hope of gain and the fear of loss had deprived him of his wanted clearness of mind
+5,null,null,Feeling that he had just committed a terrible blunder
+6,null,sadness,he racked his brain to find some way of repairing it
+7,null,sadness,and finding none
+8,sadness,confusion,his confusion increased .
+413 14
+ (8, 8),
+1,null,null,He took them
+2,null,null,without even asking the mother if she had enough left to purchase her dinner that evening
+3,null,null,and the fine gentleman
+4,null,null,who had won and pocketed Jules Chazel 's stolen gold
+5,null,null,thought the banker 's conduct perfectly natural and just
+6,null,null,It is true that Madame d' argeles was in despair during forty-eight hours or so
+7,null,null,for the police had begun a sort of investigation
+8,fear,fear,and she feared this might frighten her visitors and empty her drawing-room
+9,null,null,Not at all
+10,null,null,however
+11,null,null,on the contrary
+12,null,null,she had good cause to congratulate herself upon the notoriety she gained through this suicide
+13,null,null,For five days she was the talk of Paris
+14,null,null,and Alfred d' aunay even published her portrait in the Illustrated Chronicle .
+414 13
+ (9, 3),(9, 4),(9, 5),
+1,null,null,The poor woman she was a widow sold all she possessed
+2,null,null,even the bed on which she slept
+3,null,sadness,and when she had succeeded in gathering together twenty thousand francs the ransom of her son 's honor she carried them to the banker by whom her boy had been employed
+4,null,sadness,He took them
+5,null,sadness,without even asking the mother if she had enough left to purchase her dinner that evening
+6,null,null,and the fine gentleman
+7,null,null,who had won and pocketed Jules Chazel 's stolen gold
+8,null,null,thought the banker 's conduct perfectly natural and just
+9,sadness,in despair,It is true that Madame d' argeles was in despair during forty-eight hours or so
+10,null,null,for the police had begun a sort of investigation
+11,null,null,and she feared this might frighten her visitors and empty her drawing-room
+12,null,null,Not at all
+13,null,null,however
+415 15
+ (11, 11),
+1,null,null,The table itself was adorned with a rich tapestry cover
+2,null,null,but this was visible only at the corners
+3,null,null,for it was covered
+4,null,null,in turn
+5,null,null,with a green baize cloth considerably the worse for wear
+6,null,null,Madame d' argeles 's guests were probably not over fifty in number
+7,null,null,but they all seemed to belong to the very best society
+8,null,null,The majority of them were men of forty or thereabouts
+9,null,null,several wore decorations
+10,null,null,and two or three of the eldest were treated with marked deference
+11,surprise,surprise,Certain well-known names which Pascal overheard surprised him greatly
+12,null,null,"  What
+13,null,null,these men here
+14,null,null,"   he said to himself
+15,null,null,"  and I I regarded my visit as a sort of clandestine frolic .  "
+416 8
+ (4, 4),
+1,null,null,A score of persons were seated at the card table
+2,null,null,and the guests who had retired into the adjoining salon were silently watching the progress of the game
+3,null,null,or quietly chatting in the corners of the room
+4,surprise,surprise,It surprised him to note that every one spoke in very low tones
+5,null,null,there was something very like respect
+6,null,null,even awe
+7,null,null,in this subdued murmur
+8,null,null,One might have supposed that those present were celebrating the rites of some mysterious worship .
+417 12
+ (7, 7),
+1,null,null,The wisest counsels
+2,null,null,given in a certain fashion
+3,null,null,never fail to produce an effect diametrically opposed to that which they seemingly aim at
+4,null,null,de Coralth 's persistence
+5,null,null,and the importance he attached to a mere trifle
+6,null,null,could not fail to annoy the most patient man in the world
+7,anger,anger,and in fact his patronizing tone really irritated Pascal
+8,null,null,"  You are free
+9,null,null,my friend
+10,null,null,to do as you please
+11,null,null,"   said he
+12,null,null,"  but I   "
+418 13
+ (7, 5),
+1,null,null,However the game proceeded
+2,null,null,but no one paid any attention to it
+3,null,null,The stakes were insignificant
+4,null,null,and loss or gain drew no exclamation from any one
+5,null,sadness,The attention of the entire party was concentrated on Pascal
+6,null,null,and he
+7,sadness,with despair in his heart,with despair in his heart
+8,null,null,followed the movements of the cards
+9,null,null,which were passing from hand to hand
+10,null,null,and fast approaching him again
+11,null,null,When they reached him the silence became breathless
+12,null,null,menacing
+13,null,null,even sinister .
+421 7
+ (3, 3),
+1,null,null,Naturally of a florid complexion
+2,null,null,the baron 's face now became scarlet
+3,fear,fear,"  So it 's fear of scandal that deters you
+4,null,null,Zounds
+5,null,null,sir
+6,null,null,a man 's courage should equal his vices
+7,null,null,Look at me .  "
+422 7
+ (7, 7),
+1,null,null,This superb outburst of outraged honor
+2,null,null,this marvellous energy  succeeding
+3,null,null,as it did
+4,null,null,the most complete mental prostration and these terrible threats
+5,null,null,had proved so prompt and awe-inspiring that no one had thought of cutting off Pascal 's retreat
+6,null,null,The guests had not recovered from their stupor
+7,fear,fear,but were still standing silent and intimidated when they heard the outer door close after him .
+424 15
+ (1, 1),(1, 2),
+1,disgust,disgust,With the impatient gesture of a man who finds himself compelled to answer an idle question
+2,null,disgust,and assuming an air of hypocritical commiseration
+3,null,null,he replied :   "  Well
+4,null,null,since you insist upon it
+5,null,null,I know
+6,null,null,in Paris in the Rue de Helder
+7,null,null,to be more exact a nice young fellow
+8,null,null,whose lot I have often envied
+9,null,null,He has wanted for nothing since the day he came into the world
+10,null,null,At school
+11,null,null,he had three times as much money as his richest play fellow
+12,null,null,When his studies were finished
+13,null,null,a tutor was provided with his pockets full of gold to conduct this favored youth to Italy
+14,null,null,Egypt
+15,null,null,and Greece .
+426 14
+ (5, 5),
+1,null,null,' dear SIR
+2,null,null,' you wrote to your London correspondent ' i send you three thousand francs
+3,null,null,in addition to the five thousand for the regular quarterly payment
+4,null,null,Forward the money without delay
+5,fear,fear,I fear the poor boy is greatly annoyed by his creditors
+6,null,null,Yesterday I had the happiness of seeing him in the Rue de Helder
+7,null,null,and I found him looking pale and careworn
+8,null,null,When you send him this money
+9,null,null,forward at the same time a letter of fatherly advice
+10,null,null,It is true
+11,null,null,he ought to work and win an honorable position for himself
+12,null,null,but think of the dangers and temptation that beset him
+13,null,null,alone and friendless
+14,null,null,in this corrupt city . '
+427 19
+ (3, 3),
+1,null,null,Forward the money without delay
+2,null,null,I fear the poor boy is greatly annoyed by his creditors
+3,happiness,happiness,Yesterday I had the happiness of seeing him in the Rue de Helder
+4,null,null,and I found him looking pale and careworn
+5,null,null,When you send him this money
+6,null,null,forward at the same time a letter of fatherly advice
+7,null,null,It is true
+8,null,null,he ought to work and win an honorable position for himself
+9,null,null,but think of the dangers and temptation that beset him
+10,null,null,alone and friendless
+11,null,null,in this corrupt city
+12,null,null,There
+13,null,null,my dear lady
+14,null,null,your letter ended
+15,null,null,but the name and address were given
+16,null,null,and it was easy enough to understand it
+17,null,null,You remember
+18,null,null,perhaps
+19,null,null,a little incident that occurred after your return .
+431 9
+ (9, 9),
+1,null,null,Clients became so numerous that Pascal found it necessary to draw nearer the business centre
+2,null,null,and his rent was consequently doubled
+3,null,null,but the income he derived from his profession increased so rapidly that he soon had twelve thousand francs safely invested as a resource against any emergency
+4,null,null,Madame Ferailleur now laid aside the mourning she had worn since her husband 's death
+5,null,null,She felt that she owed it to Pascal
+6,null,null,and
+7,null,null,besides
+8,null,null,after believing there was no more happiness left for her on earth
+9,happiness,happiness,her heart rejoiced  at her son 's success .
+434 13
+ (8, 7),
+1,null,null,He had barely strength enough to throw himself on to the bed
+2,null,null,and in a moment he was sleeping with that heavy slumber which so often seizes hold of one on the occasion of a great crisis
+3,null,null,and which has so frequently been observed among persons condemned to death
+4,null,null,on the night preceding their execution
+5,null,null,Four or five times his mother came to listen at the door
+6,null,null,Once she entered
+7,null,happiness,and seeing her son sleeping soundly
+8,happiness,a smile of satisfaction,she could not repress a smile of satisfaction
+9,null,null,"  Poor Pascal
+10,null,null,"   she thought
+11,null,null,"  he can bear no excess but excess of work
+12,null,null,Heavens
+13,null,null,how surprised and mortified he will be when he awakes
+435 13
+ (13, 11),
+1,null,null,He had barely strength enough to throw himself on to the bed
+2,null,null,and in a moment he was sleeping with that heavy slumber which so often seizes hold of one on the occasion of a great crisis
+3,null,null,and which has so frequently been observed among persons condemned to death
+4,null,null,on the night preceding their execution
+5,null,null,Four or five times his mother came to listen at the door
+6,null,null,Once she entered
+7,null,null,and seeing her son sleeping soundly
+8,null,null,she could not repress a smile of satisfaction
+9,null,null,"  Poor Pascal
+10,null,null,"   she thought
+11,null,sadness,"  he can bear no excess but excess of work
+12,null,null,Heavens
+13,sadness,mortified,how surprised and mortified  he will be when he awakes
+436 13
+ (11, 9),
+1,null,null,Contrary to his usual custom
+2,null,null,he took the little staircase on the right
+3,null,null,leading to the grand vestibule
+4,null,null,where several lawyers were assembled
+5,null,null,earnestly engaged in conversation
+6,null,null,They were evidently astonished to see Pascal
+7,null,null,and their conversation abruptly ceased on his approach
+8,null,null,They assumed a grave look and turned away their heads in disgust
+9,null,sadness,The unfortunate man at once realized the truth
+10,null,null,and pressed his hand to his forehead
+11,sadness,despairing,with a despairing gesture
+12,null,null,as he murmured :   "  Already
+13,null,null,already
+437 6
+ (3, 3),
+1,null,null,Pascal read as follows :   "  There was great sensation and a terrible scandal last night at the residence of Madame d' a
+2,null,null,a well-known star of the first magnitude
+3,happiness,happiness,A score of gentlemen of high rank and immense wealth were enjoying a quiet game of baccarat
+4,null,null,when it was observed that M
+5,null,null,F   was winning in a most extraordinary manner
+6,null,null,He was watched and detected in the very act of dexterously slipping some cards into the pack he held .
+442 20
+ (15, 15),
+1,null,null,Pascal was absorbed in thought
+2,null,null,"  And what a strange coincidence
+3,null,null,"   he eventually remarked
+4,null,null,"  Do you know
+5,null,null,the last time I saw Marguerite
+6,null,null,a week ago
+7,null,null,she seemed so sad and anxious that I felt alarmed
+8,null,null,I questioned her
+9,null,null,but at first she would not answer
+10,null,null,After a little while
+11,null,null,however
+12,null,null,as I insisted
+13,null,null,she said :  ' ah
+14,null,null,well
+15,fear,fear,I fear the count is planning a marriage for me
+16,null,null,de Chalusse has not said a word to me on the subject
+17,null,null,but he has recently had several long conferences in private with a young man whose father rendered him a great service in former years
+18,null,null,And this young man
+19,null,null,whenever I meet him
+20,null,null,looks at me in such a peculiar manner
+445 14
+ (7, 4),(7, 5),
+1,null,null,Meanwhile Madame Ferailleur and her son had exchanged significant glances
+2,null,null,Their impressions were the same
+3,null,null,This man could not be an enemy
+4,null,happiness,When the baron had finished his letter
+5,null,happiness,and had read it aloud
+6,null,null,Pascal
+7,happiness,deeply moved,who was deeply moved
+8,null,null,exclaimed :   "  I do not know how to express my gratitude to you
+9,null,null,monsieur
+10,null,null,but if you really wish to serve me
+11,null,null,pray dont send that note
+12,null,null,It would cause you a great deal of trouble and annoyance
+13,null,null,and I should none the less be obliged to relinquish the practice of my profession besides
+14,null,null,I am especially anxious to be forgotten for a time .  "
+446 14
+ (12, 11),
+1,null,null,Meanwhile Madame Ferailleur and her son had exchanged significant glances
+2,null,null,Their impressions were the same
+3,null,null,This man could not be an enemy
+4,null,null,When the baron had finished his letter
+5,null,null,and had read it aloud
+6,null,null,Pascal
+7,null,null,who was deeply moved
+8,null,null,exclaimed :   "  I do not know how to express my gratitude to you
+9,null,null,monsieur
+10,null,null,but if you really wish to serve me
+11,null,fear,pray dont send that note
+12,fear,annoyance,It would cause you a great deal of trouble and annoyance
+13,null,null,and I should none the less be obliged to relinquish the practice of my profession besides
+14,null,null,I am especially anxious to be forgotten for a time .  "
+450 22
+ (9, 4),
+1,null,null,That was
+2,null,null,indeed
+3,null,null,what he desired
+4,null,happiness,With the hand that was comparatively free
+5,null,null,with the hoarse rattle that was his only voice
+6,null,null,de Chalusse answered
+7,null,null,"  Yes
+8,null,null,yes
+9,happiness,with an expression of joy and gratitude,"   and his eyes even turned to Madame Leon with an expression of joy and gratitude
+10,null,null,They raised him on his pillows
+11,null,null,and brought him a small writing - desk
+12,null,null,with some paper
+13,null,null,and a pen that had been dipped in ink
+14,null,null,But like those around him
+15,null,null,he had himself over estimated his strength
+16,null,null,if he could move his hand
+17,null,null,he could not CONTROL its movements
+18,null,null,After a terrible effort and intense suffering
+19,null,null,however
+20,null,null,he succeeded in tracing a few words
+21,null,null,the meaning of which it was impossible to understand
+22,null,null,It was only with the greatest difficulty that these words could be deciphered  "  My entire fortune give friends against   "   This signified nothing .
+451 6
+ (6, 6),
+1,null,null,"  My God
+2,null,null,"   exclaimed Mademoiselle Marguerite
+3,null,null,with a gesture of despair
+4,null,null,"  what have I done
+5,null,null,I have broken the key
+6,fear,fear,I feared the responsibility which would fall upon us all .  "
+455 19
+ (8, 7),
+1,null,null,Indeed
+2,null,null,he was persuaded he was sure he would
+3,null,null,in fact
+4,null,null,have sworn that the Count de Chalusse had taken all the precautions natural in childless men
+5,null,null,who have no near relatives to inherit their fortune
+6,null,null,or who have placed their interest and affections beyond their family circle
+7,null,anger,And when he was obliged to abandon his search
+8,anger,anger,his gesture indicated anger rather than discouragement
+9,null,null,for apparent evidence had not shaken his conviction in the least
+10,null,null,So he stood motionless
+11,null,null,with his eyes riveted on his ring
+12,null,null,as if waiting some miraculous inspiration from it
+13,null,null,"  For the count 's only fault
+14,null,null,I am sure
+15,null,null,was in being too cautious
+16,null,null,"   he muttered
+17,null,null,"  This is frequently the case
+18,null,null,and it would be quite in keeping with the character of this man
+19,null,null,judging from what I know of him .  "
+463 17
+ (6, 4),
+1,null,null,What a change indeed
+2,null,null,At last the count made me retire to one of the compartments
+3,null,null,where I soon fell asleep
+4,null,fear,abandoning my efforts to distinguish what was dreamlike in my situation from reality
+5,null,null,However
+6,fear,terribly anxious,when I woke up I became terribly anxious
+7,null,null,I asked myself what was awaiting me at the end of this long journey
+8,null,null,de Chalusse 's manner continued kind
+9,null,null,and even affectionate
+10,null,null,but he had regained his accustomed reserve and self-control
+11,null,null,and I realized that it would be useless on my part to question him
+12,null,null,At last
+13,null,null,after a thirty hours ' journey by rail
+14,null,null,we again entered the count 's berline
+15,null,null,drawn by post horses
+16,null,null,and eventually M
+17,null,null,de Chalusse said to me :  ' here is Cannes we are at our journey 's end . '
+464 27
+ (12, 9),
+1,null,null,He told me that he proposed spending a few months here in seclusion
+2,null,null,so as to give me time to accustom myself to my new position and the luxury that surrounded me
+3,null,null,I was
+4,null,null,indeed
+5,null,null,extremely awkward
+6,null,null,and my excessive timidity was increased by my pride
+7,null,null,I did not know what to say
+8,null,null,or what to do
+9,null,sadness,I did not know how to use my hands
+10,null,null,nor how to walk
+11,null,null,nor how to carry myself
+12,sadness,embarrassed,Everything embarrassed and frightened me
+13,null,null,and I was conscious of my awkwardness
+14,null,null,without being able to remedy it
+15,null,null,I saw my blunders
+16,null,null,and knew that I spoke a different language to that which was spoken around me
+17,null,null,And yet the memory of Cannes will ever be dear to me
+18,null,null,For there I first met the only friend I have now left in this world
+19,null,null,I did not exchange a word with him
+20,null,null,but by the quickened throbbing s of my heart
+21,null,null,when our eyes met
+22,null,null,I felt that he would exert a powerful influence over my life
+23,null,null,and events have since proved that I was not deceived
+24,null,null,At that time
+25,null,null,however
+26,null,null,he was a stranger to me
+27,null,null,and nothing on earth would have induced me to make inquiries concerning him .
+465 22
+ (11, 8),
+1,null,null,"  By a single word the count could have insured the happiness of my life and his own
+2,null,null,but he did not speak it
+3,null,null,He was the kindest and most indulgent of guardians
+4,null,null,and I was often affected to tears by his tenderness
+5,null,null,But
+6,null,null,although my slightest wish was law
+7,null,null,he did not grant me his confidence
+8,null,disgust,the mystery that stood between us was like a wall of ice  Still
+9,null,null,I was gradually becoming accustomed to my new life
+10,null,null,and my mind was regaining its equilibrium
+11,disgust,more agitated and excited,when one evening the count returned home more agitated and excited
+12,null,null,if possible
+13,null,null,than on the day of my departure from the asylum
+14,null,null,He summoned his valet
+15,null,null,and
+16,null,null,in a tone that admitted no reply
+17,null,null,he exclaimed
+18,null,null,' i wish to leave Cannes at once  I must start in less than an hour so procure some post horses instantly
+19,null,null,And in answer to my inquiring glance
+20,null,null,he said :  ' it must be
+21,null,null,It would be folly to hesitate
+22,null,null,Each moment increases the peril that threatens us . '
+466 18
+ (7, 7),
+1,null,null,What mysterious freak of fate had caused him to pause there at that particular moment
+2,null,null,This much is certain
+3,null,null,he recognized me as I had recognized him
+4,null,null,He bowed
+5,null,null,smiling somewhat
+6,null,null,and I fled indoors again
+7,anger,anger,indignant with myself for not being angry at his audacity
+8,null,null,I made many plans that day
+9,null,null,but the next morning
+10,null,null,at the same hour
+11,null,null,I hid myself behind a Venetian blind
+12,null,null,and saw him pause at the gate
+13,null,null,and gaze at the garden with evident anxiety
+14,null,null,I soon learned that he lived near by
+15,null,null,with his widowed mother
+16,null,null,and twice a day
+17,null,null,when he went to the Palais de Justice and returned
+18,null,null,he passed my home .  "
+467 11
+ (5, 5),
+1,null,null,When that day comes I will go to your guardian and ask him for your hand
+2,null,null,but in Heaven 's name dont speak now
+3,null,null,I understood Pascal 's motives well enough
+4,null,null,The count 's immense fortune frightened him
+5,fear,fear,and he feared that he would be accused of being a fortune hunter
+6,null,null,So I waited
+7,null,null,with that secret anguish which still haunts those who have been unhappy even when their present is peaceful
+8,null,null,and their future seems bright
+9,null,null,I kept my secret
+10,null,null,saying to myself that such happiness was not meant for me
+11,null,null,that it would soon take flight .
+469 21
+ (11, 11),
+1,null,null,A few moments ' conversation now and then
+2,null,null,the exchange of a few letters
+3,null,null,the pressure of a hand through the garden gate
+4,null,null,and that is all
+5,null,null,Still
+6,null,null,I have been guilty of a grave and irreparable fault :  I have disobeyed the one rule of my life frankness
+7,null,null,and I am cruelly punished for doing so
+8,null,null,I did not tell all this to M
+9,null,null,de Chalusse in fact
+10,null,null,I dared not
+11,sadness,sadness,I was ashamed of my cowardice
+12,null,null,from day to day I vowed that I would confess everything
+13,null,null,and yet I procrastinated
+14,null,null,I said to myself every night
+15,null,null,' it shall be done to-morrow
+16,null,null,but when the morrow came I said
+17,null,null,' i will give myself another day just one more day
+18,null,null,Indeed
+19,null,null,my courage failed me when I thought of the count 's aristocratic prejudices
+20,null,null,and besides
+21,null,null,I knew how ambitious he was for my future .
+470 11
+ (4, 4),
+1,null,null,When that day comes I will go to your guardian and ask him for your hand
+2,null,null,but in Heaven 's name dont speak now
+3,null,null,I understood Pascal 's motives well enough
+4,surprise,surprise,The count 's immense fortune frightened him
+5,null,null,and he feared that he would be accused of being a fortune hunter
+6,null,null,So I waited
+7,null,null,with that secret anguish which still haunts those who have been unhappy even when their present is peaceful
+8,null,null,and their future seems bright
+9,null,null,I kept my secret
+10,null,null,saying to myself that such happiness was not meant for me
+11,null,null,that it would soon take flight .
+471 7
+ (5, 5),
+1,null,null,I did not wish to bind him by the advice which he would certainly have given me
+2,null,null,I had his troth
+3,null,null,and that sufficed
+4,null,null,And it was with a thrill of joy that I said to myself :  ' what does it matter if M
+5,anger,anger,de Chalusse should be so angered by my refusal to obey him as to drive me from his house
+6,null,null,It will rather be so much the better
+7,null,null,Pascal will protect me . '
+476 7
+ (3, 4),(3, 7),
+1,null,null,Mademoiselle Marguerite 's weakness vanished
+2,null,null,She sprang from her chair
+3,anger,indignantly,and indignantly faced the magistrate
+4,null,anger,"  It is false
+5,null,null,"   she cried
+6,null,null,vehemently
+7,null,anger,"  and what that paper says is false as well
+477 11
+ (5, 5),
+1,null,null,and her faith imparted an almost sublime expression to her face
+2,null,null,"  If I was overcome
+3,null,null,monsieur
+4,null,null,"   she continued
+5,surprise,surprise,"  it was only because I was appalled by the audacity of the accusation
+6,null,null,How was it possible to make Pascal even SEEM to be guilty of a dishonorable act
+7,null,null,This is beyond my powers of comprehension
+8,null,null,I am only certain of one thing that he is innocent
+9,null,null,If the whole world rose to testify against him
+10,null,null,it would not shake my faith in him
+11,null,null,and even if he confessed that he was guilty I should be more likely to believe that he was crazed than culpable
+478 14
+ (5, 4),
+1,null,null,She spoke these words with a sort of satisfaction
+2,null,null,expecting that the marquis would betray his disappointed covetousness by some significant gesture or exclamation
+3,null,null,and she was already prepared to rejoice at his confusion
+4,null,sadness,But her expectations were not realized
+5,sadness,slightest dismay or even regret,Instead of evincing the slightest dismay or even regret
+6,null,null,de Valorsay drew a long breath
+7,null,null,as if a great burden had been lifted from his heart
+8,null,null,and his eyes sparkled with apparent delight
+9,null,null,"  Then I may venture to speak
+10,null,null,"   he exclaimed
+11,null,null,with unconcealed satisfaction
+12,null,null,"  I will speak
+13,null,null,mademoiselle
+14,null,null,if you will deign to allow me .  "
+480 5
+ (1, 5),
+1,sadness,sadly,Mademoiselle Marguerite sadly shook her head
+2,null,null,"  You are mistaken
+3,null,null,General
+4,null,null,the count left no will
+5,null,sadness,and has made no provision whatever for me .  "
+483 13
+ (2, 2),
+1,null,null,So saying he closed the door again
+2,sadness,sadness,and Marguerite was so overwhelmed by this last and unexpected misfortune
+3,null,null,that she could hardly stagger back to the vehicle
+4,null,null,"  Gone
+5,null,null,"   she murmured
+6,null,null,"  gone
+7,null,null,without a thought of me
+8,null,null,Or does he believe me to be like all the rest
+9,null,null,But I will find him again
+10,null,null,That man Fortunat
+11,null,null,who ascertained addresses for M
+12,null,null,de Chalusse
+13,null,null,will find Pascal for me .  "
+484 4
+ (1, 1),
+1,sadness,sadness,Fortunat took compassion on the man 's embarrassment
+2,null,null,"  In short
+3,null,null,"   he interrupted
+4,null,null,"  you wish to conceal a part of your capital from your creditors
+485 19
+ (13, 13),
+1,null,null,"  Yes
+2,null,null,indeed
+3,null,null,m ' sieur
+4,null,null,And why not
+5,null,null,My poor
+6,null,null,good mother has n't been able to work for a year
+7,null,null,and who would care for her if I didnt
+8,null,null,Certainly not my father
+9,null,null,the good-for-nothing scamp
+10,null,null,who squandered all the Duke de Sairmeuse 's money without giving us a sou of it
+11,null,null,Besides
+12,null,null,im like other men
+13,fear,fear,im anxious to be rich
+14,null,null,and enjoy myself
+15,null,null,I should like to ride in my carriage like other people do
+16,null,null,And whenever a gamin
+17,null,null,such as I was once
+18,null,null,opened the door for ME
+19,null,null,I should put a five franc piece in his hand   "
+487 19
+ (4, 4),
+1,null,null,But M
+2,null,null,Fortunat had resolved to listen to nothing
+3,null,null,He wished for no explanations
+4,fear,fear,so distrustful was he of himself so much did he fear that his adventurous nature would urge him to incur further risk
+5,null,null,He was positively afraid of the Marquis de Valorsay 's eloquence
+6,null,null,besides
+7,null,null,he knew well enough that the person who consents to listen is at least half convinced
+8,null,null,"  Tell me nothing
+9,null,null,monsieur
+10,null,null,"   he hastily answered
+11,null,null,"  it would be useless
+12,null,null,I have n't the money
+13,null,null,If I had given you ten thousand francs last night
+14,null,null,I should have been compelled to borrow them of M
+15,null,null,Prosper Bertomy
+16,null,null,And even if I had the money
+17,null,null,I should still say ' Impossible
+18,null,null,Every man has his system his theory
+19,null,null,you know .
+488 8
+ (2, 2),
+1,null,null,Victory perched upon the agent 's banner
+2,happiness,happiness,and it was with a feeling of pride that he saw his noble client depart
+3,null,null,white and speechless with rage
+4,null,null,"  What a rascal that marquis is
+5,null,null,"   he muttered
+6,null,null,"  I would certainly warn Mademoiselle Marguerite
+7,null,null,poor girl
+8,null,null,if I were not so much afraid of him .  "
+489 9
+ (5, 5),
+1,null,null,As he received high wages
+2,null,null,he served passably well
+3,null,null,but he employed the best part of his energy in watching the count
+4,null,null,He scented some great family secret in the household
+5,anger,anger,and he felt angry and humiliated that this secret had not been entrusted to his discretion
+6,null,null,And if he had discovered nothing
+7,null,null,it was because M
+8,null,null,de Chalusse had been caution personified
+9,null,null,as Madame Leon had declared .
+490 18
+ (8, 9),
+1,null,null,With total disregard of prudence
+2,null,null,he talked with inexcusable freedom of the Count de Chalusse
+3,null,null,and M
+4,null,null,de Valorsay
+5,null,null,and especially of his enemy
+6,null,null,Mademoiselle Marguerite
+7,null,null,"  For it is she
+8,anger,exclaimed,"   he exclaimed
+9,null,anger,rapping on the table with his knife  "  it is she who has taken the missing millions
+10,null,null,How she did it
+11,null,null,no one will ever know
+12,null,null,for she has not an equal in craftiness
+13,null,null,but it 's she who has stolen them
+14,null,null,im sure of it
+15,null,null,I would have taken my oath to that effect before the magistrate
+16,null,null,and I would have proved it
+17,null,null,too
+18,null,null,if he had not taken her part because she 's pretty for she is devilishly pretty .  "
+491 23
+ (20, 20),
+1,null,null,Once more the valet paused in his perusal of the letter to remark :   "  There it is again sufficient to live upon
+2,null,null,and I expect to receive it from you
+3,null,null,Excellent
+4,null,null,Women are remarkable creatures
+5,null,null,upon my word
+6,null,null,But listen to the rest
+7,null,null,' it is absolutely necessary that I should see you as soon as possible
+8,null,null,Oblige me
+9,null,null,therefore
+10,null,null,by calling to-morrow
+11,null,null,October 15th
+12,null,null,at the Hotel de Homburg
+13,null,null,in the Rue du Helder
+14,null,null,You will ask for Madame Lucy Huntley
+15,null,null,and they will conduct you to me
+16,null,null,I shall expect you from three o'clock to six
+17,null,null,Come
+18,null,null,I implore you
+19,null,null,come
+20,sadness,sadness,It is painful to me to add that if I do not hear from you
+21,null,null,I am resolved to demand and OBTAIN no matter what may be the consequences the means which I have
+22,null,null,so far
+23,null,null,asked of you on my bended knees and with clasped hands
+492 22
+ (11, 11),
+1,null,null,Having finished the letter
+2,null,null,Casimir laid it on the table
+3,null,null,and poured out a glass full of brandy
+4,null,null,which he drained at a single draught
+5,null,null,"  And that 's all
+6,null,null,"   he remarked
+7,null,null,"  No signature not even an initial
+8,null,null,It was a so-called respectable woman who wrote that
+9,null,null,They never sign their notes
+10,null,null,the hussies
+11,fear,fear,for fear of compromising themselves
+12,null,null,as i 've reason to know
+13,null,null,And so saying
+14,null,null,he laughed the idiotic laugh of a man who has been drinking immoderate ly
+15,null,null,"  If I had time
+16,null,null,"   he resumed
+17,null,null,"  I should make some inquiries about this Madame Lucy Huntley a feigned name
+18,null,null,evidently
+19,null,null,I should like to know   But what 's the matter with you
+20,null,null,Monsieur Fortunat
+21,null,null,You are as pale as death
+22,null,null,Are you ill
+493 14
+ (3, 3),(3, 4),
+1,null,null,Fortunat sprang nimbly on to the pavement
+2,null,null,and handed five francs to the coachman
+3,disgust,disgust,who went off growling and swearing for he thought the reward a contemptible small one
+4,null,disgust,coming as it did from a man whose life had been saved
+5,null,null,according to his own confession
+6,null,null,However
+7,null,null,the person the Jehu anathematized certainly did not hear him
+8,null,null,Standing motionless where he had alighted
+9,null,null,Fortunat scrutinized the house in front of him with close attention
+10,null,null,"  So she lives here
+11,null,null,"   he muttered
+12,null,null,"  This is the place
+13,null,null,but I cant present myself without knowing her name
+14,null,null,I must make some inquiries .  "
+494 9
+ (2, 3),
+1,null,null,It is needless to say that M
+2,sadness,moved with sympathy,Fortunat was moved with sympathy
+3,null,sadness,he always evinced a respectful sympathy for the woes of others
+4,null,null,but in the present instance
+5,null,null,his emotion was greatly mitigated by the satisfaction he felt at having succeeded so quickly and so completely
+6,null,null,Madame d' argeles had confessed everything
+7,null,null,This was indeed a victory
+8,null,null,for it must be admitted that he had trembled lest she should deny all
+9,null,null,and bid him leave the house .
+495 4
+ (2, 2),
+1,null,null,Fortunat did not know what to reply
+2,surprise,surprise,The question took him completely by surprise
+3,null,null,and feeling that his answer would have a very considerable influence upon what might follow
+4,null,null,he hesitated .
+496 17
+ (7, 7),
+1,null,null,The dismissal was so imperious that M
+2,null,null,Fortunat bowed and went off
+3,null,null,completely bewildered by this denouement
+4,null,null,"  She 's crazy
+5,null,null,"   he said to himself
+6,null,null,"  Crazy in the fullest sense of the word
+7,fear,fear,She refuses the count 's millions from a silly fear of telling people that she belongs to the Chalusse family
+8,null,null,She threatened her brother
+9,null,null,but she would never have carried her threats into execution
+10,null,null,And she prefers her present position to such a fortune
+11,null,null,What lunacy
+12,null,null,"   But
+13,null,null,although he was disappointed and angry
+14,null,null,he did not by any means despair
+15,null,null,"  Fortunately for me
+16,null,null,"   he thought
+17,null,null,"  this proud and haughty lady has a son somewhere in the world .
+708 10
+ (6, 3),
+1,null,null,Marguerite at once understood that as Madame Leon knew that the marquis was among the funeral guests
+2,null,null,she had gone to warn him of Madame de Fondege 's presence
+3,null,disgust,This trivial circumstance proved that Mde Fondege 's interests were opposed to those of Mde Valorsay
+4,null,null,that they must
+5,null,null,therefore
+6,disgust,hate,hate each other
+7,null,null,and that
+8,null,null,with a little patience and skill
+9,null,null,she might utilize them
+10,null,null,one against the other .
+709 6
+ (4, 4),
+1,null,null,He sprang out
+2,null,null,assisted his employer into the cab
+3,null,null,and bade the driver return to the Place de la Bourse
+4,sadness,sadness,It was really pitiful to see the despair which had succeeded Fortunat 's joyful confidence
+5,null,null,"  This is the end of everything
+6,null,null,"   he groaned .
+710 9
+ (3, 3),
+1,null,null,Fortunat left the restaurant
+2,null,null,almost on the run
+3,fear,fear,for he feared that he might be pursued and overtaken by MCasimir
+4,null,null,But after he had gone a couple of hundred paces
+5,null,null,he paused
+6,null,null,not so much to take breath
+7,null,null,as to collect his scattered wits
+8,null,null,and though the weather was cold
+9,null,null,he seated himself on a bench to reflect .
+781 10
+ (7, 7),
+1,null,null,His wife threw up her hands in despair "  But
+2,null,null,my dear
+3,null,null,"   said FL
+4,null,null,"  he 's a scholar who has fallen on evil days
+5,null,null,"  Ah
+6,null,null,"   she answered
+7,fear,fear,"  I fear it will be an evil day for us when you took him home
+8,null,null,"   She had a good chance to say
+9,null,null,"  I told you so
+10,null,null,"   when the rogue eloped with the best of their silver . Not only is FL
+852 10
+ (4, 8),
+1,null,null,Fortunat made no reply
+2,null,null,de Valorsay 's gayety
+3,null,null,instead of cheering
+4,sadness,saddened,saddened him
+5,null,null,"  Ah
+6,null,null,my fine fellow
+7,null,null,"   he thought
+8,null,sadness,"  you would sing a different song if you knew that by this time M de Chalusse is probably dead
+9,null,null,and that most likely Mademoiselle Marguerite has only her beautiful eyes left her
+10,null,null,and will dim them in weeping for her vanished millions .  "
+853 5
+ (5, 1),
+1,null,fear,M Fortunat 's gaze was so intent that it became unbearable
+2,null,null,"  You see
+3,null,null,then
+4,null,null,"   he began
+5,fear,fear,"  that I had good cause to fear  "
+854 5
+ (2, 2),
+1,null,null,Possibly it was because she did not know where Pascal was going
+2,fear,fear,Possibly M de Coralth was the cause of her strange disquiet ude
+3,null,null,for she utterly disliked the viscount
+4,null,null,Her woman 's instinct warned her that there was something unwholesome about this young man 's peculiar handsomeness
+5,null,null,and that it was not safe to trust to his professions of friendship .
+855 10
+ (1, 1),
+1,fear,fear,"  I was stupefied and alarmed by the sudden terror which M de Chalusse had displayed and could not control
+2,null,null,What could it all mean
+3,null,null,What sorrowful recollections
+4,null,null,what mysterious apprehensions
+5,null,null,had my words aroused in the count 's mind
+6,null,null,I could not understand or imagine why he should regard my question as strange or unnatural
+7,null,null,On the contrary
+8,null,null,I thought it perfectly natural
+9,null,null,dictated as it had been by circumstances
+10,null,null,and by the count 's own words and manner .
+856 9
+ (3, 3),
+1,null,null,Fortunat left the restaurant
+2,null,null,almost on the run
+3,fear,fear,for he feared that he might be pursued and overtaken by M Casimir
+4,null,null,But after he had gone a couple of hundred paces
+5,null,null,he paused
+6,null,null,not so much to take breath
+7,null,null,as to collect his scattered wits
+8,null,null,and though the weather was cold
+9,null,null,he seated himself on a bench to reflect .
+2211 8
+ (7, 2),(7, 6),
+1,null,null,Contemplating this request
+2,null,sadness,Monsieur l' abbaye shook his head
+3,null,null,"  im ready to retire
+4,null,null,so im not available for hire
+5,null,null,im sorry
+6,null,sadness,I simply cant paint your portrait
+7,sadness,disappointment,But seeing the disappointment in Senior Bartoli 's eyes
+8,null,null,he continued .
+2268 6
+ (5, 1),
+1,null,fear,Maxime Hamou pulled Eurosport journalist Maly Thomas close to him and kissed her repeatedly while holding her around her neck and shoulders Monday
+2,null,null,Tuesday
+3,null,null,the FTT revoked Hamou 's accreditation for the prestigious French Open
+4,null,null,while the organization 's President Bernard Giudicelli has asked the disputes committee to investigate for improper conduct
+5,fear,felt hurt,want to offer my deepest apologies to Maly Thomas if she felt hurt or shocked by my attitude during her interview
+6,null,null,"   Hamou wrote on his Instagram account .
+2269 6
+ (5, 1),
+1,null,surprise,Maxime Hamou pulled Eurosport journalist Maly Thomas close to him and kissed her repeatedly while holding her around her neck and shoulders Monday
+2,null,null,Tuesday
+3,null,null,the FTT revoked Hamou 's accreditation for the prestigious French Open
+4,null,null,while the organization 's President Bernard Giudicelli has asked the disputes committee to investigate for improper conduct
+5,surprise,shocked by,want to offer my deepest apologies to Maly Thomas if she felt hurt or shocked by my attitude during her interview
+6,null,null,"   Hamou wrote on his Instagram account .
+2562 1
+ (1, 1),
+1,happiness,happiness,Loiseau , leaving his place , went to speak with the innkeeper in a low tone of voice  .  The great man laughed , shook , and squeaked , his corpulence quivered with joy at the jokes of his neighbor , and he bought of him six cases of wine for spring , after the Prussians had gone  .
+2564 1
+ (1, 1),
+1,anger,anger,Cornudet , indignant at the cordial relations between the conquerors , and the conquered , preferred to shut himself up in the inn  .  Loiseau had a joke for the occasion  :   " They will repeople the land  .   "

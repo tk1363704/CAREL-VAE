@@ -1,0 +1,969 @@
+161 5
+ (3, 3),
+1,null,null,The flatterers said
+2,null,null,"  It is as clear as possible
+3,happiness,happiness,God gave the thunderbolt to Dagaro as a sign he was pleased with him and his rule
+4,null,null,but when he found two brothers contending
+5,null,null,he withdrew it to show their conduct was wicked .  "
+194 8
+ (5, 6),
+1,null,null,So the four sang
+2,null,null,each in turn
+3,null,null,and died in the sight of some who pitied
+4,null,null,and some who feared
+5,anger,hated,and some who hated
+6,null,anger,for the sake of land and women
+7,null,null,So the four went beyond the power of gold and gewgaw
+8,null,null,and were dragged in the mire around the walls and flung into the yellow waters of the river .
+222 8
+ (4, 4),
+1,null,null,To see the strange places of the world
+2,null,null,and the stranger people
+3,null,null,to become a man of wealth and influence such as Monsieur Vigo
+4,fear,fear,and ( I fear I loved it best ) to match my brains with others at a bargain
+5,null,null,I turned it all over slowly
+6,null,null,gravely
+7,null,null,in my boyish mind
+8,null,null,rubbing the hard dirt on the floor with the toe of my moccasin .
+238 10
+ (3, 9),
+1,null,null,Fortunat 's address must be there
+2,null,null,so she asked and obtained permission to examine this notebook
+3,happiness,to her great joy,and to her great joy
+4,null,null,under the letter  "  F
+5,null,null,"   she found the entry :   "  Fortunat ( Isidore )
+6,null,null,No
+7,null,null,28 Place de la Bourse
+8,null,null,"  Ah
+9,null,happiness,im sure that I shall find Pascal now
+10,null,null,"   she exclaimed .
+240 4
+ (1, 1),
+1,fear,fear,It was easy to see by Madame de Fondege 's earnestness that she feared Mademoiselle Marguerite would avail herself of this opportunity of recovering her liberty
+2,null,null,"  What shall I do
+3,null,null,then
+4,null,null,"   asked the girl .
+247 6
+ (3, 3),
+1,null,null,He was in all the greater haste as it was Sunday
+2,null,null,Fortunat was in the habit of passing these days in the country
+3,fear,fear,and Chupin feared he might fail to see him if he was not expeditious in his movements
+4,null,null,And while running to the Place de la Bourse
+5,null,null,he carefully prepared the story he meant to relate
+6,null,null,deeply impressed by the wisdom of the popular maxim which says :   "  It is not always well to tell the whole truth .  "
+250 3
+ (2, 2),
+1,null,null,What if he knew that there 's a fortune waiting for a claimant
+2,surprise,surprise,I should n't at all be surprised if I found that he wanted to cook his bread in our oven
+3,null,null,But father Fortunat would n't be pleased with the news .
+255 6
+ (2, 2),
+1,null,null,Having come with the intention of offering his agent a handsome sum
+2,surprise,surprise,he was agreeably surprised to find that Chupin 's scruples would enable him to save his money
+3,null,null,"  If I had not found you engaged in study
+4,null,null,Victor
+5,null,null,"   he said
+6,null,null,"  I should have thought you had been drinking .
+256 6
+ (2, 3),
+1,null,null,Fortunat was amazed
+2,anger,annoyed,and at the same time much annoyed
+3,null,anger,to find himself forsaken on account of such a trifle
+4,null,null,He feared
+5,null,null,too
+6,null,null,that Chupin might let his tongue wag if he left his employment .
+257 9
+ (4, 6),
+1,null,null,Fortunat was amazed
+2,null,null,and at the same time much annoyed
+3,null,null,to find himself forsaken on account of such a trifle
+4,fear,feared,He feared
+5,null,null,too
+6,null,fear,that Chupin might let his tongue wag if he left his employment
+7,null,null,So
+8,null,null,since he had confided this project to Chupin
+9,null,null,he was determined that Chupin alone should carry it into execution .
+258 6
+ (4, 4),
+1,null,null,If any one heard them
+2,null,null,no one came
+3,null,null,still they recalled Pascal to a sense of the situation
+4,sadness,sadness,and he was ashamed of his violence
+5,null,null,He released Madame Leon
+6,null,null,and his manner suddenly became as humble as it had been threatening .
+265 4
+ (2, 2),
+1,null,null,"  Crazy in the fullest sense of the word
+2,fear,fear,She refuses the count 's millions from a silly fear of telling people that she belongs to the Chalusse family
+3,null,null,She threatened her brother
+4,null,null,but she would never have carried her threats into execution .
+267 6
+ (6, 6),
+1,null,null,There was but one certain and positive thing
+2,null,null,and this was that the money he had counted upon had escaped him
+3,null,null,and he experienced as acute a pang as if he had lost forty thousand francs a second time
+4,null,null,Perhaps
+5,null,null,at that moment
+6,sadness,sadness,he was sorry that he had severed his connection with the marquis .
+312 7
+ (2, 3),
+1,null,null,Monsieur
+2,happiness,happy,you make my daughter very happy
+3,null,happiness,She want those bird ever sence Captain Lopez he die
+4,null,null,Monsieur
+5,null,null,I am Jean Baptiste Lenoir
+6,null,null,Colonel Chouteau 's miller
+7,null,null,and we very happy to see you at the pon'
+318 9
+ (7, 7),
+1,null,null,Like a dutiful son
+2,null,null,'' said Monsieur de St
+3,null,null,Gre
+4,null,null,you heard I was in town
+5,null,null,and called to pay your respects
+6,null,null,I am sure
+7,happiness,happiness,I am delighted to find you
+8,null,null,In fact
+9,null,null,I came to town for that purpose
+389 10
+ (4, 4),
+1,null,null,Their faces were pale and sad
+2,null,null,and there were tears in the eyes of some of them
+3,null,null,What was passing in their minds
+4,fear,fear,Perhaps they were overcome by that unconquerable fear which sudden and unexpected death always provokes
+5,null,null,Perhaps they unconsciously loved this master
+6,null,null,whose bread they ate
+7,null,null,Perhaps their grief was only selfishness
+8,null,null,and they were merely wondering what would become of them
+9,null,null,where they should find another situation
+10,null,null,and if it would prove a good one .
+393 11
+ (6, 7),
+1,null,null,but I was wrong
+2,null,null,for in the afternoon he sent a message
+3,null,null,through Madame Leon
+4,null,null,requesting me to join him in the garden
+5,null,null,I hastened there
+6,surprise,surprised,very much surprised
+7,null,surprise,for the weather was extremely disagreeable
+8,null,null,' dear Marguerite
+9,null,null,' he said
+10,null,null,on seeing me
+11,null,null,' help me to find the fragments of that letter which I flung from the window this morning .
+394 5
+ (4, 5),
+1,null,null,"  I was much grieved at the count 's disappointment
+2,null,null,"   continued Mademoiselle Marguerite
+3,null,null,"  but suddenly he exclaimed
+4,happiness,joyfully :,joyfully :  ' that address why
+5,null,happiness,such a person will give it to me what a fool I am
+399 7
+ (3, 3),
+1,null,null,As a rule
+2,null,null,Chupin was not easily impressed
+3,fear,fear,but he felt almost frightened by his employer 's agitation
+4,null,null,"  I only repeated what M
+5,null,null,Casimir told me
+6,null,null,monsieur
+7,null,null,"   was his reply .
+403 11
+ (7, 10),
+1,null,null,Fortunat 's countenance wore an expression of profound commiseration
+2,null,null,A looker on would have supposed him interested and sympathetic to the last degree
+3,null,null,but in reality
+4,null,null,he was furious
+5,null,null,Time was passing
+6,null,null,and the conversation was wandering farther and farther from the object of his visit
+7,surprise,surprised,"  I am surprised
+8,null,null,madame
+9,null,null,"   said he
+10,null,surprise,"  that you never applied to your former employer
+11,null,null,the Count de Chalusse .  "
+404 10
+ (5, 5),
+1,null,null,Isidore Fortunat was literally upon the rack
+2,null,null,and to make his sufferings still more horrible
+3,null,null,he dared not ask any direct question
+4,null,null,nor allow his curiosity to become manifest
+5,fear,fear,for fear of alarming the woman
+6,null,null,"  Let me see
+7,null,null,"   said he
+8,null,null,"  I think I am sure that I have heard or that I have read I cannot say which some story about a Mademoiselle de Chalusse
+9,null,null,It was something terrible
+10,null,null,wasnt it
+407 13
+ (7, 7),
+1,null,null,It was the old
+2,null,null,sad story of a ruined girl paying for a moment 's madness with her happiness and all her after life
+3,null,null,A terrible drama
+4,null,null,no doubt
+5,null,null,but one that is of such frequent occurrence that it seems as commonplace as life itself
+6,null,null,Thus any one who was acquainted with M
+7,surprise,surprise,Isidore Fortunat would have been surprised to see how greatly he was moved by such a trifle
+8,null,null,"  Poor girl
+9,null,null,"   said he
+10,null,null,in view of saying something
+11,null,null,And then
+12,null,null,in a tone of assumed carelessness
+13,null,null,he inquired :    "  Did they never discover what scoundrel carried Mademoiselle de Chalusse away
+408 16
+ (11, 11),
+1,null,null,You could not say that M
+2,null,null,Fortunat was angry
+3,null,null,Such a man
+4,null,null,as cold and as smooth as a hundred franc piece
+5,null,null,has no useless passions
+6,null,null,But he was intensely irritated to hear his client foolishly chanting the paeons of victory
+7,null,null,while he was compelled to conceal his grief at the loss of his forty thousand francs
+8,null,null,deep in the recesses of his heart
+9,null,null,So
+10,null,null,far from being touched by the marquis 's evident alarm
+11,happiness,happiness,it pleased him to be able to turn the dagger in the wound he had just inflicted
+12,null,null,"  You must excuse my incredulity
+13,null,null,"   said he
+14,null,null,"  It comes entirely from something you
+15,null,null,yourself
+16,null,null,told me about a week ago .  "
+409 12
+ (3, 2),
+1,null,null,de Valorsay paced the floor in a state of intense agitation
+2,null,fear,Had he caught a glimpse of his own face in the looking-glass
+3,fear,frightened,it would have frightened him
+4,null,null,"  A gentleman
+5,null,null,"   he repeated
+6,null,null,in a tone of suppressed rage
+7,null,null,"  a gentleman
+8,null,null,That word is in everybody 's mouth
+9,null,null,nowadays
+10,null,null,Pray
+11,null,null,what do you understand by a gentleman
+12,null,null,Mons .
+410 9
+ (5, 5),
+1,null,null,Fortunat would certainly have preferred to lose a good pound of flesh rather than the sum of money mentioned
+2,null,null,but
+3,null,null,on the other hand
+4,null,null,he felt that it would not do for him to sever his connection with his client until the death of the Count de Chalusse was certain
+5,fear,fear,and being anxious to save his money and to keep his client
+6,null,null,his embarrassment was extreme
+7,null,null,"  It was the most unfortunate thing in the world
+8,null,null,"   he stammered
+9,null,null,"  I apprehended no difficulty whatever  "
+412 8
+ (8, 6),(8, 7),
+1,null,null,Fortunat 's embarrassment was really painful to witness
+2,null,null,He was not usually wanting in courage
+3,null,null,but the events of the evening had shaken his confidence and his composure
+4,null,null,The hope of gain and the fear of loss had deprived him of his wanted clearness of mind
+5,null,null,Feeling that he had just committed a terrible blunder
+6,null,sadness,he racked his brain to find some way of repairing it
+7,null,sadness,and finding none
+8,sadness,confusion,his confusion increased .
+413 14
+ (8, 8),
+1,null,null,He took them
+2,null,null,without even asking the mother if she had enough left to purchase her dinner that evening
+3,null,null,and the fine gentleman
+4,null,null,who had won and pocketed Jules Chazel 's stolen gold
+5,null,null,thought the banker 's conduct perfectly natural and just
+6,null,null,It is true that Madame d' argeles was in despair during forty-eight hours or so
+7,null,null,for the police had begun a sort of investigation
+8,fear,fear,and she feared this might frighten her visitors and empty her drawing-room
+9,null,null,Not at all
+10,null,null,however
+11,null,null,on the contrary
+12,null,null,she had good cause to congratulate herself upon the notoriety she gained through this suicide
+13,null,null,For five days she was the talk of Paris
+14,null,null,and Alfred d' aunay even published her portrait in the Illustrated Chronicle .
+415 15
+ (11, 11),
+1,null,null,The table itself was adorned with a rich tapestry cover
+2,null,null,but this was visible only at the corners
+3,null,null,for it was covered
+4,null,null,in turn
+5,null,null,with a green baize cloth considerably the worse for wear
+6,null,null,Madame d' argeles 's guests were probably not over fifty in number
+7,null,null,but they all seemed to belong to the very best society
+8,null,null,The majority of them were men of forty or thereabouts
+9,null,null,several wore decorations
+10,null,null,and two or three of the eldest were treated with marked deference
+11,surprise,surprise,Certain well-known names which Pascal overheard surprised him greatly
+12,null,null,"  What
+13,null,null,these men here
+14,null,null,"   he said to himself
+15,null,null,"  and I I regarded my visit as a sort of clandestine frolic .  "
+416 8
+ (4, 4),
+1,null,null,A score of persons were seated at the card table
+2,null,null,and the guests who had retired into the adjoining salon were silently watching the progress of the game
+3,null,null,or quietly chatting in the corners of the room
+4,surprise,surprise,It surprised him to note that every one spoke in very low tones
+5,null,null,there was something very like respect
+6,null,null,even awe
+7,null,null,in this subdued murmur
+8,null,null,One might have supposed that those present were celebrating the rites of some mysterious worship .
+417 12
+ (7, 7),
+1,null,null,The wisest counsels
+2,null,null,given in a certain fashion
+3,null,null,never fail to produce an effect diametrically opposed to that which they seemingly aim at
+4,null,null,de Coralth 's persistence
+5,null,null,and the importance he attached to a mere trifle
+6,null,null,could not fail to annoy the most patient man in the world
+7,anger,anger,and in fact his patronizing tone really irritated Pascal
+8,null,null,"  You are free
+9,null,null,my friend
+10,null,null,to do as you please
+11,null,null,"   said he
+12,null,null,"  but I   "
+418 13
+ (7, 5),
+1,null,null,However the game proceeded
+2,null,null,but no one paid any attention to it
+3,null,null,The stakes were insignificant
+4,null,null,and loss or gain drew no exclamation from any one
+5,null,sadness,The attention of the entire party was concentrated on Pascal
+6,null,null,and he
+7,sadness,with despair in his heart,with despair in his heart
+8,null,null,followed the movements of the cards
+9,null,null,which were passing from hand to hand
+10,null,null,and fast approaching him again
+11,null,null,When they reached him the silence became breathless
+12,null,null,menacing
+13,null,null,even sinister .
+421 7
+ (3, 3),
+1,null,null,Naturally of a florid complexion
+2,null,null,the baron 's face now became scarlet
+3,fear,fear,"  So it 's fear of scandal that deters you
+4,null,null,Zounds
+5,null,null,sir
+6,null,null,a man 's courage should equal his vices
+7,null,null,Look at me .  "
+426 14
+ (5, 5),
+1,null,null,' dear SIR
+2,null,null,' you wrote to your London correspondent ' i send you three thousand francs
+3,null,null,in addition to the five thousand for the regular quarterly payment
+4,null,null,Forward the money without delay
+5,fear,fear,I fear the poor boy is greatly annoyed by his creditors
+6,null,null,Yesterday I had the happiness of seeing him in the Rue de Helder
+7,null,null,and I found him looking pale and careworn
+8,null,null,When you send him this money
+9,null,null,forward at the same time a letter of fatherly advice
+10,null,null,It is true
+11,null,null,he ought to work and win an honorable position for himself
+12,null,null,but think of the dangers and temptation that beset him
+13,null,null,alone and friendless
+14,null,null,in this corrupt city . '
+427 19
+ (3, 3),
+1,null,null,Forward the money without delay
+2,null,null,I fear the poor boy is greatly annoyed by his creditors
+3,happiness,happiness,Yesterday I had the happiness of seeing him in the Rue de Helder
+4,null,null,and I found him looking pale and careworn
+5,null,null,When you send him this money
+6,null,null,forward at the same time a letter of fatherly advice
+7,null,null,It is true
+8,null,null,he ought to work and win an honorable position for himself
+9,null,null,but think of the dangers and temptation that beset him
+10,null,null,alone and friendless
+11,null,null,in this corrupt city
+12,null,null,There
+13,null,null,my dear lady
+14,null,null,your letter ended
+15,null,null,but the name and address were given
+16,null,null,and it was easy enough to understand it
+17,null,null,You remember
+18,null,null,perhaps
+19,null,null,a little incident that occurred after your return .
+680 2
+ (2, 2),
+1,null,null,All hearts stood still In dumb amazement
+2,happiness,happiness,But the tireless winds Sighing set hero Memnon 's giant corpse Down by the deep flow of aesopus ' stream .
+681 3
+ (2, 2),
+1,null,null,And from him sprang the steed of Sthenelus
+2,happiness,happiness,Which tydeus ' son had given unto his friend In hallowed Troyland Filled with confidence In those swift feet his rider led him forth Unto the contest of the steeds that day
+3,null,null,Looking his horsemanship should surely win Renown .
+683 3
+ (1, 1),(1, 2),
+1,fear,fear,Thereon were seen two serpents flickering Black tongues from grimly jaws :  they seemed in act To dart
+2,null,fear,but hercules ' hands to right and left   Albeit a babe 's hands   now were throttling them
+3,null,null,For awe less was his spirit .
+971 9
+ (2, 2),
+1,null,null,a sinner like the rest of you
+2,fear,fear,live nevertheless in the fear of hell fire
+3,null,null,Hell fire has become
+4,null,null,I think
+5,null,null,to many of the present generation a mockery and a derision
+6,null,null,I come to tell you that it is no mockery
+7,null,null,that it as surely lies there
+8,null,null,a blazing furnace
+9,null,null,in front of us as though we saw it with our own eyes
+1488 7
+ (5, 6),
+1,null,null,So peerless amid all the Amazons Unto troy town Penthesileia came
+2,null,null,To right
+3,null,null,to left
+4,null,null,from all sides hurrying thronged The Trojans
+5,surprise,marvelling,greatly marvelling
+6,null,surprise,when they saw The tireless War-god 's child like to the Blessed Gods
+7,null,null,for in her face Glowed beauty glorious and terrible .
+1495 4
+ (1, 1),
+1,happiness,happiness,The glorious trito born with courage thrilled to bring to all his foes the day of doom And Polypoetes
+2,null,null,dear to Ares
+3,null,null,slew Dresaeus
+4,null,null,whom the Nymph Neaera bare To passing wise Theiodamas for these Spread was the bed of   love .
+1496 6
+ (6, 6),
+1,null,null,And lo
+2,null,null,a steep browed rock
+3,null,null,a fragment rent From Sipylus   yet Niobe is there
+4,null,null,Dreeing her weird
+5,null,null,the debt of wrath divine
+6,sadness,sadness,A broken heart in guise of shattered stone .
+1501 7
+ (2, 3),
+1,null,null,The Argives thronged around
+2,surprise,marvelled,And all they saw and marvelled
+3,null,surprise,for she seemed Like an Immortal
+4,null,null,In her armour there Upon the earth she lay
+5,null,null,and seemed the Child Of Zeus
+6,null,null,the tireless Huntress Artemis Sleeping
+7,null,null,what time her feet for wearied are With following lions with her flying shafts Over the hills far stretching .
+1502 4
+ (2, 2),
+1,null,null,The warriors gazed
+2,happiness,happiness,and in their hearts they prayed That fair and sweet like her their wives might seem
+3,null,null,Laid on the bed of love
+4,null,null,when home they won .
+1503 5
+ (2, 2),
+1,null,null,Yea
+2,sadness,sadness,and achilles ' very heart was wrung With love 's remorse to have slain a thing so sweet
+3,null,null,Who might have borne her home
+4,null,null,his queenly bride
+5,null,null,To chariot glorious Phthia .
+1504 6
+ (1, 1),
+1,fear,fear,Then ares ' heart was thrilled with grief and rage For his child slain
+2,null,null,raight from Olympus down He darted
+3,null,null,swift and bright as thunderbolt Terribly flashing from the mighty hand Of Zeus
+4,null,null,far leaping over the trackless sea
+5,null,null,Or flaming over the land
+6,null,null,while shuddereth All wide Olympus as it passeth by .
+1505 4
+ (2, 2),
+1,null,null,Yet still Many a wild thought surged through ares ' soul
+2,fear,fear,Urging him now to dread the terrible threat Of cronos ' wrathful Son
+3,null,null,and to return Heavenward
+4,null,null,and now to reck not of his Sire .
+1508 2
+ (2, 2),
+1,null,null,For a herald came Asking this boon for Priam
+2,happiness,happiness,for the king Longed with deep yearning of the heart to lay That battle eager maiden with her arms And with her war horse in the great earth mound Of old Laomedon .
+1513 3
+ (1, 1),
+1,sadness,sadness,Then at his cry that brother 's heart was stung With bitter grief
+2,null,null,Swift for his help drew nigh Phereus
+3,null,null,on whom for his great prince 's fall Came anguish .
+1515 2
+ (1, 1),
+1,happiness,happiness,The eager ring of beaters closing in Presses the huddled throng into the snares Of death :  the dogs are wild with joy of the chase Ceaselessly giving tongue
+2,null,null,the while his darts Leap winged with death on brocket and on hind .
+1516 2
+ (1, 1),
+1,happiness,happiness,The eager ring of beaters closing in Presses the huddled throng into the snares Of death :  the dogs are wild with joy of the chase Ceaselessly giving tongue
+2,null,null,the while his darts Leap winged with death on brocket and on hind .
+1517 5
+ (4, 4),
+1,null,null,Forthright he turned away From where the rifted ranks of Troy fell fast Before his hands
+2,null,null,and
+3,null,null,thirsting for the fight
+4,anger,anger,Wroth for Antilochus and the others slain
+5,null,null,Came face to face with Memnon .
+1519 2
+ (1, 1),
+1,fear,fear,And quaked Proud nereus ' daughters all round Thetis thronged In grievous fear for mighty achilles ' sake
+2,null,null,And trembled for her son the Child of the Mist As in her chariot through the sky she rode .
+1521 5
+ (1, 1),
+1,fear,fear,Thou hadst said that in the strife of that dread day Huge tireless Giants or strong Titans warred
+2,null,null,So fiercely blazed the wildfire of their strife
+3,null,null,Now
+4,null,null,when they clashed with swords
+5,null,null,now when they leapt Hurling huge stones .
+1522 4
+ (3, 4),
+1,null,null,With multitudinous moaning
+2,null,null,veiled in mist Unearthly
+3,surprise,marvelled,Trojans over all the plain And Danaans marvelled
+4,null,surprise,seeing that great host Vanishing with their King .
+1523 3
+ (1, 1),
+1,sadness,sadness,And mourned with these the Pleiads
+2,null,null,Echoed round far stretching mountains
+3,null,null,and aesopus ' stream .
+1524 2
+ (2, 2),
+1,null,null,Meanwhile within their walls the Trojan folk For Memnon sorrow ed sore
+2,sadness,sadness,with vain regret Yearning for that lost king and all his host .
+1529 7
+ (4, 4),
+1,null,null,He unto high Olympus swiftly came
+2,null,null,To the great gathering of immortal Gods
+3,null,null,Where all assembled watched the war of men
+4,happiness,happiness,These longing for the trojans ' triumph
+5,null,null,those For Danaan victory
+6,null,null,so with diverse wills Watched they the strife
+7,null,null,the slayers and the slain .
+1531 4
+ (2, 2),
+1,null,null,And now Troy 's daughters with exultant hearts From all the city streets shall gather round
+2,anger,anger,As pantheresses wroth for stolen cubs
+3,null,null,Or lionesses
+4,null,null,might stand around a man Whose craft in hunting vexed them while he lived .
+1535 7
+ (7, 7),
+1,null,null,Then by those dark ships they thought Of white haired fathers left in halls afar
+2,null,null,Of wives new wedded
+3,null,null,who by couches cold Mourned
+4,null,null,waiting
+5,null,null,waiting
+6,null,null,with their tender babes For husbands un returning
+7,sadness,sadness,and they groaned In bitterness of soul A passion of grief Came over their hearts .
+1536 6
+ (1, 1),
+1,sadness,sadness,Most piteous grief We twain for thy sake shall inherit aye
+2,null,null,Thy sire and I
+3,null,null,who
+4,null,null,ere our day of doom
+5,null,null,Mourning shall go down to the grave for thee   Ay
+6,null,null,better this than life unholpen of thee
+1540 1
+ (1, 1),
+1,fear,fear,With sore anguish all their hearts Were smitten :  piteously they moaned :  their cry Shivered along the waves of Hellespont .
+1542 5
+ (5, 5),
+1,null,null,For out of depths of sorrow rose their moan
+2,null,null,And all the armour
+3,null,null,yea
+4,null,null,the tents
+5,sadness,sadness,the ships Of that great sorrowing multitude were wet With tears from ever welling springs of grief .
+1544 3
+ (3, 3),
+1,null,null,Around them moaned far stretching beaches of the sea
+2,null,null,and mourned Great Nereus for his daughter thetis ' sake
+3,sadness,sadness,And mourned with him the other sea gods all for dead Achilles .
+1548 4
+ (2, 2),
+1,null,null,And some
+2,happiness,happiness,to joy in seeing the mighty strive
+3,null,null,Amidst that gathering Thetis sable stoled Set down her prizes
+4,null,null,and she summoned forth Achaea 's champions :  at her best they came .
+1551 3
+ (2, 2),
+1,null,null,And from him sprang the steed of Sthenelus
+2,happiness,happiness,Which tydeus ' son had given unto his friend In hallowed Troyland Filled with confidence In those swift feet his rider led him forth Unto the contest of the steeds that day
+3,null,null,Looking his horsemanship should surely win Renown .
+1552 7
+ (6, 7),
+1,null,null,Yet victory gladdened not his heart In that great struggle for achilles ' prizes
+2,null,null,Nay
+3,null,null,swift albeit he was
+4,null,null,the King of Men By skill outraced him Shouted all the folk
+5,null,null,"  Glory to Agamemnon
+6,happiness,acclaimed,"    Yet they acclaimed The steed of valiant Sthenelus and his lord
+7,null,happiness,for that the fiery flying of his feet Still won him second place .
+1553 4
+ (1, 1),
+1,surprise,surprise,In that into this lamentable strife Aias the mighty hath been thrust by them Against Odysseus passing wise
+2,null,null,For he
+3,null,null,To which so ever God gives the victor 's glory   O yea
+4,null,null,he shall rejoice
+1555 4
+ (3, 3),
+1,null,null,It may be he will set the ships aflame
+2,null,null,And slay us all amidst our tents
+3,anger,anger,in wrath for those lost arms
+4,null,null,Would God that Thetis never Had set them for the prize of rivalry
+1557 3
+ (2, 3),
+1,null,null,Then Aias saw those sheep upon the earth Gasping in death
+2,surprise,amazed,and sore amazed he stood
+3,null,surprise,for he divined that by the Blessed Ones His senses had been  cheated .
+1566 5
+ (2, 2),
+1,null,null,What time he dared that awful deed
+2,sadness,sadness,when groaned All Oeta as he burned alive
+3,null,null,and passed His soul into the air
+4,null,null,leaving the man far famous
+5,null,null,to be numbered with the Gods .
+1570 5
+ (1, 2),
+1,surprise,marvelled,From far away The Argives gazed and marvelled
+2,null,surprise,seeing the plain Aglare with many fires
+3,null,null,and hearing notes Of flutes and lyres
+4,null,null,neighing of chariot steeds And pipes
+5,null,null,the shepherd 's and the banquet 's joy .
+1573 3
+ (2, 2),
+1,null,null,There were the Golden Apples wrought
+2,disgust,disgust,that gleamed In the hesperides ' garden undefiled :  All round the fearful Serpent 's dead coils lay
+3,null,null,And shrank the Maids aghast from zeus ' bold son .
+1577 3
+ (3, 3),
+1,null,null,Beside the ships he sat Ministering to the hurts of men with spears Stricken In wrath for his brother 's sake he rose
+2,null,null,He clad him in his armour
+3,fear,fear,in his breast Dread battle prowess swelled for conflict grim He panted .
+1578 1
+ (1, 1),
+1,sadness,sadness,This track the Blest Gods may alone behold . So died a host on either side that warred Over Machaon and Aglaia 's son . But at the last through desperate wrestle of fight The Danaans rescued them :  yet few were they Which bare them to the ships .
+1579 11
+ (10, 11),
+1,null,null,Yet had their might Availed not for defence
+2,null,null,for all their will
+3,null,null,Had Teucer and Idomeneus strong of heart Come not to help
+4,null,null,with Thoas
+5,null,null,Meriones
+6,null,null,And godlike Thrasymedes
+7,null,null,they which shrank Erewhile before Eurypylus yea
+8,null,null,had fled Unto the ships to  ' scape the crushing doom
+9,null,null,But that
+10,fear,fear,in fear for atreus ' sons
+11,null,fear,they rallied Against Eurypylus :  deadly waxed the fight .
+1581 6
+ (1, 1),
+1,sadness,sadness,Then grief thrilled Pammon :  hard necessity Made him both chariot lord and charioteer
+2,null,null,Now to his doom and death day had he bowed
+3,null,null,Had not a Trojan through that gory strife Leapt
+4,null,null,grasped the reins
+5,null,null,and saved the prince
+6,null,null,when now His strength failed ' neath the murderous hands of foes .
+1583 2
+ (1, 1),
+1,sadness,sadness,But amidst the ships Flung down upon the sands the Argives wailed heart anguished for the slain
+2,null,null,so many of whom Dark fate had overtaken and laid in dust .
+1590 6
+ (4, 4),
+1,null,null,And those twain found before his palace gate achilles ' son
+2,null,null,now hurling dart and lance
+3,null,null,Now in his chariot driving fleet foot steeds
+4,happiness,happiness,Glad were they to behold him practising The deeds of war
+5,null,null,albeit his heart was sad For his slain sire
+6,null,null,of whom had tidings come Ere this .
+1592 9
+ (1, 2),
+1,fear,reverent,With reverent eyes of awe they went To meet him
+2,null,fear,for that goodly form and face Seemed even as very Achilles unto them
+3,null,null,But he
+4,null,null,or ever they had spoken
+5,null,null,cried :   "  All hail
+6,null,null,ye strangers
+7,null,null,unto this mine home Say whence ye are
+8,null,null,and who
+9,null,null,and what the need That hither brings you over barren seas .  "
+1596 5
+ (3, 3),
+1,null,null,Beware the time of equal days and nights
+2,null,null,When blasts that over the sea 's abysses rush
+3,anger,anger,None knoweth whence in fury of battle clash
+4,null,null,Beware the pleiads ' setting
+5,null,null,when the sea Maddens beneath their power nor these alone .
+1597 3
+ (3, 3),
+1,null,null,Then kissed he him
+2,null,null,nor sought to stay the feet Of him who panted for the clamour of war
+3,happiness,happiness,Who smiled for pleasure and for eagerness To haste to the ship .
+1599 2
+ (1, 1),
+1,happiness,happiness,And his feet eager for the course are still Never
+2,null,null,his restless hooves are clattering aye .
+1601 2
+ (2, 2),
+1,null,null,All as one man down from the ship they leapt
+2,fear,fear,For trembling seized on all for that grim sight   On all save awe less Neoptolemus Whose might was like his father 's :  lust of war Swept over him .
+1602 4
+ (4, 4),
+1,null,null,So joyed the Achaean host
+2,null,null,which theretofore Were heavy of heart
+3,null,null,when Neoptolemus came
+4,happiness,happiness,Joyed in the hope of breathing space from toil . Then like the awe less lion 's flashed his eyes .
+1605 2
+ (1, 1),
+1,fear,fear,From that death leaping from above they quailed In tumult round Eurypylus :  deadly fear Gripped all their hearts
+2,null,null,little children cower About a father 's knees when thunder of Zeus Crashes from cloud to cloud .
+1606 3
+ (2, 2),
+1,null,null,For death Rode upon all he cast
+2,anger,anger,and bare his wrath Straight rushing down upon the heads of foes
+3,null,null,Now in their hearts those wildered Trojans said That once more they beheld achilles ' self Gigantic in his armour .
+1608 5
+ (3, 3),
+1,null,null,Verily all The Argives had beside their ships been slain
+2,null,null,Had not achilles ' strong son on that day Withstood the host of foes and their great chief Eurypylus Came to that young hero 's side Phoenix the old
+3,surprise,surprise,and marvelling gazed on one The image of Peleides Tides of joy And grief swept over him    grief
+4,null,null,for memories Of that swift footed father   joy
+5,null,null,for sight Of such a son He for sheer gladness wept .
+1609 5
+ (4, 5),
+1,null,null,Verily all The Argives had beside their ships been slain
+2,null,null,Had not achilles ' strong son on that day Withstood the host of foes and their great chief Eurypylus Came to that young hero 's side Phoenix the old
+3,null,null,and marvelling gazed on one The image of Peleides Tides of joy And grief swept over him    grief
+4,happiness,joy,for memories Of that swift footed father   joy
+5,null,happiness,for sight Of such a son He for sheer gladness wept .
+1612 3
+ (2, 2),
+1,null,null,Hail
+2,happiness,happiness,goodly son of that Achilles whom I nursed a little one in mine own arms With a glad heart By Heaven 's high providence Like a strong sapling waxed he in stature fast
+3,null,null,And daily I rejoiced to see his form And prowess .
+1616 6
+ (4, 4),
+1,null,null,With joy that pair bore battleward their lord
+2,null,null,So like to aeacus ' son
+3,null,null,their deathless hearts Held him no worser than achilles ' self
+4,happiness,happiness,Laughing for glee the Argives gathered round The might resist less of Neoptolemus
+5,null,null,Eager for fight as wasps whose woodland bower The axe hath shaken
+6,null,null,who dart swarming forth Furious to sting the woodman .
+1617 7
+ (5, 5),
+1,null,null,And pierced Meilanion battle staunch
+2,null,null,the son Of Cleite lovely faced
+3,null,null,erylaus ' bride
+4,null,null,Who bare him where Caicus meets the sea
+5,anger,anger,Wroth for his comrade slain
+6,null,null,Eurypylus Rushed upon Antiphus
+7,null,null,but terror winged He plunged amid his comrades .
+1618 3
+ (2, 2),
+1,null,null,So the spear Of the avenger slew him not
+2,fear,fear,whose doom Was one day wretchedly to be devoured By the manslaying Cyclops :  so it pleased Stern Fate
+3,null,null,I know not why .
+1622 3
+ (1, 1),
+1,sadness,sadness,Even as in agony he leapt full height
+2,null,null,Yet once again the archer 's arrow hissed :  It pierced his throat
+3,null,null,through the neck sinews cleft Unswerving
+1623 3
+ (2, 2),
+1,null,null,Quaked the earth And xanthus ' murmuring streams
+2,fear,fear,so mightily She shook them :  terror stricken were the souls Of all the Nymphs adread for Priam 's town
+3,null,null,From her immortal armour flashed around The hovering lightnings .
+1625 7
+ (3, 3),
+1,null,null,But Ganymedes saw from heaven
+2,null,null,and cried
+3,fear,fear,Anguished with fear for his own fatherland :   "  O Father Zeus
+4,null,null,if of thy seed I am
+5,null,null,If at thine best I left far famous Troy For immortality with deathless Gods
+6,null,null,O hear me now
+7,null,null,whose soul is anguish thrilled
+1627 1
+ (1, 1),
+1,disgust,disgust,For now in heaven descended Priam 's burg By thousands are her people perishing :  No respite cometh from calamity :  Murder and havoc evermore increase .
+1628 5
+ (4, 5),
+1,null,null,The Trojans heard that shout
+2,null,null,and saw that host
+3,null,null,And marvelled
+4,fear,fear,ushed with fear were all their hearts Foreboding doom
+5,null,fear,for like a huge cloud seemed That throng of foes :  with clashing arms they came :  Volumed and vast the dust rose ' neath their feet .
+1631 8
+ (3, 3),
+1,null,null,Then
+2,null,null,overawed by the brother of his sire
+3,fear,fear,And fearing for Troy 's fate and for her folk
+4,null,null,To heaven went back Apollo
+5,null,null,to the sea Poseidon
+6,null,null,But the sons of men fought on
+7,null,null,And slew
+8,null,null,and Strife incarnate gloating watched .
+1633 3
+ (2, 2),
+1,null,null,Hearkening he sat To Odysseus and to godlike Diomede
+2,anger,anger,And all the hoarded wrath for olden wrongs And all the torturing rage
+3,null,null,melted away .
+1635 2
+ (1, 1),
+1,happiness,happiness,And all their souls were thrilled with lust of war :  There gathered too the Lords of the wide Sea . These in their wrath were eager to destroy The Horse of Guile and all the ships
+2,null,null,and those Fair Ilium .
+1640 3
+ (2, 2),
+1,null,null,The mother forgat her child
+2,fear,fear,fear frenzied as she fled :  all Troy became One shriek of fleers
+3,null,null,one huddle of jostling limbs :  The streets were choked with cowering fugitives .
+1641 4
+ (1, 1),
+1,happiness,happiness,Their hearts beat high with hope To escape the weary stress of woeful war
+2,null,null,Howbeit the victims burned not
+3,null,null,and the flames Died out
+4,null,null,as though ' neath heavy hissing rain .
+1642 5
+ (4, 4),
+1,null,null,But straightway from her hands they plucked and flung Afar the fire and steel
+2,null,null,and careless turned To the feast
+3,null,null,for darkened over them their last night
+4,happiness,happiness,Within the horse the Argives joyed to hear The uproar of Troy 's feasters setting at naught Cassandra
+5,null,null,but they marvelled that she knew So well the achaeans ' purpose and device .
+1645 7
+ (2, 2),
+1,null,null,Man after man he slew like some fierce beast
+2,fear,fear,And foes shrank from the terrible rage that burned On his life 's verge
+3,null,null,nor reeked of imminent doom
+4,null,null,Yea
+5,null,null,peerless deeds in that fight had he done
+6,null,null,Had not his hands grown weary
+7,null,null,his spear head Bent utterly .
+1646 3
+ (2, 2),
+1,null,null,Into Oenone 's presence thus he came
+2,surprise,surprise,Amazed her thronging handmaids looked on him As at the Nymph 's feet that pale suppliant fell Faint with the anguish of his wound
+3,null,null,whose pangs Stabbed him through brain and heart .
+1653 6
+ (3, 3),
+1,null,null,Far from his brawny hand Euryalus hurled A massy stone
+2,null,null,and shook the ranks of Troy
+3,anger,anger,As when in anger against long screaming cranes A watcher of the field leaps from the ground
+4,null,null,In swift hand whirling round his head the sling
+5,null,null,And speeds the stone against them
+6,null,null,scattering Before its hum their ranks far down the wind Outspread .
+1656 6
+ (2, 2),
+1,null,null,So fiercely leapt these sons of Troy to meet war hardened Greeks
+2,happiness,happiness,The black Fates joyed to see Their conflict
+3,null,null,Ares laughed
+4,null,null,Enyo yelled Horribly
+5,null,null,Loud their glancing armour clanged :  They stabbed
+6,null,null,they hewed down hosts of foes untold With irresistible hands .
+1702 4
+ (2, 4),(3, 4),
+1,null,null,While long and loud Squealing they flee
+2,happiness,joys,and joys the harvest 's lord
+3,happiness,rejoiced,So rejoiced Phoebus
+4,null,happiness,seeing from the war Fleeing the mighty Argive host .
+1705 4
+ (1, 1),
+1,anger,anger,They are in frenzy of pain Start from the furrow
+2,null,null,and sore disquieted The hind is for marred work
+3,null,null,and for their sake
+4,null,null,Lest perhaps the recoiling ploughshare light On their leg sinews .
+1707 4
+ (3, 3),
+1,null,null,Fate forbade That hero any longer to contend With Argive foes without the high built wall
+2,null,null,Yea
+3,fear,fear,and his mother sorely feared the wrath Of Pallas passing wise
+4,null,null,whose heart was keen To help the Danaans now  .
+1708 3
+ (1, 1),
+1,fear,fear,He feared lest she Might slay him even beyond his doom
+2,null,null,who spared Not ares ' self
+3,null,null,a mightier far than he .
+1709 4
+ (4, 4),
+1,null,null,No more the Trojans now abode the edge Of fight
+2,null,null,but all disheartened backward drew
+3,null,null,For like fierce ravening beasts the Argive men Leapt on them
+4,anger,anger,mad with murderous rage of war .
+1712 2
+ (1, 1),
+1,anger,anger,And winged the flight Of what bare down to the Argives doom or dread He fought as when Olympian Zeus himself From heaven in wrath smote down the insolent bands Of giants grim
+2,null,null,and shook the boundless earth .
+1714 8
+ (3, 7),
+1,null,null,So nerveless flung he fell
+2,null,null,And fled away from him the precious life
+3,anger,Wroth,Wroth for his friend
+4,null,null,a stone Aeneas hurled
+5,null,null,And philoctetes ' stalwart comrade slew
+6,null,null,Toxaechmes
+7,null,anger,for he shattered his head and crushed Helmet and skull bones
+8,null,null,and his noble heart Was stilled .
+1715 12
+ (4, 4),
+1,null,null,Achaea 's lords of might
+2,null,null,exceeding fain Safe to win home
+3,null,null,made this their offering For safe return
+4,anger,anger,an image to appease The wrath of Pallas for her image stolen From Troy
+5,null,null,And to this story shall he stand
+6,null,null,How long whatsoever they question him
+7,null,null,until
+8,null,null,Though never so relentless
+9,null,null,they believe
+10,null,null,And drag it
+11,null,null,their own doom
+12,null,null,within the town .
+1716 4
+ (2, 2),
+1,null,null,For these Still were insatiate for the bitter fray
+2,happiness,happiness,Still longed for turmoil of the fight
+3,null,null,They bade Their own folk bear against that giant wall What things whatsoever for war 's assaults avail
+4,null,null,In hope to lay that stately fortress low .
+1719 4
+ (3, 3),
+1,null,null,Some Whose waists the lance had pierced
+2,null,null,impaling them Where sharpest stings the anguish laden steel . And all about the city dolorous howls Of dogs up rose
+3,sadness,sadness,and miserable moans Of strong men stricken to death
+4,null,null,and every home With awful cries was echoing Rang the shrieks Of women .
+1881 7
+ (6, 6),
+1,null,null,Frode was thus forced to quit the wars of the East and fought a great battle in Sweden with his sister Swanhwid
+2,null,null,in which he was beaten
+3,null,null,So he got on board a skiff
+4,null,null,and sailed stealthily in a circuit
+5,null,null,seeking some way of boring through the enemy 's fleet
+6,surprise,surprise,When surprised by his sister and asked why he was rowing silently and following divers meandering courses
+7,null,null,he cut short her inquiry by a similar question
+1893 5
+ (4, 4),
+1,null,null,Thus SIWARD
+2,null,null,by the sovereign vote of the whole Danish assembly
+3,null,null,received the empire of his father
+4,happiness,happiness,But after the defeats he had inflicted everywhere he was satisfied with the honour he received at home
+5,null,null,and liked better to be famous with the gown than with the sword .
+1894 7
+ (3, 3),
+1,null,null,Straightway he sought medicine for his grief in loneliness
+2,null,null,and patiently confined the grief of his sick soul within the walls of his house
+3,sadness,sadness,But this bitter sorrow was driven out of him by the sudden arrival of Iwar
+4,null,null,who had been expelled from the kingdom
+5,null,null,For the Gauls had made him fly
+6,null,null,and had wrongfully bestowed royal power on a certain Ella
+7,null,null,the son of Hame .
+1900 7
+ (4, 4),(4, 5),
+1,null,null,Drawing him by those appeals
+2,null,null,and warily noting the right spot to plant his blow
+3,null,null,he turned the other edge of his sword to the front
+4,fear,fear,fearing that the thin side of his blade was too frail for his strength
+5,null,fear,and smote with a piercing stroke through the prince 's body
+6,null,null,When Wermund heard it
+7,null,null,he said that the sound of his sword  "  Skrep "   had reached his ear for the second time .
+2041 2
+ (2, 2),
+1,null,null,As for the Romans
+2,happiness,happiness,they were grateful to Horatius for having saved their city .
+2519 7
+ (7, 7),
+1,null,null,It was heart-breaking work - all uphill again
+2,null,null,back over the ground they had already travelled
+3,null,null,When they felt that they really could n't run any more
+4,null,null,even to save their lives
+5,null,null,they all dropped down in the damp moss beside a waterfall and behind a big boulder
+6,null,null,panting
+7,surprise,surprise,They were surprised to see how high they had already got .
+2531 5
+ (1, 1),(1, 2),
+1,happiness,happiness,Meanwhile at Anvard everyone was very glad that he had been disposed of before the real fun began
+2,null,happiness,which was a grand feast held that evening on the lawn before the castle
+3,null,null,with dozens of lanterns to help the moonlight
+4,null,null,And the wine flowed and tales were told and jokes were cracked
+5,null,null,and then silence was made and the King 's poet with two fiddlers stepped out into the middle of the circle .
+2542 1
+ (1, 1),
+1,fear,fear,A profound calm , a frightful , silent expectancy had spread over the city  .  Many of the heavy citizens , emasculated by commerce , anxiously awaited the conquerors , trembling lest their roasting spits or kitchen knives be considered arms  .
+2549 1
+ (1, 1),
+1,happiness,happiness,Everything goes in time of war , does it not , Madame ?  " And then casting a comprehensive glance around , he added  :   " In moments like this , one can but be pleased to find people who are obliging  .

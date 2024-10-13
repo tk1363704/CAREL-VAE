@@ -1,0 +1,254 @@
+1072 14
+ (10,8)
+1,null,null,五年 前 开始 建设 的 这栋 风尚 国际 商品房
+2,null,null,如今 已 成为 郴州 房产 界 一个 老大难 项目 — — 开发商 收 了 消费者 438 套 房子 的 认购 金 5000 多万元 后
+3,null,null,又 将 房子 转卖 给 他人 作为 债务 抵押
+4,null,null,数百名 认购 户
+5,null,null,目前 既 没 购得 房子
+6,null,null,也 未 获得 本金 和 赔偿
+7,null,null,这个 楼盘 开工 时 根本 就 没有 审批 手续
+8,null,null,我们 认购 户 完全 上当 了
+9,null,null,7 月 20 日
+10,anger,气愤,认购 户 邓 女士 气愤 地 告诉 记者
+11,null,null,郴州市 房产 管理局 工作人员 证实
+12,null,null,风尚 国际 楼盘 在 建设 和 销售 过程 中 存在 违法 违规行为
+13,null,null,目前
+14,null,null,郴州 有关 部门 已 介入 调查
+1111 13
+ (13,12)
+1,null,null,他们 大多 年龄 还 小
+2,null,null,自我意识 不 强
+3,null,null,误以为 妈妈 被 抢走了
+4,null,null,从而 出现 易怒 捣蛋 欺负 老二
+5,null,null,甚至 厌食 生病 等 情况
+6,null,null,此外
+7,null,null,这 类 孩子 往往 从小 被 家人 太过 宠 溺
+8,null,null,过于 以 自我 为 中心
+9,null,null,稍 有 一点 不 按 自己 心意 来 便 受不了
+10,null,null,再有
+11,null,null,家长 对 老二 过分 关注
+12,null,null,而 忽略 对 老大 的 照顾
+13,fear,焦虑,也 会 让 老大 感到 孤独 和 焦虑
+1182 12
+ (7,6)
+1,null,null,13 日 19 时 左右
+2,null,null,杨先生 回到 家 告诉 妻子
+3,null,null,自己 在 回家 的 路上 被 人 抢 了
+4,null,null,身上 的 800 元 现金 都 被 抢走了
+5,null,null,据 杨先生 的 妻子 杜 女士 表示
+6,null,null,13 日晚 当 丈夫 杨先生 告知 自己 被 抢劫 的 时候
+7,anger,气愤,杜 女士 十分 气愤
+8,null,null,随后 她 便 要 打 110 报警
+9,null,null,当 我 要 打电话 报警 的 时候 他 却 死活 不让
+10,null,null,随后 我 就 感到 不 对劲儿
+11,null,null,在 我 的 逼问 下 他 终于 说 了 实话
+12,null,null,这钱 是 打麻将 输 了 而 不是 被 抢
+124 16
+ (14,14)
+1,null,null,2012 年 春节
+2,null,null,廖林 和 村里 的 孤寡老人 聊天
+3,null,null,知道 他们 想 去 北京 一趟
+4,null,null,当时 他 没有 多 说
+5,null,null,却 悄悄 准备 起来
+6,null,null,2012 年 4 月
+7,null,null,旅行团 26 人 出发
+8,null,null,其中 年龄 最大 的 92 岁
+9,null,null,4 天 的 行程
+10,null,null,老 人们 游 天安门 逛 故宫 登 长城
+11,null,null,得知 廖林 到来
+12,null,null,他 北京 的 好友 路训 尽 地主之谊 宴请 老 人们
+13,null,null,饭桌 上
+14,happiness,感动,路训 被 廖林 的 孝行 感动 了
+15,null,null,第二天 就 给 廖林 打 了 10 万元
+16,null,null,说 是 捐给 公义 村 的 老 人们
+1280 10
+ (3,2)
+1,null,null,南京 浦口区 乐府 江南 家园 居民 张大妈 前天 再次 被困 电梯
+2,null,null,她 今年 已经 十多次 被困 了
+3,fear,心有余悸,吓 得 她 心有余悸 地说 这里 的 居民 已经 习惯性 用 手把 电梯门 扒开 自救
+4,null,null,居民 们 几乎 都 选择 走 楼梯 了
+5,null,null,原因 很 简单
+6,null,null,大家 都 被 关怕 了
+7,null,null,物业公司 的 工作人员 表示
+8,null,null,动用 公共 维修 基金 更换 电梯 是 一件 麻烦 事儿
+9,null,null,需要 提出申请
+10,null,null,他们 将 再次 把 居民 们 的 诉求 反映 给 有关 部门
+1363 13
+ (3,3)
+1,null,null,国家标准 10 厘米
+2,null,null,结果 在 建筑 时 缩水 成 了 5 厘米
+3,disgust,可恨,这样 的 偷工减料 可恨 更 可怕
+4,null,null,而 与 之 形成 鲜明对比 的 是
+5,null,null,房价 却 仍 在 攀升
+6,null,null,根据 统计
+7,null,null,自 今年 3 月份 以来
+8,null,null,70 个 大中城市 房价 环比 已 连续 7 个 月 上涨
+9,null,null,无锡市 区 商品房 均价 也 早已 破七
+10,null,null,开发商 卖房 赚 的 钱 越来越 多
+11,null,null,结果 却 把 房屋 质量 折腾 成 这样
+12,null,null,试想
+13,null,null,薄薄的 楼板 又 如何 能 承受 高高的 房价 之重
+1386 18
+ (16,15)
+1,null,null,昨天
+2,null,null,记者 联系 上 了 赵森 在 北京 的 上司 客户经理 李女士
+3,null,null,她 表示
+4,null,null,赵森 在 北京 工作 四五年
+5,null,null,一直 表现 很 好
+6,null,null,工作 也 很 拼命
+7,null,null,到 了 杭州 后
+8,null,null,可能 因 面临 新 的 环境
+9,null,null,他 对 自己 的 要求 更 高 了
+10,null,null,工作 压力 也 很大
+11,null,null,李女士 说
+12,null,null,上个月
+13,null,null,她 和 北京 的 同事 们 来 医院 看 他 时
+14,null,null,赵森 还 在 昏迷 中
+15,null,null,如今 得知 他 恢复 得 不错
+16,happiness,高兴,她 与 其他 同事 都 替 他 高兴
+17,null,null,赵森 目前 智力 正在 恢复
+18,null,null,但 有 感染 危险
+1470 11
+ (6,5), (8,7)
+1,null,null,露露 爸爸 说 其实 这 三天
+2,null,null,我 都 很 想 女儿
+3,null,null,还 曾 悄悄 托人 去 法庭 看过 女儿
+4,null,null,他 知道 自己 不 对
+5,null,null,但 那场 失败 的 婚姻
+6,anger,愤怒,让 他 被 愤怒 冲昏 了 头脑
+7,null,null,而 自己 经济 情况 不好
+8,fear,担心,担心 无法 抚养 女儿
+9,null,null,如今
+10,null,null,他 也 想通 了
+11,null,null,只想 好好 照顾 女儿
+1819 14
+ (8,7)
+1,null,null,还有 家长 说
+2,null,null,朱某 被 警察 抓走 之后
+3,null,null,孩子 回家 关上门 才 敢 告诉 她 自己 被 其 猥亵 的 经过
+4,null,null,家长 痛陈 没有 早 发现 并 制止 采访 中
+5,null,null,多位 家长 痛陈
+6,null,null,平日 里 一些 蛛丝马迹 被 自己 轻易 放过
+7,null,null,错失 了 及早 发现 并 制止 猥亵 的 时机
+8,sadness,后悔莫及,以至 现在 后悔莫及
+9,null,null,有 家长 说
+10,null,null,一年级 时 孩子 就 曾经 多次 跟 家长 讲过 这个 老师 真 讨厌
+11,null,null,想 转学
+12,null,null,但 家长 当时 并未 耐心 细致 询问 缘由
+13,null,null,而是 回复 孩子 说 就 你 不 讨厌
+14,null,null,根本 就 没往 猥亵 的 方向 想
+1914 13
+ (7,6)
+1,null,null,其中 一个 小姑娘 说 自己 的 箱子 都 挤 丢 了
+2,null,null,不敢 回去 拿
+3,null,null,据 车厢 内 一位 目击者 称
+4,null,null,是 车上 有 乘客 纠纷
+5,null,null,一个 小伙 冲上来 追 一个 人
+6,null,null,大喊 着 我 要 杀 了 你
+7,fear,恐慌,结果 大家 都 恐慌 了
+8,null,null,另有 两位 网友 也 证实 了 此 说法
+9,null,null,据 了解
+10,null,null,地铁 内 的 骚乱 很快 平息
+11,null,null,没有 影响 到 列车 的 正常 运营
+12,null,null,北京地铁 昨日 中午 发微 博称
+13,null,null,有 乘客 反映 今晨 在 5 号 线惠新 西街 南口 站 发生 恐慌 事件
+193 8
+ (8,7)
+1,null,null,只要 有 一丝 希望
+2,null,null,我们 都 不会 放弃
+3,null,null,尹永涛 哀求 着 说
+4,null,null,只要 能救 妹妹 的 命
+5,null,null,他 愿意 再 去 尝试
+6,null,null,但是 院方 的 建议 是 采用 非 血缘关系 相匹配 的 骨髓 或许 成功率 更高
+7,null,null,如今 已 康复 出院 的 尹宾怡 提起 哥哥 为了 救 她 做 5 次 骨髓移植 的 事
+8,happiness,感激,感激 的 泪水 就 会 夺眶而出
+399 6
+ (1,1)
+1,happiness,高兴,就 在 戴 华为 寻人 范围 缩小 而 高兴 时
+2,null,null,一件 为 难事 绕上 心头
+3,null,null,我 现在 已经 确定 两个 人
+4,null,null,其中 一个 人 肯定 是 李恩 可 的 生父
+5,null,null,但是 如果 我 向 对方 打 去 电话
+6,null,null,肯定 会 有 事件 发生
+483 11
+ (9,9)
+1,null,null,2013 年 11 月 26 日
+2,null,null,在 离 刘辉 前夫 家仅 百余米 的 出租屋 内
+3,null,null,谈到 与 刘辉 的 结合
+4,null,null,老 吴 并 不 担心 照顾 不 过来
+5,null,null,她 一个 人 都 能行
+6,null,null,我 帮 一把
+7,null,null,她 不 就 轻松 一些 么
+8,null,null,这个 遭遇 过 一次 婚姻 挫折 的 5 旬 男人
+9,happiness,感动,在 了解 了 刘辉 的 经历 后 非常 感动
+10,null,null,两人 见面 后 不久
+11,null,null,就 用 自己 的 全部 存款 帮 刘辉 还 掉 了 给 前夫 建房 的 五万元 欠账
+511 12
+ (8,5), (8,6)
+1,null,null,一天
+2,null,null,小飞 又 到 学校 门口 堵小蕊
+3,null,null,在 尾随 父女俩 走 到 一个 胡同 时
+4,null,null,小飞 欲 上前 与 小蕊 搭话
+5,null,null,小蕊 的 父亲 却 出 面对 他 一顿 痛骂
+6,null,null,还 准备 上前 动手 打 他
+7,null,null,幸亏 被 小蕊 拦下
+8,anger,激怒,小飞 也 因此 被 激怒
+9,null,null,再 回 想起 这 段 时期 所受 的 委屈 痛苦
+10,null,null,他 迅速 掏出 裤兜 里 的 刀子
+11,null,null,朝小蕊 胸前 重重地 连 捅 四刀
+12,null,null,随后 转头 跑掉
+564 9
+ (4,3)
+1,null,null,因为 我 把 婆婆 当 妈妈 伺候
+2,null,null,我 自己 的 妈妈 50 多岁 就 去世 了
+3,null,null,她 得病 时 我 忙于 工作 很少 回去 照顾
+4,sadness,后悔,现在 想想 挺 后悔 的
+5,null,null,张海燕 心疼 婆婆
+6,null,null,老人家 一辈子 很 不 容易
+7,null,null,从小 爹妈 就 没 了
+8,null,null,也 没有 公公 婆婆
+9,null,null,全靠 自己 辛苦 拉扯 大 四个 孩子
+631 12
+ (9,8)
+1,null,null,今天 恰逢 中国 传统 的 中秋佳节
+2,null,null,当 问及 准备 如何 度过 这个 团圆 之日时
+3,null,null,王仕花 悄悄 告诉 记者 其实 这个 中秋节 不 但是 团圆 的 日子
+4,null,null,20 日 更是 王继才 的 生日
+5,null,null,得知 情况 后
+6,null,null,记者 又 专门 向 王继才 求证
+7,null,null,淳朴 的 王继才乐 呵 的 点头 表示 这个 中秋 很 热闹
+8,null,null,今天 这么 多人 陪 他俩 过 中秋
+9,happiness,开心,他 很 开心
+10,null,null,明天 生日 我要 多 煎 两个 鸡蛋
+11,null,null,高兴
+12,null,null,带 着 浓重 苏北 口音 的 王继才 哈哈大笑
+693 10
+ (4,2)
+1,null,null,二肖霞 7 岁 那年
+2,null,null,如亲 外公 样 的 肖盛林 不幸 因 病 逝世
+3,null,null,送葬 那日
+4,sadness,哭叫,肖霞 哭叫 着 外公
+5,null,null,我要 外公 啊
+6,null,null,那 伤感 凄楚 的 哭喊
+7,null,null,让 一村 人 动容
+8,null,null,从此
+9,null,null,蒋冬姣 外婆 成 了 孤苦伶仃 的 寡妇
+10,null,null,而 懂事 的 肖霞 担负起 了 照顾 老人 的 责任
+810 16
+ (9,9)
+1,null,null,1943 年 到 1949 年
+2,null,null,我 靠 做 挑夫 挣钱 养家
+3,null,null,虽然 没有 一户 债主 来 我家 讨债
+4,null,null,我 还是 还 了 10 户 人家 的 债
+5,null,null,总共 还 了 3000 多块 纸币 和 1240 多块 银元
+6,null,null,郑宜栋 自豪 地说
+7,null,null,人穷志 不穷
+8,null,null,做 挑夫 很苦 很 累
+9,happiness,痛快,但 还 了 债 心里 就 很 痛快
+10,null,null,但是
+11,null,null,1975 年
+12,null,null,家里 的 土坯 房子 被 暴风雨 压倒 了
+13,null,null,郑宜栋 咬牙 借 了 4900 元 建房
+14,null,null,老账 还 没有 还清
+15,null,null,又 欠下 了 新账
+16,null,null,这 让 郑宜栋 的 替父 还债 计划 搁浅 了 10 多年

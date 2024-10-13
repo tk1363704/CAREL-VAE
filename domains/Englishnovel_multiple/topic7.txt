@@ -1,0 +1,373 @@
+1378 1
+ (1, 1),
+1,sadness,sadness,i 've got a blinding headache and I feel terrible .
+1401 3
+ (3, 2),
+1,null,null,Ugh
+2,null,disgust,I dont have anything to do
+3,disgust,bored,im so bored
+2348 2
+ (1, 1),
+1,happiness,happiness,It was thrilling to see my words on the website
+2,null,null,I was a bit shy to start with but after a while I got to know the kind of things Hai Kakar wanted me to talk about and became more confident .
+2354 3
+ (3, 3),
+1,null,null,Moniba had the most beautiful writing and presentation of the three of us
+2,null,null,but I always told her she did not trust herself enough
+3,fear,fear,e worked hard as she worried that if she got low marks her male relatives might use it as an excuse to stop her education .
+2366 7
+ (4, 2),
+1,null,null,On the day only eight or nine boys and girls turned up
+2,null,fear,Moniba spoke well – she was very composed and her speech was more emotional and poetic than mine
+3,null,null,though mine might have had the better message
+4,fear,was so nervous,I was so nervous before the speech
+5,null,null,I was trembling with fear
+6,null,null,My grandfather had come to watch and I knew he really wanted me to win the competition
+7,null,null,which made me even more nervous .
+2367 7
+ (7, 6),
+1,null,null,On the day only eight or nine boys and girls turned up
+2,null,null,Moniba spoke well – she was very composed and her speech was more emotional and poetic than mine
+3,null,null,though mine might have had the better message
+4,null,null,I was so nervous before the speech
+5,null,null,I was trembling with fear
+6,null,fear,My grandfather had come to watch and I knew he really wanted me to win the competition
+7,fear,nervous,which made me even more nervous .
+2755 6
+ (2, 2),
+1,null,null,The space gets tighter
+2,fear,fear,more claustrophobic as people ar rive
+3,null,null,The square 's quite large
+4,null,null,but not enough to hold District 12 's population of about eight thousand
+5,null,null,Latecomers are directed to the adjacent streets
+6,null,null,where they can watch the event on screens as it 's televised live by the state .
+2757 11
+ (8, 1),
+1,null,fear,It 's time for the drawing
+2,null,null,Effie Trinket says as she always does
+3,null,null,"  Ladies first
+4,null,null,"   and crosses to the glass ball with the girls ' names
+5,null,null,She reaches in
+6,null,null,digs her hand deep into the ball
+7,null,null,and pulls out a slip of paper
+8,fear,collective breath,The crowd draws in a collective breath and then you can hear a pin drop
+9,null,null,and im feeling nauseous and so desperately hoping that it 's not me
+10,null,null,that it 's not me
+11,null,null,that it 's not me .
+2760 12
+ (2, 2),
+1,null,null,Somewhere far away
+2,sadness,sadness,I can hear the crowd murmuring un happily as they always do when a twelve-year-old gets chosen because no one thinks this is fair
+3,null,null,And then I see her
+4,null,null,the blood drained from her face
+5,null,null,hands clenched in fists at her sides
+6,null,null,walking with stiff
+7,null,null,small steps up toward the stage
+8,null,null,passing me
+9,null,null,and I see the back of her blouse has become untucked and hangs out over her skirt
+10,null,null,It 's this detail
+11,null,null,the untucked blouse forming a ducktail
+12,null,null,that brings me back to myself .
+2761 12
+ (4, 2),
+1,null,null,Somewhere far away
+2,null,sadness,I can hear the crowd murmuring un happily as they always do when a twelve-year-old gets chosen because no one thinks this is fair
+3,null,null,And then I see her
+4,sadness,the blood drained,the blood drained from her face
+5,null,null,hands clenched in fists at her sides
+6,null,null,walking with stiff
+7,null,null,small steps up toward the stage
+8,null,null,passing me
+9,null,null,and I see the back of her blouse has become untucked and hangs out over her skirt
+10,null,null,It 's this detail
+11,null,null,the untucked blouse forming a ducktail
+12,null,null,that brings me back to myself .
+2762 7
+ (1, 3),
+1,happiness,Lovely,"  Lovely
+2,null,null,"   says Effie Trinket
+3,null,happiness,"  But I believe there 's a small matter of introducing the reaping winner and then asking for volunteers
+4,null,null,and if one does come forth then we
+5,null,null,um
+6,null,null,she trails off
+7,null,null,unsure herself .
+2763 9
+ (5, 5),
+1,null,null,"  Well
+2,null,null,bravo
+3,null,null,"   gushes Effie Trinket
+4,null,null,"  That 's the spirit of the Games
+5,happiness,happiness,"   She 's pleased to finally have a district with a little action going on in it
+6,null,null,"  What 's your name
+7,null,null,"  I swallow hard
+8,null,null,"  Katniss Everdeen
+9,null,null,"   I say .
+2764 21
+ (20, 7),
+1,null,null,"  Look at her
+2,null,null,Look at this one
+3,null,null,"   he hollers
+4,null,null,throwing an arm around my shoulders
+5,null,null,He 's surprisingly strong for such a wreck
+6,null,null,"  I like her
+7,null,disgust,"   His breath reeks of liquor and it 's been a long time since he 's bathed
+8,null,null,"  Lots of
+9,null,null,"   He cant think of the word for a while
+10,null,null,"  Spunk
+11,null,null,"   he says triumphantly
+12,null,null,"  More than you
+13,null,null,"   he releases me and starts for the front of the stage
+14,null,null,"  More than you
+15,null,null,"   he shouts
+16,null,null,pointing directly into a camera
+17,null,null,he addressing the audience or is he so drunk he might actually be taunting the Capitol
+18,null,null,i 'll never know because just ashe 's opening his mouth to continue
+19,null,null,Haymitch plummets off the stage and knocks himself unconscious
+20,disgust,disgusting,'s disgusting
+21,null,null,but im grateful .
+2765 13
+ (6, 7),
+1,null,null,Haymitch is whisked away on a stretcher
+2,null,null,and Effie Trinketis trying to get the ball rolling again
+3,null,null,"  What an exciting day
+4,null,null,"   she warbles as she attempts to straighten her wig
+5,null,null,which has listed severely to the right
+6,happiness,more excitement,"  But more excitement to come
+7,null,happiness,It 's time to choose our boy tribute
+8,null,null,"   Clearly hoping to contain her tenuous hair situation
+9,null,null,she plants one hand on her head as she crosses to the ball that contains the boys ' names and grabs the first slip she encounters
+10,null,null,She zips back to the podium
+11,null,null,and I dont even have time to wish for Gale 's safety when she 's reading the name
+12,null,null,"  Peeta Mellark
+13,null,null,Peeta Mellark
+2780 7
+ (3, 1),
+1,null,surprise,Someone else enters the room
+2,null,null,and when I look up
+3,surprise,surprised,im surprised to see it 's the baker
+4,null,null,Peeta Mellark 's father
+5,null,null,I cant believe he 's come to visit me
+6,null,null,After all
+7,null,null,i 'll be trying to kill his son soon .
+2781 14
+ (5, 5),
+1,null,null,Someone else enters the room
+2,null,null,and when I look up
+3,null,null,im surprised to see it 's the baker
+4,null,null,Peeta Mellark 's father
+5,surprise,surprise,I cant believe he 's come to visit me
+6,null,null,After all
+7,null,null,i 'll be trying to kill his son soon
+8,null,null,But we do know each other a bit
+9,null,null,and he knows Prim even better
+10,null,null,When she sells her goat cheeses at the Hob
+11,null,null,she puts two of them aside for him and he gives her a generous amount of bread in return
+12,null,null,We always wait to trade with him when his witch of a wife is n't around because he 's so much nicer
+13,null,null,I feel certain he would never have hit his son the way she did over the burned bread
+14,null,null,But why has he come to see me
+2785 4
+ (4, 4),
+1,null,null,i 've been right not to cry
+2,null,null,The station is swarming with re porters with their insect like cameras trained directly on my face
+3,null,null,But i 've had a lot of practice at wiping my face clean of emotions and I do this now
+4,happiness,happiness,I catch a glimpse of myself on the television screen on the wall that 's airing my arrival live and feel gratified that I appear almost bored .
+2787 11
+ (6, 5),
+1,null,null,The commentators are not sure what to say about the crowd 's refusal to applaud
+2,null,null,The silent salute
+3,null,null,One says that District 12 has always been a bit backward but that local customs can be charming
+4,null,null,As if on cue
+5,null,happiness,Haymitch falls off the stage
+6,happiness,groan comically,and they groan comically
+7,null,null,Peeta 's name is drawn
+8,null,null,and he quietly takes his place
+9,null,null,We shake hands
+10,null,null,They cut to the anthem again
+11,null,null,and the pro gram ends .
+2788 6
+ (1, 1),
+1,disgust,disgust,Effie Trinket is disgruntled about the state her wig was in
+2,null,null,"  Your mentor has a lot to learn about presentation
+3,null,null,A lot about televised behavior
+4,null,null,Peeta unexpectedly laughs
+5,null,null,he was drunk
+6,null,null,"  says Peeta .
+2789 8
+ (2, 3),
+1,null,null,The idea pulls me up short
+2,fear,dangerous,A kind Peeta Mellark is far more dangerous to me than an unkind one
+3,null,fear,Kind people have a way of working their way inside me and rooting there
+4,null,null,And I cant let Peeta do this
+5,null,null,Not where we 're going
+6,null,null,So I decide
+7,null,null,from this moment on
+8,null,null,to have as little as possible to do with the baker 's son .
+2795 7
+ (6, 6),
+1,null,null,"  Here 's some advice
+2,null,null,Stay alive
+3,null,null,"   says Haymitch
+4,null,null,and then bursts out laughing
+5,null,null,I exchange a look with Peeta before I remember im having nothing more to do with him
+6,surprise,surprise,im surprised to see the hardness in his eyes
+7,null,null,He generally seems so mild .
+2798 6
+ (2, 1),
+1,null,happiness,The train finally begins to slow and suddenly bright light floods the compartment
+2,happiness,We cant help it,We cant help it
+3,null,null,Both Peeta and I run to the window to see what we 've only seen on television
+4,null,null,the Capitol
+5,null,null,the ruling city of Panem
+6,null,null,The cameras have n't lied about its grandeur .
+2799 6
+ (3, 1),
+1,null,disgust,The people begin to point at us eagerly as they recognize a tribute train rolling into the city
+2,null,null,I step away from the window
+3,disgust,sickened,sickened by their excitement
+4,null,null,knowing they cant wait to watch us die
+5,null,null,But Peeta holds his ground
+6,null,null,actually waving and smiling at the gawking crowd .
+2802 11
+ (2, 3),
+1,null,null,Despite this morning 's revelation about Peeta 's character
+2,happiness,relieved,im actually relieved when he shows up
+3,null,happiness,dressed in an identical costume
+4,null,null,He should know about fire
+5,null,null,being a baker 's son and all
+6,null,null,His stylist
+7,null,null,Portia
+8,null,null,and her team accompany him in
+9,null,null,and everyone is absolutely giddy with excitement over what a splash we 'll make
+10,null,null,Except Cinna
+11,null,null,He just seems a bit weary as he accepts congratulations .
+2803 11
+ (9, 9),
+1,null,null,Despite this morning 's revelation about Peeta 's character
+2,null,null,im actually relieved when he shows up
+3,null,null,dressed in an identical costume
+4,null,null,He should know about fire
+5,null,null,being a baker 's son and all
+6,null,null,His stylist
+7,null,null,Portia
+8,null,null,and her team accompany him in
+9,happiness,happiness,and everyone is absolutely giddy with excitement over what a splash we 'll make
+10,null,null,Except Cinna
+11,null,null,He just seems a bit weary as he accepts congratulations .
+2804 3
+ (1, 1),
+1,surprise,surprise,The crowd 's initial alarm at our appearance quickly changes to cheers and shouts of  "  District Twelve
+2,null,null,"   Every head is turned our way
+3,null,null,pulling the focus from the three chariots ahead of us .
+2805 3
+ (1, 1),
+1,happiness,happiness,The crowd 's initial alarm at our appearance quickly changes to cheers and shouts of  "  District Twelve
+2,null,null,"   Every head is turned our way
+3,null,null,pulling the focus from the three chariots ahead of us .
+2806 18
+ (9, 9),
+1,null,null,Remember
+2,null,null,heads high
+3,null,null,Smiles
+4,null,null,theyre going to love you
+5,null,null,I hear Cinna 's voice in my head
+6,null,null,I lift my chin a bit higher
+7,null,null,put on my most winning smile
+8,null,null,and wave with my free hand
+9,happiness,happiness,im glad now I have Peeta to clutch for balance
+10,null,null,he is so steady
+11,null,null,solid as a rock
+12,null,null,As I gain confidence
+13,null,null,I actually blow a few kisses to the crowd
+14,null,null,The people of the Capitol are going nuts
+15,null,null,showering us with flowers
+16,null,null,shouting our names
+17,null,null,our first names
+18,null,null,which they have bothered to find on the program .
+2807 7
+ (3, 2),
+1,null,null,As I gain confidence
+2,null,happiness,I actually blow a few kisses to the crowd
+3,happiness,nuts,The people of the Capitol are going nuts
+4,null,null,showering us with flowers
+5,null,null,shouting our names
+6,null,null,our first names
+7,null,null,which they have bothered to find on the program .
+2811 8
+ (1, 2),
+1,sadness,Unfortunately,"  Unfortunately
+2,null,sadness,I cant seal the sponsor deals for you
+3,null,null,Only Haymitch can do that
+4,null,null,"   says Effie grimly
+5,null,null,"  But dont worry
+6,null,null,i 'll get him to the table at gunpoint if necessary
+7,null,null,although lacking in many departments
+8,null,null,Effie Trinket has a certain determination I have to admire .
+2812 5
+ (4, 2),
+1,null,null,About halfway through my glass of wine
+2,null,sadness,my head starts feeling foggy
+3,null,null,so I change to water instead
+4,sadness,dont like,I dont like the feeling and hope it wears off soon
+5,null,null,How Haymitch can stand walking around like this full-time is a mystery .
+2815 5
+ (2, 2),
+1,null,null,Besides
+2,fear,fear,the idea of the girl with her maimed tongue frightens me
+3,null,null,She has reminded me why im here
+4,null,null,Not to model flashy costumes and eat delicacies
+5,null,null,But to die a bloody death while the crowds urge on my killer .
+2816 6
+ (4, 1),
+1,null,fear,Peeta takes off his jacket and wraps it around my shoulders
+2,null,null,I start to take a step back
+3,null,null,but then I let him
+4,fear,deciding,deciding for a moment to accept both his jacket and his kindness
+5,null,null,A friend would do that
+6,null,null,right
+2817 11
+ (3, 4),
+1,null,null,"  i 'd leave here
+2,null,null,"   Peeta blurts out
+3,fear,nervously,Then he looks around nervously
+4,null,fear,It was loud enough to hear above the chimes
+5,null,null,He laughs
+6,null,null,"  i 'd go home now if they let me
+7,null,null,But you have to admit
+8,null,null,the food 's prime
+9,null,null,e 's covered again
+10,null,null,If that 's all you 'd heard it would just sound like the words of a scared tribute
+11,null,null,not someone contemplating the unquestionable goodness of the Capitol .
+2818 14
+ (5, 2),
+1,null,null,"  No
+2,null,surprise,we 're not related
+3,null,null,"   I say
+4,null,null,Peeta nods
+5,surprise,unreadable,unreadable
+6,null,null,"  Did he come to say good bye to you
+7,null,null,"   "  Yes
+8,null,null,"   I say
+9,null,null,observing him carefully
+10,null,null,"  So did your father
+11,null,null,He brought me cookies
+12,null,null,Peeta raises his eyebrows as if this is news
+13,null,null,But after watching him lie so smoothly
+14,null,null,I dont give this much weight .
+2819 9
+ (3, 1),
+1,null,surprise,"  He knew your mother when they were kids
+2,null,null,"   says Peeta
+3,surprise,Another surprise,Another surprise
+4,null,null,But probably true
+5,null,null,"  Oh
+6,null,null,yes
+7,null,null,She grew up in town
+8,null,null,"   I say
+9,null,null,It seems impolite to say she never mentioned the baker except to compliment his bread .
+2820 5
+ (5, 1),
+1,null,fear,My slumbers are filled with disturbing dreams
+2,null,null,The face of the redheaded girl intertwines with gory images from earlier Hunger Games
+3,null,null,with my mother withdrawn and unreachable
+4,null,null,with Prim emaciated and terrified
+5,fear,bolt up screaming,I bolt up screaming for my father to run as the mine explodes into a million deadly bits of light .

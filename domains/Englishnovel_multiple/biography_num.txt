@@ -1,0 +1,569 @@
+1 3
+ (2, 2),
+1,6,6,That day Jobs walked into the lobby of the video game manufacturer Atari and told the personnel director
+2,3,3,who was startled by his unkempt hair and attire
+3,6,6,that he would n't leave until they gave him a job .
+2 4
+ (4, 4),
+1,6,6,Jobs spent a few days in Munich
+2,6,6,where he solved the interference problem
+3,6,6,but in the process he flummoxed the dark suited German managers
+4,2,2,They complained to Alcorn that he dressed and smelled like a bum and behaved rudely .
+3 2
+ (2, 2),
+1,6,6,For his part
+2,4,4,Jobs was upset that the Germans kept trying to feed him meat and potatoes .
+8 4
+ (1, 1),
+1,0,0,Wozniak was thrilled when Jobs asked him to help and proposed splitting the fee
+2,6,6,this was the most wonderful offer in my life
+3,6,6,to actually design a game that people would use
+4,6,6,he recalled .
+9 4
+ (2, 2),
+1,6,6,The Atari experience helped shape Jobs 's approach to business and design
+2,0,0,He appreciated the user friendliness of Atari 's insert quarter avoid klingons games
+3,6,6,that simplicity rubbed off on him and made him a very focused product person
+4,6,6,said Ron Wayne .
+10 6
+ (1, 2),
+1,3,shocked,I typed a few keys on the keyboard and I was shocked
+2,6,3,The letters were displayed on the screen
+3,6,6,t was Sunday
+4,6,6,June 29
+5,6,6,1975
+6,6,6,a milestone for the personal computer .
+11 4
+ (3, 2),
+1,6,6,His argument was that a great engineer would be remembered only if he teamed with a great marketer
+2,6,0,and this required him to commit his designs to the partnership
+3,0,impressed,Jobs was so impressed and grateful that he offered Wayne a 10% stake in the new partnership
+4,6,6,turning him into a tie-breaker if Jobs and Wozniak disagreed over an issue .
+12 4
+ (3, 2),
+1,6,6,His argument was that a great engineer would be remembered only if he teamed with a great marketer
+2,6,0,and this required him to commit his designs to the partnership
+3,0,grateful,Jobs was so impressed and grateful that he offered Wayne a 10% stake in the new partnership
+4,6,6,turning him into a tie-breaker if Jobs and Wozniak disagreed over an issue .
+13 2
+ (2, 2),
+1,6,6,Jobs and Wozniak had no personal assets
+2,4,4,but Wayne ( who worried about a global financial Armageddon ) kept gold coins hidden in his mattress .
+14 5
+ (5, 5),
+1,6,6,Jobs and Wozniak had no personal assets
+2,6,6,but Wayne ( who worried about a global financial Armageddon ) kept gold coins hidden in his mattress
+3,6,6,Because they had structured Apple as a simple partnership rather than a corporation
+4,6,6,the partners would be personally liable for the debts
+5,4,4,and Wayne was afraid potential creditors would go after him .
+17 8
+ (1, 6),
+1,3,a bit taken aback,Terrell was a bit taken aback
+2,6,6,There was no power supply
+3,6,6,case
+4,6,6,monitor
+5,6,6,or keyboard
+6,6,3,He had expected something more finished
+7,6,6,But Jobs stared him down
+8,6,6,and he agreed to take delivery and pay .
+18 4
+ (1, 4),
+1,0,exulted,As Wozniak later exulted
+2,6,6,We were participating in the biggest revolution that had ever happened
+3,6,6,I thought
+4,6,0,I was so happy to be a part of it .
+19 5
+ (3, 1),
+1,6,3,You might want to buy us for a few hundred thousand dollars
+2,6,6,Jobs said when they got there
+3,3,was stunned by,Wozniak was stunned by this ridiculous
+4,6,6,suggestion
+5,6,6,but Jobs persisted .
+20 2
+ (2, 1),
+1,6,0,Within weeks he had produced a simple foam molded plastic case that was uncluttered and exuded friendliness
+2,0,thrilled,Jobs was thrilled .
+21 1
+ (1, 1),
+1,2,2,What bothered him more was that Jobs knew nothing about marketing and seemed content to peddle his product to individual stores one by one .
+22 3
+ (2, 1),
+1,6,3,He wanted to secure a location right at the front of the hall as a dramatic way to launch the Apple II
+2,3,shocked,and so he shocked Wozniak by paying $5
+3,6,6,000 in advance .
+23 2
+ (2, 2),
+1,6,6,Like Markkula
+2,2,2,he hated dealing with the conflicts that Jobs engendered .
+24 8
+ (7, 1),
+1,6,5,Scott assigned  1 to Wozniak and  2 to Jobs
+2,6,6,Not surprisingly
+3,6,6,Jobs demanded to be  1
+4,6,6,I would n't let him have it
+5,6,6,because that would stoke his ego even more
+6,6,6,said Scott
+7,5,tantrum,Jobs threw a tantrum
+8,6,6,even cried .
+25 8
+ (8, 1),
+1,6,1,Scott assigned  1 to Wozniak and  2 to Jobs
+2,6,6,Not surprisingly
+3,6,6,Jobs demanded to be  1
+4,6,6,I would n't let him have it
+5,6,6,because that would stoke his ego even more
+6,6,6,said Scott
+7,6,6,Jobs threw a tantrum
+8,1,cried,even cried .
+26 3
+ (3, 2),
+1,6,6,Jobs also insisted that Apple be different in how it treated customers
+2,6,3,He wanted a one year warranty to come with the Apple II
+3,3,flabbergasted,This flabbergasted Scott
+27 4
+ (3, 2),
+1,6,6,A year after Lisa was born
+2,6,3,Jobs agreed to take a paternity test
+3,3,3,Brennan 's family was surprised
+4,6,6,but Jobs knew that Apple would soon be going public and he decided it was best to get the issue resolved .
+29 4
+ (3, 2),(3, 4),
+1,6,6,Atkinson and others had read some of the papers published by Xerox PARC
+2,6,2,so they knew they were not getting a full description
+3,2,complain,Jobs phoned the head of the Xerox venture capital division to complain
+4,6,2,a call immediately came back from corporate headquarters in Connecticut decreeing that Jobs and his group should be shown everything .
+30 5
+ (4, 1),
+1,6,2,They said it would force us to use a phosphor that was a lot less persistent and would flicker more
+2,6,6,o Atkinson enlisted Jobs
+3,6,6,who came down on his side
+4,2,grumbled,The hardware folks grumbled
+5,6,6,but then went off and figured it out .
+31 6
+ (5, 3),
+1,6,6,He was working so hard that one morning
+2,6,6,in a daze
+3,6,4,he drove his Corvette into a parked truck and nearly killed himself
+4,6,6,Jobs immediately drove to the hospital to see him
+5,4,worried about,We were pretty worried about you
+6,6,6,he said when Atkinson regained consciousness .
+32 4
+ (3, 1),(3, 2),
+1,6,2,This required using a ball rather than the usual two wheels
+2,6,2,One of the engineers told Atkinson that there was no way to build such a mouse commercially
+3,2,complained,After Atkinson complained to Jobs over dinner
+4,6,6,he arrived at the office the next day to discover that Jobs had fired the engineer .
+33 3
+ (3, 3),
+1,6,6,But John Couch and the other professional engineers on his Lisa team
+2,6,6,many of them buttoned down HP types
+3,5,5,resented Jobs 's meddling and were infuriated by his frequent insults .
+34 3
+ (1, 1),
+1,4,4,Both Mike Scott and Mike Markkula were intent on bringing some order to Apple and became increasingly concerned about Jobs 's disruptive behavior
+2,6,6,So in September 1980
+3,6,6,they secretly plotted a reorganization .
+35 6
+ (5, 1),
+1,6,4,He was made non-executive chairman of the board
+2,6,6,This position allowed him to remain Apple 's public face
+3,6,6,but it meant that he had no operating control
+4,6,6,That hurt
+5,4,upset,I was upset and felt abandoned by Markkula
+6,6,6,he said .
+38 2
+ (2, 1),
+1,6,2,Some of the people on the project became enamored of the quest to do everything with the mouse
+2,2,grouse,he later grouse .
+39 6
+ (2, 2),
+1,6,6,Jobs even tried to reengage Wozniak
+2,2,2,I resented the fact that he had not been doing much
+3,6,6,but then I thought
+4,6,6,hell
+5,6,6,I would n't be here without his brilliance
+6,6,6,Jobs later told me .
+41 3
+ (3, 3),
+1,6,6,One day Jobs came into the cubicle of Larry Kenyon
+2,6,6,an engineer who was working on the Macintosh operating system
+3,2,2,and complained that it was taking too long to boot up .
+43 3
+ (1, 2),
+1,2,burst of criticism,Then Jobs let loose a blistering burst of criticism
+2,6,2,It 's way too boxy
+3,6,6,it 's got to be more curvaceous .
+44 9
+ (9, 1),(9, 4),
+1,6,3,He had just come up with a brilliant algorithm that could draw circles and ovals onscreen quickly
+2,6,6,The math for making circles usually required calculating square roots
+3,6,6,which the 68000 microprocessor didnt support
+4,6,3,But Atkinson did a workaround based on the fact that the sum of a sequence of odd numbers produces a sequence of perfect squares ( for example
+5,6,6,1 + 3 = 4
+6,6,6,1 + 3 + 5 = 9
+7,6,6,etc
+8,6,6,Hertzfeld recalled that when Atkinson fired up his demo
+9,3,impressed,everyone was impressed except Jobs .
+46 3
+ (3, 1),
+1,6,1,Jobs wants to destroy Lisa because we would n't let him control it
+2,6,6,he said
+3,1,looking as if he were about to cry,looking as if he were about to cry .
+47 5
+ (5, 2),
+1,6,6,Atkinson had been left out of the publicity interviews for the Lisa launch
+2,6,5,and he marched into Jobs 's hotel room and threatened to quit
+3,6,6,Jobs tried to minimize the slight
+4,6,6,but Atkinson refused to be mollified
+5,5,annoyed,Jobs got annoyed .
+48 8
+ (7, 2),
+1,6,6,But by the time the Lisa was ready to ship in the spring of 1983
+2,6,4,it was clear that the Twiggy was buggy
+3,6,6,Because the Lisa also came with a hard-disk drive
+4,6,6,this was not a complete disaster
+5,6,6,But the Mac had no hard disk
+6,6,6,so it faced a crisis
+7,4,panic,The Mac team was beginning to panic
+8,6,6,said Hertzfeld .
+49 5
+ (3, 2),(5, 2),
+1,6,6,A few days later he drove to Apple 's factory in San Jose to see the Twiggy being made
+2,6,5,More than half were rejected
+3,5,erupted,Jobs erupted
+4,6,6,With his face flushed
+5,5,shouting and sputtering,he began shouting and sputtering about firing everyone who worked there .
+50 2
+ (2, 2),
+1,6,6,He took them to visit a computer store
+2,3,3,where he was struck by how poorly the products were marketed .
+51 2
+ (2, 2),
+1,6,6,When he arrived at Apple headquarters
+2,3,3,Sculley was startled by the unassuming offices and casual atmosphere .
+52 5
+ (4, 3),
+1,6,6,The explanation that Sculley might buy a lot of Macintoshes for Pepsi sounded a little bit fishy to me
+2,6,6,Hertzfeld recalled
+3,6,0,but he and Susan Kare created a screen of Pepsi caps and cans that danced around with the Apple logo
+4,0,3,Hertzfeld was so excited he began waving his arms around during the demo
+5,6,6,but Sculley seemed underwhelmed .
+53 5
+ (4, 3),
+1,6,6,The explanation that Sculley might buy a lot of Macintoshes for Pepsi sounded a little bit fishy to me
+2,6,6,Hertzfeld recalled
+3,6,0,but he and Susan Kare created a screen of Pepsi caps and cans that danced around with the Apple logo
+4,0,waving his arms around,Hertzfeld was so excited he began waving his arms around during the demo
+5,6,6,but Sculley seemed underwhelmed .
+54 2
+ (1, 2),
+1,3,astonished,Sculley was astonished
+2,6,3,At Pepsi no one would have challenged the chairman like that .
+55 3
+ (3, 2),
+1,6,6,To him
+2,6,5,the marketing costs were like any other production cost and needed to be factored into the price
+3,5,resisted furiously,Jobs resisted furiously .
+56 6
+ (6, 6),
+1,6,6,So Jobs promised them
+2,6,6,dont worry
+3,6,6,im not going to let him get away with it
+4,6,6,But in the end
+5,6,6,Sculley prevailed
+6,5,5,Even twenty-five years later Jobs seethed when recalling the decision :  It 's the main reason the Macintosh sales slowed and Microsoft got to dominate the market .
+57 5
+ (2, 2),
+1,6,6,Hertzfeld
+2,0,0,who took great pride that they could achieve their functionality solely using software
+3,6,6,replied
+4,6,6,We dont have any special hardware for it
+5,6,6,Gates insisted that it was necessary to have special hardware to move the cursor that way .
+58 3
+ (2, 2),
+1,6,6,Despite their mutual wariness
+2,0,0,both teams were excited by the prospect that Microsoft would create graphical software for the Macintosh that would take personal computing into a new realm
+3,6,6,and they went to dinner at a fancy restaurant to celebrate .
+59 5
+ (1, 4),(1, 5),
+1,0,upset,But this arrangement upset competing software makers
+2,6,6,In addition
+3,6,6,it seemed that some of Microsoft 's programs might be late
+4,6,0,So Jobs invoked a provision in his deal with Microsoft and decided not to bundle its software
+5,6,0,Microsoft would have to scramble to distribute its software as products sold directly to consumers .
+60 2
+ (2, 2),
+1,6,6,As Jobs and his team began to work closely with Microsoft
+2,4,4,they grew worried that it would copy Macintosh 's graphical user interface .
+61 2
+ (2, 1),
+1,6,0,I drew a circle
+2,0,exclaimed proudly,Warhol exclaimed proudly after using QuickDraw .
+62 5
+ (3, 2),
+1,6,6,After Jobs talked about the just-in-time production schedules
+2,6,5,she asked about overtime pay
+3,5,annoyed,He was annoyed
+4,6,6,so he described how automation helped him keep down labor costs
+5,6,6,a subject he knew would not delight her .
+64 7
+ (6, 5),
+1,6,6,He was just completely obnoxious and thinking he could get away with anything
+2,6,6,she recalled
+3,6,6,In Paris she had arranged a formal dinner with French software developers
+4,6,6,but Jobs suddenly decided he didnt want to go
+5,6,5,Instead he shut the car door on Hoffman and told her he was going to see the poster artist Folon instead
+6,5,were so pissed off,The developers were so pissed off they would n't shake our hands
+7,6,6,she said .
+65 2
+ (2, 1),
+1,6,5,When Jobs made his usual threat about cutting down on France 's allocations if Gass  e didnt jack up sales projections
+2,5,got angry,Gass  e got angry .
+66 3
+ (1, 1),
+1,5,5,I was furious because the Mac XL wasnt real
+2,6,6,said Hoffman
+3,6,6,It was just to blow the excess Lisas out the door .
+68 8
+ (8, 3),
+1,6,6,The Macintosh team is doing great
+2,6,6,and im having the best time of my life right now
+3,6,1,you 're just completely out of touch
+4,6,6,is stare was withering
+5,6,6,but he also tried to look amused at Hertzfeld 's assessment
+6,6,6,you really believe that
+7,6,6,I dont think there 's any way that I can come back
+8,1,glumly,Hertzfeld replied glumly .
+69 2
+ (2, 2),
+1,6,6,By early 1985 Burrell Smith was also ready to leave
+2,4,4,He had worried that it would be hard to quit if Jobs tried to talk him out of it
+70 2
+ (2, 1),
+1,6,5,There he happened to see sketches that the firm had made for Wozniak 's new remote control device
+2,5,flew into a rage,and he flew into a rage .
+71 1
+ (1, 1),
+1,5,5,As the Macintosh continued to disappoint - sales in March 1985 were only 10% of the budget forecast  .  Jobs holed up in his office fuming or wandered the halls berating everyone else for the problems .
+72 2
+ (1, 2),
+1,5,In his growling voice,In his growling voice
+2,6,5,he said that Jobs had been behaving foolishly for a year and had no right to be managing a division .
+74 2
+ (1, 1),
+1,5,5,His ire stoked by hearing from Markkula that Jobs had spent the previous evening trying to subvert him
+2,6,6,Sculley walked over to Jobs 's office on Tuesday morning .
+76 2
+ (2, 1),
+1,6,5,He warned them that there were strict laws against sharing technology with the Soviets
+2,5,annoyed,Jobs was annoyed .
+77 2
+ (2, 2),
+1,6,6,Lewin 's university consortium had been a godsend to the Macintosh group
+2,1,1,but he had become frustrated after Jobs left and Bill Campbell had reorganized marketing in a way that reduced the role of direct sales to universities .
+79 1
+ (1, 1),
+1,3,3,What particularly struck Nocera was Jobs 's almost willful lack of tact .
+80 3
+ (3, 1),
+1,6,4,In the spring of 1988 cash was running so short that he convened a meeting to decree deep spending cuts across the board
+2,6,6,When it was over
+3,4,afraid,Lasseter and his animation group were almost too afraid to ask Jobs about authorizing some extra money for another short .
+81 6
+ (6, 3),
+1,6,6,Jobs had been reluctant to let Paul and Clara
+2,6,6,whom he considered his real parents
+3,6,5,know about his search for his birth mother
+4,6,6,With a sensitivity that was unusual for him
+5,6,6,and which showed the deep affection he felt for his parents
+6,5,offended,he worried that they might be offended .
+83 1
+ (1, 1),
+1,0,0,Jobs was thrilled to find that he had a sibling who was so similar to him .
+86 6
+ (2, 2),
+1,6,6,On occasion this could backfire
+2,4,4,such as when Jobs and Ive insisted on using a solid piece of brushed aluminum for the edge of the iPhone 4 even when the engineers worried that it would compromise the antenna
+3,6,6,But usually the distinctiveness of its designs for the iMac
+4,6,6,the iPod
+5,6,6,the iPhone
+6,6,6,and the iPad would set Apple apart and lead to its triumphs in the years after Jobs returned .
+94 6
+ (6, 4),
+1,6,6,So Woolard happily granted Jobs 's wish
+2,6,6,with a Gulfstream V
+3,6,6,and also offered him fourteen million stock options
+4,6,4,Jobs gave an unexpected response
+5,6,6,He wanted more :  twenty million options
+6,4,upset,Woolard was baffled and upset .
+96 3
+ (2, 1),
+1,6,3,The most Zen of all simplicities was Jobs 's decree
+2,3,astonished,which astonished his colleagues
+3,6,6,that the iPod would not have an on-off switch .
+99 9
+ (9, 8),
+1,6,6,But as soon as they checked in
+2,6,6,he braced himself
+3,6,6,and sure enough his phone rang a minute later
+4,6,6,I hate my room
+5,6,6,Jobs declared
+6,6,6,It 's a piece of shit
+7,6,6,let 's go
+8,6,3,So Ive gathered his luggage and went to the front desk
+9,3,shocked,where Jobs bluntly told the shocked clerk what he thought .
+100 7
+ (2, 2),
+1,6,6,Bewkes didnt agree with any of those premises
+2,0,0,He said he was happy for Apple to sell digital subscriptions for Time Inc
+3,6,6,Apple 's 30% take was not the problem
+4,6,6,im telling you right now
+5,6,6,if you sell a sub for us
+6,6,6,you can have 30%
+7,6,6,Bewkes told him .
+102 4
+ (2, 1),
+1,6,4,What did he think of the suggestion that Apple sometimes acted arrogantly
+2,4,worried about,im not worried about that
+3,6,6,he said
+4,6,6,because we 're not arrogant .
+718 6
+ (4, 2),
+1,6,6,Jobs stood back and proudly gazed at his new Macintosh
+2,6,0,It looks like it 's from another planet
+3,6,6,he said
+4,0,laughed,as the audience laughed
+5,6,6,a good planet
+6,6,6,A planet with better designers .
+719 7
+ (2, 4),
+1,6,6,He perked up when the reporter said something like
+2,0,get excited,dont get excited
+3,6,6,Mac users
+4,6,0,because it wont work with Macs
+5,6,6,ncaid said to himself
+6,6,6,Ha
+7,6,6,I can fix that
+721 1
+ (1, 1),
+1,4,4,He was worried that the era of promoting a song through airplay on the radio was over .
+722 3
+ (2, 2),
+1,6,6,We dont want to do this for anyone else
+2,4,4,e was worried about setting the precedent of artists getting a royalty from each iPod sold
+3,6,6,Vincent assured him that the U2 deal would be special .
+723 3
+ (1, 3),
+1,4,get worried,Lasseter began to get worried when
+2,6,6,in early 1996
+3,6,4,he heard rumors that DreamWorks might be making its own computer-animated movie about ants .
+726 4
+ (4, 3),
+1,6,6,Jony and Steve were riffing on their design problem
+2,6,6,then Jony asked
+3,6,0,what if the screen was separated from the base like a sunflower
+4,0,got excited,He got excited and started sketching .
+727 5
+ (1, 3),
+1,4,worried about,The problem was that he worried about his image
+2,6,6,especially after the Fortune article
+3,6,4,He did not want to accept the new grant unless the board canceled his old options at the same time
+4,6,6,But to do so would have adverse accounting implications
+5,6,6,because it would be effectively repricing the old options .
+728 4
+ (3, 3),
+1,6,6,He 's a one-of-a-kind person  a genius
+2,6,6,ubinstein 's case was a little more contentious
+3,4,4,He was upset by Cook 's ascendency and frazzled after working for nine years under Jobs
+4,6,6,Their shouting matches became more frequent .
+729 4
+ (2, 2),
+1,6,6,Because most of his colleagues were used to it by then and had learned to cope
+2,4,4,what upset them most was when his ire turned on strangers
+3,6,6,Once we went to a Whole Foods market to get a smoothie
+4,6,6,Ive recalled .
+730 6
+ (4, 4),
+1,6,6,Jobs would get bored
+2,6,6,grab Riley 's mobile phone
+3,6,6,and start pointing out all the ways it was brain-dead
+4,0,0,o Jobs and his team became excited  about the prospect of building a phone that they would want to use
+5,6,6,That 's the best motivator of all
+6,6,6,Jobs later said .
+731 3
+ (1, 1),
+1,5,5,Gates was annoyed that the guy kept revealing information about the tablet PC he had developed for Microsoft
+2,6,6,He 's our employee and he 's revealing our intellectual property
+3,6,6,Gates recounted .
+732 3
+ (3, 3),
+1,6,6,A lot of features that seem simple now were the result of creative brainstorms
+2,6,6,For example
+3,4,4,the team worried about how to prevent the device from playing music or making a call accidentally when it was jangling in your pocket .
+733 6
+ (6, 4),
+1,6,6,He continued to insist that the Microsoft approach of using a stylus for input would prevail
+2,6,6,i 've been predicting a tablet with a stylus for many years
+3,6,6,he told me
+4,6,1,I will eventually turn out to be right or be dead
+5,6,6,e night after his announcement
+6,1,depressed,Jobs was annoyed and depressed .
+734 5
+ (5, 5),
+1,6,6,Jobs liked Stengel
+2,6,6,who had assigned a talented team led by Josh Quittner to make a robust iPad version of the magazine each week
+3,6,6,But he was upset to see Andy Serwer of Fortune there
+4,6,6,Tearing up
+5,5,5,he told Serwer how angry he still was about Fortune 's story two years earlier revealing details of his health and the stock options problems .
+735 5
+ (3, 3),
+1,6,6,There was one problem :  When Powell told her husband
+2,6,6,he said he didnt want to do it
+3,5,5,He was annoyed that she had arranged it behind his back
+4,6,6,im not going to get slotted in for a token meeting so that he can check off that he met with a CEO
+5,6,6,he told her .
+736 2
+ (2, 2),
+1,6,6,He had made the same offer in 2008
+2,5,5,but he 'd become annoyed when Obama 's strategist David Axelrod wasnt totally deferential .
+857 6
+ (2, 4),
+1,6,6,Steve goes in to pitch him
+2,2,could n't stand him,but Joe could n't stand him
+3,6,6,Alcorn recalled
+4,6,2,He didnt appreciate Steve 's hygiene
+5,6,6,Jobs was barefoot
+6,6,6,and at one point put his feet up on a desk .
+858 3
+ (3, 3),
+1,6,6,But Apple was my baby
+2,6,6,and I didnt want to give it up
+3,1,1,Relinquishing any control was agonizing to him .
+859 6
+ (6, 3),
+1,6,6,Sculley recalled
+2,6,6,Most of them thought it was the worst commercial they had ever seen
+3,6,5,Sculley himself got cold feet
+4,6,6,He asked Chiat Day to sell off the two commercial spots  one sixty seconds
+5,6,6,the other thirty  that they had purchased
+6,5,beside,bs was beside himself .
+860 1
+ (1, 1),
+1,5,5,He would later bristle whenever anyone referred to Paul and Clara Jobs as his adoptive parents or implied that they were not his real parents .
+1377 1
+ (1, 1),
+1,4,4,He was stressed out by all the travelling in his job .
+2024 3
+ (3, 3),
+1,6,6,Spend some time looking at your own application and see if you can find functions that seem as if they should be undoable
+2,6,6,but currently arent
+3,3,3,You may be surprised by how many you find .
+2629 4
+ (4, 4),
+1,6,6,All the warehouse workers were coarse 
+2,6,6,who were used to working in dirty conditions for long hours
+3,6,6,No words can describe the horror I felt 
+4,2,2,I was deeply ashamed at having such a job and I was also afraid that I would forget everything I had learnt from my mother and my teachers .
+2837 1
+ (1, 1),
+1,4,4,He was very nervous during his first job interview

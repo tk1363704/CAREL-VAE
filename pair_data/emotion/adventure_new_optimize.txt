@@ -1,0 +1,1384 @@
+28 2
+ (2, 1),
+1,6,-1,Think about surfing on the front edge of a wave
+2,0,-1,It 's really exhilarating .
+118 13
+ (4, 4),
+1,6,-1,We had a brave crew of young negroes to pull us
+2,6,-1,but
+3,6,-1,pull as they would
+4,4,-1,the current was so strong that we feared
+5,6,-1,if we persisted
+6,6,-1,we should be drawn into the broad Indian Ocean
+7,6,-1,so
+8,6,-1,changing our line
+9,6,-1,we bore into the little coralline island
+10,6,-1,Maziwa
+11,6,-1,where
+12,6,-1,after riding over some ugly coral surfs
+13,6,-1,we put in for the night .
+164 16
+ (5, 5),(5, 6),
+1,6,-1,n a minute or two afterwards
+2,6,-1,the good young princes
+3,6,-1,attracted by the sound of the gun
+4,6,-1,came to see what was done
+5,3,-1,Their surprise knew no bounds
+6,6,-1,they could scarcely believe what they saw
+7,6,-1,and then
+8,6,-1,on recovering
+9,6,-1,with the spirit of true gentlemen
+10,6,-1,they seized both my hands
+11,6,-1,congratulating me on the magnitude of my success
+12,6,-1,and pointed out
+13,6,-1,as an example of it
+14,6,-1,a bystander who showed fearful scars
+15,6,-1,both on his abdomen and at the blade of his shoulder
+16,6,-1,who they declared had been run through by one of these animals .
+204 5
+ (1, 1),
+1,4,-1,I fear that we are losing our heads
+2,6,-1,gentlemen
+3,6,-1,'' he said
+4,6,-1,and I propose to you the health of the first citizen of Kentucky
+5,6,-1,Colonel George Rogers Clark .
+221 17
+ (10, 11),(10, 12),
+1,6,-1,Excitement keyed us high
+2,6,-1,we reached the shade
+3,6,-1,plunged into it
+4,6,-1,and presently came out staring at the bastioned corners of a fort which rose from the centre of a clearing
+5,6,-1,It had once defended the place
+6,6,-1,but now stood abandoned and dismantled
+7,6,-1,Beyond it
+8,6,-1,at the edge of the bluff
+9,6,-1,we halted
+10,3,-1,astonished
+11,6,-1,The sun was falling in the west
+12,6,-1,and below us was the goal for the sight of which we had suffered so much
+13,6,-1,At our feet
+14,6,-1,across the wooded bottom
+15,6,-1,was the Kaskaskia River
+16,6,-1,and beyond
+17,6,-1,the peaceful little French village with its low houses and orchards and gardens colored by the touch of the evening light .
+225 11
+ (2, 8),(7, 8),
+1,6,-1,He turned from them once more
+2,1,-1,they went away in a dejection to wring our compassion
+3,6,-1,and we thought the matter ended at last
+4,6,-1,The sun was falling low
+5,6,-1,the people beginning to move away
+6,6,-1,when
+7,1,-1,to the astonishment of all
+8,6,-1,the culprits were seen coming back again
+9,6,-1,With them were two young men of their own nation
+10,6,-1,The Indians opened up a path for them to pass through
+11,6,-1,and they came as men go to the grave .
+227 8
+ (4, 4),(4, 5),
+1,6,-1,The kettles  long disused were fetched
+2,6,-1,and broth made and fed in sips to the weakest
+3,6,-1,while the strongest looked on and smiled in an agony of self-restraint
+4,4,-1,It was a fearful thing to see men whose legs had refused service struggle to their feet when they had drunk the steaming
+5,6,-1,greasy mixture
+6,6,-1,And the Colonel
+7,6,-1,standing by the river 's edge
+8,6,-1,turned his face away down stream .
+228 8
+ (4, 5),(5, 5),
+1,6,-1,He told us that a man named Maisonville
+2,6,-1,with a party of Indians
+3,6,-1,was in pursuit of him
+4,1,-1,and the next piece of news he had was in the way of raising our despair a little
+5,1,-1,Governor Hamilton 's astonishment at seeing this force here and now would be as great as his own
+6,6,-1,Governor Hamilton had said
+7,6,-1,indeed
+8,6,-1,that only a navy could take Vincennes this year .
+285 4
+ (2, 2),
+1,6,-1,By Job
+2,4,-1,there 's no devil if i 'll stand back from my clearing and waste the rest of the summer for the fears of a pack of cowards
+3,6,-1,i 'll take a posse and march to Shawanee Springs this day
+4,6,-1,and see any man a fair fight that tries to stop me
+293 2
+ (1, 1),
+1,3,-1,To my surprise he snatched me from the thwart and held me up with a shout
+2,6,-1,and I saw Colonel Clark turn and look back .
+320 3
+ (2, 2),
+1,6,-1,But Nick was one to carry by storm a position which another might wait to reconnoitre
+2,3,-1,The first sensation of our host was no doubt astonishment
+3,6,-1,but he was soon laughing over a vivid account of our adventures on the keel boat .
+322 7
+ (3, 3),
+1,6,-1,Four days and nights we rowed down the great river
+2,6,-1,our oars double manned
+3,4,-1,for fear that our coming might be heralded to the French towns
+4,6,-1,We made our first camp on a green little island at the mouth of the Cherokee
+5,6,-1,as we then called the Tennessee
+6,6,-1,and there I set about cooking a turkey for Colonel Clark
+7,6,-1,which Ray had shot .
+431 9
+ (9, 9),
+1,6,-1,Clients became so numerous that Pascal found it necessary to draw nearer the business centre
+2,6,-1,and his rent was consequently doubled
+3,6,-1,but the income he derived from his profession increased so rapidly that he soon had twelve thousand francs safely invested as a resource against any emergency
+4,6,-1,Madame Ferailleur now laid aside the mourning she had worn since her husband 's death
+5,6,-1,She felt that she owed it to Pascal
+6,6,-1,and
+7,6,-1,besides
+8,6,-1,after believing there was no more happiness left for her on earth
+9,0,-1,her heart rejoiced  at her son 's success .
+435 13
+ (13, 11),
+1,6,-1,He had barely strength enough to throw himself on to the bed
+2,6,-1,and in a moment he was sleeping with that heavy slumber which so often seizes hold of one on the occasion of a great crisis
+3,6,-1,and which has so frequently been observed among persons condemned to death
+4,6,-1,on the night preceding their execution
+5,6,-1,Four or five times his mother came to listen at the door
+6,6,-1,Once she entered
+7,6,-1,and seeing her son sleeping soundly
+8,6,-1,she could not repress a smile of satisfaction
+9,6,-1,"  Poor Pascal
+10,6,-1,"   she thought
+11,6,-1,"  he can bear no excess but excess of work
+12,6,-1,Heavens
+13,1,-1,how surprised and mortified  he will be when he awakes
+437 6
+ (3, 3),
+1,6,-1,Pascal read as follows :   "  There was great sensation and a terrible scandal last night at the residence of Madame d' a
+2,6,-1,a well-known star of the first magnitude
+3,0,-1,A score of gentlemen of high rank and immense wealth were enjoying a quiet game of baccarat
+4,6,-1,when it was observed that M
+5,6,-1,F   was winning in a most extraordinary manner
+6,6,-1,He was watched and detected in the very act of dexterously slipping some cards into the pack he held .
+463 17
+ (6, 4),
+1,6,-1,What a change indeed
+2,6,-1,At last the count made me retire to one of the compartments
+3,6,-1,where I soon fell asleep
+4,6,-1,abandoning my efforts to distinguish what was dreamlike in my situation from reality
+5,6,-1,However
+6,4,-1,when I woke up I became terribly anxious
+7,6,-1,I asked myself what was awaiting me at the end of this long journey
+8,6,-1,de Chalusse 's manner continued kind
+9,6,-1,and even affectionate
+10,6,-1,but he had regained his accustomed reserve and self-control
+11,6,-1,and I realized that it would be useless on my part to question him
+12,6,-1,At last
+13,6,-1,after a thirty hours ' journey by rail
+14,6,-1,we again entered the count 's berline
+15,6,-1,drawn by post horses
+16,6,-1,and eventually M
+17,6,-1,de Chalusse said to me :  ' here is Cannes we are at our journey 's end . '
+464 27
+ (12, 9),
+1,6,-1,He told me that he proposed spending a few months here in seclusion
+2,6,-1,so as to give me time to accustom myself to my new position and the luxury that surrounded me
+3,6,-1,I was
+4,6,-1,indeed
+5,6,-1,extremely awkward
+6,6,-1,and my excessive timidity was increased by my pride
+7,6,-1,I did not know what to say
+8,6,-1,or what to do
+9,6,-1,I did not know how to use my hands
+10,6,-1,nor how to walk
+11,6,-1,nor how to carry myself
+12,1,-1,Everything embarrassed and frightened me
+13,6,-1,and I was conscious of my awkwardness
+14,6,-1,without being able to remedy it
+15,6,-1,I saw my blunders
+16,6,-1,and knew that I spoke a different language to that which was spoken around me
+17,6,-1,And yet the memory of Cannes will ever be dear to me
+18,6,-1,For there I first met the only friend I have now left in this world
+19,6,-1,I did not exchange a word with him
+20,6,-1,but by the quickened throbbing s of my heart
+21,6,-1,when our eyes met
+22,6,-1,I felt that he would exert a powerful influence over my life
+23,6,-1,and events have since proved that I was not deceived
+24,6,-1,At that time
+25,6,-1,however
+26,6,-1,he was a stranger to me
+27,6,-1,and nothing on earth would have induced me to make inquiries concerning him .
+465 22
+ (11, 8),
+1,6,-1,"  By a single word the count could have insured the happiness of my life and his own
+2,6,-1,but he did not speak it
+3,6,-1,He was the kindest and most indulgent of guardians
+4,6,-1,and I was often affected to tears by his tenderness
+5,6,-1,But
+6,6,-1,although my slightest wish was law
+7,6,-1,he did not grant me his confidence
+8,6,-1,the mystery that stood between us was like a wall of ice  Still
+9,6,-1,I was gradually becoming accustomed to my new life
+10,6,-1,and my mind was regaining its equilibrium
+11,2,-1,when one evening the count returned home more agitated and excited
+12,6,-1,if possible
+13,6,-1,than on the day of my departure from the asylum
+14,6,-1,He summoned his valet
+15,6,-1,and
+16,6,-1,in a tone that admitted no reply
+17,6,-1,he exclaimed
+18,6,-1,' i wish to leave Cannes at once  I must start in less than an hour so procure some post horses instantly
+19,6,-1,And in answer to my inquiring glance
+20,6,-1,he said :  ' it must be
+21,6,-1,It would be folly to hesitate
+22,6,-1,Each moment increases the peril that threatens us . '
+467 11
+ (5, 5),
+1,6,-1,When that day comes I will go to your guardian and ask him for your hand
+2,6,-1,but in Heaven 's name dont speak now
+3,6,-1,I understood Pascal 's motives well enough
+4,6,-1,The count 's immense fortune frightened him
+5,4,-1,and he feared that he would be accused of being a fortune hunter
+6,6,-1,So I waited
+7,6,-1,with that secret anguish which still haunts those who have been unhappy even when their present is peaceful
+8,6,-1,and their future seems bright
+9,6,-1,I kept my secret
+10,6,-1,saying to myself that such happiness was not meant for me
+11,6,-1,that it would soon take flight .
+469 21
+ (11, 11),
+1,6,-1,A few moments ' conversation now and then
+2,6,-1,the exchange of a few letters
+3,6,-1,the pressure of a hand through the garden gate
+4,6,-1,and that is all
+5,6,-1,Still
+6,6,-1,I have been guilty of a grave and irreparable fault :  I have disobeyed the one rule of my life frankness
+7,6,-1,and I am cruelly punished for doing so
+8,6,-1,I did not tell all this to M
+9,6,-1,de Chalusse in fact
+10,6,-1,I dared not
+11,1,-1,I was ashamed of my cowardice
+12,6,-1,from day to day I vowed that I would confess everything
+13,6,-1,and yet I procrastinated
+14,6,-1,I said to myself every night
+15,6,-1,' it shall be done to-morrow
+16,6,-1,but when the morrow came I said
+17,6,-1,' i will give myself another day just one more day
+18,6,-1,Indeed
+19,6,-1,my courage failed me when I thought of the count 's aristocratic prejudices
+20,6,-1,and besides
+21,6,-1,I knew how ambitious he was for my future .
+471 7
+ (5, 5),
+1,6,-1,I did not wish to bind him by the advice which he would certainly have given me
+2,6,-1,I had his troth
+3,6,-1,and that sufficed
+4,6,-1,And it was with a thrill of joy that I said to myself :  ' what does it matter if M
+5,5,-1,de Chalusse should be so angered by my refusal to obey him as to drive me from his house
+6,6,-1,It will rather be so much the better
+7,6,-1,Pascal will protect me . '
+478 14
+ (5, 4),
+1,6,-1,She spoke these words with a sort of satisfaction
+2,6,-1,expecting that the marquis would betray his disappointed covetousness by some significant gesture or exclamation
+3,6,-1,and she was already prepared to rejoice at his confusion
+4,6,-1,But her expectations were not realized
+5,1,-1,Instead of evincing the slightest dismay or even regret
+6,6,-1,de Valorsay drew a long breath
+7,6,-1,as if a great burden had been lifted from his heart
+8,6,-1,and his eyes sparkled with apparent delight
+9,6,-1,"  Then I may venture to speak
+10,6,-1,"   he exclaimed
+11,6,-1,with unconcealed satisfaction
+12,6,-1,"  I will speak
+13,6,-1,mademoiselle
+14,6,-1,if you will deign to allow me .  "
+480 5
+ (1, 5),
+1,1,-1,Mademoiselle Marguerite sadly shook her head
+2,6,-1,"  You are mistaken
+3,6,-1,General
+4,6,-1,the count left no will
+5,6,-1,and has made no provision whatever for me .  "
+483 13
+ (2, 2),
+1,6,-1,So saying he closed the door again
+2,1,-1,and Marguerite was so overwhelmed by this last and unexpected misfortune
+3,6,-1,that she could hardly stagger back to the vehicle
+4,6,-1,"  Gone
+5,6,-1,"   she murmured
+6,6,-1,"  gone
+7,6,-1,without a thought of me
+8,6,-1,Or does he believe me to be like all the rest
+9,6,-1,But I will find him again
+10,6,-1,That man Fortunat
+11,6,-1,who ascertained addresses for M
+12,6,-1,de Chalusse
+13,6,-1,will find Pascal for me .  "
+485 19
+ (13, 13),
+1,6,-1,"  Yes
+2,6,-1,indeed
+3,6,-1,m ' sieur
+4,6,-1,And why not
+5,6,-1,My poor
+6,6,-1,good mother has n't been able to work for a year
+7,6,-1,and who would care for her if I didnt
+8,6,-1,Certainly not my father
+9,6,-1,the good-for-nothing scamp
+10,6,-1,who squandered all the Duke de Sairmeuse 's money without giving us a sou of it
+11,6,-1,Besides
+12,6,-1,im like other men
+13,4,-1,im anxious to be rich
+14,6,-1,and enjoy myself
+15,6,-1,I should like to ride in my carriage like other people do
+16,6,-1,And whenever a gamin
+17,6,-1,such as I was once
+18,6,-1,opened the door for ME
+19,6,-1,I should put a five franc piece in his hand   "
+488 8
+ (2, 2),
+1,6,-1,Victory perched upon the agent 's banner
+2,0,-1,and it was with a feeling of pride that he saw his noble client depart
+3,6,-1,white and speechless with rage
+4,6,-1,"  What a rascal that marquis is
+5,6,-1,"   he muttered
+6,6,-1,"  I would certainly warn Mademoiselle Marguerite
+7,6,-1,poor girl
+8,6,-1,if I were not so much afraid of him .  "
+489 9
+ (5, 5),
+1,6,-1,As he received high wages
+2,6,-1,he served passably well
+3,6,-1,but he employed the best part of his energy in watching the count
+4,6,-1,He scented some great family secret in the household
+5,5,-1,and he felt angry and humiliated that this secret had not been entrusted to his discretion
+6,6,-1,And if he had discovered nothing
+7,6,-1,it was because M
+8,6,-1,de Chalusse had been caution personified
+9,6,-1,as Madame Leon had declared .
+492 22
+ (11, 11),
+1,6,-1,Having finished the letter
+2,6,-1,Casimir laid it on the table
+3,6,-1,and poured out a glass full of brandy
+4,6,-1,which he drained at a single draught
+5,6,-1,"  And that 's all
+6,6,-1,"   he remarked
+7,6,-1,"  No signature not even an initial
+8,6,-1,It was a so-called respectable woman who wrote that
+9,6,-1,They never sign their notes
+10,6,-1,the hussies
+11,4,-1,for fear of compromising themselves
+12,6,-1,as i 've reason to know
+13,6,-1,And so saying
+14,6,-1,he laughed the idiotic laugh of a man who has been drinking immoderate ly
+15,6,-1,"  If I had time
+16,6,-1,"   he resumed
+17,6,-1,"  I should make some inquiries about this Madame Lucy Huntley a feigned name
+18,6,-1,evidently
+19,6,-1,I should like to know   But what 's the matter with you
+20,6,-1,Monsieur Fortunat
+21,6,-1,You are as pale as death
+22,6,-1,Are you ill
+495 4
+ (2, 2),
+1,6,-1,Fortunat did not know what to reply
+2,3,-1,The question took him completely by surprise
+3,6,-1,and feeling that his answer would have a very considerable influence upon what might follow
+4,6,-1,he hesitated .
+496 17
+ (7, 7),
+1,6,-1,The dismissal was so imperious that M
+2,6,-1,Fortunat bowed and went off
+3,6,-1,completely bewildered by this denouement
+4,6,-1,"  She 's crazy
+5,6,-1,"   he said to himself
+6,6,-1,"  Crazy in the fullest sense of the word
+7,4,-1,She refuses the count 's millions from a silly fear of telling people that she belongs to the Chalusse family
+8,6,-1,She threatened her brother
+9,6,-1,but she would never have carried her threats into execution
+10,6,-1,And she prefers her present position to such a fortune
+11,6,-1,What lunacy
+12,6,-1,"   But
+13,6,-1,although he was disappointed and angry
+14,6,-1,he did not by any means despair
+15,6,-1,"  Fortunately for me
+16,6,-1,"   he thought
+17,6,-1,"  this proud and haughty lady has a son somewhere in the world .
+673 7
+ (2, 2),
+1,6,-1,As I bent to my oar
+2,1,-1,I felt very sorry for what had happened
+3,6,-1,Here were half the crew guilty of an act of violence upon an officer
+4,6,-1,which
+5,6,-1,according to the severe code under which we lived
+6,6,-1,merited punishment as painful as could be inflicted
+7,6,-1,and lasting for the rest of the voyage .
+708 10
+ (6, 3),
+1,6,-1,Marguerite at once understood that as Madame Leon knew that the marquis was among the funeral guests
+2,6,-1,she had gone to warn him of Madame de Fondege 's presence
+3,6,-1,This trivial circumstance proved that Mde Fondege 's interests were opposed to those of Mde Valorsay
+4,6,-1,that they must
+5,6,-1,therefore
+6,2,-1,hate each other
+7,6,-1,and that
+8,6,-1,with a little patience and skill
+9,6,-1,she might utilize them
+10,6,-1,one against the other .
+709 6
+ (4, 4),
+1,6,-1,He sprang out
+2,6,-1,assisted his employer into the cab
+3,6,-1,and bade the driver return to the Place de la Bourse
+4,1,-1,It was really pitiful to see the despair which had succeeded Fortunat 's joyful confidence
+5,6,-1,"  This is the end of everything
+6,6,-1,"   he groaned .
+710 9
+ (3, 3),
+1,6,-1,Fortunat left the restaurant
+2,6,-1,almost on the run
+3,4,-1,for he feared that he might be pursued and overtaken by MCasimir
+4,6,-1,But after he had gone a couple of hundred paces
+5,6,-1,he paused
+6,6,-1,not so much to take breath
+7,6,-1,as to collect his scattered wits
+8,6,-1,and though the weather was cold
+9,6,-1,he seated himself on a bench to reflect .
+760 5
+ (1, 2),
+1,3,-1,At this I was greatly surprised
+2,6,-1,but looking carefully at him I recognised him to be the captain of the ship upon which I had made my second voyage
+3,6,-1,though he had altered much since that time
+4,6,-1,As for him
+5,6,-1,believing me to be dead it was no wonder that he had not recognised me .
+764 14
+ (4, 2),
+1,6,-1,How long I slept I know not
+2,6,-1,but when I opened my eyes and started to my feet I perceived with horror that I was alone and that the ship was gone
+3,6,-1,I rushed to and fro like one distracted
+4,1,-1,uttering cries of despair
+5,6,-1,and when from the shore I saw the vessel under full sail just disappearing upon the horizon
+6,6,-1,I wished bitterly enough that I had been content to stay at home in safety
+7,6,-1,But since wishes could do me no good
+8,6,-1,I presently took courage and looked about me for a means of escape
+9,6,-1,When I had climbed a tall tree I first of all directed my anxious glances towards the sea
+10,6,-1,but
+11,6,-1,finding nothing hopeful there
+12,6,-1,I turned landward
+13,6,-1,and my curiosity was excited by a huge dazzling white object
+14,6,-1,so far off that I could not make out what it might be .
+781 10
+ (7, 7),
+1,6,-1,His wife threw up her hands in despair "  But
+2,6,-1,my dear
+3,6,-1,"   said FL
+4,6,-1,"  he 's a scholar who has fallen on evil days
+5,6,-1,"  Ah
+6,6,-1,"   she answered
+7,4,-1,"  I fear it will be an evil day for us when you took him home
+8,6,-1,"   She had a good chance to say
+9,6,-1,"  I told you so
+10,6,-1,"   when the rogue eloped with the best of their silver . Not only is FL
+855 10
+ (1, 1),
+1,4,-1,"  I was stupefied and alarmed by the sudden terror which M de Chalusse had displayed and could not control
+2,6,-1,What could it all mean
+3,6,-1,What sorrowful recollections
+4,6,-1,what mysterious apprehensions
+5,6,-1,had my words aroused in the count 's mind
+6,6,-1,I could not understand or imagine why he should regard my question as strange or unnatural
+7,6,-1,On the contrary
+8,6,-1,I thought it perfectly natural
+9,6,-1,dictated as it had been by circumstances
+10,6,-1,and by the count 's own words and manner .
+856 9
+ (3, 3),
+1,6,-1,Fortunat left the restaurant
+2,6,-1,almost on the run
+3,4,-1,for he feared that he might be pursued and overtaken by M Casimir
+4,6,-1,But after he had gone a couple of hundred paces
+5,6,-1,he paused
+6,6,-1,not so much to take breath
+7,6,-1,as to collect his scattered wits
+8,6,-1,and though the weather was cold
+9,6,-1,he seated himself on a bench to reflect .
+898 9
+ (4, 1),(4, 2),(4, 3),
+1,6,-1,When at last she found herself
+2,6,-1,a tiny figure
+3,6,-1,standing upon the vast platform under the high black dome
+4,0,-1,the noise and confusion excited and delighted her
+5,6,-1,She rose to the waves of sound as a swimmer rises in the sea
+6,6,-1,her heart beat fast
+7,6,-1,and she was so eagerly engaged in looking about her
+8,6,-1,in staring at the hurrying people
+9,6,-1,in locating the shrill screams of the engines
+1127 7
+ (2, 2),
+1,6,-1,"  My brother
+2,3,-1,be not surprised to see us
+3,6,-1,this is our land
+4,6,-1,and as we came to get water from the river we noticed your raft floating down it
+5,6,-1,and one of us swam out and brought you to the shore
+6,6,-1,We have waited for your awakening
+7,6,-1,tell us now whence you come and where you were going by that dangerous way
+1499 8
+ (5, 5),
+1,6,-1,As when on the wide sea
+2,6,-1,' neath buffetings Of storm blasts
+3,6,-1,castaways whose ship is wrecked Escape
+4,6,-1,a remnant of a crew
+5,1,-1,for spent With desperate conflict with the cruel sea :  Late and at last appears the land hard by
+6,6,-1,Appears a city :  faint and weary limbed With that grim struggle
+7,6,-1,through the surf they strain To land
+8,6,-1,sore grieving for the good ship lost .
+1720 9
+ (5, 5),(5, 6),
+1,6,-1,I had hardly done reckoning them up when two or three bustling men came out and shepherded us all energetically into a long
+2,6,-1,low room
+3,6,-1,where some form of agreement was read out to us
+4,6,-1,Sailors are naturally and usually careless about the nature of the  "  articles "   they sign
+5,4,-1,their chief anxiety being to get to sea
+6,6,-1,and under somebody 's charge
+7,6,-1,But had I been ever so anxious to know what I was going to sign this time
+8,6,-1,I could not
+9,6,-1,for the language might as well have been Chinese for all I understood of it .
+1721 14
+ (4, 6),
+1,6,-1,Sailors are naturally and usually careless about the nature of the  "  articles "   they sign
+2,6,-1,their chief anxiety being to get to sea
+3,6,-1,and under somebody 's charge
+4,4,-1,But had I been ever so anxious to know what I was going to sign this time
+5,6,-1,I could not
+6,6,-1,for the language might as well have been Chinese for all I understood of it
+7,6,-1,wever
+8,6,-1,I signed and passed on
+9,6,-1,engaged to go I knew not where
+10,6,-1,in some ship I did not know even the name of
+11,6,-1,in which I was to receive I did not know how much
+12,6,-1,or how little
+13,6,-1,for my labour
+14,6,-1,nor how long I was going to be away .
+1722 10
+ (8, 5),(8, 6),(8, 7),
+1,6,-1,As night fell
+2,6,-1,the condition of the  "  greenies
+3,6,-1,"   or non sailor portion of the crew
+4,6,-1,was pitiable
+5,6,-1,Helpless from sea sickness
+6,6,-1,not knowing where to go or what to do
+7,6,-1,bullied relentlessly by the ruthless petty officers well
+8,1,-1,I never felt so sorry for a lot of men in my life
+9,6,-1,Glad enough I was to get below into the folk ' sle for supper
+10,6,-1,and a brief rest and respite from that cruelty on deck .
+1730 12
+ (8, 9),
+1,6,-1,Suddenly one of the men
+2,6,-1,in lifting his net
+3,6,-1,slipped on the smooth bottom of the boat
+4,6,-1,jolting one of the oars
+5,6,-1,There was a gleam of light below as the school turned they had all disappeared instantly
+6,6,-1,We had been so busy that we had not noticed the dimensions of our catch
+7,6,-1,but now
+8,0,-1,to our great joy
+9,6,-1,we found that we had at least eight hundred fish nearly as large as herrings
+10,6,-1,We at once returned to the ship
+11,6,-1,having been absent only two hours
+12,6,-1,during which we had caught sufficient to provide all hands with three good meals .
+1732 11
+ (8, 8),
+1,6,-1,Now
+2,6,-1,with us
+3,6,-1,whenever the weather was doubtful or squally looking
+4,6,-1,we shortened sail
+5,6,-1,and kept it fast till better weather came along
+6,6,-1,being quite careless whether we made one mile a day or one hundred
+7,6,-1,But just because nobody took any notice of our progress as the days passed
+8,4,-1,we were occasionally startled to find how far we had really got
+9,6,-1,This was certainly the case with all of us forward
+10,6,-1,even to me who had some experience
+11,6,-1,so well used had I now become to the leisurely way of getting along .
+1734 12
+ (8, 8),
+1,6,-1,We saw none
+2,6,-1,however
+3,6,-1,and at daylight we weighed and towed the ship out to sea with the boats
+4,6,-1,there being no wind
+5,6,-1,While busy at this uninteresting pastime
+6,6,-1,one of the boats slipped away
+7,6,-1,returning presently with a fine turtle
+8,3,-1,which they had surprised during his morning 's nap
+9,6,-1,e of the amphibious Portuguese slipped over the boat 's side as she neared the sleeping SPHARGA
+10,6,-1,and
+11,6,-1,diving deep
+12,6,-1,came up underneath him .
+1736 5
+ (1, 3),
+1,0,-1,When we got on board we felt quite happy
+2,6,-1,and
+3,6,-1,for the first time since leaving America
+4,6,-1,we had a little singing
+5,6,-1,all I be laughed at when I confess that our musical efforts were confined to Sankey 's hymns
+1737 6
+ (5, 6),
+1,6,-1,but as we secured five of them
+2,6,-1,averaging seven barrels each
+3,6,-1,with scarcely any trouble
+4,6,-1,I felt quite pleased with myself
+5,0,-1,We had quite an exciting bit of sport with them
+6,6,-1,they were so lively .
+1738 4
+ (1, 1),
+1,4,-1,The chief anxiety was for the safety of the boats
+2,6,-1,t as for danger well
+3,6,-1,they only seemed like big  "  black fish "   to us now
+4,6,-1,and we quite enjoyed the fun .
+1740 1
+ (1, 1),
+1,3,-1,For Coleridge certainly never witnessed such a scene as he there describes with an accuracy of detail that is astounding .
+1743 8
+ (4, 6),
+1,6,-1,the three hundred fathoms of line
+2,6,-1,in a perfect maze of entanglement
+3,6,-1,appeared to be wrapped about the writhing trunk of the whale
+4,0,-1,Happily
+5,6,-1,there were two boats disengaged
+6,6,-1,so that they were able very promptly to rescue the sufferers from their perilous position in the boiling vortex of foam by which they were surrounded
+7,6,-1,Meanwhile
+8,6,-1,the remaining boat had an easy task .
+1744 8
+ (5, 6),
+1,6,-1,Since leaving port we had not felt so comfortable
+2,6,-1,the work
+3,6,-1,with all its dis agreeable s
+4,6,-1,seeming as nothing now that we could do it without fear and trembling
+5,1,-1,Alas for poor Jemmy
+6,6,-1,as we always persisted in calling him from inability to pronounce his proper name his case was evidently hopeless
+7,6,-1,His fellows did their poor best to comfort his fast fleeting hours
+8,6,-1,one after another murmuring to him the prayers of the Church .
+1745 8
+ (5, 5),
+1,6,-1,Once clear of the southern end of Formosa we had quite a rapid run to the Bonins
+2,6,-1,carrying a press of sail day and night
+3,6,-1,as the skipper was anxious to arrive there on account of his recent injuries
+4,6,-1,He was still very lame
+5,4,-1,and he feared that some damage might have been done to him of which he was ignorant
+6,6,-1,Besides
+7,6,-1,it was easy to see that he did not altogether like anybody else being in charge of his ship
+8,6,-1,no matter how good they were .
+1746 12
+ (7, 6),
+1,6,-1,The chief was looking astern at some finbacks
+2,6,-1,the look-out men forward were both staring to leeward
+3,6,-1,thus for a minute or so I had a small arc of the horizon to myself
+4,6,-1,The time was short
+5,6,-1,but it sufficed
+6,6,-1,and for the first time that voyage I had the privilege of  "  raising "   a sperm whale
+7,0,-1,My voice quivered with excitement as I uttered the war whoop
+8,6,-1,"  Ah blo o o o w
+9,6,-1,"   Round spun the mate on his heel
+10,6,-1,while the hands clustered like bees roused from their hive
+11,6,-1,"  Where away where
+12,6,-1,"   gasped the mate .
+1748 7
+ (5, 5),
+1,6,-1,Consequently the state of the ship was filthy
+2,6,-1,nor could all our efforts keep her clean
+3,6,-1,This farmyard condition of things was permitted to continue for about a week
+4,6,-1,when the officers got so tired of it
+5,5,-1,and the captain so annoyed at the frequent loss of fowls by their flying overboard
+6,6,-1,that the edict went forth to feed the foremast hands on poultry till further orders
+7,6,-1,Great was our delight at the news .
+1752 10
+ (5, 4),
+1,6,-1,however
+2,6,-1,resulted in their getting a severe dressing down in the forecastle
+3,6,-1,where good order was now kept
+4,6,-1,There had been no need for interference on the part of the officers
+5,0,-1,which I was glad to see
+6,6,-1,remembering what would have happened under such circumstances not long ago
+7,6,-1,Being short-handed
+8,6,-1,the captain engaged a number of friendly islanders for a limited period
+9,6,-1,on the understanding that they were to be discharged at their native place
+10,6,-1,Vau Vau .
+1753 9
+ (5, 5),
+1,6,-1,I felt sure
+2,6,-1,however
+3,6,-1,that we should have but little more trouble with our fish
+4,6,-1,In fact
+5,4,-1,I was half afraid that he would die before getting to the surface
+6,6,-1,in which case he might sink and be lost
+7,6,-1,We hauled steadily away
+8,6,-1,the line not coming in very easily
+9,6,-1,until I judged there was only about another hundred fathoms out .
+1756 7
+ (4, 4),(4, 5),
+1,6,-1,At that last titanic effort of his he had rushed downward with such terrific force that
+2,6,-1,striking his head on the bottom
+3,6,-1,he had broken his neck
+4,1,-1,I felt very grieved that we had lost the chance of securing him
+5,6,-1,but it was perfectly certain that before we could get help to raise him
+6,6,-1,all that would be left of his skeleton would be quite valueless to us
+7,6,-1,So with such patience as we could command we waited near the entrance until the receding ebb made it possible for us to emerge once more into the blessed light of day .
+1758 9
+ (3, 3),(3, 4),
+1,6,-1,Why are good folks ashore systematically misled into the belief that the sailor is an object of charity
+2,6,-1,and that it is necessary to subscribe continually and liberally to provide him with food and shelter when ashore
+3,3,-1,Most of the contributors would be surprised to know that the cost of board and lodging at the  "  home "   is precisely the same as it is outside
+4,6,-1,and much higher than a landsman of the same grade can live for in better style
+5,6,-1,With the exception of the sleeping accommodation
+6,6,-1,most men prefer the boarding-house
+7,6,-1,where
+8,6,-1,if they preserve the same commercial status which is a SINE QUA NON at the  "  home
+9,6,-1,"   they are treated like gentlemen
+1763 9
+ (6, 9),
+1,6,-1,Nothing of advantage to our cargo was seen for a long time
+2,6,-1,which
+3,6,-1,although apparently what was to be expected
+4,6,-1,did not improve Captain Slocum 's temper
+5,6,-1,But
+6,3,-1,to the surprise of all
+7,6,-1,when we had arrived off the beautiful island of Hong Kong
+8,6,-1,to which we approached closely
+9,6,-1,we  "  raised "   a grand sperm whale .
+1764 9
+ (5, 6),
+1,6,-1,For the boat was crumbled into innumerable fragments
+2,6,-1,and the three hundred fathoms of line
+3,6,-1,in a perfect maze of entanglement
+4,6,-1,appeared to be wrapped about the writhing trunk of the whale
+5,0,-1,Happily
+6,6,-1,there were two boats disengaged
+7,6,-1,so that they were able very promptly to rescue the sufferers from their perilous position in the boiling vortex of foam by which they were surrounded
+8,6,-1,Meanwhile
+9,6,-1,the remaining boat had an easy task .
+1765 10
+ (5, 5),(5, 6),
+1,6,-1,When morning dawned we hove to
+2,6,-1,the land being only dimly visible astern
+3,6,-1,and finished taking on board our  "  head matter "   without further incident
+4,6,-1,The danger past
+5,0,-1,we were all well pleased that the captain was below
+6,6,-1,for the work proceeded quite pleasantly under the genial rule of the mate
+7,6,-1,Since leaving port we had not felt so comfortable
+8,6,-1,the work
+9,6,-1,with all its dis agreeable s
+10,6,-1,seeming as nothing now that we could do it without fear and trembling .
+1768 9
+ (6, 6),
+1,6,-1,How did a whale act
+2,6,-1,what were the first steps taken
+3,6,-1,what chance was there of being saved if your boat got smashed
+4,6,-1,and so on unto infinity
+5,6,-1,At last
+6,2,-1,getting very tired of this  "  Portuguese Parliament "   of all talkers and no listeners
+7,6,-1,I went aft to get a drink of water before turning in
+8,6,-1,The harpooner s and other petty officers were grouped in the waist
+9,6,-1,earnestly discussing the pros and cons of attack upon whales .
+1770 10
+ (4, 4),
+1,6,-1,He raised a gigantic tail on high
+2,6,-1,threshing the water with deafening blows
+3,6,-1,rolling at the same time from side to side until the surrounding sea was white with froth
+4,5,-1,I felt in an agony lest we should be crushed under one of those fearful strokes
+5,6,-1,for Mr
+6,6,-1,Count appeared to be oblivious of possible danger
+7,6,-1,although we seemed to be now drifting back on to the writhing leviathan
+8,6,-1,In the agitated condition of the sea
+9,6,-1,it was a task of no ordinary difficulty to un ship the tall mast
+10,6,-1,which was of course the first thing to be done .
+1773 7
+ (3, 4),
+1,6,-1,We had been so busy that we had not noticed the dimensions of our catch
+2,6,-1,but now
+3,0,-1,to our great joy
+4,6,-1,we found that we had at least eight hundred fish nearly as large as herrings
+5,6,-1,We at once returned to the ship
+6,6,-1,having been absent only two hours
+7,6,-1,during which we had caught sufficient to provide all hands with three good meals .
+1778 11
+ (7, 7),
+1,6,-1,At seven bells ( 7
+2,6,-1,) it was  "  turn to "   all hands again
+3,6,-1,The  "  junk  "   was hooked on to both cutting tackles
+4,6,-1,and the windlass manned by everybody who could get hold
+5,6,-1,Slowly the enormous mass rose
+6,6,-1,canting the ship heavily as it came
+7,2,-1,while every stick and rope aloft complained of the great strain upon them
+8,6,-1,When at last it was safely shipped
+9,6,-1,and the tackles cast off
+10,6,-1,the size of this small portion of a full-grown cachalot 's body could be realized
+11,6,-1,not before .
+1780 11
+ (8, 8),
+1,6,-1,Now
+2,6,-1,with us
+3,6,-1,whenever the weather was doubtful or squally looking
+4,6,-1,we shortened sail
+5,6,-1,and kept it fast till better weather came along
+6,6,-1,being quite careless whether we made one mile a day or one hundred
+7,6,-1,But just because nobody took any notice of our progress as the days passed
+8,4,-1,we were occasionally startled to find how far we had really got
+9,6,-1,This was certainly the case with all of us forward
+10,6,-1,even to me who had some experience
+11,6,-1,so well used had I now become to the leisurely way of getting along .
+1785 14
+ (10, 10),
+1,6,-1,The share of profits was so small
+2,6,-1,and the time taken to earn it so long
+3,6,-1,such a number of clothes were worn out and destroyed by us
+4,6,-1,only to be replaced from the ship 's slop chest at high prices
+5,6,-1,that I had quite resigned myself to the prospect of leaving the vessel in debt
+6,6,-1,whenever that desirable event might happen
+7,6,-1,Since
+8,6,-1,therefore
+9,6,-1,I had never made it a practice to repine at the inevitable
+10,1,-1,and make myself unhappy by the contemplation of misfortunes I was powerless to prevent
+11,6,-1,I tried to interest myself as far as was possible in gathering information
+12,6,-1,although at that time I had no idea
+13,6,-1,beyond a general thirst for knowledge
+14,6,-1,that what I was now learning would ever he of any service to me .
+1789 13
+ (8, 6),(8, 7),
+1,6,-1,We saw none
+2,6,-1,however
+3,6,-1,and at daylight we weighed and towed the ship out to sea with the boats
+4,6,-1,there being no wind
+5,6,-1,While busy at this uninteresting pastime
+6,6,-1,one of the boats slipped away
+7,6,-1,returning presently with a fine turtle
+8,3,-1,which they had surprised during his morning 's nap
+9,6,-1,One of the amphibious Portuguese slipped over the boat 's side as she neared the sleeping SPHARGA
+10,6,-1,and
+11,6,-1,diving deep
+12,6,-1,came up underneath him
+13,6,-1,seizing with crossed hands the two hind flippers .
+1791 6
+ (4, 4),
+1,6,-1,Doubtless because he himself was much fatigued
+2,6,-1,the mate allowed him to run at his will
+3,6,-1,without for the time attempting to haul any closer to him
+4,0,-1,and very grateful the short rest was to us
+5,6,-1,But he had not gone a couple of miles before he turned a complete somersault in the water
+6,6,-1,coming up BEHIND us to rush off again in the opposite direction at undiminished speed .
+1794 13
+ (9, 9),
+1,6,-1,As soon as they had got far enough away from their native element
+2,6,-1,we rushed upon them
+3,6,-1,and captured them both
+4,6,-1,so that when the boat arrived we were not empty-handed
+5,6,-1,We had also a  "  jumper
+6,6,-1,"   or blouse
+7,6,-1,full of eggs
+8,6,-1,and a couple of immense bunches of cocoa nuts
+9,0,-1,When we got on board we felt quite happy
+10,6,-1,and
+11,6,-1,for the first time since leaving America
+12,6,-1,we had a little singing
+13,6,-1,Shall I be laughed at when I confess that our musical efforts were confined to Sankey 's hymns
+1795 11
+ (7, 7),(7, 8),
+1,6,-1,It was but a school of kogia
+2,6,-1,or  "  short headed "   cachalots
+3,6,-1,but as we secured five of them
+4,6,-1,averaging seven barrels each
+5,6,-1,with scarcely any trouble
+6,6,-1,I felt quite pleased with myself
+7,0,-1,We had quite an exciting bit of sport with them
+8,6,-1,they were so lively
+9,6,-1,but as for danger well
+10,6,-1,they only seemed like big  "  black fish "   to us now
+11,6,-1,and we quite enjoyed the fun .
+1796 3
+ (1, 1),
+1,4,-1,The chief anxiety was for the safety of the boats
+2,6,-1,Early on the second day of warning they had been hoisted to the topmost notch of the cranes
+3,6,-1,and secured as thoroughly as experience could suggest
+1801 5
+ (5, 4),
+1,6,-1,Next day
+2,6,-1,and for a whole week after
+3,6,-1,we had a stark calm such a calm as one realizes who reads sympathetically that magical piece of work
+4,6,-1,the  "  Ancient Mariner "
+5,3,-1,What an amazing instance of the triumph of the human imagination
+1802 6
+ (2, 2),
+1,6,-1,What an amazing instance of the triumph of the human imagination
+2,3,-1,For Coleridge certainly never witnessed such a scene as he there describes with an accuracy of detail that is astounding
+3,6,-1,Very few sailors have noticed the sickening condition of the ocean when the life-giving breeze totally fails for any length of time
+4,6,-1,or
+5,6,-1,if they have
+6,6,-1,they have said but little about it .
+1804 6
+ (2, 2),
+1,6,-1,Therefore
+2,1,-1,we had all a rough time of it while his angry fit lasted
+3,6,-1,which was a whole week
+4,6,-1,or until all was shipshape again
+5,6,-1,Meanwhile we were edging gradually through the Malacca Straits and around the big island of Borneo
+6,6,-1,never going very near the land on account of the great and numerous dangers attendant upon coasting in those localities to any but those continually engaged in such a business .
+1806 11
+ (9, 9),
+1,6,-1,The truth of Mr
+2,6,-1,Count 's forecast was verified to the hilt
+3,6,-1,for we found that the captain was so badly bruised about
+4,6,-1,the body that he was unable to move
+5,6,-1,while one of the hands
+6,6,-1,a Portuguese
+7,6,-1,was injured internally
+8,6,-1,and seemed very bad indeed
+9,1,-1,Had any one told us that morning that we should be sorry to see Captain Slocum with sore bones
+10,6,-1,we should have scoffed at the notion
+11,6,-1,and some of us would probably have said that we should like to have the opportunity of making him smart .
+1807 5
+ (3, 3),
+1,6,-1,Once clear of the southern end of Formosa we had quite a rapid run to the Bonins
+2,6,-1,carrying a press of sail day and night
+3,4,-1,as the skipper was anxious to arrive there on account of his recent injuries
+4,6,-1,He was still very lame
+5,6,-1,and he feared that some damage might have been done to him of which he was ignorant .
+1808 8
+ (5, 5),
+1,6,-1,Once clear of the southern end of Formosa we had quite a rapid run to the Bonins
+2,6,-1,carrying a press of sail day and night
+3,6,-1,as the skipper was anxious to arrive there on account of his recent injuries
+4,6,-1,He was still very lame
+5,4,-1,and he feared that some damage might have been done to him of which he was ignorant
+6,6,-1,Besides
+7,6,-1,it was easy to see that he did not altogether like anybody else being in charge of his ship
+8,6,-1,no matter how good they were .
+1811 7
+ (2, 2),
+1,6,-1,As I bent to my oar
+2,1,-1,I felt very sorry for what had happened
+3,6,-1,Here were half the crew guilty of an act of violence upon an officer
+4,6,-1,which
+5,6,-1,according to the severe code under which we lived
+6,6,-1,merited punishment as painful as could be inflicted
+7,6,-1,and lasting for the rest of the voyage .
+1814 12
+ (7, 7),
+1,6,-1,Meanwhile another ship was working up from to leeward
+2,6,-1,having evidently noted our movements
+3,6,-1,or else
+4,6,-1,like the albatross
+5,6,-1,"  smelt whale
+6,6,-1,"   no great distance to windward of him
+7,0,-1,Waiting for that whale to rise was one of the most exciting experiences we had gone through as yet
+8,6,-1,with two other ships so near
+9,6,-1,Everybody 's nerves seemed strung up to concert pitch
+10,6,-1,and it was quite a relief when from half a dozen throats at once burst the cry
+11,6,-1,"  There she white waters
+12,6,-1,Ah blo o o o w
+1816 5
+ (3, 2),(3, 3),
+1,6,-1,It was a very pretty tangle
+2,6,-1,but our position was rather bad
+3,5,-1,The whale between us was tearing the bowels of the deep up in his rage and fear
+4,6,-1,we were struggling frantically to get our sail down
+5,6,-1,and at any moment that wretched iron through our upper strake might tear a plank out of us .
+1822 6
+ (5, 5),
+1,6,-1,Consequently the state of the ship was filthy
+2,6,-1,nor could all our efforts keep her clean
+3,6,-1,This farmyard condition of things was permitted to continue for about a week
+4,6,-1,when the officers got so tired of it
+5,5,-1,and the captain so annoyed at the frequent loss of fowls by their flying overboard
+6,6,-1,that the edict went forth to feed the foremast hands on poultry till further orders .
+1824 10
+ (3, 4),
+1,6,-1,Two and a half hours of energetic work was required of us before we got on terms with the fleeing monsters
+2,6,-1,but at last
+3,0,-1,to our great joy
+4,6,-1,they broke water from sounding right among us
+5,6,-1,It was a considerable surprise
+6,6,-1,but we were all ready
+7,6,-1,and before they had spouted twice
+8,6,-1,three boats were fast
+9,6,-1,only myself keeping out
+10,6,-1,in accordance with my instructions .
+1825 10
+ (5, 4),
+1,6,-1,Two and a half hours of energetic work was required of us before we got on terms with the fleeing monsters
+2,6,-1,but at last
+3,6,-1,to our great joy
+4,6,-1,they broke water from sounding right among us
+5,3,-1,It was a considerable surprise
+6,6,-1,but we were all ready
+7,6,-1,and before they had spouted twice
+8,6,-1,three boats were fast
+9,6,-1,only myself keeping out
+10,6,-1,in accordance with my instructions .
+1828 12
+ (8, 8),
+1,6,-1,We took them on board
+2,6,-1,and the boat returned again
+3,6,-1,By the time the slack came we had about four hundred and fifty fathoms out a goodly heap to pile up loose in our stern sheets
+4,6,-1,I felt sure
+5,6,-1,however
+6,6,-1,that we should have but little more trouble with our fish
+7,6,-1,in fact
+8,4,-1,I was half afraid that he would die before getting to the surface
+9,6,-1,in which case he might sink and be lost
+10,6,-1,We hauled steadily away
+11,6,-1,the line not coming in very easily
+12,6,-1,until I judged there was only about another hundred fathoms out .
+1837 7
+ (3, 3),
+1,6,-1,The captain shook hands with me cordially
+2,6,-1,pooh poohing the loss of the boat as an unavoidable incident of the trade
+3,0,-1,but expressing his heart-felt delight at getting us all back safe
+4,6,-1,The whale we had killed was ample compensation for the loss of several boats
+5,6,-1,though such was the vigour with which the sharks were going for him
+6,6,-1,that it was deemed advisable to cut in at once
+7,6,-1,working all night .
+1841 6
+ (2, 2),
+1,6,-1,but ten thousand times better thus than such scenes of lust let loose and abandoned animal ism as we witnessed at Honolulu
+2,0,-1,What pleased me mightily was the absence of the white man with his air of superiority and sleek overlordship
+3,6,-1,All the worship
+4,6,-1,all the management of affairs
+5,6,-1,was entirely in the hands of the natives themselves
+6,6,-1,and excellently well did they manage everything .
+1844 8
+ (5, 5),
+1,6,-1,That being settled
+2,6,-1,we anchored the boat
+3,6,-1,and lit pipes
+4,6,-1,preparatory to passing as comfortable a night as might be under the circumstances
+5,2,-1,the only thing troubling me being the anxiety of the skipper on our behalf
+6,6,-1,Presently the blackness beneath was lit up by a wide band of phosphoric light
+7,6,-1,shed in the wake of no ordinary sized fish
+8,6,-1,probably an immense shark .
+1845 9
+ (6, 6),
+1,6,-1,But we lost no time in getting back to the ship
+2,6,-1,where I fully expected a severe wigging for the scrape my luckless curiosity had led me into
+3,6,-1,The captain
+4,6,-1,however
+5,6,-1,was very kind
+6,0,-1,expressing his pleasure at seeing us all safe back again
+7,6,-1,although he warned me solemnly against similar investigations in future
+8,6,-1,A hearty meal and a good rest did wonders in removing the severe effects of our adventure
+9,6,-1,so that by next morning we were all fit and ready for the days work again .
+1847 8
+ (5, 5),
+1,6,-1,Taking stock of him quietly during our day-long leisurely cruises in the boat
+2,6,-1,I often wondered whether his mind still kept its gloomy forebodings
+3,6,-1,and brooded over his tragical life-history
+4,6,-1,I never dared to speak to him on the subject
+5,4,-1,for fear of arousing what I hoped was growing too faint for remembrance
+6,6,-1,But at times I saw him in the moonlit evenings sitting on the rail alone
+7,6,-1,steadfastly gazing down into the star besprent waters beneath him
+8,6,-1,as if coveting their unruffled peace .
+1852 5
+ (3, 3),(3, 4),(3, 5),
+1,6,-1,Why are good folks ashore systematically misled into the belief that the sailor is an object of charity
+2,6,-1,and that it is necessary to subscribe continually and liberally to provide him with food and shelter when ashore
+3,3,-1,Most of the contributors would be surprised to know that the cost of board and lodging at the  "  home "   is precisely the same as it is outside
+4,6,-1,and much higher than a landsman of the same grade can live for in better style With the exception of the sleeping accommodation
+5,6,-1,most men prefer the boarding-house .
+1862 12
+ (9, 9),
+1,6,-1,There were sixteen white men on board the CHANCE
+2,6,-1,including the skipper
+3,6,-1,drawn as usual from various European and American sources
+4,6,-1,the rest of her large crew of over forty all told being made up of Maories and half-breeds
+5,6,-1,One common interest united them
+6,6,-1,making them the most jolly crowd I ever saw their devotion to their commander
+7,6,-1,There was here to be found no jealousy of the Maories being officers and harpooner s
+8,6,-1,no black looks or discontented murmuring
+9,0,-1,all hands seemed particularly well satisfied with their lot in all its bearings
+10,6,-1,so that
+11,6,-1,although the old tub was malodorous enough to turn even a pretty strong stomach
+12,6,-1,it was a leasure to visit her cheerful crowd for the sake of their enlivening society .
+1864 9
+ (5, 7),
+1,6,-1,His crew
+2,6,-1,on the impulse of the moment
+3,6,-1,sprang to the rail and cheered with might and main
+4,6,-1,No one could gainsay that they had good reason
+5,4,-1,but I really feared for a time that we should have  "  ructions
+6,6,-1,"   As Paddy said
+7,6,-1,it was not wise or dignified for those officers to be so angry with him on account of his success
+8,6,-1,which he frankly owned was due almost entirely to the local knowledge he possessed
+9,6,-1,gained in many years study of the immediate neighbourhood .
+1866 11
+ (4, 4),
+1,6,-1,This announcement
+2,6,-1,though expected for some time past
+3,6,-1,gave an amazing fillip to everybody 's interest in the work
+4,3,-1,The strange spectacle was witnessed of all hands being anxious to quit a snug harbour for the sea
+5,6,-1,where stern
+6,6,-1,hard wrestling with the elements was the rule
+7,6,-1,The captain
+8,6,-1,well pleased with the eagerness manifested
+9,6,-1,had his boat manned for a trip to the entrance of the harbour
+10,6,-1,to see what the weather was like outside
+11,6,-1,since it was not possible to judge from where the ship lay .
+1870 11
+ (10, 10),
+1,6,-1,For the next four days and nights
+2,6,-1,during which the wind prevented the CHANCE from leaving us
+3,6,-1,our old ship was a scene of wild revelry
+4,6,-1,that ceased not through the twenty-four hours  revelry entirely unassisted by strong waters
+5,6,-1,too
+6,6,-1,the natural ebullient gaiety of men who were free from anxiety on any account whatever
+7,6,-1,rejoicing over the glad consummation of more than two years toil
+8,6,-1,on the one hand
+9,6,-1,on the other
+10,0,-1,a splendid sympathy in joy manifested by the satisfied crew under the genial command of Captain Gilroy
+11,6,-1,With their cheerful help we made wonderful progress
+1895 13
+ (8, 7),
+1,6,-1,We spent ten happy days in Honolulu
+2,6,-1,marred only by one or two drunken rows among the chaps forward
+3,6,-1,which
+4,6,-1,however
+5,6,-1,resulted in their getting a severe dressing down in the forecastle
+6,6,-1,where good order was now kept
+7,6,-1,There had been no need for interference on the part of the officers
+8,0,-1,which I was glad to see
+9,6,-1,remembering what would have happened under such circumstances not long ago
+10,6,-1,Being short-handed
+11,6,-1,the captain engaged a number of friendly islanders for a limited period
+12,6,-1,on the understanding that they were to be discharged at their native place
+13,6,-1,Vau Vau .
+1927 7
+ (4, 5),
+1,6,-1,As I drew nearer and nearer to the light
+2,6,-1,the chasm became wider
+3,6,-1,and at last I saw
+4,3,-1,to my unspeakable amaze
+5,6,-1,a broad level road at the bottom of the abyss and illumined as far as the eye could reach by what seemed artificial gas lamps placed at regular intervals
+6,6,-1,as in the thoroughfare of a great city
+7,6,-1,and I heard confusedly at a distance a hum as of human voices .
+1928 13
+ (9, 10),
+1,6,-1,When the cage stopped
+2,6,-1,I found myself on a ridge of rock
+3,6,-1,and below me
+4,6,-1,the chasm
+5,6,-1,taking a slanting direction
+6,6,-1,shot down to a considerable depth
+7,6,-1,the darkness of which my lamp could not have penetrated
+8,6,-1,But through it
+9,0,-1,to my infinite surprise
+10,6,-1,streamed upward a steady brilliant light
+11,6,-1,Could it be any volcanic fire
+12,6,-1,In that case
+13,6,-1,surely I should have felt the heat .
+1938 7
+ (3, 6),
+1,6,-1,It wasnt that they could show him anything
+2,6,-1,it was  only that they could burn clear
+3,3,-1,To his surprise
+4,6,-1,however
+5,6,-1,after a  while
+6,6,-1,they did show him something :   the arch of a high doorway  approached by a low terrace of steps
+7,6,-1,in the depth of which - it  formed a dim vestibule - the raising of a curtain at the moment he  passed gave him a glimpse of an avenue of gloom with a glow of  tapers at the end .
+1985 4
+ (4, 3),
+1,6,-1,At the 108th stroke
+2,6,-1,it would be 0
+3,6,-1,on the dot on New Year 's Day
+4,0,-1,Instantly the Japanese tourists would burst out cheering and hurrahing in delight .
+2268 6
+ (5, 1),
+1,6,-1,Maxime Hamou pulled Eurosport journalist Maly Thomas close to him and kissed her repeatedly while holding her around her neck and shoulders Monday
+2,6,-1,Tuesday
+3,6,-1,the FTT revoked Hamou 's accreditation for the prestigious French Open
+4,6,-1,while the organization 's President Bernard Giudicelli has asked the disputes committee to investigate for improper conduct
+5,4,-1,want to offer my deepest apologies to Maly Thomas if she felt hurt or shocked by my attitude during her interview
+6,6,-1,"   Hamou wrote on his Instagram account .
+2269 6
+ (5, 1),
+1,6,-1,Maxime Hamou pulled Eurosport journalist Maly Thomas close to him and kissed her repeatedly while holding her around her neck and shoulders Monday
+2,6,-1,Tuesday
+3,6,-1,the FTT revoked Hamou 's accreditation for the prestigious French Open
+4,6,-1,while the organization 's President Bernard Giudicelli has asked the disputes committee to investigate for improper conduct
+5,3,-1,want to offer my deepest apologies to Maly Thomas if she felt hurt or shocked by my attitude during her interview
+6,6,-1,"   Hamou wrote on his Instagram account .
+2564 1
+ (1, 1),
+1,5,-1,Cornudet 
+2348 2
+ (1, 1),
+1,0,-1,It was thrilling to see my words on the website
+2,6,-1,I was a bit shy to start with but after a while I got to know the kind of things Hai Kakar wanted me to talk about and became more confident .
+2354 3
+ (3, 3),
+1,6,-1,Moniba had the most beautiful writing and presentation of the three of us
+2,6,-1,but I always told her she did not trust herself enough
+3,4,-1,e worked hard as she worried that if she got low marks her male relatives might use it as an excuse to stop her education .
+2367 7
+ (7, 6),
+1,6,-1,On the day only eight or nine boys and girls turned up
+2,6,-1,Moniba spoke well – she was very composed and her speech was more emotional and poetic than mine
+3,6,-1,though mine might have had the better message
+4,6,-1,I was so nervous before the speech
+5,6,-1,I was trembling with fear
+6,6,-1,My grandfather had come to watch and I knew he really wanted me to win the competition
+7,4,-1,which made me even more nervous .
+2473 17
+ (14, 14),
+1,6,-1,You must not think that she 's not a good person
+2,6,-1,or that she and the kids dont honestly need your help
+3,6,-1,But you cannot let her take advantage of you
+4,6,-1,Darling
+5,6,-1,i 've seen it repeated so many times
+6,6,-1,What happens with Westerners who live here for a long time is that they usually end up falling into one of two camps
+7,6,-1,Half of them keep playing the tourist
+8,6,-1,saying
+9,6,-1,Oh
+10,6,-1,those lovely Balinese
+11,6,-1,so sweet
+12,6,-1,so gracious
+13,6,-1,"   and getting ripped off like crazy
+14,1,-1,The other half get so frustrated with being ripped off all the time
+15,6,-1,they start to hate the Balinese
+16,6,-1,And that 's a shame
+17,6,-1,because then you 've lost all these wonderful friends .  "
+2475 11
+ (4, 3),
+1,6,-1,Which may sound firm and confident
+2,6,-1,but I must admit this
+3,6,-1,as well that sailing over to that quiet island all alone
+4,4,-1,I was never more terrified in my life
+5,6,-1,I had not even brought any books to read
+6,6,-1,nothing to distract me
+7,6,-1,Just me and my mind
+8,6,-1,about to face each other on an empty field
+9,6,-1,I remember that my legs were visibly shaking with fear
+10,6,-1,Then I quoted to myself one of my favorite lines ever from my Guru :   "  Fear who cares
+11,6,-1,"   and I disembarked alone .
+2570 1
+ (1, 1),
+1,5,-1,Ball-of - Fat 
+2571 1
+ (1, 1),
+1,5,-1,Ball-of - Fat 
+2763 9
+ (5, 5),
+1,6,-1,"  Well
+2,6,-1,bravo
+3,6,-1,"   gushes Effie Trinket
+4,6,-1,"  That 's the spirit of the Games
+5,0,-1,"   She 's pleased to finally have a district with a little action going on in it
+6,6,-1,"  What 's your name
+7,6,-1,"  I swallow hard
+8,6,-1,"  Katniss Everdeen
+9,6,-1,"   I say .
+2780 7
+ (3, 1),
+1,6,-1,Someone else enters the room
+2,6,-1,and when I look up
+3,3,-1,im surprised to see it 's the baker
+4,6,-1,Peeta Mellark 's father
+5,6,-1,I cant believe he 's come to visit me
+6,6,-1,After all
+7,6,-1,i 'll be trying to kill his son soon .
+2781 14
+ (5, 5),
+1,6,-1,Someone else enters the room
+2,6,-1,and when I look up
+3,6,-1,im surprised to see it 's the baker
+4,6,-1,Peeta Mellark 's father
+5,3,-1,I cant believe he 's come to visit me
+6,6,-1,After all
+7,6,-1,i 'll be trying to kill his son soon
+8,6,-1,But we do know each other a bit
+9,6,-1,and he knows Prim even better
+10,6,-1,When she sells her goat cheeses at the Hob
+11,6,-1,she puts two of them aside for him and he gives her a generous amount of bread in return
+12,6,-1,We always wait to trade with him when his witch of a wife is n't around because he 's so much nicer
+13,6,-1,I feel certain he would never have hit his son the way she did over the burned bread
+14,6,-1,But why has he come to see me
+2785 4
+ (4, 4),
+1,6,-1,i 've been right not to cry
+2,6,-1,The station is swarming with re porters with their insect like cameras trained directly on my face
+3,6,-1,But i 've had a lot of practice at wiping my face clean of emotions and I do this now
+4,0,-1,I catch a glimpse of myself on the television screen on the wall that 's airing my arrival live and feel gratified that I appear almost bored .
+2787 11
+ (6, 5),
+1,6,-1,The commentators are not sure what to say about the crowd 's refusal to applaud
+2,6,-1,The silent salute
+3,6,-1,One says that District 12 has always been a bit backward but that local customs can be charming
+4,6,-1,As if on cue
+5,6,-1,Haymitch falls off the stage
+6,0,-1,and they groan comically
+7,6,-1,Peeta 's name is drawn
+8,6,-1,and he quietly takes his place
+9,6,-1,We shake hands
+10,6,-1,They cut to the anthem again
+11,6,-1,and the pro gram ends .
+2788 6
+ (1, 1),
+1,2,-1,Effie Trinket is disgruntled about the state her wig was in
+2,6,-1,"  Your mentor has a lot to learn about presentation
+3,6,-1,A lot about televised behavior
+4,6,-1,Peeta unexpectedly laughs
+5,6,-1,he was drunk
+6,6,-1,"  says Peeta .
+2795 7
+ (6, 6),
+1,6,-1,"  Here 's some advice
+2,6,-1,Stay alive
+3,6,-1,"   says Haymitch
+4,6,-1,and then bursts out laughing
+5,6,-1,I exchange a look with Peeta before I remember im having nothing more to do with him
+6,3,-1,im surprised to see the hardness in his eyes
+7,6,-1,He generally seems so mild .
+2799 6
+ (3, 1),
+1,6,-1,The people begin to point at us eagerly as they recognize a tribute train rolling into the city
+2,6,-1,I step away from the window
+3,2,-1,sickened by their excitement
+4,6,-1,knowing they cant wait to watch us die
+5,6,-1,But Peeta holds his ground
+6,6,-1,actually waving and smiling at the gawking crowd .
+2804 3
+ (1, 1),
+1,3,-1,The crowd 's initial alarm at our appearance quickly changes to cheers and shouts of  "  District Twelve
+2,6,-1,"   Every head is turned our way
+3,6,-1,pulling the focus from the three chariots ahead of us .
+2805 3
+ (1, 1),
+1,0,-1,The crowd 's initial alarm at our appearance quickly changes to cheers and shouts of  "  District Twelve
+2,6,-1,"   Every head is turned our way
+3,6,-1,pulling the focus from the three chariots ahead of us .
+2812 5
+ (4, 2),
+1,6,-1,About halfway through my glass of wine
+2,6,-1,my head starts feeling foggy
+3,6,-1,so I change to water instead
+4,1,-1,I dont like the feeling and hope it wears off soon
+5,6,-1,How Haymitch can stand walking around like this full-time is a mystery .
+2815 5
+ (2, 2),
+1,6,-1,Besides
+2,4,-1,the idea of the girl with her maimed tongue frightens me
+3,6,-1,She has reminded me why im here
+4,6,-1,Not to model flashy costumes and eat delicacies
+5,6,-1,But to die a bloody death while the crowds urge on my killer .
+2817 11
+ (3, 4),
+1,6,-1,"  i 'd leave here
+2,6,-1,"   Peeta blurts out
+3,4,-1,Then he looks around nervously
+4,6,-1,It was loud enough to hear above the chimes
+5,6,-1,He laughs
+6,6,-1,"  i 'd go home now if they let me
+7,6,-1,But you have to admit
+8,6,-1,the food 's prime
+9,6,-1,e 's covered again
+10,6,-1,If that 's all you 'd heard it would just sound like the words of a scared tribute
+11,6,-1,not someone contemplating the unquestionable goodness of the Capitol .
+2819 9
+ (3, 1),
+1,6,-1,"  He knew your mother when they were kids
+2,6,-1,"   says Peeta
+3,3,-1,Another surprise
+4,6,-1,But probably true
+5,6,-1,"  Oh
+6,6,-1,yes
+7,6,-1,She grew up in town
+8,6,-1,"   I say
+9,6,-1,It seems impolite to say she never mentioned the baker except to compliment his bread .

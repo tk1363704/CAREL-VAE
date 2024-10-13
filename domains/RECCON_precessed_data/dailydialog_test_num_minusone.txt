@@ -1,0 +1,2855 @@
+9708 9
+ (4, 3),(4, 4),(6, 6),(8, 8),(9, 9),
+1,6,-1,Theblake'sgotdivorced.
+2,6,-1,Really?Why?
+3,6,-1,Mr.blackhasbeengettingalittlearoundaside.
+4,3,-1,I'msurprised.Hedoes'tlooklikeaguywho'devercheatonhiswifedoeshe?
+5,6,-1,Nohedoesn't.Buthiswifefoundouthehasbeentoocharmingforalongtime.Incrediblyhehasmanydifferentgirlfriends.Startingalmostrightaftertheymarried20yearsago.
+6,5,-1,WellI'mreallysurprised.Youarenotdoinganythingbehindmybackareyou?
+7,6,-1,NotheonlythingI'veeverdonebehindyourbackiszipyouupbesidesItoldallmyothergirlfriendsandmywifewho'sgettingsuspicious.andwehadacoldforawhiletellthe
+8,2,-1,Haha...Youarenotveryfunny.Iguessthatmeans--exceptmetotellmyloverwehavestopedseeingeachothertoo.
+9,2,-1,Youarenotfunnyeither.Ican'tbelieveImarriedawomanlikeyou.
+935 7
+ (1, 1),(2, 1),(2, 2),(3, 3),(4, 1),(4, 2),(5, 3),(6, 1),(6, 2),(7, 3),(7, 6),(7, 7),
+1,0,-1,I'msogladIboughtthiswatch!
+2,0,-1,Cool!Flashyredlines!
+3,0,-1,IthinkthisisthecoolestwatchI'veeverowned.
+4,0,-1,Isitwaterproof?
+5,0,-1,Isn'tthatasillyquestion?YouknowhowmuchofanathleteIam.
+6,0,-1,Uhhuh...sowhatkindofsportsdoyouneedawaterproofwatchfor?
+7,0,-1,Wellsurfingscubadiving...
+665 4
+ (1, 1),(2, 1),(2, 2),(3, 2),(4, 1),(4, 3),(4, 4),
+1,0,-1,Hi!I'mhappyyoucouldmakeit.
+2,0,-1,WellI'vebeenlookingforwardtoseeingyou.
+3,0,-1,WhatcanIgetyou?
+4,0,-1,I'dloveaginandtonic.
+9573 14
+ (3, 2),(3, 3),(8, 7),(10, 9),(13, 12),
+1,6,-1,CanIhelpyouMa'am?
+2,6,-1,Ineedaphonecardforthisnewcellphone.
+3,0,-1,Coolphone.Whatkindofphonecarddoyouwant?
+4,6,-1,It'sformydaughterwhoisstillaseniorhighschoolstudent.
+5,6,-1,ThentheM-Zonewillbesuitable.
+6,6,-1,What'sspecialwiththeservice?
+7,6,-1,Youknowstudentsusetestedmessageservice.Andtheyprovidefavorableserviceforthat.
+8,0,-1,That'snice.AndIneedapre-paidphonecard.
+9,6,-1,Ohthereisasalespromotionforitnow.
+10,0,-1,Ohgood.Thenwhatisit?
+11,6,-1,Ifyoubuyapre-paidphonecardworth100yuantodayyouwillget50yuanforfree.
+12,6,-1,MayIhavetwoofthem?
+13,0,-1,Sure.Asmanyasyouwant.
+14,6,-1,Okaythenathirdoneformyhusbandtoo.
+10180 8
+ (3, 3),(5, 3),(5, 5),(7, 3),(7, 5),(7, 7),
+1,3,-1,JohnnyIcan'tbelieveyouwoulddothat.
+2,6,-1,IknowGrandmaIjust...
+3,5,-1,You'redarnToomin'youknow!Nowyou'reonhouseworkdutywhileI'mhere!
+4,6,-1,Yes'm.
+5,5,-1,You'regoingtomoptheflooruntilyoucanseeyourfaceinit!
+6,6,-1,Yes'm.
+7,5,-1,Andyou'regoingtodusteverypieceoffurnitureinthehouse!
+8,6,-1,Yes'm.
+9306 21
+ (2, 1),(2, 2),(7, 5),(7, 6),(7, 7),(8, 7),(8, 8),(11, 11),(12, 11),(14, 14),(15, 14),(15, 15),(20, 15),(20, 16),(20, 19),
+1,6,-1,It'stimefordesserts!Areyoustillhungry?
+2,0,-1,I'vealwaysgotroomforsomethingsweet!
+3,6,-1,whatareyougoingtotryfirst?
+4,6,-1,I'venevertriedtraditionalGreekyogurtsoIwanttotrythatfirst.
+5,6,-1,dotheyservetheyogurtwithanything?
+6,6,-1,Ibelievetheyaddlocallyproducedhoneytoit.
+7,0,-1,thatsoundsgood.I'mgoingtostartwithanItaliantiramisu.
+8,0,-1,doyouwanttotrysomeofmyyogurt.It'safavoriteeverydaydessertinGreece.
+9,6,-1,ok.Mmm.
+10,6,-1,whatdoyouthink?Howdoesittaste?
+11,0,-1,it'snicebutit'sratherplain.Doyouwanttotrymytiramisu?
+12,0,-1,sure.I'lljusthaveabite.
+13,6,-1,whatdoyouthink?Doesittastegood?
+14,0,-1,it'sabsolutelydelicious!ThatisthebesttiramisuI'veeverhad!
+15,0,-1,I'mgladyoulikeit.Idon'tcareforit.Whydon'tyoufinishmytiramisusothatIcantryoneofthosefriedbananas?
+16,6,-1,ok.I'vehadoneofthosebefore.They'rereallysweetandcrunchy.
+17,6,-1,doyouknowwheretheyarefrom.
+18,6,-1,IbelievetheyarealocaldelicacyintheSouth.
+19,6,-1,doyouwantmetogetyouonetoo?
+20,0,-1,yeahwhynot?We'vealreadypiggedoutasitis!
+21,6,-1,okI'llbebackwithtwofriedbananasinafewminutes.Waitformehere!
+416 18
+ (6, 6),(9, 9),(16, 16),(18, 18),(18, 18),
+1,6,-1,Yesmadam?CanIhelpyou?
+2,6,-1,Ohyesplease.Butyouarejustclosingaren'tyou?
+3,6,-1,Wellyeswearemadam.Theshopshutsdowninfiveminutes.
+4,6,-1,Ishallnotkeepyoulongthen.Itwasaboutsomesaucepansyouhadinyourwindowlastweek.
+5,6,-1,Lastweekmadam?Ireallycan'trememberwhichonesyoumean.Whatweretheylike?
+6,0,-1,Ohtheywerelovely.Sortofimitationwooddarkbrowncolorcountry-styleyouknowandthelidsifIrememberrightlytheyhadasortofleafpatternorwasitflowers?
+7,6,-1,That'sstrange.Idon'trecognizeanyoftheoneswehadfromthatdescription.Areyousuretheywereinthisshop?
+8,6,-1,OhyoumustknowtheonesImean.Theywereonsalearealbargain.Reducedtoaquarteroftheoriginalprice.Icouldn'tbelievemyeyeswhenIsawthem.
+9,1,-1,Iamafraidthesalesareovernowmadam.Andyouknowweallsoldoutofthesaucepans.
+10,6,-1,Idon'tthinkyoudidyouknow.Myneighbortoldmeshesawsomehereonlyyesterday.
+11,6,-1,Wellit'sallnewstockinthewindownow.
+12,6,-1,MayIjusthavealooktoseeifthereisanythingelse?
+13,6,-1,Ehwellmadamasyouknowweareclosing.
+14,6,-1,YesyesIamsorryIwon'tkeepyou.Itmustgetonyournerveswhencustomerscomeinrightatclosingtime.Buttheyweresuchbeautifulsaucepans.I'dhaveboughtthemifIhadmadeupmymindonthespot.
+15,6,-1,PerhapsmadamifyoucomebacktomorrowIcouldshowyouthewholerangeofkitchenware.Andtherearestilloneortwothingsatthesaleprice.
+16,0,-1,Ohlook!Thatwastheonethere.ThatisthesortofthingIwaslookingfor.Butit'snotquitethecolor.
+17,6,-1,Thatmightbetheartificiallightingmadam.Ofcourseifyoucouldcomebackindaylightyoumightfindit'sexactlywhatyouarelookingfor.
+18,0,-1,Thereitis.Thatisthepattern!Thesetbehindyou.Thankgoodnesstheyhaven'tbeensold.Andthankyousomuchforbeingsopatientwithme.Yesthosearetheones.
+501 10
+ (1, 1),(3, 1),(3, 2),(7, 6),(7, 7),
+1,3,-1,ThisOlympicparkissobig!
+2,6,-1,Yes.NowweareintheOlympicstadiumthecenterofthispark.
+3,3,-1,Splendid!Whenisitgonnabefinished?
+4,6,-1,ThewholestadiumistobefinishedthisJune.
+5,6,-1,Howmanyseatsarethereinthestand?
+6,6,-1,Ohthereare5000seatsintotal.
+7,3,-1,Ididn'tknowitwouldbesobig!
+8,6,-1,Itis!Looktherethosearethetracks.Andthejumpingpitisoverthere.
+9,6,-1,Ah...Isee.HeylookthesignhereNoclimbing.
+10,6,-1,WeputmanysignswithEnglishtranslationsforforeignvisitors.
+8938 16
+ (8, 6),(8, 7),(10, 9),(11, 6),(11, 11),(14, 14),(16, 15),(16, 16),
+1,6,-1,Youwon'tbelievewhatjusthappened.
+2,6,-1,What?
+3,6,-1,Iwentdowntochangesomemoneyright?
+4,6,-1,Yes.Weneedsome.Howmuchdidyouchange?
+5,6,-1,Iwantedtochangearound5000dollars.Andyouknowtheexchangerate.
+6,6,-1,Yesit'sabout35pesosforeveryTaiwandollarright?
+7,6,-1,Nottoday.
+8,3,-1,Whatdoyoumean?
+9,6,-1,IwentintothebankwithmymoneyandIlookedattheexchangeboard.AtfirstIcouldn'tbelieveit.IthoughtIwasreadingtheboardwrongorsomething.
+10,3,-1,Why?
+11,3,-1,Becausetheboardsaid60pesosforeveryTaiwandollar.
+12,6,-1,Sixty?That'stoomuch.Howcanthatbe?
+13,6,-1,Ithoughtitwaswrongtoo.Itdidn'tmakesense.
+14,3,-1,Justtwodaysagoitwas35.Howcanitbe60?
+15,6,-1,SoIwentuptothetellerandstartedtoexchangethemoney.Andit'strue.Theyreallygavemesixtypesosforthedollar.
+16,3,-1,That'samazing!Really?Howcoulditchangesomuchintwodays?
+8162 10
+ (1, 1),(3, 2),(3, 3),(5, 2),(5, 3),(10, 9),(10, 10),
+1,3,-1,Wowyou'reupearlytoday!What'sforbreakfast?
+2,6,-1,WellIfeltlikebakingsoImadesomemuffins.
+3,0,-1,Smellsgood!I'llmakesomecoffee.Doyouwantmetomakeyousomeeggs?
+4,6,-1,SureI'lltakeminesunnysideup.
+5,0,-1,WwwIdon'tknowhowyoucaneatyoureggslikethat!EversinceIwassmallI'Vehadeggsandsoldiers.
+6,6,-1,Youknowmydadhadscrambledeggseverymorningfortwentyyears.Itdrovemymomcrazy!
+7,6,-1,Youknowwhatreallydrivesmecrazy?WhenIaskforsoftboiledeggsandtheyovercookthemsotheycomeouthardboiled!Howcanyoudipyourtoastintoahardboiledegg?
+8,6,-1,You'resopickysometimes.
+9,6,-1,Hereyougohoneyfriedeggs.
+10,5,-1,Dammit!Iaskedforsunnysideup!HowmanytimesdoIhavetotellyou.
+623 10
+ (1, 1),(2, 1),(3, 1),(3, 2),(4, 1),(4, 3),(5, 1),(5, 2),(7, 1),(7, 2),
+1,0,-1,Maryit'sgoodtoseeyou!
+2,0,-1,JoshandIwerejustonourwaybackhomefromthebeachandthoughtwe'ddropby.
+3,0,-1,Iamsogladthatyoudecidedtostopby!
+4,0,-1,Yesithasbeenalongtimesincewehaveseenyou.
+5,0,-1,MarycanIgetJoshoryousomethingtodrink?
+6,6,-1,Ohnothankyou.Wearen'tallthatthirsty.
+7,0,-1,Howaboutalittlesnackthen?
+8,6,-1,Nothankyouwejustatelunchalittlewhileago.
+9,6,-1,Wellthenhowisyourfamily?
+10,6,-1,Everyoneisdoinggreat.Mysisterfinallyhadherbaby.
+9911 12
+ (1, 1),(2, 1),(2, 2),(3, 1),(4, 1),(4, 1),(4, 2),(4, 4),
+1,0,-1,Wellitwasnicetalkingtoyou.
+2,0,-1,Itwasnicetalkingtoyoutoo.
+3,0,-1,Weshouldreallyhangoutagain.
+4,0,-1,Thatwouldbefun.
+5,6,-1,Wheredoyouwanttogo?
+6,6,-1,Ithinkweshouldgoouttoeat.
+7,6,-1,Thatsoundsgood.
+8,6,-1,AllrightsoI'llseeyouthen.
+9,6,-1,I'llcallyoulater.
+10,6,-1,OkayI'lltalktoyoulaterthen.
+11,6,-1,Seeyoulater.
+12,6,-1,Bye.
+7996 12
+ (2, 1),(2, 2),(5, 5),(9, 5),(10, 9),(12, 11),
+1,5,-1,Doyouknowhowlateitis?
+2,1,-1,Myfault.Ididn'trealizewhattimeitwas.
+3,5,-1,Ihopeyoudon'tthinkthatexcuseletsyouoffthehook.
+4,6,-1,Notreally.I'mtellingthetruth.
+5,5,-1,Haven'tIaskedyoutocallifyou'regoingtobehomelate?
+6,6,-1,Thisistruebutitmust'veslippedmymind.
+7,6,-1,Regardlessallyouhadtodowasgiveacall.
+8,6,-1,Iknow.Ishould'vecalled.
+9,5,-1,Comehomelateonemoretimeandyou'llfindyourstuffoutside.
+10,3,-1,Youwanttothrowmeoutoverthis?
+11,6,-1,That'srightmaybethenyou'llrespectmyrules.
+12,5,-1,That'sfinebecauseifIleavethenyourruleswon'tmatter.
+612 12
+ (3, 3),(4, 3),(9, 8),(11, 10),(12, 11),(12, 12),
+1,6,-1,Whew!Ihadtowaitforalmostanhourtogettothefrontoftheline.
+2,6,-1,Youhavemuchpatience.
+3,0,-1,Wow!Yourcalligraphyisverybeautiful.Itwasworththewait!
+4,0,-1,Thankyou.TodayI'mwritingakindofpoemcalledaChinesecouplet.
+5,6,-1,Whatdoesitsay?
+6,6,-1,Thisisanespeciallyfamousone.Itsays"Maythepassingdaysbringyouhealthandlongevity.Maythisseasonofrenewalfindyoubaskedinriches."
+7,6,-1,That'sverynice.Isitforsale?
+8,6,-1,No.Ineversellmyartwork.
+9,3,-1,Really?Thenwhatdoyoudowithit?
+10,6,-1,Igiveitaway.Herethisoneisforyou.
+11,3,-1,Wow!Really?Areyousure?NowI'llhavealuckyyear!
+12,0,-1,Rememberrealluckmustbecreated(by)yourselfandthenitcannotbegivenortakenaway...
+335 14
+ (4, 3),(4, 4),(8, 8),(12, 12),(13, 13),(14, 13),(14, 14),
+1,6,-1,Whatdoyouthinkaboutthisstore?Iheardit'saposhstorethat'sonlygotbranchesinbigcities.
+2,6,-1,Ilovethisstore.Theonlyproblemisthatit'sextremelyexpensive.
+3,6,-1,Don'tworry.I'VedecidedthatforyourbirthdayI'mgoingtotakeyoushoppingforanewdress.
+4,3,-1,Really?Ithoughtyouhatedshopping?
+5,6,-1,Idothat'swhyyoushouldappreciatethisgift!
+6,6,-1,Sure.That'sreallyniceofyou.Let'sgoinandtrysomethingson.
+7,6,-1,Howaboutthisreddress?Ithinkitwouldreallysuityou.
+8,0,-1,That'sgorgeous!Dotheyhaveitinasize8?
+9,6,-1,Hereyougo.Onanyotherdayitwouldcostmeafortunebutit'sonspecialoffertoday.
+10,6,-1,Ithinkthiscolorisn'tquiterightforme.Dotheyhavethesamedressinwhite?
+11,6,-1,Letmelook.Let'ssee...they'Vegotoneinbluegreenpinkblack...andwhite.Hereyouare.
+12,0,-1,Thisisperfect!Whatdoyouthink?
+13,0,-1,Ithinkyoulookfantastic.HappyBirthday!
+14,0,-1,I'msolucky.Youonlygetachancelikethisonceinabluemoon!Thankshoney!
+10410 8
+ (4, 3),(5, 3),(6, 3),(6, 6),(7, 3),(7, 6),(8, 3),(8, 6),
+1,6,-1,Samyou'Vegottoforgiveme.
+2,6,-1,Forgiveyouforwhat?
+3,6,-1,Iusedyourcomputer.AndI'mafraidI'Veerasedyourpersonalfilesaccidentally.
+4,3,-1,No!Areyoukiddingme?
+5,1,-1,I'mafraidnot.Iapologize.
+6,5,-1,Ican'tbelieveit!Ihaveallmyimportantpersonaldocumentsstoredinthatcomputer.It'snolaughingmatter.
+7,1,-1,ItoldyouI'msorry.WhatcanIdotomakeituptoyou?
+8,5,-1,Wellyoushouldbesorry!Don'teverusemycomputeragain!Youcan'tdoanythingnowit'stoolate!
+198 10
+ (1, 1),(3, 1),(3, 3),(7, 6),(7, 7),(9, 6),(9, 7),
+1,5,-1,Youguysarechargingme$10foramoviethatIneverorderedorsaw.
+2,6,-1,Let'sseesir.Accordingtoyourfileyouwatched'Titanic'Mondayevening.
+3,5,-1,Wellthewronginformationisinmyfile.IwasataconcertMondaynight.
+4,6,-1,Wellyourwordoverrulesthefilesir.Onemomentplease.
+5,6,-1,Iknewyou'dseeitmyway.
+6,6,-1,SirIdeletedthe$10butIhadtoadda$2servicechargetoyourbill.
+7,5,-1,AmIintheTwilightZone?You'rechargingmeforamovieIneversaw?
+8,6,-1,Pleasedon'tblamemesir.Blamethecomputerprogrammer.
+9,5,-1,Thisishighwayrobbery.I'vegotagoodmindtocallthepolice!
+10,6,-1,Ifitmakesyoufeelanybetterotherguestsfeelthesameway.
+700 11
+ (1, 1),(3, 3),(5, 4),(5, 5),(7, 6),(7, 7),(9, 8),(9, 9),(11, 9),(11, 10),(11, 11),
+1,5,-1,Whydidn'tyoutellmeyouhadagirlfriend?
+2,6,-1,SorryIthoughtyouknew.
+3,5,-1,Butyoushouldhavetoldmeyouwereinlovewithher.
+4,6,-1,Didn'tI?
+5,5,-1,Youknowyoudidn't.
+6,6,-1,WellI'mtellingyounow.
+7,5,-1,Yesbutyoumighthavetoldmebefore.
+8,6,-1,Ididn'tthinkyou'dbeinterested.
+9,5,-1,Youcan'tbeserious.Howdareyounottellmeyouweregoingtomarryher?
+10,6,-1,SorryIdidn'tthinkitmattered.
+11,5,-1,Ohyoumen!You'reallthesame.
+352 11
+ (4, 3),(4, 4),(6, 5),(8, 7),(10, 10),(11, 10),
+1,6,-1,Heylookthereisacircusshowoverthere.
+2,6,-1,I'mnotinthemood.
+3,6,-1,It'sthecircus.
+4,5,-1,Idon'twanttositthereandwatchthemtorturingtheanimals.
+5,6,-1,Ohcomeontheygivethemtreattoo.Ohlookthatlittlemonkeyissocute.
+6,3,-1,Cute?Hopeso.
+7,6,-1,OhitiscomingtouscomeonBengetabananatoit.
+8,5,-1,Me?Nowaykeephimawayfrommeplease.
+9,6,-1,Whyareyouactingsostrangetoday?
+10,5,-1,I'vesaidthatI'vegotaproblemwiththecircus.I'mnotkidding.
+11,3,-1,That'sweird!
+9974 10
+ (3, 3),(5, 3),(5, 5),(6, 3),(6, 5),(10, 9),(10, 10),
+1,6,-1,Mike!Lookatthefloor!
+2,6,-1,What'swrongwithit?
+3,5,-1,What'swrongwithit?It'sfilthy!
+4,6,-1,Oh...
+5,5,-1,It'sfilthybecauseyouneverwipeyourshoes.
+6,1,-1,Sorrylove.
+7,6,-1,Whatareyoulookingfornow?
+8,6,-1,Mycigarettes.
+9,6,-1,Wellthey'renothere.Theyareinthedustbin.
+10,3,-1,Inthedustbin!Whydidn'tyoutellmebefore?
+10265 17
+ (9, 8),(9, 9),(10, 9),(12, 12),(15, 15),
+1,6,-1,Alrighttellmewhatyouthink.
+2,6,-1,Don'tyouthinkit'sabitbright?
+3,6,-1,Yeahmaybeyou'reright.Howaboutthisoutfit?
+4,6,-1,Thisdresslookslovelyonyoubutit'snotverypracticalisit?
+5,6,-1,NoIdon'thaveanyplanstogotoaformaldanceanytimesoonbutIlovethewayitlooks.Ijusthadtotryiton!Whatdoyouthinkaboutthis?It'scasualyetsophisticated.
+6,6,-1,Ilikethejeansbutyouneedsomethingtogowiththetop.It'stooplainonitsown.
+7,6,-1,HowaboutthisscarftheseearringsAMDananklet?
+8,6,-1,Thatmightbegoingoverboardabit.Howaboutjustthatscarfwithabracelet?
+9,0,-1,That'sagoodidea.Youhavealotofgoodfashionsense.
+10,0,-1,Thanks.You'dbeokonyourown.Thereareloadsoffashionvictimsoutthereandyouarenotoneofthem.Haveyoutrieditonyet?
+11,6,-1,Yep.Hereitis.Whatdoyouthink?
+12,0,-1,Thatlooksgreat.Justonemorething---youneedsomehighheelswiththosejeans.Doyouwantapairwithaplainpatternoroneswithaleopardprintonthem?
+13,6,-1,Theleopardprintsoundsfabulous.Aretheyanamebrand?
+14,6,-1,Nothey'reaPradaknock-offfor1/10ofthepriceoftherealthing.
+15,0,-1,That'sevenbetterthantherealthing.
+16,6,-1,IfIwereyouI'dbuythatnowwhileit'sonsale.Ifyouspend$100yougeta$50voucherformoreclothes.
+17,6,-1,It'stoobadIdidallthatshoppingyesterday!
+10709 12
+ (6, 2),(6, 6),(7, 6),(7, 7),(9, 6),(9, 7),(9, 9),(10, 9),
+1,6,-1,Iwanttogetonthebusalready.
+2,6,-1,Itjustisn'tontimetoday.
+3,6,-1,Itwassupposedtobeherethirtyminutesago.
+4,6,-1,Ithinkit'llbehereprettysoon.
+5,6,-1,Ineedtogettoworksoitbetter.
+6,5,-1,Ireallydohatepublictransportation.
+7,5,-1,Iagreeit'sjustneverontime.
+8,6,-1,That'sright.
+9,5,-1,Ialsohatehavingtostandatabusstopinallkindsofweather.
+10,5,-1,Ohthat'stheworst.
+11,6,-1,Weneedtogetacar.
+12,6,-1,Icompletelyagreewiththat.
+739 6
+ (1, 1),(3, 1),(3, 3),(5, 1),(5, 3),(5, 5),
+1,2,-1,Ihatecomputergames.
+2,6,-1,Why?Theyarefine.
+3,2,-1,Becausetheyaretooviolent.Someofthemareevendisgusting.
+4,6,-1,Indeedtherearebadgames.Butmanyofthemaregood.
+5,2,-1,Ifboysgrowupwithcomputergamestheywillsurelybecomebad.
+6,6,-1,Comeon.Thingsarenotsobad.Boyscanlearntousethecomputerthroughgames.
+10606 5
+ (2, 1),(3, 2),(4, 1),(4, 3),(5, 2),(5, 4),
+1,6,-1,HeyAnn.Youdon'thaveapendoyou?
+2,0,-1,Surehereyougo.
+3,0,-1,Thanks.Idon'tsupposeyouhavesomepapertoo.
+4,0,-1,Ofcourse.Thereyouare.
+5,0,-1,Thankssomuch.Ioweyouone.
+587 10
+ (1, 1),(2, 2),(3, 2),(3, 3),(4, 2),(5, 2),(5, 3),(5, 5),(6, 2),(7, 2),(7, 3),(7, 5),(7, 7),(8, 2),(8, 8),(9, 2),(9, 3),(9, 5),(9, 7),(9, 9),(10, 8),(10, 8),
+1,5,-1,StupidgirlmakingmespendsomuchmoneynowIhavetogetitfromtheATM...
+2,0,-1,HellowelcometoUniversalBank.Pleaseinsertyourcardintotheslot.
+3,5,-1,Iknowwheretoputmycard!StupidmachinetalkingtomelikeI'manidiot...
+4,0,-1,Pleaseinputyour6digitPINcodefollowedbythepoundkey.Thankyou.Pleaseselectanoption.Thankyou.Youhaveselectedwithdrawal.
+5,5,-1,YeahyeahIknowwhatIselected.Justgimmemymoney!
+6,0,-1,Pleasetypetheamountyouwouldliketowithdraw.Thankyouyouwanttotransfer10000USDtotheWorldWildlifeFoundation.Ifthisiscorrectpleasepress1.
+7,5,-1,Nono!Stupidmachinewhatareyoudoing!No!
+8,0,-1,Confirmed.Thankyouforusingourbank!Pleaseremoveyourcardfromtheslot.Goodbye!
+9,5,-1,Nonoway!Whathappened?Givememymoney!
+10,0,-1,Dangerdanger!Theexitshavebeensealedandthedoorswillremainlockedinuntilthelocalauthoritiesarrive.Thankyouforusingourbank.Haveaniceday.
+10358 10
+ (1, 1),(3, 1),(3, 3),(5, 1),(5, 3),(5, 5),(7, 1),(7, 3),(7, 5),(7, 6),(7, 7),(9, 9),
+1,1,-1,Idon'tknowhowtoadjustmylife.Wouldyougivemeapieceofadvice?
+2,6,-1,Youlookabitpaledon'tyou?
+3,1,-1,YesIcan'tsleepwelleverynight.
+4,6,-1,Youshouldgetplentyofsleep.
+5,1,-1,Idrinkalotofwine.
+6,6,-1,IfIwereyouIwouldn'tdrinktoomuch.
+7,1,-1,Ioftenfeelsotired.
+8,6,-1,Youbetterdosomeexerciseeverymorning.
+9,4,-1,Isometimesfindtheshadowofdeathinfrontofme.
+10,6,-1,Whydoyouworryaboutyourfuture?You'reveryyoungandyou'llmakegreatcontributiontotheworld.Ihopeyoutakemyadvice.
+10620 16
+ (8, 7),(12, 11),(12, 12),(14, 14),(15, 14),(16, 14),(16, 15),
+1,6,-1,CanIgetyousomethingtodrink?
+2,6,-1,SurebutIdon'tdrinkmuch.SoIdon'tknowwhattoorder.
+3,6,-1,Sohowaboutanaperitif?
+4,6,-1,Itsoundsgood.I'dliketostartwithaCompare.
+5,6,-1,Stirredorshaken?
+6,6,-1,Stirredwillbefine.
+7,6,-1,Hereyouare.
+8,0,-1,Thanks.Doesthebarhaveasignaturedrink?
+9,6,-1,Sure.Allofourmixeddrinksareexcellent.Youcanalsotryadeliciousnon-alcoholiccocktail.
+10,6,-1,Canyourecommendone?
+11,6,-1,TryaStinger.Ithaslimejuiceandgrenadineoverice.
+12,0,-1,Itsoundsinteresting.I'lltakeone.
+13,6,-1,Herewego.
+14,0,-1,Ittastesgreat.
+15,0,-1,Enjoyyourself.
+16,0,-1,Yeah.
+695 6
+ (3, 2),(4, 3),(5, 2),(6, 3),(6, 5),(6, 6),
+1,6,-1,Areyoufreetomorrownight?
+2,6,-1,YesIam.
+3,0,-1,Shallwehavedinnertogether?
+4,0,-1,Doyouhaveaspecialrestaurantinmind?
+5,0,-1,YesIdo.Iknowaplacethathasexcellentfood.
+6,0,-1,OK.I'llbehappytojoinyou.
+864 12
+ (2, 2),(3, 2),(4, 2),(5, 2),(5, 5),(8, 8),(10, 8),(10, 10),(11, 10),(11, 11),(12, 8),(12, 10),(12, 11),
+1,0,-1,Matthew?Hi!
+2,0,-1,Steve!Haven'tseenyouinages!Howlong'sitbeen?
+3,0,-1,It'sgottobealmostayearnow.
+4,0,-1,Howhaveyoubeen?
+5,0,-1,I'mprettygood.I'vebeenlookingforaplacetoliverecently.MyleaserunsoutnextmonthandIdon'twanttorenewit.
+6,6,-1,YeahIremembertheneighborhood.Haveyoufoundaplaceyet?
+7,6,-1,Notyet.ButIamstilllookingthroughtheclassifieds.Wishmeluck.
+8,0,-1,WellmaybeIcanhelp.Remembermyneighbor?
+9,6,-1,Mrs.Thou?
+10,0,-1,Yesherdaughter'shavingababysoshe'smovinginwithhertohelpout.Ithinkifyouareinterestedyoucancomeoverandhavealook.
+11,0,-1,Great.It'salovelyneighborhood.Anditwouldbenicetobeneighborsagain.Itwouldbejustliketheolddays!
+12,0,-1,I'llaskMrs.Thouwhenshe'savailabletoshowtheapartmentandletyouknow.Hasyournumberchanged?
+41 17
+ (2, 2),(4, 3),(15, 12),(15, 14),(17, 12),(17, 14),(17, 16),
+1,6,-1,ListenKarenIneedyourhelp.Idon'tknowanyonehereyet.
+2,0,-1,I'mgladtohelpyou.What'swrong?
+3,6,-1,Mymother-in-lawjustwentintothehospitalinL.A.HankandIwillbeflyingtheretonight.
+4,1,-1,I'msorrytohearit.What'swrongwithher?
+5,6,-1,Doctorsaren'tsureyet.ButtherealproblemisSuzy.Shehasabadcoldandwedon'twanttotakeherwithus.Butwedon'tknowwhocanstaywithher.
+6,6,-1,Youneedababysitter.
+7,6,-1,YesI'daskJillthegirlI'vehadbeforebutIneedsomeoneovernight.Maybeevenfortwonights.
+8,6,-1,IcouldhaveSuzystayatmyplace.
+9,6,-1,Idon'twanttodothattoyouKaren.
+10,6,-1,Whynot?
+11,6,-1,YourownkidswouldgetSuzy'scold.Ithinkitwouldbebettertohaveagoodbabysitterhere.ButIdon'tknowwhotoask.IneedsomeonemorematurethanJill.Itmightevenbefortwoorthreedays.
+12,6,-1,Iknowwhowecanask.ThereisagirlIknowSaraRalston.Sheis17andshewillusuallytakethiskindofjob.IknowherfrommychurchandItrusthercompletely.
+13,6,-1,I'dliketotalkwithher.ThisisshortnoticeIknow.ButHankandIareleavingtonight.
+14,6,-1,I'llgetyouhernumber.Ihopeshecandoit.Sheisveryresponsible.
+15,0,-1,I'mgladyouknowsomeone.Iknewyouwouldbethebestpersontoaskaboutthis.Idon'twanttoinsultJillorhermother.IthinkJillmaybecoulddoit.ButI'dratherhavesomeonealittleolder.
+16,6,-1,I'llgohomeandgetSara'snumber.I'llcallherfirstmyself.
+17,0,-1,Great.Thencallmeandletmeknowifshe'sfree.
+9841 10
+ (6, 5),(6, 6),(8, 7),(8, 8),(9, 8),(10, 8),
+1,6,-1,Wow!It'shottoday!Doyouwanttogetanicecreamcone?
+2,6,-1,NoLet'sgotoanicecreamparlor!Theyhavewaymoreflavorstochoosefromthere.IfeellikehavingsomethingspeciallikeNeapolitanicecream.
+3,6,-1,What'sthat?
+4,6,-1,It'sthreedifferentflavorsmixedtogether.Chocolatestrawberryandsomethinggreenwithcandiedfruit.
+5,6,-1,Dotheyhaveicecreambars.frozenyogurtorfrozenchocolatemousse?
+6,0,-1,Absolutely!TheyalsohaverealItalianGalatianandFrenchsorbets.TheydoagreatbakedAlaska.
+7,6,-1,Maybeavanillaicecreammilkshakewouldbegood.What'syourfavoriteflavor?
+8,0,-1,Well...llikethetraditionalflavorslikerumraisinbutterpecan.maplewalnutstrawberrychocolateandvanilla.ButnowtherearesomenewflavorsfromAsialikegreenteaanddurian.
+9,0,-1,God!Eventalkingaboutitmakesmefeellikel'mgainingweight!
+10,0,-1,That'sOK.Wecangojoggingafterweeat!
+9076 10
+ (3, 2),(3, 3),(3, 3),(5, 2),(5, 3),(5, 3),(5, 5),(6, 5),(7, 2),(7, 3),(7, 3),(7, 5),(7, 6),
+1,6,-1,WehavebeenhereforaboutfivedaysandIhavetoleavenow.
+2,6,-1,Ok!Youknowyou'realwayswelcomehere.Didyouenjoyyourstay?
+3,0,-1,Yeswehaveaverypleasanttime.Thankyouforbeingsoniceforus.
+4,6,-1,It'sourpleasure.Andisthereanythingelsewecandoforyoubeforeyouleavehere?
+5,0,-1,Nothanks.You'vedonealotforus.Thankyouforeverything.
+6,0,-1,Don'tmentionit.OhThisisasmallgiftforyou.
+7,0,-1,Oh!Thankyou!It'sverykindofyou.
+8,6,-1,Wehopeyoucouldvisitourcompanyagain.
+9,6,-1,We'resurewewill.Andwelcometoourcorporationnextyear.We'reexpectingyou.
+10,6,-1,Ok!We'lldefinitelygotovisityourcompany.
+10724 4
+ (1, 1),(1, 1),(2, 1),(2, 1),(2, 2),(3, 1),(3, 1),(3, 3),(3, 3),(4, 1),(4, 1),(4, 2),(4, 3),(4, 3),
+1,0,-1,Francisyouhavedoneanoutstandingworkinthepastsixmonths.InviewofyourachievementItrustyou'renowindispensablepartofourcompanyandyoudeserveanofficerdirectortitle.
+2,0,-1,IamsohappytoknowthatIcouldmakesomecontributiontoourcompany.
+3,0,-1,Thistitledoesnotonlygiveyouaraisingpay-checkbutalsoincreaseresponsibilities.Congratulationsandhopethebestforyou.
+4,0,-1,ThankyouIwillbedoingmybest.
+11079 8
+ (1, 1),(2, 1),(4, 4),(5, 4),(6, 4),(6, 5),(6, 5),(7, 4),(7, 6),(8, 4),(8, 5),(8, 5),
+1,0,-1,It'sniceofyoutoseemeoff.
+2,0,-1,It'smypleasure.Hopeyou'llvisitBeijingmoreoften.
+3,6,-1,Thanks.Stopherenow.
+4,0,-1,OK.Ihopeyouhaveagoodtrip.ThankseversomuchforyourcooperationMr.Simpson.GivemybestwishestoMr.Green.
+5,0,-1,OKIwill.Goodbyeandremembertolookmeupifeveryou'reinParis.
+6,0,-1,Goodbyeandallthebest.
+7,0,-1,OKbyefornow!
+8,0,-1,Bye.
+754 9
+ (2, 1),(4, 1),(4, 3),(5, 1),(5, 4),(5, 5),(6, 1),(6, 3),(7, 6),(7, 7),(8, 1),(8, 3),(9, 1),(9, 3),(9, 8),
+1,6,-1,DavidI'mgoingtoChina.
+2,3,-1,Really?Howdidyougetthechance?
+3,6,-1,Youknow.ItookpartintheChinesecontest.Iwasthebestandtheygavemethisreward.Idon'thavetopayformytrip.
+4,0,-1,Congratulations.Howluckyyouare!
+5,0,-1,Thankyou.I'mleavingtomorrowmorning.
+6,0,-1,I'msureyou'llenjoythetrip.Chinaissuchabeautifulcountry.
+7,0,-1,I'msureIwill.
+8,0,-1,HaveanicejourneyLily.
+9,0,-1,ThankyouDavid.
+8392 13
+ (1, 1),(3, 2),(3, 3),(7, 6),(7, 7),(10, 10),(13, 12),
+1,0,-1,Heydaddy!Youlookgreattoday.Ilikeyourtie!BythewayIwaswonderingcanI...
+2,6,-1,NO!
+3,5,-1,Ihaven'teventoldyouwhatitisyet!
+4,6,-1,Okayokaywhatdoyouwant?
+5,6,-1,DoyouthinkIcouldborrowthecar?I'mgoingtoaconcerttonight.
+6,6,-1,Um..Idon'tthinkso.Ineedthecartonighttopickupyourmother.
+7,5,-1,Egg!Itoldyouaboutitlastweek!SmellyToesisplayingandEricaskedifIwouldgowithhim!
+8,6,-1,Who'sthisEricguy?
+9,6,-1,Duh!He'slikethehottestandmostpopularguyatschool!Comeondad!Please!
+10,1,-1,Nocando...sorry.
+11,6,-1,Finethen!Wouldyoumindgivingme100bucks?
+12,6,-1,Noway!
+13,5,-1,That'ssounfair!
+732 12
+ (1, 1),(2, 1),(4, 4),(5, 4),(6, 6),(7, 6),(7, 7),(9, 6),(9, 7),(10, 10),(10, 6),(10, 7),
+1,2,-1,Ihatetogooutside.
+2,2,-1,Metoo.
+3,6,-1,Whydoyouhatetogooutside?
+4,2,-1,Imeettoomanyjerks.
+5,2,-1,Iagree.
+6,2,-1,Thiscityisfullofjerks.
+7,2,-1,Rudepeopleareeverywhere.
+8,6,-1,Butwhatcanyoudo?
+9,2,-1,Youcanyellatthem.
+10,2,-1,Andtheywillyellbackatyou.
+11,6,-1,Yellingdoesn'tdoanygood.
+12,6,-1,No.Thebestthingtodoisjuststayhome.
+646 10
+ (1, 1),(3, 2),(3, 3),(5, 3),(5, 5),(7, 3),(7, 5),(7, 7),(7, 7),(9, 3),(9, 5),(9, 7),(9, 7),(9, 9),
+1,1,-1,...soIsaidlet'stakeabreak.AndsincethatnightI'VebeenwaitingforhimtocallbutIstillhaven'theardfromhim.Youdon'tthinkhe'sseeingsomeoneelsedoyou?
+2,6,-1,Comeondon'tbesodramatic!I'msureeverythingisgoingtoworkoutjustfine.
+3,5,-1,Youthinkso?Ohno!Howcanhedothistome?I'msurehe'scheatingonme!Whyelsewouldn'thecall?
+4,6,-1,Butyoutwoareonabreak.Theoreticallyhecandowhateverhelikes.
+5,1,-1,He'stheloveofmylife!I'Vereallymessedthisup.
+6,6,-1,Comeonhon.Pullyourselftogether.It'sgoingtobealright.
+7,1,-1,ButI...Istilllovehim!Andit'sallmyfault!Ican'tbelievehowimmatureandselfishIwasbeing.Imeanheisafirefighterit'snotlikehecanjustleavesomeoneinaburningbuildingandmeetmefordinner.I'Vetotallymessedthisup!
+8,6,-1,YouknowwhatVeronicaIthinkyoushouldmakethefirststep.I'msurehe'llforgiveyou...
+9,1,-1,Nothisisnotgonnahappen!I...I'Veruinedeverything...
+10,6,-1,doyouhearsomething?
+10880 11
+ (2, 1),(2, 2),(4, 1),(4, 2),(4, 4),(6, 1),(6, 2),(6, 4),(6, 6),(8, 1),(8, 2),(8, 4),(8, 6),(8, 7),(8, 8),(10, 1),(10, 2),(10, 4),(10, 6),(10, 7),(10, 8),(10, 10),
+1,6,-1,You'rehomelatetodayDavid.Howwasschool?
+2,0,-1,Notbad.There'sanewEnglishteacher.
+3,6,-1,Ohwhat'sshelike?
+4,0,-1,Sheisbeautiful.
+5,6,-1,Issheoldoryoung?
+6,0,-1,Sheisquiteyoungandherhairisblond.
+7,6,-1,Isshestrict?
+8,0,-1,Notreally.Hereyesareblue.
+9,6,-1,CanshespeakChinese?
+10,0,-1,Notmuch.Sheisverytallandslim.
+11,6,-1,Davidstopdreaming.It'stimetodoyourhomework.
+980 11
+ (4, 2),(4, 4),(5, 4),(6, 2),(6, 6),(7, 6),(8, 8),(9, 8),(10, 10),(11, 10),
+1,6,-1,It'squieteverywhereinwinter.
+2,6,-1,Yes.Ilikewinter.
+3,6,-1,Metoo.
+4,0,-1,It'ssnowingheavily.Whatabouttakingawalk?
+5,0,-1,That'sagoodidea.Let'sgo!
+6,0,-1,Whataheavysnow!Look!Thewaterisfrozen.
+7,0,-1,Takecare!Don'tslipontheground.
+8,0,-1,I'vegotit.Ilikethefeelingofsteppingontheice.
+9,0,-1,Yes.Verywonderful.
+10,0,-1,Thereisasnowmanoverthere.
+11,0,-1,Howlovelyitis!
+659 19
+ (2, 2),(4, 4),(8, 7),(8, 7),(15, 15),(19, 18),
+1,6,-1,howareyoudoingChristopher?
+2,2,-1,tobehonestI'mreallyfedupwithworkatthemoment.Ineedabreak!
+3,6,-1,areyoudoinganythingthisweekend?
+4,2,-1,IhavetoworkonSaturdayallday!Ireallyhatemyjob!
+5,6,-1,areyouavailableonSunday?
+6,6,-1,yesthat'smyonlydayoffuntilThursday.
+7,6,-1,okwellmyfriendsandIareplanningongoingtothebeachonSunday.Wetendtoleavearoundnoonwheneverwegoanywheresoyoucouldstillsleepin.Doyouwanttocomewithus?
+8,0,-1,that'dbefantastic!Whichbeachareyougoingto?
+9,6,-1,it'saquietbeachjustaboutanhouroutsideofthecity.
+10,6,-1,whatshouldIbringwithme?
+11,6,-1,we'vegotplentyofinflatablesbutifyouwanttositonachairyou'llhavetobringyourownsunlounger.
+12,6,-1,Icanjustusemybeachtowel.Ilovelazingaroundinthesun.
+13,6,-1,doyoulikesurfing?
+14,6,-1,I'veactuallynevertired.Doyouhaveasurfboard?
+15,0,-1,we'vegotafew.IcanteachyouhowtosurfonSunday.It'llbefun!
+16,6,-1,Ican'twait!Itsoundslikewe'regoingtohaveagreattime.HowmuchmoneyshouldIbring?
+17,6,-1,you'lljustneedroughly$10forfoodandgasmoney.Myfriendisdrivingsoweusuallyallchipinafewdollarsforgasmoney.
+18,6,-1,okwhereandwhenshouldImeetyou?
+19,0,-1,we'llpickyouupatyourplaceatnoon.Bethereorbesquare!
+10853 12
+ (4, 2),(4, 3),(4, 4),(10, 2),(10, 3),(10, 4),(10, 6),(10, 8),(10, 10),(11, 10),(12, 2),(12, 3),(12, 4),(12, 6),(12, 8),(12, 10),(12, 11),(12, 12),
+1,6,-1,HiwhatcanIgetforyou?
+2,6,-1,HellomayIhaveadoublecheeseburger?
+3,6,-1,Witheverythingonit?
+4,0,-1,Thatsoundsgreat.
+5,6,-1,Didyouwantfrieswithyourorder?
+6,6,-1,MayIgetalargeorderofcurlyfries?
+7,6,-1,Didyouwantsomethingtodrink?
+8,6,-1,GetmeamediumPepsi.
+9,6,-1,Wouldyoulikeanythingelse?
+10,0,-1,Nothankyou.That'sit.
+11,0,-1,Noproblemthat'llbe$5.48.
+12,0,-1,Thanksalot.Keepthechange.
+685 4
+ (1, 1),(2, 1),(2, 2),(3, 1),(3, 3),(4, 1),(4, 3),(4, 4),
+1,5,-1,Isthatpeskyladycomingtotheofficeagain?
+2,5,-1,YeahI'mafraidso.
+3,5,-1,Ifthere'sonethingthatbugsmeit'shercriticalattitude.
+4,5,-1,Yesitisannoying.
+8798 12
+ (7, 7),(8, 7),(8, 8),(11, 11),(12, 11),
+1,6,-1,Seehowmanypeoplearehere!
+2,6,-1,Yeah!Doallthesepeopleworkinthecompany?Everyoneandtheirdogishere!
+3,6,-1,OtherthantheemployeesourbossJackinvitedsomefriendsofthecompany.
+4,6,-1,Canwejustsitwhereverwewant?
+5,6,-1,Ofcoursenot!Wehavetositatourassignedseats.Ithinkourtableisoverthereintheback.
+6,6,-1,Hmm.Wedon'texactlyhavethebestseatsinthehousedowe?
+7,3,-1,Lookwhoyougettositnextto--Timfrompurchasing!
+8,2,-1,Www!Thatweirdo?!Hereallygivesmethecreeps!
+9,6,-1,Don'tworry.I'malsosittingnexttoyou.
+10,6,-1,Ijusthopehedoesn'tstartbraggingagain!
+11,0,-1,Ican'twaituntilwegetouryear-endbonus!
+12,0,-1,Meeither!Whodecideshowmuchmoneyweget?
+9778 15
+ (2, 2),(12, 2),(12, 12),(14, 2),(14, 12),(14, 13),
+1,6,-1,GoodafternoonhowcanIhelpyou?
+2,1,-1,Someonehasstolenmygoldnecklace.
+3,6,-1,Iamsorrytohearaboutthat.Wouldyoumindcomingwithmetomyofficeandtellmeexactlywhathappenedhere?
+4,6,-1,Ofcoursenot.
+5,6,-1,Areyousurethatitisn'tsomewhereinyourroom?
+6,6,-1,YesI'velookedeverywhereinmyroomandIcan'tfindit.
+7,6,-1,Okwhenandwheredidyoulastseeit?
+8,6,-1,Lastnightonthedresser.ItookitoffbeforeIwenttotheshowerandforgottoputitbackonaftertheshower.AndthismorningIleftthehotelinahurrywithoutwearingit.
+9,6,-1,Areyousureyoudidn'twearitthismorning?
+10,6,-1,YesIampositive.
+11,6,-1,Didyouremembertolockyourdoorbeforeyouleftthen?
+12,5,-1,YesIthinkIdid.Ithastobeoneofyourmaidswhotookit.Iwantmynecklaceback.
+13,6,-1,WellIunderstandhowyoufeelandwewilltrytodoourbesttohelpyou.Butfirstpleaseallowmetosendoneofthehousemaidstoyourroomtolookforitagainthoroughlyjustincaseit'sstillinthere.Ifshefindsitwewillallbehappy.Ifshedoesn'twewillturnthewholemattertothepolice.ButImustsaythatthehotelcan'tbeheldresponsibleforyourloss.Youshouldhavelockedyourgoldnecklaceawayatthehotel'ssafetybox.Ifyouhadreadyourkeycardcarefullyyouwouldhaverealizedthatwespeciallywarnedyoutodoso.
+14,5,-1,Thatjustisn'tgoodenough.Cetmeyourgeneralmanager.Iwanttospeaktohimnow.
+15,6,-1,Iamsorryma'am.Ourgeneralmanagerisnotintown.ButI'dbemorethangladtogetyouourassistantmanagerifyoulike.ButIamafraidthathewillsaythesamething.Wehaveveryclearinstructionsaboutvaluablesandwemustfollowthem.AndnowifyouwillexcusemeI'llgoandfindourassistantmanagerforyou.
+8080 10
+ (6, 6),(8, 6),(10, 6),(10, 10),
+1,6,-1,Youlookkindofgreen.
+2,6,-1,Idon'tfeelsogood.Iamfeelingsicktomystomach.
+3,6,-1,Haveyouhadanythingtoeatlately?
+4,6,-1,Ihadfriedshrimpandclamsforlunch.
+5,6,-1,Perhapsthefoodwasbad.
+6,1,-1,PerhapsbutIhaven'tfeltwellforafewdaysnow.
+7,6,-1,Hasanythingbeenupsettingyoulately?
+8,1,-1,Mystresslevelisprettymuchwhatisusuallyis.
+9,6,-1,Doyouthinkthatmaybeyouaregettingtheflu?
+10,1,-1,ItseemstomelikeImayhavecaughtabug.
+8747 8
+ (3, 3),(3, 3),(3, 3),(4, 3),(4, 3),(4, 4),(5, 3),(5, 3),(5, 3),(5, 5),(6, 3),(6, 3),(6, 5),(6, 6),(7, 3),(7, 3),(7, 3),(7, 5),(8, 3),(8, 3),(8, 5),(8, 6),
+1,6,-1,Hellothree-five.
+2,6,-1,IsthatAnne?
+3,2,-1,I'msorryI'mverytired.I'mgoingtobedearly.Ididn'thavegoodtimeandIdon'treallywanttoseeyouagain.
+4,3,-1,Whatareyoutalkingabout?Wehadagreattime.Welaughedandtalkedallnightlasttime.
+5,2,-1,Itwashardlyallnight.AndIrecallitwasyoudoingallthelaughingatyourownjokes.
+6,1,-1,That'snotfair.Wehadfun.Givemeasecondchance.Canwemeettomorrownightfordrinksatthepub?
+7,2,-1,NoI'msorry.I'mgoingtomeetsomefriendstomorrowevening.AndI'mtootirednow.Ihavetogotosleep.Goodbye.
+8,1,-1,ButAnne...
+7991 10
+ (1, 1),(3, 2),(3, 3),(9, 6),
+1,5,-1,IjustdiscoveredthatIowe$10foramoviethatIneverordered.
+2,6,-1,Letmechecksir.Youwerechargedforwatching'Titanic'Mondaynight.
+3,5,-1,Thatisabsolutelyincorrect!IwasoutonthetownMondaynight.
+4,6,-1,Okaysirbearwithmeamoment.
+5,6,-1,Thankyoufortakingmywordoverthecomputer'sword.
+6,6,-1,Oneslightproblemsir.Ineedtochargeyou$2toremovethiserrorfromyourfile.
+7,6,-1,Youcan
+8,6,-1,Ifeelyourpainsir.
+9,5,-1,Absolutelyunbelievable!Youpeopleshouldbeashamedofyourselves.
+10,6,-1,IagreewithyousirbutallIdoisworkhere.
+8620 6
+ (1, 1),(3, 3),(5, 5),
+1,5,-1,IswearIwillnevershopatastreetmarketinChina.It'saterribleplacefullofexcellentprofiteers!Youhavetokeepaneyewheneveritcomestopayingforsomething.
+2,6,-1,cooldownHarry!Whatareyoureallymadabout?Didyougetrippedoff?
+3,5,-1,yes.LastSundayIwenttoanearbymarket.Itwasonopen-airfair.Ichanceduponthisbagandboughtitonthespotwithouteventryingtostrikeabargain.Ipaidonehundredandtwenty.AndjustnowIwastoldbymyChinesecolleaguesIboughtitoverpriced.Icouldhavetalkedmywaytothirty.
+4,6,-1,isthatso?I'mafraidpeopleherewillnottakepityonunluckyguyslikeyou.Bargaininghasalwaysbeenanindispensableprocedureinbusinessdeals.It'sthenormoffreetrade.Thesellersetsapreposterouspriceandthebuyertrieshisbesttobringitdownuntilacompromiseisreached.Yetyouignoredtheprocess.Nowonderyouendedupeasyprey.
+5,5,-1,butdon'tyouthinkitannoyingtooverchargethecustomersbysuchahandsomemargin?
+6,6,-1,ofcoursethat'ssomethingreallyirritating.Andtheonlywaytoavoidbeingtrappedistoknowinadvanceabouttherealworthofthestuff.Irecommendyoutoconsultthepricetagsinthesupermarketfirst.Andthenyoumaynegotiateforafairdeal.
+368 10
+ (2, 2),(3, 3),(4, 2),(4, 3),(6, 2),(6, 3),(6, 5),(6, 6),
+1,1,-1,Excusemesir.MayIcomein?
+2,5,-1,Mikeyou'relateagain.
+3,1,-1,I'msorrybutmysisterwasillsoI
+4,5,-1,DoyouthinkIbelievethestorylikethat?
+5,6,-1,Butit'strue.
+6,5,-1,Howcanbelieveitifthesameexcusewasusedtwicewithinaweek?
+7,6,-1,That'scoincident.
+8,6,-1,Okholdit.Remembertobepunctualnexttime.
+9,6,-1,IpromiseIwill.
+10,6,-1,You'dbetter.
+901 8
+ (5, 4),(6, 6),(7, 7),(8, 7),
+1,6,-1,HiVictor.Howareyou?
+2,6,-1,OhI'mfine.
+3,6,-1,Soareyougoingtogotoclasstonight?
+4,1,-1,Maybe...butIdon'tthinkso.
+5,3,-1,Really?What'sthematter?
+6,1,-1,Idon'tknow.I'mjustfeelingalittlesad.
+7,0,-1,Listen.Comewithmetoclassandafterclasswecangooutfordinner.
+8,0,-1,Nowthat'sagoodidea.ThanksalotBrian.I'mfeelingbetteralready.
+10645 9
+ (2, 2),(3, 3),(4, 2),(4, 4),(5, 5),(6, 6),(8, 8),(9, 8),(9, 9),
+1,6,-1,Ilikethisapartment.Doyouthinkwecanaffordthemortgage?
+2,0,-1,Yes.Ithinkso.It'snotaveryexpensiveapartment.It'sintherightareaandithaseverythingthatwearelookingfor.Theroomsarequitelargetoo.
+3,0,-1,Ilovethebalcony.Wecansitoutsideandenjoythesuninsummer.Weareonthe12thfloorsothere'sveryniceviewfromthebalcony.
+4,0,-1,Theneighbourhoodisnicetoo.Thereisaparknearby.
+5,0,-1,Yesandtherearemanyhousesnearby.Ilikeitthattheneighbourhoodisn'tfullofapartmentblocks.
+6,1,-1,It'sapitywecan'taffordahouse.Agardenwouldbesonice.
+7,6,-1,Yesitwould.Don'tworry.There'salawnoutsidethebuildingandthere'stheparknearby.Thisplacewillbefine.
+8,0,-1,Thebuildingisquitenewandwellconstructed.I'mhappywiththefittingstoo.
+9,0,-1,Yeseverythinghasbeenwelldesigned.
+924 16
+ (1, 1),(2, 1),(3, 3),(4, 4),(5, 4),(5, 5),(6, 5),(6, 5),(7, 5),(7, 1),(8, 5),(8, 8),(9, 9),(10, 9),(15, 15),(16, 15),(16, 15),(16, 16),
+1,0,-1,Whatabeautifulwatch.Itgoesverywellwithyourring.
+2,0,-1,Thankyou.
+3,0,-1,Isthatyourweddingring?
+4,0,-1,I'mnotmarriedyet.It'smyengagementring.
+5,0,-1,Wellcongratulations.Whenisthebigdate?
+6,0,-1,InJune.
+7,0,-1,Didyouhavethewatchbeforegettingthering?
+8,0,-1,ActuallyweboughttheringtogetherafterIgotthewatch.
+9,0,-1,Youdidafabulousjobwiththeselection.It'sgorgeous.
+10,0,-1,Thankyousomuch.
+11,6,-1,Whatkindofwatchisit?
+12,6,-1,It'saTagHeer.
+13,6,-1,Ifyoudon'tmindmeaskinghowmuchdotheycost?
+14,6,-1,Thisoneis$1500.Buttheyrangefrom$600to$3000.
+15,0,-1,That'swhyitlookssonice.Ishouldhavefigured.Youalwaysgetwhatyoupayfor.
+16,0,-1,Yeah.Iwouldrathergetonenicewatchinsteadof20mediocreones.
+8184 21
+ (5, 4),(5, 5),(7, 6),(7, 7),(8, 7),(19, 19),(20, 19),(21, 19),(21, 21),
+1,6,-1,WellYuritellmeaboutit.
+2,6,-1,I'msorryIcan'tbringbetternewssir.Thesiteisadisaster.
+3,6,-1,That'swhatIwasafraidof.
+4,6,-1,Itisnotonlytheearthquakesir.Butthemudslides.Muchofthenorthhalfofthesitehasbeencoveredoverbymud.
+5,3,-1,Mud?ButIvantoldmetherewerenomudslidesinthatdistrict.IthoughtallthemudslidesweredowninChichitango.
+6,6,-1,That'swhatwethoughtsir.That'swhatthenewsreported.Buttherewasonelittlemudslideinourdistricttoo.Rightaboveoursite.
+7,1,-1,Ohthat'sterrible!Whatbadluck!Iwishwehadnevercometothiscountry.Butifitisn'tthestrikesandtherevolutionariesit'stheearthquakes.Ouroperationsherearefinished!
+8,1,-1,I'msorrysir.
+9,6,-1,It'snotyourfaultYuri.Buttellme.WhenwillIvanbeabletogetoutthere?
+10,6,-1,Wellittookmeaboutninehourstogetbackherebycar.IfIvanleavestonightIthinkheshouldbetherebytomorrowlunch.
+11,6,-1,Good.Iwantanestimateofdamagesassoonaspossible.
+12,6,-1,Butsir...
+13,6,-1,YesYuri?
+14,6,-1,Iwouldn'trecommendsendingIvannow.Especiallynotatnight.Theroadsaren'tsafe.
+15,6,-1,Hastheearthquakedamagedthebridgestoo?
+16,6,-1,Nosir.Thebridgesarefine.ButI'veheardrumorsthattherevolutionariesarecomingdownfromthemountains.Therehasbeenfightingsir.
+17,6,-1,Areyouserious?Fighting?ButIdidn'thearanythingonthenews.
+18,6,-1,Youknowthegovernmentcontrolsthepressheresir.Theydon'twantitreported.
+19,1,-1,OhthisisterribleYuri.Terrible!Sowecan'tevenassessthedamages.Howcanwedobusinessinthiscountry?Eitherwe'reburiedundermudorwe'reindangerofgettingkidnapped.NoIcan'tbelievethismess!
+20,1,-1,I'msorrysir.
+21,1,-1,Youdon'thavetokeepsayingthatYuri.It'snotyourfault.Butme--I'mtheonewhoshouldbesorry.Itwasmewhosuggestedoperationshereinthefirstplace!Ohwhatcanwedo?
+8804 13
+ (5, 4),(5, 5),(5, 5),(9, 8),(9, 9),(10, 9),(12, 9),(12, 12),(13, 13),
+1,6,-1,Alrighttellmewhatyouthinkaboutthisone.
+2,6,-1,Don'tyouthinkit'sabitbright?
+3,6,-1,Yeahmaybeyou'reright.Howaboutthisoutfit?
+4,6,-1,Thatdresslookslovelyonyoubutit'snotverypracticalisit?
+5,0,-1,NoIdon'thaveanyplanstogotoaformaldanceanytimesoonbutIlovethewayitlooks.Ijustwanttotryiton!Whatdoyouthinkaboutthis?It'scasualyetsophisticated.
+6,6,-1,Ilikethejeansbutyouneedsomethingtogowiththetop.It'stooplainonitsown.
+7,6,-1,Howaboutthisscarftheseearringsandananklet?
+8,6,-1,Thatmightbegoingoverboardabit.Howaboutjustthatscarfwithabracelet?
+9,0,-1,That'sagoodidea.Youhavealotofgoodfashionsense.
+10,0,-1,Thanks.You'dbeOKonyourown.Thereareloadsoffashionvictimsoutthereandyouarenotoneofthem.Haveyoutrieditonyet?
+11,6,-1,Yep.Hereitis.Whatdoyouthink?
+12,0,-1,Thatlooksgreat.Justonemorething-youneedsomehighheelswiththosejeans.Doyouwantapairwithaplainpatternoroneswithaleopardprintonthem?
+13,0,-1,Theleopardprintsoundsfabulous.OKI'lltakeit.
+942 9
+ (1, 1),(2, 2),(3, 2),(4, 2),(4, 3),(6, 5),(8, 7),(8, 8),(9, 8),
+1,0,-1,YoulooksohappyAnna.Anygoodnews?
+2,0,-1,Yes.I'Vewonthefirstprizeinthemathcontest.
+3,0,-1,Really?Congratulations!
+4,0,-1,ThankyouPaul.
+5,6,-1,Bythewaywouldyouliketohavedinnerwithmetomorrowevening?Tomorrowismybirthday.
+6,0,-1,Goodhappybirthdaytoyou!
+7,6,-1,Notsosoon.It'snotmybirthdaytoday.Wellyou'llcomewon'tyou?
+8,0,-1,SureIwill.Thankyouforinvitingme.
+9,0,-1,Mypleasure.
+8560 8
+ (2, 1),(4, 3),(6, 6),(7, 7),(8, 7),
+1,6,-1,StevenwearepreparingamartialartsshowfortheNewYear'sparty.Wouldyouliketojoinus?
+2,0,-1,I'dloveto!ButIhaveneverlearnedmartialartsandthereisonlyamonthleftbeforetheNewYear.
+3,6,-1,That'sOK.Amonthisenoughforyoutolearnthebasicmovements.Itwouldbegreattohaveyouwithusontheshow.
+4,0,-1,Soundsgreat!ShallIlearntheactionsthatJetLididinthemovies?
+5,6,-1,No.Youknowtherearemanyschoolsandstylesofkungfu.WhatwewillperformisasetofChineseshadowboxing.
+6,0,-1,Whatever!I'mgladtolearnsomethingofChinesekungfu.Thanksforaskingme.
+7,0,-1,Thankyouforjoiningus!Nowlet'sseesomepicturesandknowmoreaboutkungfu.
+8,0,-1,Good!
+10009 4
+ (1, 1),(1, 1),(2, 2),(3, 1),(3, 1),(3, 3),
+1,5,-1,JohnI'Veaskedyounottosmokeinhere!Idon'twanttoseeyousmokinginmyofficeagain.
+2,1,-1,I'msorryMs.Fairbanks.Iwon'tletithappenagain.
+3,5,-1,That'swhatyousaidthelasttime!Ifyouwanttosmokeyou'llhavetouseyourbreaktimeandgooutside!
+4,6,-1,IunderstandMs.Fairbanks.
+861 10
+ (3, 3),(4, 3),(5, 3),(5, 5),(7, 3),(7, 5),(9, 3),(9, 5),(9, 9),
+1,4,-1,DorisI'mgladyou'rehome.I'mterrified.Idon'tknowwhattodo!
+2,6,-1,Whatisit?Whathappened?
+3,4,-1,Ithinksomeoneisstalkingme.
+4,3,-1,Noitcan'tbe.Really?Who?
+5,4,-1,Idon'tknow.IsawhimthefirsttimeTuesday.Hewasatthecafe.Inoticedhewaslookingatmealot.Notjusttheusuallookingbutstaring.Hejustkeptstaringatme.Hedidn'tstop.
+6,6,-1,Whatdidyoudo?
+7,4,-1,Ididn'tdoanything.Finallyheleft.ButthenIsawhimagaintoday.Outsidetheshoestore.Nearthecafe.IwentintoaCDstoreandpretendedIwaslookingatCD's.Butthenhecameintoo.
+8,6,-1,Didheleavewhenyouleft?
+9,4,-1,Yes.ThenInoticedhewasonthesidewalkbehindme.Hewasfollowingme.
+10,6,-1,Whatdidyoudo?
+10727 8
+ (3, 3),(5, 5),(8, 7),
+1,6,-1,MarketingmanageofficecanIhelpyou?
+2,6,-1,MrGreenplease.
+3,1,-1,Sorryhe'sout.
+4,6,-1,Whattimeyoususpectbackthem?
+5,1,-1,SorryIamnotsurecanItakeamessage?
+6,6,-1,Nothanks.I'llcallbacklater.
+7,6,-1,That'sfine.pleasecallagainlater.
+8,0,-1,Okthankyou.Goodbye.
+8433 10
+ (2, 1),(3, 2),(3, 3),(4, 2),(4, 3),(4, 4),(5, 4),(5, 5),(6, 4),(6, 5),(7, 6),(8, 5),(8, 7),
+1,6,-1,LindathisisToddcalling.
+2,0,-1,ToddIamsohappyyoucalled!
+3,0,-1,LindaIwantedtotellyouhowmuchIenjoyedourtimetogetherlastFridaynight.
+4,0,-1,BoyToddthatwasonegreatmovieyoupickedout!Thanksforaskingmetogowithyou!
+5,0,-1,IhadagreattimetooandwasthinkingthatmaybeyoumightwanttojoinmeforahiketothewaterfallsonSaturday.
+6,0,-1,Ahikewouldbegreat!LetmepackusanicepicniclunchOK?
+7,0,-1,Lindathatwouldbeaperfectaddition.
+8,0,-1,I'lltakecareofthelunchthenandyoucantakecareoftheotherplans.Whattimewouldyouliketopickmeup?
+9,6,-1,Iwashopingtoleaveby9o'clocksothatitwon\'tbetoohotforthehike.
+10,6,-1,Nineisagreattimetogetstarted.I'llseeyouonSaturday!
+8576 12
+ (2, 2),(4, 2),(4, 3),(6, 2),(6, 3),(6, 5),(12, 11),
+1,6,-1,Didyourmealmeetwithyourapproval?
+2,0,-1,Ourmealwasabsolutelyperfect!
+3,6,-1,Howaboutadesserttotopoffthatwonderfulmeal?
+4,0,-1,DessertsoundsperfectbutIwouldliketosplitsomethingwithmyfriends.
+5,6,-1,Onthisevening'sdessertlistwehavechocolatemoussecakehomemadefreshstrawberryshortcakeandaspicyrumapplecrisp.
+6,0,-1,Ithinkthattheapplecrispwouldbewonderful.
+7,6,-1,Onedessertwillservetwosowouldyouliketosplitasecondone?
+8,6,-1,Wewouldalsolikeapieceofchocolatemoussecake.Couldyoubringusfourdessertforksplease?
+9,6,-1,Howaboutsomecoffeeandteaaswell?
+10,6,-1,Weareallteadrinkers.Pleasebringusfourteas.
+11,6,-1,Iwillprepareyourdessertsandhavesomeonebringyouyourdrinksrightaway.
+12,0,-1,Thehotdrinksfirstwouldbegreat.Thanks!
+786 10
+ (2, 1),(2, 2),(4, 4),(6, 5),(6, 6),(7, 6),(7, 7),(8, 8),(8, 8),(9, 8),(9, 8),(9, 9),(10, 4),(10, 5),(10, 6),(10, 8),(10, 8),
+1,6,-1,Wellhowdidyouenjoyyourseasidetrip?
+2,0,-1,Itwasfunny.
+3,6,-1,Tellmeaboutitwillyou?
+4,0,-1,Wellwedrovethroughthevalleyonourwaythereinthemorning.Itwasamagnificentsight.
+5,6,-1,Didyoustopatthebigwaterfallforpictures?
+6,0,-1,Surewewouldn'tmissitforanything.Afterthatwetookashortcuttothepark.Therewasverylittletrafficsowegotthereinlessthananhour.
+7,0,-1,Youwereluckythen.Whatdidyoudoafterthat?
+8,0,-1,Wewentforaswiminthesea.Thatwasthebestpartoftheday.Justlookatmynicetan.
+9,0,-1,Soyoumusthavehadabusyandenjoyabledayyesterday.
+10,0,-1,Yesyou'reright.AndIwassotiredthatIfellasleeponthewayback.Myarmsarestillstifffromtheswimyesterday.
+650 6
+ (2, 2),(4, 2),(4, 4),(5, 2),(5, 4),(5, 4),(5, 5),(6, 2),(6, 4),(6, 5),(6, 6),
+1,6,-1,WellI'mafraidImustbegoingnow.Ihavenoideaitwassolate.
+2,0,-1,Stayfordinnerwithus.
+3,6,-1,I'mafraidIcan't.Ihaveadinnerpartyatseventonight.YouseeIamgoingtoEnglandthedayaftertomorrow.
+4,0,-1,WellIwon'tkeepyouthen.Itwasveryniceofyoutocometoseeme.
+5,0,-1,Ithasbeenapleasure.Goodbye.
+6,0,-1,Goodbye.Thankyouagainforcoming.
+315 8
+ (3, 2),(4, 3),(5, 2),(6, 3),(6, 5),(6, 6),(7, 2),(7, 6),(8, 3),(8, 5),(8, 6),
+1,6,-1,JohnIwaslookingthroughsomemagazinesforideasaboutwherewemightgoonvacationthisyear.
+2,6,-1,I'vealreadytoldmybuddyMarkthatIamgoinghuntingwithhiminAlaska.
+3,5,-1,Youcan'tbeserious!
+4,5,-1,HeyI'vealwaysgonehuntingorfishingonvacation.Iamsorrythatbothersyou.
+5,5,-1,AfterayeartogetherIthoughtitprettysafetoassumethatwewouldautomaticallyspendourvacationtogether.
+6,5,-1,Sayswho?Idon'tthinkthatisnecessarilythecase.
+7,5,-1,YouknownowthatIthinkaboutitIreallydon'thavemuchmoretosaytoyouatall!
+8,5,-1,Whateveryousay!
+10420 5
+ (3, 1),(3, 2),(3, 3),(4, 1),(4, 2),(4, 3),(4, 4),(4, 4),(5, 1),(5, 2),(5, 3),(5, 4),(5, 4),(5, 5),
+1,6,-1,Theairconditioningisnotworking!Weneedtocallahandymanbeforewestarttofryinhere!
+2,6,-1,Danisontopofthat.Ithinktheyarealsogettingthehandymantofixthebathroomtoiletthatkeepscloggingup.
+3,5,-1,Thatwouldbeconvenient.Theymightaswellaskhimtofixtheelectricalwiring.Thecircuitbreakerskeepgoingoutallthetime.It'sreallyannoying!
+4,5,-1,Yeahyouareright.Thisofficeisfallingapart!Franktoldmetheotherdaythattheguttersoutsidewerecloggedandthat'swhytheparkinglotwasflooded.
+5,5,-1,Iknow!Iwasinankledeepwatertryingtogettomycarthatday!Thehandymandefinitelyhashisworkcutoutforhim.
+741 6
+ (1, 1),(2, 1),(3, 1),(3, 2),(4, 4),(5, 1),(5, 2),(5, 4),(6, 6),
+1,0,-1,Youareanoutgoingpersonquiteeasytotalkwith.
+2,0,-1,Yesmyfriendsliketogetalongwithmewell.
+3,0,-1,Doyouhavemanyfriends?
+4,0,-1,YesIliketomakenewfriends.
+5,0,-1,Whatdoyouusuallydowiththem?
+6,0,-1,Weliketogettogetherchatandenjoybeautifulmusic.
+10644 12
+ (3, 2),(4, 3),(11, 10),
+1,6,-1,Isthereaproblemofficer?
+2,6,-1,Istoppedyoufordrivingthrougharedlight.
+3,3,-1,DidIreally?
+4,3,-1,Youdidn'tknow?
+5,6,-1,IhadnoideathatIranit.
+6,6,-1,Don'tyouknowthatyellowmeansslowdown?
+7,6,-1,Yesmadam.
+8,6,-1,Why'dyouspeedupinstead?
+9,6,-1,Ireallyhavenoexcusemadam.
+10,6,-1,I'llhavetowriteyouaticket.
+11,1,-1,IunderstandandIamverysorry.
+12,6,-1,Here'syourticket.
+9837 4
+ (1, 1),(1, 1),(2, 1),(2, 1),(2, 2),(3, 1),(3, 1),(3, 3),(4, 1),(4, 1),(4, 2),(4, 3),
+1,0,-1,YouhavebeendoingagreatjobthisyearandIamverysatisfiedwithyourwork.
+2,0,-1,Iamveryhappytoknowmyworkcouldberecognizedbyyouandourcompany.
+3,0,-1,BasedonyourcontributionIwouldliketogiveyouapayraise.Yourmonthlysalarywillbeincreasedby800Yuan.Thisincreaseincludesan80%marriedincreasebasedonyourachievementsandincreaseresponsibilitiesandthentheadditional20%increasewerereflectingthechangesincostofliving.
+4,0,-1,Ireallyappreciateit.Thankyou.
+757 14
+ (9, 8),(9, 9),(10, 10),(11, 11),(12, 11),(13, 12),(14, 11),
+1,6,-1,Excusemeiamanewstudenthere.CouldyoutellmewheretheEnglishDepartmentis?
+2,6,-1,Itisinthatbrandnewtallbuildingoverthere.Onthe9thfloor.
+3,6,-1,Whereistheschoolcafeteria?
+4,6,-1,Itisthebasementofthatredbuildinginfrontofthetowerwithbigbells.
+5,6,-1,WhereistheComputerCenter?
+6,6,-1,TheComputerCenterisonthefirstfloorofthelibrary.
+7,6,-1,Whereisthelibrary?
+8,6,-1,ThelibraryisnexttotheAdminstrationBuilding.TheAdminstrationBuildingisoverthereneartheschool'smainentrance.ThereareschoolmapsforfreeinthelobbyoftheAdmin.
+9,0,-1,Thankyou.Iwillgogetone.
+10,0,-1,Sure.Gladtobeofservice.BythewaymynameisMikeSullivan.Youwillseemearoundalot.IamrunningforPresidentoftheStudentGovernment.
+11,0,-1,Wellhi!MynameisEveMarkowski.Iamgladtomeetyou.Withyourfriendlysmileandhelpfulattitude.Iamsureyouwillwin.
+12,0,-1,Thanksyoufortheencouragement.
+13,0,-1,Youarewelcome.I'dbettergo.Goodbye.
+14,0,-1,Haveagoodday.Bye-Bye!
+8265 7
+ (5, 3),(5, 4),(5, 4),(6, 5),(6, 6),(7, 6),
+1,6,-1,Heydon'twalkonthelawn.
+2,1,-1,SorryI'mlookingformywallet.
+3,6,-1,Youlostyourwallet?Anythingimportantinit?
+4,6,-1,Yes.Alotofcash.Almostfortythousandpounds.
+5,1,-1,OhI'msorrytohearthat.Ithinkyou'dbettertalktothepoliceofficerwalkingthere.
+6,0,-1,Itseemsthatisabetterway.Thankyou.
+7,0,-1,Youarewelcome.
+834 8
+ (2, 1),(2, 2),(4, 3),(4, 4),(6, 4),(6, 5),(7, 6),(8, 4),(8, 7),(8, 8),
+1,6,-1,Iamsobusytoday.
+2,0,-1,CanIhelpyou?
+3,6,-1,I'mnotsure.Perhapsyoucoulddotheshopping.
+4,0,-1,I'llbegladtohelp.
+5,6,-1,Ormaybemakethebeds.
+6,0,-1,Allyouhavetodoisaskforhelp.
+7,0,-1,Thanks.That'sterrific!
+8,0,-1,I'mreadyandwillingtohelp.
+627 8
+ (1, 1),(1, 1),(2, 1),(2, 1),(2, 2),(3, 2),(4, 3),(5, 4),(6, 6),(7, 6),(7, 6),(8, 8),
+1,0,-1,Wow!Whatabeautifulscenicspot!It'ssoopen.Andjustbreathethatfreshairyoucanalmosttasteitsfreshness.
+2,0,-1,YoucanhaveabirdviewofGuilingCityfromthetopofthemountain.
+3,0,-1,Wonderful!I'lloftencomehereformountainclimbing.
+4,0,-1,Youshould.ManyGuilinersespeciallytheoldandtheyoungwillclimbmountainshereinthemorning.
+5,0,-1,Nowonderpeoplesay
+6,3,-1,Quick!Passmeyourbinoculars.Lookatthatbird...I'veneverseenoneofthosebefore.It'sindigenoustoGuilingandanendangeredspeciestoo.Thisislucky!
+7,0,-1,Ididn'tknowyoulikedbird-watching.
+8,0,-1,Idon'treally.Ijustlikewildlifeandyoudon'tgettoseetoomuchofitinthecity.Thisplaceisfullofit.
+534 12
+ (1, 1),(2, 2),(3, 3),(4, 2),(4, 4),(5, 5),(7, 5),(7, 6),(7, 7),(9, 9),(10, 9),(10, 10),(11, 11),
+1,0,-1,Thislookslikeaverynicehouse.
+2,0,-1,YouknowIfellinlovewiththishousethefirstmomentIlaideyesonit.
+3,0,-1,ThestyleoftheexteriorisjustwhatI'Vebeenlookingfor!
+4,0,-1,Theexteriorisonlyhalfofthestory.Theinteriorisincredible.
+5,0,-1,Thishomeisgorgeousontheinside!
+6,6,-1,Everythingthatyouseeonthewallsfloorsandwindowsisbrandnew.
+7,0,-1,Thewallcolorstotallysuitthestyleofthishouse.
+8,6,-1,Straightaheadisthegourmetkitchen.
+9,0,-1,Ilovethebambooflooringandgranitecountertops.
+10,0,-1,Themastersuiteisthebest.Let'sgolookatthatnext.
+11,0,-1,Thereisplentyofroomforourking-sizedbedandIlovethelightinthisroom.
+12,6,-1,Iknowthatyoulikethishousebutlet'stakealookattheothersbeforeyoumakeupyourmind.
+10592 8
+ (2, 2),(3, 3),(4, 2),(5, 5),(6, 6),(7, 7),(8, 8),
+1,0,-1,Goodmorninggolfaficionados!MynameisRickFieldsandyouguesseditIamherewithmymainmanBobCopeland.
+2,0,-1,ThankyouRick!AsyoucanseeladiesandgentlemanwearehereinbeautifulPebbleBeachwherethetopgolfersintheworldaretryingtowinthegrandprizeofonemilliondollars!
+3,0,-1,Whoathat'salotofcash!Let'sgotothecourseandseehowTigerWoodsisdoing.
+4,0,-1,Allrightwearehereattheeighthhole.It'saparfourandhassomeverydifficulthazardswhichmanygolfersfinddifficulttoavoid.AlthoughIdidseeJackNicklaushitaholeinoneonthisverysamehole!
+5,0,-1,TigerWoodsisabouttoteeoffandlet'sseeifhehasthesameluckasJack.Tigerisaskinghiscaddieforhisdriverandheseemstobeverynervous.
+6,1,-1,Ohno!Notagoodswingatall!It'sdefinitelynothisdaytoday.Ontheseventhholehegotabogeyandbeforethathebarelymadepar.Hewilldefinitelynotgetabirdieonthisshot.
+7,1,-1,Itseemsthathisballhasflownsomewheredeepinthetrees.Heishavingahardtimefindingitandevenhiscaddiehasclimbedatreetotryandspotit.
+8,4,-1,Ohno!Abear!RunTigerrun!Somebodycallanimalcontrol!
+361 13
+ (3, 3),(4, 3),(4, 4),(5, 4),(6, 6),(7, 6),(9, 9),
+1,6,-1,CanIhavemycheckplease.
+2,6,-1,Hereitis.350Yuanalltogether.
+3,0,-1,MaysonadoresmynewhairstylesoIsupposeitisworthit.
+4,0,-1,Hearingyousaythatisabigrewardforus.Andhereisthereceipt.
+5,0,-1,Thankyou.
+6,0,-1,Wait!Congratulations!Youaretheluckycustomerofouranniversarycelebration.
+7,3,-1,Wowit'ssurprising.SowhatdoIget?
+8,6,-1,Youcanhaveafreefacialandthenmakeupfreeforyou.Doyouwantitnow?
+9,1,-1,Probablynot.DoingthatwillprobablytakeanotherthreehourswhichIcan'taffordnow.
+10,6,-1,Hereisournumber.Calluswhenyouarereadytocome.
+11,6,-1,YoumeanIshouldmakeanappointmentaheadoftime?
+12,6,-1,Yes.
+13,6,-1,Gotit.Byefornow.
+7995 14
+ (4, 2),(4, 3),(12, 12),(13, 12),(14, 13),(14, 14),
+1,6,-1,HiMaryIhavedecidedtolookforajobasasalesman.
+2,6,-1,Good!Haveyougottherecruitmentinformationonmarketing?
+3,6,-1,Yes.Ihavefoundsomethroughdifferentchannels.
+4,3,-1,Really?That'sgreat!Tellme.
+5,6,-1,OK.ThefirstpieceofjobinformationIgotwasfromtheInternetanditisaboutsellingmedicines.
+6,6,-1,Whatdoyouthinkofthisjob?
+7,6,-1,IamnotfamiliarwiththemedicineindustryandIdon'tthinkitfitsmewell.
+8,6,-1,Thenhowabouttheothers?
+9,6,-1,Anotherisaboutelectroniccommerceanditsproductsaremainlylargemachineryequipments.
+10,6,-1,Ihaveheardaboutelectroniccommerceandmanypeoplesayithasgoodprospectsfordevelopment.
+11,6,-1,Ialsofeelit'snice.Iwanttogiveitatry.
+12,0,-1,Comeon!Ibelieveyouwillsucceed.
+13,0,-1,Thanks.YoucanalsoseekjobinformationontheInternet.
+14,0,-1,Goodidea.Iwillthinkitover.
+8322 16
+ (1, 1),(3, 3),(5, 3),(5, 5),(7, 7),(15, 14),(16, 15),
+1,5,-1,Ican'tstandthestupidguyanylonger.It'sunbelievable.
+2,6,-1,Ohmydearladytakeiteasy.Youshouldforgiveagreenhandlikehim.
+3,5,-1,Hedoeseverythingsomindlesslythatheisgoingtodrivemecrazy.
+4,6,-1,Isuggestyoutalkwithhimandteachhimhowtodealwiththeproblems.
+5,5,-1,I'vetoldhimhowtodothatseveraltimesbuthe'sneverlistenedtome.
+6,6,-1,Maybeyoushouldcommunicatewithhimjustlikeafriendnotaboss.
+7,1,-1,OhIalwayshavedifficultyingettingalongwiththestaff.
+8,6,-1,Justtakethemforyourgoodfriendsandhaveatalkwiththemaswedo.Makesureyouwon'tloseyourtemper!
+9,6,-1,Ohsobad.I'mafraidI'llchangetheimageofmyself.
+10,6,-1,Noit'sunnecessary.Justrespectthestaffandtheirownopinions.
+11,6,-1,Butsometimestheyoffersomeuselessproposalsit'sawfullyuseless.
+12,6,-1,Ohnooneisperfect.
+13,6,-1,That'sright.Ishouldspeaktotheminapoliteway.
+14,6,-1,Wehavetheequalpartnershipinteam.
+15,0,-1,Thanksverymuchandyou'reveryeloquent.
+16,0,-1,Thanksforsayingthat.
+8698 15
+ (1, 1),(3, 1),(3, 3),(4, 3),(5, 1),(5, 3),
+1,4,-1,Thatwasreallyanightmare!
+2,6,-1,Honeywhat'sup?
+3,4,-1,Iwasstuckbetween15thand16thfloorsintheelevator.
+4,3,-1,Ohreally?Iknowthattelephonesignalmusthavebeenshieldedintheelevatorshaftsowhatdidyoudothen?
+5,4,-1,Ipressedtheemergencybutton!AndthenIstayedintheelevatorwaitingfortherescue.
+6,6,-1,Didyoupanicatthetime?
+7,6,-1,AlittlebitbutIknowthattheelevatorisn'tenclosed.atleastIwouldn'tbesmotheredthere.
+8,6,-1,Wasthereanyoneelsewithyou?
+9,6,-1,Ofcoursethereare6otherpeopleintheelevator;theyweresoscaredthatsomeoneevenstartedcrying.
+10,6,-1,Soyoumeanthatyouweretheonlybraveonethere?
+11,6,-1,Yes.Ihavetocallthepropertymanagement.
+12,6,-1,Forwhat?Complainingaboutwhathappenedintheelevator?
+13,6,-1,Yes.Theyshouldchecktheelevatorregularly.Ihavetogivethemsomethingtorememberaboutandtheyshouldalsoequipfireextinguishersinthebuilding.
+14,6,-1,Thatwasjustanaccident.youareworriedtoomuchaboutit.Ithinkthepropertymanagementwillchecktheelevatorandimprovetheirservicefromnowon.
+15,6,-1,IknowwhatyoumeanbutI'dbetterremindthemagainandalsoremindthemtorepairthebuttonintheelevatorforthedisabledpeople.Thathasbroughtthedisabledpeoplelotsofinconvenience.
+10549 13
+ (1, 1),(5, 3),(5, 4),(5, 5),(10, 9),(10, 10),(13, 12),
+1,0,-1,Great.ThebedisexactlywhatIhavebeenlookingfor!
+2,6,-1,Youhavegoodtaste.It'smadeofredwood.
+3,6,-1,OhIlikeredwood.Howmuchdoyouchargeforit?
+4,6,-1,300dollars.
+5,5,-1,That'ssheerrobbery!
+6,6,-1,Believemeit'sworththeprice.
+7,6,-1,It'smorethanIcanafford.CanImakeanoffer?
+8,6,-1,Howmuchareyouwillingtopay?
+9,6,-1,Shallwemakeit250dollars?
+10,1,-1,No.Thatpricewouldhardlycoverthecost.
+11,6,-1,Whatabout260dollars?
+12,6,-1,275dollarsisthelowestpriceIcanoffer.
+13,0,-1,It'sadeal.
+10130 11
+ (4, 4),(6, 4),(6, 6),(6, 6),(8, 4),(8, 6),(8, 6),(8, 7),(8, 8),(10, 4),(10, 6),(10, 6),(10, 7),(10, 8),(10, 10),
+1,6,-1,You'rehomelatetodayDavid.Howwasschool?
+2,6,-1,Notbad.There'sanewEnglishteacher.
+3,6,-1,Ohwhat'sshelike?
+4,0,-1,Sheisbeautiful.
+5,6,-1,Issheoldoryoung?
+6,0,-1,Sheisquiteyoungandherhairisblond.
+7,6,-1,Isshestrict?
+8,0,-1,Notreally.Hereyesareblue.
+9,6,-1,CanshespeakChinese?
+10,0,-1,Notmuch.Sheisverytallandslim.
+11,6,-1,Davidstopdreaming.It'stimetodoyourhomework.
+804 16
+ (2, 1),(2, 2),(6, 5),(12, 11),(16, 15),
+1,6,-1,Haveyougotyourinvitationyet?
+2,3,-1,Myinvitation?NoIhaven't.Myinvitationtowhat?
+3,6,-1,Thehousewarmingparty.
+4,6,-1,Whosehousewarmingpartyisit?
+5,6,-1,TomandBillSmith.Theyarebothworkingnowyouknow?Andthey'veboughtanewhouse.
+6,3,-1,Ohtheyhave?Ididn'tknow.Ihaven'tseenTomlately.
+7,6,-1,It'soutinthesuburbs.
+8,6,-1,Haveyouseenthehouse?
+9,6,-1,YesIhave.Iwentoutwiththemlastweekend.
+10,6,-1,Isitnice?
+11,6,-1,Yesitis.Therearethreebedroomsalivingroomadiningroomandabigkitchen.There'salsoagarden.
+12,0,-1,Wellthatdoessoundnice.Havetheymovedinyet?
+13,6,-1,Theyaremovingtoday.Tom'stakenthedayoff.He'srentedatruckandtheyshouldhavealltheirfurnitureinthehousetonight.
+14,6,-1,Whenaretheygoingtohavetheparty?
+15,6,-1,NextSaturdaynight.Youshouldgetyourinvitationtodayortomorrow.
+16,0,-1,Wowthatwouldbesomethingtolookforwardto.
+9249 17
+ (9, 6),(9, 7),(9, 8),(10, 9),(12, 11),(12, 12),(17, 16),(17, 17),
+1,6,-1,alrighttellmewhatyouthink.
+2,6,-1,don'tyouthinkit'sabitbright?
+3,6,-1,yeahmaybeyou'reright.Howaboutthisoutfit?
+4,6,-1,thatdresslookslovelyonyoubutit'snotverypracticalisit?
+5,6,-1,noIdon'thaveanplanstogotoaformaldanceanytimesoonbutIlovethewayitlooks.Ijusthadtotryiton!Whatdoyouthinkaboutthis?It'scasualyetsophisticated.
+6,6,-1,Ilikethejeansbutyouneedsomethingtogowiththetop.It'stooplainonitsown.
+7,6,-1,howaboutthisscarftheseearringsandananklet?
+8,6,-1,thatmightbegoingoverboardabit.Howaboutjustthatscarfwithabracelet?
+9,0,-1,that'sagoodidea.Youhavealotofgoodfashionsense.
+10,0,-1,thanks.You'dbeokonyourown.Thereareloadsoffashionvictimsoutthereandyouarenotoneofthem.Haveyoutrieditonyet?
+11,6,-1,yep.Hereitis.Whatdoyouthink?
+12,0,-1,thatlooksgreat.Justonemorething---youneedsomehighheelswiththosejeans.Doyouwantapairwithaplainpatternoroneswithaleopardprintonthem?
+13,6,-1,theleopardprintsoundsfabulous.Aretheyanamebrand?
+14,6,-1,nothey'reaPradaknock-offfor1/10ofthepriceoftherealthing.
+15,6,-1,that'sevenbetterthantherealthing.
+16,6,-1,ifIwereyouI'dbuythatnowwhileit'sonsale.Ifyouspendmorethan$100yougeta$50voucherformoreclothes.
+17,1,-1,it'stoobadIdidallthatshoppingyesterday!
+810 14
+ (1, 1),(2, 1),(3, 3),(4, 3),(4, 4),(5, 4),(6, 5),(13, 12),
+1,0,-1,HeyBlake!AreyoustilllisteningtoMozart?
+2,0,-1,Yes.Doyoulikeit?
+3,0,-1,It'sgreat.andI'VeheardthatlisteningtoMozartcanmakeyoumoreintelligent.
+4,3,-1,Really?I'veneverheardthatbefore.Ijustlikeit.
+5,0,-1,Isclassicalmusicyourfavorite?
+6,0,-1,Yes.Whataboutyou?
+7,6,-1,ILikepopmusicbest.Classicalmusicisabittooheavyforme.Ican'tgetfullyrelaxedinit.
+8,6,-1,Popmusicdoesn'thaveanydepthforme.
+9,6,-1,Yeahthat'swhyIcanenjoymyselfinit.
+10,6,-1,Didyoualwayslikepopmusic.
+11,6,-1,IthinksosinceIwasinprimaryschool.Howlonghaveyoubeeninterestedinclassicalmusic.
+12,6,-1,Ididn'tlikeitatalluntilIstartedtolearnviolinwhenIwaseight.Fromthenon.classicalmusichasbeenanimportantpartofmylife.
+13,3,-1,ohIdidn'tknowyoucanplaytheviolin.Doyoustillplay.
+14,6,-1,SometimesbutthesedaysI'moftentoobusy.
+189 19
+ (7, 6),(15, 15),(16, 16),(17, 16),(17, 17),(18, 16),(19, 16),(19, 17),(19, 18),
+1,6,-1,Helloma'amcanIhelpyoufindsomething?
+2,6,-1,YesactuallyI'mlookingtobuyacamera.
+3,6,-1,We'Vegotawideselectiondoyouknowifyou'dlikeapoint-and-shootorsomethingalittlefancier?Areyoushoppingforyourselforforsomeoneelse?
+4,6,-1,ActuallyI'mbuyingacameraformyhusband.
+5,6,-1,AhwellthenI'drecommendaniceentry-leveldigitalSLR.
+6,6,-1,Yeah?CanItakealookattheSirsyoucarry?
+7,0,-1,Surethingfollowme.Thishereisthe.
+8,6,-1,TheCanonEos.Yeahit'sokbutI'mlookingforsomethingthatperformsbetterinlowlighthasabetterdisplaypanelandlongerbatterylife.
+9,6,-1,OhahumtheNikonD60isaniceoption.
+10,6,-1,Yeahbutwhatkitlensdoesthiscameracomewith?Idon'twantsomebulkytelephotolens.
+11,6,-1,Ohwellthisonehastheuh.
+12,6,-1,Lookstomelikean18-55mmlens.prettystandardthatwilldo.Notlikemyhusbandwillbestalkingcelebritiesoranything!
+13,6,-1,SoahemcanIinterestyouinanyacc...
+14,6,-1,Accessories?Doyoucarrypolarizingfilters?
+15,1,-1,Polarizingfilterumweshould!I'msorryma'am.Itlookslikewe'resoldout.
+16,0,-1,Noyou'renot!Therearesomerighthere!
+17,0,-1,Ohwellwouldyoulookatthat!Polarizingfilters.
+18,0,-1,ThanksforyourhelpRalph!
+19,0,-1,Noproblemma'am.
+9172 12
+ (1, 1),(4, 3),(4, 4),(8, 8),(12, 12),
+1,0,-1,Hi!Iseeyouarehavingfunwithyournewcomputerandinternetconnection.
+2,6,-1,There'ssomuchIwanttodo.I'Vejustfinishedsendinglotsofemailstofriendsandfamilyallovertheworld.Ijustranasearchformusictodownload.
+3,6,-1,Icangiveyouthenameofafewusefulwebsitetovisit.
+4,0,-1,Thanks.Thatwouldbeveryhelpful.I'Vediscoveredthatitcantakealongtimetofindexactlywhatyouwant.There'stoomuchinformationonthenet.
+5,6,-1,Whenyousentyouremailsdidyouattachanyfilestothem?
+6,6,-1,YesIdid.There'sananti-virusprogrammewithmyemailaccountthatscansallattachmentssoI'msureIhaven'tsentanythingnastytoanyone.
+7,6,-1,Whenyouusetheinternetbecarefulnottogiveoutyouremailaddressveryoften.Ifyoudoyoumightgetalotofspam-unwantedemailformcompaniestryingtosellyouthings.
+8,0,-1,That'sgoodadvice.Ishouldalsobecarefulaboutgivingoutconfidentialinformationaboutmyselfsuchasmypasswordandcreditcarnumber.
+9,6,-1,That'sright.Anotherthingtorememberwhenyouaresurfingisthatyoucanaddawebpagetoyourlistoffavourites.Yourcomputerwillrememberthepageandyoucanreturntherequicklynexttime
+10,6,-1,HowdoIdothat?
+11,6,-1,Takethiswebpageforexample.Pressthekeyscontrolanddtogether.Clickonfavouritesatthetopofthescreen.Thereyouare.Ithasbeenaddedtoyoufavouriteslist.Ifyouclickityouwill
+12,0,-1,That'susefultoknow.Thanks.I'lljustlogoffandshoutdownmycomputerandwecangoforacoffee.
+11018 23
+ (4, 3),(4, 4),(13, 13),(15, 14),(23, 22),
+1,5,-1,Ah!No!Damnit!
+2,6,-1,It'sablackout.NowIcan'tseeSeinfeld.
+3,6,-1,Sowhat?Ijustlostonehour'sworthofwork.
+4,3,-1,Really?Howcouldyoudothat?Don'tyousaveeverycoupleminutes?
+5,6,-1,NoIdidn'tsavethistime.Damnit!AndI'msickofwritingthispaper.NowIhavetowriteitalloveragaintoo.
+6,6,-1,I'vehadthatproblemtoomanytimes.SoIlearnedtosave.WhenI'mwritingsomethingIsaveeverythreesentencesorso.Idon'twanttoloseanything.
+7,6,-1,Ihatecomputers.SometimesIthinktheycausemoretroublethanthey'reworth.
+8,6,-1,Whatarewegoingtodonow?
+9,6,-1,Idon'tknow.Ifeellikegoingout.
+10,6,-1,Iwonderhowmuchofthecityisdown.
+11,6,-1,Itdoesn'tmatter.Istillcangooutandbuyabeer.
+12,6,-1,Maybe.Butifthere'sablackoutprobablythepubsareclosed.AndbesidesIknowyouhaveapoliticalscienceexamtomorrow.Ithoughtyouhadalotofreadingtodo.
+13,5,-1,Yesthat'strue.Damn!IjustlosthalfmypaperandnowIcan'tevendomyhomework.Thisisabadtimeforthistohappen.
+14,6,-1,Ihaveaflashlightinmycloset.Ifyouwanttousethattoreadyoucan.
+15,0,-1,Thanks.IthinkIwilltry.Whereareyougoing?
+16,6,-1,Ilikeyourideaofgettingabeer.IthinkI'llgooutmyself.
+17,6,-1,Maybewecantrade.Whydon'tyoustayhereandreadformyexamandI'llgodrinkbeer?
+18,6,-1,Noitjustwon'twork.IfIreadforyourexamyouwon'tknowtheanswerstomorrow.Iwill.
+19,6,-1,So?Youcangototheclassforme.Justwritemynameontheexambookandtaketheexam.Whynot?
+20,6,-1,Howmanystudentsareintheclass?
+21,6,-1,Aboutfourteen.
+22,6,-1,Soitwon'tworkoldbuddy.They'llseethatI'mnotyou.Sorry.
+23,5,-1,Damn!
+10950 10
+ (6, 4),(6, 5),(6, 6),(8, 4),(8, 5),(8, 6),(8, 7),(8, 8),(10, 4),(10, 5),(10, 6),(10, 7),(10, 8),(10, 8),(10, 9),(10, 10),
+1,6,-1,Nextplease!HellosirmayIseeyourpassportplease?
+2,6,-1,Yeshereyougo.
+3,6,-1,Willyoubecheckinganybagstoday.
+4,6,-1,YesI'dliketocheckthreepieces.
+5,6,-1,I'msorrysir.Airlinepolicyallowsonlytwopiecesofcheckedluggageattwentykilogramseachplusonepieceofcarry-onluggage.Iwillhavetochargeyouextrafortheadditionalsuitcase.
+6,5,-1,What?Why!Iamtakinganintercontinentalflight!I'mflyingsixteenthousandCMS!HowamIsupposedtoonlytaketwotwentykilobags?That'absurd!
+7,6,-1,Iamsorrysirthere'snothingIcando.Youcannotboardtheflightwiththatlargebageither.Carry-onbagsmustfitintheover-headcompartmentorunderyourseat.Thatbagisclearlytoobig.
+8,5,-1,NowIsee.Youchargenexttonothingforaninternationalticketbutwhenitcomestochargingforanyothersmallthingyouchargeanarmandaleg!SotellmemisshowmuchwillIhavetopayforallofthis.
+9,6,-1,Let'ssee...sixhundredandtwenty-fiveUSdollars.
+10,5,-1,That'smorethanmyround-tripticket!
+713 6
+ (1, 1),(2, 1),(2, 2),(2, 2),(4, 2),(4, 3),(4, 4),(5, 4),(5, 5),(6, 5),
+1,0,-1,MorningPeter.Nicesuit!Anewone?
+2,0,-1,Ohyes.Mywifeboughtitformeyesterday.Hmmyoulookniceinthatyellowdress.Yellowsuitsyoureallywell.
+3,6,-1,Maybe.SeveralpeoplehavesuggestedthatIgetmoreyellowclothes.TheysaythecolorsuitsmebecauseIhaveafaircomplexion.
+4,0,-1,That'sright.Youknowpinkgreenandblackcouldalsobegoodforyou.ActuallyIthinkthatallcolorsareokayforapersonwithyourcomplexion.It'sjustthatdifferentcolorscangivepeopledifferentimpressions.Forexampleblackcouldmakeyoulookmaturewhilepinkcouldmakeyoulookyoungandenergetic.
+5,0,-1,Thankyouforyourcompliments.Itsoundslikeyou'reaclothingexpert.
+6,0,-1,WellcomparedwithmywifeI'mjustabeginner.
+473 10
+ (2, 2),(4, 2),(4, 4),(6, 2),(6, 4),(8, 2),(8, 4),(8, 8),
+1,6,-1,Theydon'treallythinkyoutookitdothey?
+2,2,-1,Idon'tknow.IjustknowI'veneverbeenaskedsomanyquestionsinmylife.
+3,6,-1,Howmanyofthemwerethere?
+4,2,-1,Three-buttherewasoneofthemwhokeptaskingreallystupidquestions.
+5,6,-1,Likewhat?
+6,2,-1,OhhewantedtoknowwhattimeIgotupthismorningandifIbadabathorashoweryouknowthingslikethat.
+7,6,-1,Whatonearthhasthatgottodowithsomemoneydisappearing?
+8,2,-1,I'venoidea.Ohyesandthemostridiculousthing.HeaskedmewhatIhadforbreakfastthismorning.
+9,6,-1,Ohwellthat'sit.Theyobviouslythinkyou'readesperatecriminalandyouhavetostealtoeat.Ishouldthinkyou'llgetthirtyyears.
+10,6,-1,Hmm.Thankyouverymuch.
+755 10
+ (1, 1),(2, 1),(2, 2),(3, 1),(3, 3),(4, 1),(4, 2),(4, 4),(5, 4),(6, 1),(7, 1),(7, 2),(8, 1),(8, 8),(9, 9),(10, 9),(10, 10),
+1,0,-1,Didyouwatchthefinallastnight?Myfavoritesingerwon!
+2,0,-1,OhIlovehimtoo.Henotonlysingswellbutalsoshowsperseverancewhenheencountersdifficultiesinthecontest.
+3,0,-1,Yeahhegotbootedafterhisinitialperformanceintheauditionbuthedidnotgiveup.Hethentriedatanothertwoauditions.
+4,0,-1,Hehadbarelysurvivedthethirdauditionandfinallygotachancetoadvanceinthecontest.Fortunatelyinthethirdauditionhehaswonpopularityamongtheaudience.Andthat'swhenIstartedtonoticehim.
+5,0,-1,Metoo.
+6,0,-1,BeforehemadethetopthreeIwassonervous.Ijustfearthathemightbeknockedout.
+7,0,-1,Yeahthere'resomanyexcellentcandidatesoutthere.Whoknowswhichonewillmakeittothefinal?
+8,0,-1,Absolutely.That'swhywhenheenteredthefinalIwassoexcited.
+9,0,-1,HereallydidagreatjobinthefinaleespeciallyinthePKround.Heperformedsowellthatthemajorityoftheaudiencecasttheirvotesforhim.
+10,0,-1,Andthehostannouncedthathewonitall!
+10362 17
+ (4, 3),(4, 4),(6, 5),(10, 6),(10, 7),(10, 8),(10, 9),(14, 12),(17, 12),(17, 15),(17, 16),
+1,6,-1,Goodmorningsir.CanIseeyourboardingpassplease?
+2,6,-1,Hereyouare.
+3,6,-1,Excusemesir.Thisisyourpassport.
+4,3,-1,Really?Ugh...Isthereanydifference?
+5,6,-1,Yes.Asamatteroffactyoucan'tboardtheplanewithoutboardingpass.
+6,1,-1,Gee.Imusthaveleftitinmyhotelroom.
+7,6,-1,I'msorrysir.Ican'tletyoupass.
+8,6,-1,Butwhendoestheplanetakeoff?
+9,6,-1,Ughinaboutthirtyminutessir.
+10,1,-1,OhmyGod!WhatdoIdonow?Boneheadboneheadbonehead(Hesmasheshisheadwithhishand.).
+11,6,-1,Calmdownsir.Youarecreatingacommotion.
+12,6,-1,(Thespeakerintheairportsays'Mr.BenjaminwenowhaveaboardingpassbythenameofBenjaminatLostandFound.')Isthatme?
+13,6,-1,Couldbe.
+14,0,-1,OhthankGod.ThankyouI'llberightback.
+15,6,-1,(Benjaminstartstorunandthenheseemstoremembersomethingandreturns.)UghexcusemewhereistheLostandFound?
+16,6,-1,It'sdowninthelobby.TurnleftatexitB.
+17,0,-1,Thankyouthankyouthanksagain.
+932 11
+ (4, 3),(6, 3),(7, 7),(7, 7),(8, 7),(8, 7),(9, 7),(9, 7),(9, 8),(9, 9),(10, 7),(10, 7),(10, 9),(11, 10),(11, 11),(11, 11),
+1,6,-1,Goodmorning.I'mfromtheNewYorkbookreview.CouldIaskyousomequestionsaboutyourlatestbook?
+2,6,-1,Sure.Takeaseat...whatwouldyouliketoknow?
+3,6,-1,FirstI'Veheardthatyourlatestbookisbasedonatruestory.
+4,0,-1,That'scorrect.It'samurdermysterybasedonactualmurdersthatbookplaceinFloridaseveralyearsago.Themaincharacter-thepoliceinvesigator-isbasedonthemanwhoinvestigatedthecase.
+5,0,-1,Howdoyouresearchyourbooks?
+6,0,-1,IalwaysvisittheplacesthatIuseassettingforstories.Readerslikethingstobeasfactuallycorrectaspossible-eveninfiction!IusuallybasemycharactersonpeopleIhavemet.Mostcharacterareamixtureofthecharactersoftwoormorepeople.
+7,0,-1,Ireallylikeyourbooks.I'Vejustfinishedthisone.Ireaditfromcovertocoverinasingleday.Congratulationonmakingthebestsellerlistyetagain!
+8,0,-1,Thankyou.Letmetsignitforyou...thereyougo.
+9,0,-1,Oh!Thankyouverymuch.Iheardthatyouarecurrentlywritingacollectionofshortstories.Whatarethestoriesabout?
+10,0,-1,There'sarealmixofstoriesinthebook.Ihaven'tfinishedallofthemyetthough.Manyofthemareshortdetectivestoriesbuttherearealsohorrorstoriesandsci-fiones.IfyougivemeyourbusinesscardI'llmakesureyougetanadvancecopytoreview.
+11,0,-1,Thanksverymuch.I'msureitwillsellwell.Ican'twaittoreadit.Here'smycard.Thankyouforyoutime.
+10014 6
+ (2, 2),(3, 2),(3, 3),(4, 2),(4, 4),(5, 2),(5, 3),(5, 4),(6, 2),(6, 4),
+1,6,-1,Iseverythingtoyoursatisfaction?
+2,5,-1,Nothesteakwasrecommendedbutitisnotveryfresh.
+3,1,-1,Oh!Sorrytohearthat.Thisisquiteunusualaswehavesteakfromthemarketeveryday.
+4,5,-1,Sowhat?ItisnotfreshandI'mnothappyaboutit.
+5,1,-1,I'msorrysir.Doyouwishtotrysomethingelse?Thatwouldbeonthehouseofcourse.
+6,5,-1,Nothankyou.
+9280 14
+ (4, 3),(7, 7),(11, 11),(12, 2),(13, 2),(14, 2),(14, 13),
+1,6,-1,GoodafternoonmisscanIhelpyou?
+2,6,-1,YesI'dliketobuythisdressplease.
+3,6,-1,It'scertainlyaprettydress.Icanringyouupattheregisteroverhere.
+4,0,-1,Great.
+5,6,-1,Willyoubepayingbycashcheckorcreditcard?
+6,6,-1,Iwanttouseacreditcard.DoyoutakeDiscover?
+7,1,-1,Sorryno.WeonlytakeMasterCardorVisa.
+8,6,-1,I'llputitonmyVisacardthen.
+9,6,-1,Verywellma'am.Ohthereseemstobeaproblemitsaysit'srejected.
+10,6,-1,Theremustbesomethingwrongwiththesystem.TrymyMasterCard.
+11,0,-1,Alright.Thankyou.Yesitseemstobeworkingfine.Yourtotalis$199.00signhereplease.
+12,0,-1,Sure.
+13,0,-1,Hereyougoandhere'syourreceipt.Haveaniceday.
+14,0,-1,Thanks.Youhaveagoodonetoo.
+8946 12
+ (2, 2),(4, 4),(12, 2),(12, 4),(12, 7),(12, 10),
+1,6,-1,Whydoyouwanttotakethepolicetocourt?
+2,5,-1,Theyarrestedmewithoutprobablecause.
+3,6,-1,Theydid?
+4,5,-1,Theyhadnoreasonforarrestingme.
+5,6,-1,Ithoughttheyletyougo.
+6,6,-1,Yesthenextmorning.
+7,6,-1,Theymadeyouspendthenightatthestation?
+8,6,-1,Yestheydid.
+9,6,-1,Whatwastheirreasonforarrestingyou?
+10,6,-1,Imatchedthedescriptionofabankrobbertheywerelookingfor.
+11,6,-1,Isee.
+12,5,-1,Iwantjustice.
+8414 7
+ (2, 1),(4, 3),(4, 4),(5, 4),(5, 5),(6, 1),(6, 3),(7, 6),
+1,6,-1,Mr.Masshereisagiftforyou.
+2,3,-1,Oh.Thanksamillion.
+3,6,-1,It'sasouvenirIboughtforyoufromRome.
+4,0,-1,Howbeautiful!Iloveitatall.
+5,0,-1,I'mgladyoulikeit.
+6,0,-1,It'sverykindofyou.Ireallydon'tknowhowIcanthankyouenough.
+7,0,-1,Don'tmentionit.JustalittlethingIdid.
+912 10
+ (10, 9),
+1,6,-1,Whydon'tyousitdownandrelaxdarling?
+2,5,-1,Idon'twantto.
+3,6,-1,Wellcomeoverandtalktomethen.
+4,5,-1,Certainlynot.
+5,6,-1,MayIturnontheTVthen?
+6,5,-1,TurnontheTVforwhat?
+7,6,-1,Sothatwecansitdowntogetherandlistentosomemusic.
+8,5,-1,Listentothemusic?Andwhowillcookdinnerwillyou?
+9,6,-1,Iwillbutlet'sgotothediscoafterdinner.
+10,2,-1,Toadisco?Ohno.YouknowIhateit.
+604 8
+ (2, 1),(2, 2),(3, 3),(3, 3),(4, 3),(4, 3),(4, 4),(5, 3),(5, 3),(5, 4),(7, 7),(8, 7),(8, 8),(8, 8),
+1,0,-1,Pleasehelpyourselftowhateveryoulikedon'tbeshy.
+2,0,-1,Yesthankyou.I'vealreadybeenhelpingmyself.
+3,0,-1,Thisdishtasteterrific.Wouldyouliketotryalittle?Itisalittlehotbutverygood.
+4,0,-1,IlikehotfoodespeciallySichuancuisine.
+5,0,-1,Wouldyoulikeanotherbeer?
+6,6,-1,I'llhaveanothercupofbeerinsist.IknowIdon'tliketodrinkaloneespeciallytherearesomeonesittingtherenexttome.
+7,0,-1,Comeonit'stheweekend.Let'stasteandenjoythismeal.Cheers!
+8,0,-1,Bottom'supandyou'reright.Thismealisincredible.IwishIhadknownthisrestaurantbefore.Thanksforbringingmehere.IknowI'llbebackagilesoon.
+8864 12
+ (2, 1),(2, 2),(6, 6),(7, 6),(8, 6),(8, 8),(10, 6),(10, 8),(10, 10),(11, 6),(11, 8),(11, 10),(11, 11),(12, 6),(12, 8),(12, 10),
+1,6,-1,Wefinallygetachancetomeet.
+2,0,-1,Thankyouformeetingmehere.
+3,6,-1,It'snoproblem.
+4,6,-1,Ineedtospeakwithyouaboutyourdaughter.
+5,6,-1,Istheresomethingwrong?
+6,0,-1,Ienjoyhavingyourdaughterinmyclass.
+7,0,-1,I'mgladtohearit.
+8,0,-1,Sheisagreatadditiontomyclass.
+9,6,-1,Youdon'thaveanythingbadtosayabouther?
+10,0,-1,Sheisalwaysbehavingherselfandshe'ssosmart.
+11,0,-1,Iamsohappythatshe'sdoingokay.
+12,0,-1,I'mmorethanhappyhavingherinmyclass.
+624 7
+ (1, 1),(3, 2),(5, 4),(5, 5),(7, 6),(7, 7),
+1,0,-1,Everythingisnow.I'mkindofsickofit.
+2,6,-1,Eachringhas3smalldiamondsinsidetheband.
+3,0,-1,Oooh!Oneforeachofthezerosin2000!Wow!
+4,6,-1,Stopmakingfunofme.
+5,0,-1,Sofindaguytomarryandyoucangetone!
+6,6,-1,Idon'tneedaguytobuyaweddingring!
+7,0,-1,OhIsee.You'regoingtowearoneandpretendyou'remarriedtotrytoattractguys.
+9397 7
+ (3, 1),(3, 2),(3, 3),(5, 1),(5, 2),(5, 3),(5, 4),(5, 5),(7, 1),(7, 2),(7, 3),(7, 4),(7, 5),
+1,6,-1,WhenwillIgetaraise?
+2,6,-1,Inthreemonthsorso?
+3,5,-1,Yousaidthesamethingthreemonthsago.
+4,6,-1,DidI?Well.Anywayyou'llgetyourraisewhentheeconomystartspickingup.
+5,5,-1,YoumeanIwon'tgetaraiseuntilrecessionends?
+6,6,-1,Yes.
+7,5,-1,Igotthemessage.Iamquitting.
+8270 13
+ (6, 6),(7, 6),(8, 8),(9, 8),(9, 9),
+1,6,-1,HelloBCDCompanycanIhelpyou?
+2,6,-1,HellomayIspeaktoMrsSmith?
+3,6,-1,ThisisMrsSmithmayIhaveyourname?
+4,6,-1,ThisisSunandIinterviewedwithyouyesterday.
+5,6,-1,HelloMr.Sun.
+6,0,-1,IamcallingtothankyouforgivingmetheinterviewfortheSalesManagerpositionyesterday.
+7,0,-1,YouarewelcomeMr.Sun.
+8,0,-1,Ireallyenjoyedmeetingwithyou.
+9,0,-1,Youcertainlymadeagoodimpressiononmeaswell.
+10,6,-1,Iamveryinterestedinthisposition.
+11,6,-1,We'llbemakingthedecisionbytheendofthisweekandwe'llcontactyouassoonaspossible.
+12,6,-1,Wellthankyouforyourtimeandconsiderationagain.
+13,6,-1,Youarewelcome.
+8028 8
+ (2, 2),(3, 2),(3, 3),(8, 7),
+1,6,-1,Socanyoufixit?
+2,1,-1,I'msorrysir.Thiscomputerisnotbrokenordamaged.It'ssimplyjusttooold!That'swhyyourprogramsandapplicationsarerunningslow.Therereallyisn'tmuchIcando.
+3,3,-1,Whatdoyoumean?Iboughtthiscomputerjustthreeyearsago!
+4,6,-1,Yesbuttechnologyiseverchangingandtechnologyisbecomingobsoletefasterandfaster!
+5,6,-1,OKIknowwherethisisgoing.Howmuchwillitcostmetogetanewcomputer?
+6,6,-1,Wellthisdesktopoverhereisourlatestmodel.IthasafourgigahertzprocessorwithsixteengigabytesinRAMandaharddiskwithoneterabyte.Ofcourseitincludesamousekeyboardanddeskspeakers.
+7,6,-1,Ihavenoideawhatyouaretalkingabout.Ijustwanttoknowifit'sgoodandifIwillbeabletoplaysolitairewithoutthecomputercrashingorfreezingallthetime!
+8,5,-1,ThisPCistopofthelineandIguaranteeitwillneverfreeze!Ifitdoeswe'llgiveyouyourmoneyback!
+8728 14
+ (1, 1),(2, 2),(5, 4),(14, 13),
+1,0,-1,it'ssogreattobehere!I'msoexcitedtohelpyouandmydaughterwithyournewhome!
+2,0,-1,we'regladthatyou'rehere.Wouldyoulikeatourofthehouse?
+3,6,-1,that'dbegreatbutcouldIhaveacupofteafirst?
+4,6,-1,sureI'lljustgoputthekettleon.Whydon'tyouhaveaseatonthesofaandI'llgotakecareofthingsinthekitchen.
+5,0,-1,thatwouldbelovelythanks.
+6,6,-1,doyoutakemilkorsugarwithyourtea?
+7,6,-1,I'lltakealittlemilkbutnosugarplease.Makesureyoulettheteasteepafewminutesbeforeyoutaketheteabagoutofthecup.
+8,6,-1,ok.Whatdoyouthinkaboutourlivingroom?
+9,6,-1,wellIdolikethemantelpieceandthecoffeetablebutIdon'treallycareforcurtains.Didyougetthematayardsale?Theylookancient.
+10,6,-1,myparentsgavethemtousasahousewarminggift.
+11,6,-1,ohdear.WellIsupposetheywilldofornow.doyoueverdustinhere?Itseemsabitdustyinhere.
+12,6,-1,yourdaughterusuallydoesthedustingandIdothevacuuming.
+13,6,-1,Isee.WellIcanhelpwiththechoreswhileI'mhere.Youtwocouldprobablyusemyhelp.
+14,0,-1,that'sveryniceofyoutooffer.Here'syourtea.Becarefulit'sstillquitehot.
+762 4
+ (1, 1),(2, 1),(3, 1),(3, 3),(4, 3),(4, 4),
+1,0,-1,YourknowledgeofEnglishisreallysurprising.
+2,0,-1,Ohit'snothingtospeakof.
+3,0,-1,Noseriously.Iamimpressed.
+4,0,-1,Thankyou.Iappreciatethecompliment.
+8470 12
+ (2, 1),(2, 2),(2, 2),(4, 1),(4, 2),(4, 2),(4, 4),(6, 1),(6, 2),(6, 2),(6, 4),(6, 6),(8, 1),(8, 2),(8, 2),(8, 4),(8, 6),(8, 8),(9, 6),(9, 8),(10, 1),(10, 2),(10, 2),(10, 4),(10, 6),(10, 8),(10, 10),(11, 6),(11, 8),(11, 1),(11, 2),(11, 2),(11, 4),(11, 6),(11, 8),(11, 10),(12, 1),(12, 2),(12, 2),(12, 4),(12, 6),(12, 8),(12, 10),(12, 12),
+1,6,-1,AreyougoingtovotethisTuesday?
+2,0,-1,YesIamandIamsoexcited.
+3,6,-1,Haveyoufiguredoutwhoyou'regoingtovotefor?
+4,0,-1,Ilovemycandidate.
+5,6,-1,Whyisthat?
+6,0,-1,Mycandidateisprobablythemostintelligent.
+7,6,-1,Isthatright?
+8,0,-1,Ialsoagreewithallhispolicies.
+9,0,-1,That'sgreat!
+10,0,-1,Iknowhe'sgoingtobethenextPresident.
+11,0,-1,Hopefullyhewillbe.
+12,0,-1,Ican'twaittovote.
+8520 14
+ (6, 6),(7, 6),(7, 7),(12, 10),(12, 11),(12, 12),
+1,6,-1,Doyouhaveanyshoeslikethese?
+2,6,-1,Whatsize?
+3,6,-1,Sizefive.
+4,6,-1,Whatcolour?
+5,6,-1,Black.
+6,1,-1,I'msorry.Wedon'thavenany.
+7,3,-1,Butmysisterboughtthispairlastmonth.
+8,6,-1,Didshebuythemhere?
+9,6,-1,NosheboughtthemintheU.S.
+10,6,-1,Wehadsomeshoeslikethoseamonthagobutwedon'thaveanynow.
+11,6,-1,Canyougetapairformeplease?
+12,1,-1,I'mafraidthatIcan't.Theywereinfashionlastyearandtheyearbeforelast.Butthey'renotinfashionthisyear.Theseshoesareinfashionnow.
+13,6,-1,Theylookveryuncomfortable.
+14,6,-1,Theyareveryuncomfortable.Butwomenalwayswearuncomfortableshoes!
+10943 10
+ (2, 1),(9, 1),(9, 9),(9, 9),(10, 10),(10, 10),
+1,6,-1,Ourcompanyisgoingtodosomecutbackssoon.
+2,3,-1,Really?Wheredidyouhearthat?
+3,6,-1,Imetwiththesupervisorjustthismorning.Idon'tknowbutIamalittleworried.Whodoyouthinkwillgetsacked?
+4,6,-1,I'mnotsure...wellfirstitcouldn'tbeGeorge.Heissuchakiss-ass.He'dwashtheboss'sdogifheasked.
+5,6,-1,Noit'snotgoingtobeGeorge.Idon'tthinkit'sAndyeither.Heisinvolvedwiththeboss'ssisterin-law.Andyouknowhowwhippedourbossis.
+6,6,-1,That'strue.WhataboutLisa?Ibetthere'snobodywhocoulddoaworsejobthanher.
+7,6,-1,Lisa?Noway.I'veheardarumorthatsheandthebosswerehavinganaffair.Youknowrumorscan'tcomeoutfromnowhere.
+8,6,-1,Wellokay.ThenthereisstillMichael.Buthe'stheboss'petafterhavingthebestsalesrecordforthreemonthsinarow.Itdefinitelywon'tbeMichael.
+9,1,-1,Nothatwouldbecrazy.Butthenwhowillitbe?Ohdearitmustbeme.Ishouldhaveknownit!Whyelsewouldhehavetalkedtomealoneaboutthedownsizing.WhatshouldIdo?I'vegotafamilytosupport.
+10,1,-1,Wellitcouldbemetoo.ButIamnottooworried.Thisplaceissuffocatingmewiththisbossbeingsuchahard-assandcolleagueswhobarelyknowhowtogetdressedinthemorning.Itwouldalmostbeablessingtobefiredfromthisplace.
+8640 16
+ (2, 2),(4, 2),(4, 4),(9, 9),(11, 10),
+1,6,-1,Wow!They'vegoteverythinghere.Alltheworld'sfamousbrands.AuntCindywhatisyourfavoritebrand?
+2,0,-1,Iloveallthefashionablethings.ButmyfavoritebrandisChanel.
+3,6,-1,Ohthat'saveryexpensivebrandbutwithgoodreason.
+4,0,-1,Yeah.Eachstyleisspeciallydesignedbyworld'stopdesigners.Sotheycanalwaysmakeyoulookamazing.
+5,6,-1,Isee.Comehere.Thehighheelsherelookreallyattractive.ButIwonderwhetherit'scomfortabletowearanyofthem?
+6,6,-1,Notreallyespeciallyatthebeginningifyouwearhighheelsalldaylongyourfeetwouldhurt.Butnobigdeal.Womencanalwaysgetusedtothat.
+7,6,-1,It'snotasimplethingtobebeautiful.
+8,6,-1,Sure.Buteveryonelovestobebeautiful.Heydoyouthinkthispairofsunglassesmatchesthehandbagwell?
+9,3,-1,Yeahverytasteful.Andwiththemyoulookevenmorefashionable.OhtherearesomanyFrenchperfumers.Oopsperfumesforguys?Sostrange!
+10,6,-1,Comeon.Fashionisnotonlyforwomen.Menalsosharetheequalrighttochasefashion.It'sthenewfashionformentowearperfumeswhichiscalledcologne.
+11,3,-1,Ohreallythat'sreallysomethingnew.I'mafraidnoteveryonecanacceptit.
+12,6,-1,Ittakestimeforthat.Butpeople'sconsumingattitudesarechangingquickly.
+13,6,-1,That'strue.Wellit'sobviousthatfashionisnotacheapthing.Sodoyouspendallyourmoneyonit?
+14,6,-1,No.Fashionisjustpartofmylifewhichimprovesitsquality.ButalsoI'mgoodatfinancing.IhaveacreditcardbutIneveroverdraft.
+15,6,-1,Howisitthatyouaremymom'ssis?Youtwoaresodifferent.Shealwayspicksupbargainsandspendsmorethansheearns.Youdosomuchbetterthanher.
+16,6,-1,Ihavetosaythat'sjusttheresultofdifferenceofourconsumptivehabits.
+525 6
+ (1, 1),(2, 1),(3, 1),(3, 3),(4, 3),(4, 4),(5, 4),
+1,0,-1,HappybirthdayJim!
+2,0,-1,ThankyouLisa.
+3,0,-1,Hereisapresentforyou.Ihopeyoulikeit.
+4,3,-1,Ohgreat!Iloveit!YouknowI'vebeenexpectingthisforalongtime.
+5,0,-1,I'mverygladtohearthat.
+6,6,-1,Comehereletmeintroducesomefriendstoyou.
+847 13
+ (3, 2),(5, 4),(7, 6),(8, 6),(9, 6),(9, 9),(10, 6),
+1,6,-1,Whathappened?Whydidn'thewin?
+2,6,-1,Didn'tyouhear?Hewasdisqualified.
+3,3,-1,Howdidthathappen?He'ssotalented!Ithoughthehadagreatchanceofwinningagoldmedal!
+4,6,-1,Ifhedidn'thaveanydrugproblemshewouldhavewon.
+5,3,-1,What?Whatkindofdrugswasheusing?
+6,6,-1,Hewastakingsteroidstomakehimstrongerandfaster.
+7,2,-1,Ithoughtthatallathletesweresupposedtoberegularlytestedfordrugs.
+8,2,-1,Theyare.Theonlyreasontheydidn'tdisqualifyhimuntilaftertheraceisbecausetheresultsfromthetextonlycamebackafterwards.
+9,2,-1,That'ssodisappointing.Idon'tknowwhytopathleteswouldfeeltheneedtotakedrugs.
+10,2,-1,Idon'tthinkit'srightbutIcanunderstandwhytheymight.Imaginehowmuchpressuretherewouldbetowinforyourcountry!
+11,6,-1,Regardlessofhowmuchpressureyou'reunderthere'sneveragoodreasontotakedrugs.
+12,6,-1,Iagree.Hopefullywiththenewregulationsfewerathleteswilltrytocheatwithdrugs.
+13,6,-1,Let'shopeso.
+9643 16
+ (1, 1),(7, 7),(8, 7),(9, 8),(9, 9),(10, 9),(10, 10),(16, 15),(16, 16),
+1,3,-1,Siswhydidyouaskmetocometothisbargainmarket?It'ssocrowdedandyoucan'tfindanythingthatyoureallywant.
+2,6,-1,Youjustdon'tgetit.Lookingforbargainscanbereallyinteresting.
+3,6,-1,Areyouserious?Howcanthatbe?
+4,6,-1,Bargainingisagameorevenabattle.Youfeellikeawinnerwhenyougetagoodprice.
+5,6,-1,Comeon.Youknowyoucanneverreallywin.Thesalespersonneverloses.Theymaketheirlivingoutofit.
+6,6,-1,That'strue.ButIjustloveit.Comehere!
+7,0,-1,Ohthissilkcarpetisreallybeautiful.Lookatthepatternandhowdelicateitis!
+8,0,-1,Youdohavegreattaste.That'sthemostexpensivestuffhere.
+9,0,-1,Really?Ohthisone.Ilikethecloisonnvase.
+10,0,-1,Areyoukiddingme?Iboughtasameonelastweek.It'ssurprisingthatthereissomethingwebothlike.Wellwhatdoyouthinkoftheseceramiccups?
+11,6,-1,Comeon.Theylooksocheap.Somethingelseplease.
+12,6,-1,Whataboutthispicture?IthinkBenjaminwouldlikeit.
+13,6,-1,Don'tunderestimatehistaste.Idon'tthinkhe'dlikeit.
+14,6,-1,Don'tbesosure.HelovesthevaseIboughtherelastweek.
+15,6,-1,Yeah.Wellanywayit'suptoyou.ButIcantellthatyoucomehereoften.
+16,0,-1,Absolutely.That'swhyIcanalwaysgetagoodprice.
+10488 10
+ (3, 3),(4, 3),(4, 4),(8, 7),(8, 8),(8, 8),
+1,6,-1,HeyGeorgehowisyourchicken?
+2,6,-1,Mychickentastesallrightbutitisprettydry.Howisyourfish?
+3,1,-1,Myfishisprettydrytoo.
+4,1,-1,It'salmostasifthisfoodhasbeensittingalittletoolong.Itdoesn'tseemfresh.
+5,6,-1,Yesitseemsthatwaytomealso.
+6,6,-1,Howareyourvegetables?
+7,6,-1,Myvegetablesareverysoggy.
+8,1,-1,Minearethesameway.Itseemslikethey'vebeenovercooked.
+9,6,-1,Idon'tusuallycomplainbutIthinkthatweshouldmentionthistothewaiter.
+10,6,-1,Iagree.Maybetheycanbringussomebetterfood.
+10373 14
+ (5, 5),(8, 8),(11, 11),(13, 11),
+1,6,-1,Howdoyouwantyourhaircut?
+2,6,-1,IwantitthewayPeckhamwearsit.
+3,6,-1,WhoisPeckham?
+4,6,-1,Areyoukiddingme?EventhegirlsknowPeckham.WhateverIhaveapictureofhimhere.
+5,0,-1,Youareabigfanofhim!Hehasstronglegs.
+6,6,-1,Sureheisasoccerstar.
+7,6,-1,Heywakeup.It'sdone.Howdoyoulikeit?
+8,5,-1,OhmyGod.It'sdisaster.Itmakesmyheadlooklikeasoccerball.
+9,6,-1,Butit'sthesamehairstyle.
+10,6,-1,ItlookslikethehairstyleofKahnwhostandsbesidehiminthepicture.
+11,1,-1,Oh.Imadeamistake.IthoughttheguyontherightwasPeckham.
+12,6,-1,Heplaysoutsiderightbutitdoesn'tmeanhehastostandontheright.
+13,1,-1,Sorrybutdonotworry.IthinkIcanfixit.Justcutalittlemoreoffthetemple.
+14,6,-1,Doitplease.
+672 12
+ (6, 4),(8, 4),(8, 7),(10, 4),(10, 7),(12, 11),
+1,6,-1,OhhiJessicaareyougoingtoseethismovietoo?
+2,6,-1,I'dlovetothemoviesaresmashhit.
+3,6,-1,Thenlet'sgoin.
+4,6,-1,Ican't.I'mwaitingforPaulbuthe'slate.
+5,6,-1,I'llsaythemovie'sstartingintheminute.
+6,1,-1,Iknow.Iwonderwhat'skeepinghim.
+7,6,-1,Lookslikehewon'tshowup.He'sdonethisbeforehasn'the?
+8,1,-1,Yeahanumberoftimes.
+9,6,-1,What'shetryingtopullanyway.
+10,1,-1,Idon'tknow.Butthisisdefinitelythelaststraw.
+11,6,-1,Maybeyoushouldstartseeingsomeoneelse.
+12,0,-1,Yousaidit.Oklet'sgoinSandy.
+10408 12
+ (7, 6),(8, 7),(10, 6),(12, 6),
+1,6,-1,Hello.Iamcallingabouttheapartmentyouadvertised.
+2,6,-1,Yeswhatkindofapartmentareyouinterestedin?
+3,6,-1,Iaminterestedinone-bedroom.Doyouhaveanyavailable?
+4,6,-1,YesIhaveone.Whenyouneedit?
+5,6,-1,Sometimearoundnextweek.Whatcanyoutellmeaboutthisapartment?
+6,6,-1,WellIt'saone-bedroomapartment.Themonthlyrentat650dollarsanda300dollarssecuritydeposit.Youpayelectricityonly.Gasandwaterisincluded.Boththeheatandstovearegas.Letmeseewhatelse...Ohyou'llbeassignedashelteredparkingspaceatnoextracharge.Andthat'sprobablyit.
+7,0,-1,Soundsgood.MayIcomeovertomorrowtotakealook?
+8,0,-1,Sure.Whattimewouldyouliketocome?
+9,6,-1,Howabout10am?
+10,0,-1,GoodMayIhaveyournameplease?
+11,6,-1,MynameisBlanca.
+12,0,-1,ThanksforcallingBlanca.I'llseeyoutomorrow.
+10826 6
+ (4, 4),(5, 5),(6, 4),(6, 6),(6, 6),
+1,6,-1,LookJim.Thatmanjustfelldownoverthere.
+2,6,-1,We'dbetterseeifheisok.
+3,6,-1,Sirsirareyouallrightsir?
+4,4,-1,Heisnotanswering.You'dbettercheckhispulseandbreathing.
+5,3,-1,Ohno.Heisnotbreathingandthere'snopulse.Call911.
+6,4,-1,Hello?YessomeonehaspassedoutatDongleAve.and2ndstreet.Heisn'tbreathinganddoesn'thaveapulse.YesmyfriendisperformingCPR.Okthankyou.Theyaresendinganambulance.Hereletmehelp.
+9339 6
+ (1, 1),(2, 1),(3, 1),(3, 2),(4, 1),(5, 1),(6, 6),
+1,0,-1,Youbetitis.Andwegotfourthousandforourcarspace!Awesome!
+2,0,-1,Let'splaysomemusic!Ifeellikedancing.
+3,0,-1,That'sjustwhatwasrunningthroughmymind.Moonlightanddancing.
+4,0,-1,Ahh!Nowthat'smorelikeit.Atmosphere!
+5,0,-1,Comeonbabylet'sdance!
+6,3,-1,Oops!It'sthelandlord.Iguessthetableshaveturnednow.We'rethenoisyneighbors.Turnitdown!
+8930 16
+ (4, 3),(4, 4),(7, 7),(8, 7),(8, 8),(12, 10),(15, 14),(16, 15),(16, 16),
+1,6,-1,HiIcometopickupmylaundry.Thisistheinvoice.
+2,6,-1,Hereyouare.We'veironedthemforyoualready.Pleasecheckandseeifthereisanydamage.
+3,6,-1,I'mafraidthatabuttonismissing.
+4,1,-1,I'mterriblysorry.Youknowwearesobusytodayandweforgettosewthebuttonbackon.Pleasewaitamoment.Itwillbereadysoon.
+5,6,-1,OKplease.
+6,6,-1,Wouldyouliketohavealook?Isittoyoursatisfaction?
+7,3,-1,WellohmyGodthereisanotherproblemI'mafraid.Thereisstillastainontheshirt.
+8,1,-1,Itdoesn'tseemlikethat.Sorrysirwe'vetriedeverythingbutwe'renotabletogetitofftheshirt.ItwasfromthesugarIthink.
+9,6,-1,It'sbeenseveraldaysnowIamnotsure.
+10,6,-1,Yesthesugarwasburntduringthedry-cleaningprocess.Andthereyougo.
+11,6,-1,Ohthat'ssobad.Iknowlittleaboutthat.Istherearemedyforit?
+12,1,-1,Iamawfullysorry.Pleasetellusaboutthestainsbeforethedry-cleaningnexttime.
+13,6,-1,OKIwill.
+14,6,-1,Thisisamembershipcard.Youcangeta20percentdiscountnexttime.
+15,0,-1,Thanksalot.
+16,0,-1,Hopetoseeyouagain.Wewillprovidethebestservice.
+8243 9
+ (1, 1),(2, 1),(2, 2),(6, 5),(6, 6),(6, 6),(8, 5),(8, 6),(8, 6),(8, 8),
+1,0,-1,Ienjoythefolksonganddanceshowverymuch.
+2,0,-1,I'mgladyouappreciateourfolkmusic.Butaliveperformanceismuchmoreinteresting.
+3,6,-1,Ican'twaitanymore.Whendoestheperformancestart?
+4,6,-1,Theshowstartsat7andisoverataround10o'clockp.m.
+5,6,-1,(Aftertheshow)It'sanexcellentmusical.Theactingwasveryexpressiveandthesongsanddancingweresuperb.
+6,0,-1,I'mgladyouenjoyedit.It'shadlongrunbutthehousehasalwaysbeenfull.
+7,6,-1,Whatdoyouthinkoftheleadingactors?
+8,0,-1,PersonallyIlikedthemaincharacter.Hewastruetotype.
+9,6,-1,Youareabetterjudge.Idon'tknowtheplaywellenough.
+9626 14
+ (2, 1),(2, 1),(7, 6),(9, 1),(9, 1),(14, 6),
+1,6,-1,HiI'mback!Hmm...yourhairisprettydamagedandyou'vegotsplitends.
+2,3,-1,Really?WhatcanIdo?
+3,6,-1,Wellthetrimshouldfixthesplitendsbutyoumightneedadeepconditioningtreatment.
+4,6,-1,UmmOK.Whateveryouthinkwillhelp.
+5,6,-1,I'malsogoingtoaddsomelayerstoframeyourface.
+6,6,-1,Canyouusethethinningshearsontoptoo?Myhairisreallythick.
+7,0,-1,Noproblem!
+8,6,-1,HiI'mback!Hmm...yourhairisprettydamagedandyou'vegotsplitends.
+9,3,-1,Really?WhatcanIdo?
+10,6,-1,Wellthetrimshouldfixthesplitendsbutyoumightneedadeepconditioningtreatment.
+11,6,-1,UmmOK.Whateveryouthinkwillhelp.
+12,6,-1,I'malsogoingtoaddsomelayerstoframeyourface.
+13,6,-1,Canyouusethethinningshearsontoptoo?Myhairisreallythick.
+14,0,-1,Noproblem!
+10099 13
+ (3, 3),(3, 3),(4, 3),(5, 3),(5, 3),(5, 5),(8, 3),(8, 3),(8, 7),(10, 3),(10, 3),(10, 7),(10, 10),
+1,6,-1,Heylookout!
+2,6,-1,Whathappened?
+3,5,-1,You'vejustscratchedmycar.OhGodapaintwasscratchedoff.
+4,3,-1,Where?mycar?
+5,5,-1,Nomine!
+6,6,-1,Thankgoodness!
+7,6,-1,I'vejusthaditrepainted.
+8,1,-1,That'sterrible.
+9,6,-1,Iamsorrytosaythissirbutyoushould'vebeenmorecareful.
+10,1,-1,Iapologizeforthat.Butthespaceistoosmall.
+11,6,-1,Whataboutthedamagetomycar?Whatareyougonnadoaboutthat?
+12,6,-1,Canwesolvethislater?Iamcallingtheinsurancecompany.
+13,6,-1,OK.Igottacallminetoo.
+10329 12
+ (4, 3),(4, 4),(5, 3),(5, 4),(9, 8),(11, 9),(11, 10),(12, 11),
+1,6,-1,ExcusemeWhattimedoesthenextbusforBostonleave?
+2,6,-1,Itleavesat8
+3,6,-1,Isee.Arethereanyseatavailable?
+4,0,-1,Justamomentplease.Yes.Youcanhaveaseat.
+5,0,-1,Good.Howmuchisitwhenwetakeit?
+6,6,-1,Itthirty-eightdollars.
+7,6,-1,Allright.Here'sfortydollars.
+8,6,-1,Here'syourticketandchange.
+9,0,-1,Thankyou.WhichgateshouldIgotoforthebus?
+10,6,-1,GotogateNo.2please.
+11,0,-1,Thankyouverymuch.
+12,0,-1,Don'tmentionit.
+8244 16
+ (2, 2),(6, 5),(11, 10),(11, 11),(11, 11),(12, 11),(12, 12),(13, 13),(14, 14),(15, 10),(15, 11),(15, 11),(15, 14),(16, 14),
+1,6,-1,AreyouOK?
+2,1,-1,I'mfine.I'mjustsotouchedbythesadstory.
+3,6,-1,SoIcansaynowthatyoumusthaveenjoyedtheopera.Whichsceneisyourfavorite?
+4,6,-1,Ilovethemall.ButifIhadtonameoneasthebestIwouldsayit'stheending.
+5,6,-1,What'sitabout?YouknowIcouldn'thelpfallingasleep.
+6,3,-1,Didyou?Ididn'tnoticethat.ButstillyoushouldknowitforyouhaveseenitwithLaurabefore.
+7,6,-1,IguessI'vedonethesamethinglasttimeIwasherewithhertoo.Imeanfallingasleep.Formethisoneisnotthatattractive.
+8,6,-1,ThenIdoubtifyoulikeoperasatall.
+9,6,-1,Yes.IlikeCarmenverymuch.ButIdon'tmindifyouwanttotellmeaboutthisone.
+10,6,-1,OKthen.Themanwasoldandhewasvisitinghiswife'sgravewitharoseinhishand.Whenhegottherehesawsomeonealreadyputaroseonhergrave.
+11,0,-1,Veryimpressive.AndIdoliketheleadingactresswhohasanamazingvoice.
+12,0,-1,Metoo.Therewasalwaysagoodroundofapplauseeverytimeshesings.
+13,0,-1,Yestheapplause!Thatwaswhatkeptwakingmeupduringtheshow.
+14,0,-1,Andit'sbeensuchafaultlessperformancewiththeperfectlightingandmusic.Justamazing!
+15,0,-1,Nodoubtit'snotasimplethingtoputona'phantomshow'.
+16,0,-1,Exactly.
+8014 23
+ (4, 3),(4, 4),(5, 5),(13, 12),(13, 13),(15, 14),(23, 22),
+1,5,-1,Ah!No!Damnit!
+2,6,-1,It'sablackout.NowIcan'tseeSeinfeld.
+3,6,-1,Sowhat?Ijustlostonehour'sworthofwork.
+4,3,-1,Really?Howcouldyoudothat?Don'tyousaveeverycoupleminutes?
+5,5,-1,NoIdidn'tsavethistime.Damnit!AndI'msickofwritingthispaper.NowIhavetowriteitalloveragaintoo.
+6,6,-1,I'vehadthatproblemtoomanytimes.SoIlearnedtosave.WhenI'mwritingsomethingIsaveeverythreesentencesorso.Idon'twanttoloseanything.
+7,6,-1,Ihatecomputers.SometimesIthinktheycausemoretroublethanthey'reworth.
+8,6,-1,Whatarewegoingtodonow?
+9,6,-1,Idon'tknow.Ifeellikegoingout.
+10,6,-1,Iwonderhowmuchofthecityisdown.
+11,6,-1,Itdoesn'tmatter.Istillcangooutandbuyabeer.
+12,6,-1,Maybe.Butifthere'sablackoutprobablythepubsareclosed.AndbesidesIknowyouhaveapoliticalscienceexamtomorrow.Ithoughtyouhadalotofreadingtodo.
+13,5,-1,Yesthat'strue.Damn!IjustlosthalfmypaperandnowIcan'tevendomyhomework.Thisisabadtimeforthistohappen.
+14,6,-1,Ihaveaflashlightinmycloset.Ifyouwanttousethattoreadyoucan.
+15,0,-1,Thanks.IthinkIwilltry.Whereareyougoing?
+16,6,-1,Ilikeyourideaofgettingabeer.IthinkI'llgooutmyself.
+17,6,-1,Maybewecantrade.Whydon'tyoustayhereandreadformyexamandI'llgodrinkbeer?
+18,6,-1,Noitjustwon'twork.IfIreadforyourexamyouwon'tknowtheanswerstomorrow.Iwill.
+19,6,-1,So?Youcangototheclassforme.Justwritemynameontheexambookandtaketheexam.Whynot?
+20,6,-1,Howmanystudentsareintheclass?
+21,6,-1,Aboutfourteen.
+22,6,-1,Soitwon'tworkoldbuddy.They'llseethatI'mnotyou.Sorry.
+23,5,-1,Damn!
+8904 11
+ (3, 3),(4, 3),(4, 4),(6, 5),
+1,6,-1,HelloPratt.Howwasyourinterviewyesterday?
+2,6,-1,HelloFinn.IdidawonderfuljobandIwasemployed.Howaboutyou?
+3,1,-1,IamsorrytotellyouthatIhavelosttheopportunity.
+4,3,-1,Why?Youaresoexcellent.Ithinkyouarethemostsuitablepersonforthejob.
+5,6,-1,YesIknowIamexcellentbutIpaynoattentiontotheetiquetteyou'Vetoldme.
+6,3,-1,What?Thenwhatdidyoudo?
+7,6,-1,WhenIenteredtheroomIforgottoclosethedoor.LaterIcouldn'thelpsmokingyouknowIamaheavy-smoker.What'smoreIforgottopolishmyshoes.Thereissomedirtonit.
+8,6,-1,Youaresocareless.Youknowtheyarethebasicrulesyoushouldfollowbeforeyouattendaninterview.Doremembernottosmokeanymoreotherwiseyoucan'tfindajob.
+9,6,-1,YesIknow.AndnexttimeImustmakegoodpreparations.
+10,6,-1,Goodlucknexttime.
+11,6,-1,Thankyou.
+880 4
+ (1, 1),(2, 1),(2, 2),(3, 2),(3, 3),(4, 2),(4, 3),(4, 4),
+1,0,-1,Tim'ssmilesareinteresting.
+2,0,-1,Yestheyareshyandgentlebutverypowerful.
+3,0,-1,Youareright.TheysweepNancyoffherfeet.Andnowshefellheadoverheelsinlovewithhim.
+4,0,-1,HowwonderfulitwouldbeifIhadsuchsmiles!
+52 13
+ (3, 1),(3, 2),(3, 3),(6, 5),(6, 6),(10, 10),(11, 9),(11, 10),(11, 11),
+1,6,-1,Takeaseatinsideandseewhatyouthink.SoyouwilltakethePorschethensir?
+2,6,-1,YesandIwanttobuytheinsurancetoo.Ithinkit'snecessary.
+3,0,-1,You'resmarttobuyit.At45dollarsforthreedaysitisagooddeal.
+4,6,-1,CanIreturnthecarinSanFrancisco?
+5,6,-1,SanFrancisco?Nosir.Weonlyhavethisofficehere.Youwillhavetoreturnithere.
+6,3,-1,Really?IheardinAmericayoucanreturnrentalcarsindifferentcities.
+7,6,-1,Nosir.That'sonlywiththeverybigcompanies.I'msorrybutthiscarmustbereturnedtothislot.
+8,6,-1,WellIguessIwillhavetodrivebackdownthen.Hmm.Ididn'tthinkofthat.
+9,6,-1,Doyoustillwantthecarsir?
+10,0,-1,Yes.Itwillbefun.Drivingbackdownthecoast.Mygirlfriendwilllikeit.
+11,0,-1,It'sabeautifuldrive.
+12,6,-1,Wherearethekeys?
+13,6,-1,Justamomentsir.Wehavetofinishfillingouttheforms.
+11047 10
+ (4, 4),(6, 4),(6, 5),(6, 6),(6, 6),(10, 9),(10, 9),(10, 9),
+1,6,-1,HicanIhelpyou?
+2,0,-1,Nothanks.I'mjustlooking.
+3,6,-1,Allright.Ifyouneedanyhelpjustletmeknow.MynameisGreg.
+4,0,-1,SureI'llletyouknowifIneedanything.Hmthismattressisveryfirm.Jackwillprobablylikeit.
+5,6,-1,Didyoufindsomethingyoulike?
+6,0,-1,Yesthismattressisverygood.It'sprettyfirm.ThemattressI'mnowsleepingonissaggy.
+7,6,-1,Youareright.Thisisverygoodbrand.Itdoesn'tsageasilyandweofferalifetimewarrantysoyoudon'thavetoworryaboutitsquality.
+8,6,-1,Doesitcomewithaframe?
+9,6,-1,Unfortunatelyitdoesn't.Howeverwecangiveyoua10%discountontheframe.Wealsoofferaverygoodfinancingplan.ThereisnopaymentnointerestuntilnextJune.
+10,0,-1,That'sanattractiveplan.I'llthinkaboutit.
+9310 8
+ (1, 1),(2, 2),(3, 3),(6, 5),
+1,0,-1,ThankyouforcomingtonightMrs.Webber.Asateacherit'sgreatseeingthekid'sparentsassistourparent-teacherconferencenight.
+2,0,-1,Ofcourse!Iamveryinterestedtoknowhowmychildisdoingandalsogetsomeinsightfromyouastohowhecanimprove.
+3,0,-1,WellAllenisagreatstudent.Heisahardworkerandverywellbehavedhoweverhedoesstruggleabitwithmath.
+4,6,-1,IguesshegetsthatfrommeIneverdidwellinmathwhenIwasakid.WhatcanIdoathometocomplimentwhatheislearningintheclassroom.
+5,6,-1,Wellit'simportantthatyousitwithhimandreviewhishomeworkassignmentsandhelphimwithmath.Iwouldalsorecommendhestayafterschooltwiceaweekfortutoringsessions.Itwillreallyhelpalot.
+6,0,-1,Thanksalot!Iwilldefinitelydothat.Isthereanythingelse?
+7,6,-1,Um...yes.Hereisanoticefromourfinancialdepartmentseemsyourchild'sTumionisoverdue.
+8,6,-1,OhyesI...
+10763 21
+ (5, 5),(5, 5),(7, 5),(7, 5),(7, 7),(9, 5),(9, 5),(9, 7),(12, 12),(13, 13),(15, 15),
+1,6,-1,Ah!Ithurts.Don'ttouchit.
+2,6,-1,Whatparthurts?
+3,6,-1,Theshoulder.
+4,6,-1,Wellmaybeyoubrokeit.ButwhatI'mworriedaboutisthiscut.
+5,4,-1,It'snotacut.It'sagash!It'sbiggerthanacut!Ah!Ineedadoctor.
+6,6,-1,C'mon.Justdon'tmove.
+7,4,-1,I'mbleedingtoomuch.
+8,6,-1,Wedon'thaveadecentFirstAidKitdowe?
+9,4,-1,Yes.Mybikehasoneundertheseat.Getitquick!
+10,6,-1,There'ssometapeiodineandclothbandages.Idon'tthinktheclothbandagescanstopthebleeding.Whatweneedisatourniquet.
+11,6,-1,Wrapafewloopsofthebandagesaroundmyupperarmthentwist.Thatwillworkasatourniquet.Afterthatyoucancutmoreofthebandagestocoverthewound.
+12,0,-1,Goodplan.Letmeputsomeiodineonthecut.
+13,4,-1,Noforgetthat!Dothetourniquetfirst.I'mlosingtoomuchblood.
+14,6,-1,Alrightalright.Howdidyoucutthissobad?
+15,5,-1,IranitagainstthatfencepoleasIcrashed.Whatdoyouthink?Damnithurts!
+16,6,-1,We'llhavetogetyoutoahospital.Icanrideyouonthebackofmybike.
+17,6,-1,I'mluckyIwasn'tkilled.Imusthavebeengoingaroundforty-fivemilesanhour.Therewastoomuchgravelonthatcorner.Islidout.
+18,6,-1,YesIalmostslidtoo.Alright.Thistourniquetistight.Howdoesitfeel?
+19,6,-1,Makeittighter.Iwantthebloodstopped.Thenwrapsomebandagesaroundthecut.Thenwecango.Ouch!IhopeIcanwalk.
+20,6,-1,AlrightI'mtwistingitaround.Youtellmewhentostop.
+21,6,-1,There.Stop!
+8499 12
+ (5, 3),(5, 4),(9, 7),(9, 8),(11, 10),(12, 11),
+1,6,-1,HiJohnthisisMaryyourtenantupinLincolnPark.
+2,6,-1,OhhiMarywhatcanIdoforyou?
+3,6,-1,Iwaswonderingwhentrashcollectiondaywas.
+4,6,-1,It'sonTuesdaysandFridays.
+5,0,-1,Great.
+6,6,-1,Youcouldsaveacoupleofdollarsbytakingittothedumpyourselfthough.
+7,6,-1,Oho.k.Where'sthat?
+8,6,-1,It'satthecornerofthatstreet.
+9,0,-1,Thanks.WhodoIcallfortrashcollection?
+10,6,-1,Justleavethestuffbythecurb.Thecompany'llsendaguyoutnextmonthtogiveyouthebill.
+11,0,-1,Allright.Thanksalot.
+12,0,-1,Noproblem.
+982 10
+ (4, 4),(5, 4),(6, 6),(7, 6),(7, 7),(8, 6),(8, 7),(8, 8),(9, 6),(9, 7),(10, 6),
+1,6,-1,Whoarethoseguys?
+2,6,-1,KobeBryantandShaquilleO'NealtheyaretheLosAngelesLakers'starplayers.
+3,6,-1,Oh.
+4,3,-1,Waitasecond.Heshootshescores!
+5,3,-1,Allright!
+6,0,-1,HerecomesJordanthough.
+7,0,-1,WowMichaelJordan'sslam-dunksarebeautifulthingstowatch.
+8,0,-1,Yeah.He'soldersohedoesn'tslamasmuchashedidwhenhewasyoungerbutwhenhedoesit'sstillamazing.
+9,0,-1,Whichteamdoyouthinkwillwin?
+10,0,-1,TheLakers.JordanistheonlygoodplayerWashingtonhas.
+976 5
+ (2, 1),(2, 2),(3, 3),(4, 4),(5, 4),(5, 5),
+1,0,-1,Doyouthinktheytwowillgetmarried?
+2,0,-1,Yeahyoucancountonit.
+3,0,-1,Ithinkso.Yestheygetalongsowell.
+4,0,-1,Ilikehim.He'sgoodforher.
+5,0,-1,You'reright.Hesureis.
+8398 12
+ (4, 3),(6, 3),(6, 5),(8, 7),(8, 8),(12, 11),(12, 12),
+1,6,-1,Didyouenjoyyourmeal?
+2,6,-1,Yeswereallyenjoyedit.
+3,6,-1,MayIinterestyouinsomedessert?
+4,0,-1,Yesthatsoundsgreat.
+5,6,-1,Wellwehavechocolatemoussecakehomemadefreshstrawberryshortcakeandaspicyrumapplecrispforourspecials.
+6,0,-1,Theapplecrispsoundsgreat.
+7,6,-1,Sincetherearefourofyouwouldyouliketosplitaseconddessert?
+8,0,-1,Goodsuggestion.Couldyoupleasebringusachocolatemoussecakeandfourdessertforksplease?
+9,6,-1,Wouldyoulikecoffeeorteawithyourdessert?
+10,6,-1,Let'shavefourcoffeesplease.
+11,6,-1,OK.Iwillberightbackwithyourdessertsanddrinks.
+12,0,-1,Thankyou!Wehavereallyenjoyedourmealhere.
+266 11
+ (3, 2),(4, 4),(9, 8),(10, 9),(11, 10),
+1,6,-1,IsthereanythingIcandoforyou?
+2,6,-1,Wouldyoupleaseshowmethatmural?
+3,0,-1,Certainly.Hereyouare.
+4,0,-1,Itlookssobeautiful.Howmuchisit?
+5,6,-1,Fourhundredyuan.
+6,6,-1,That'sabitmorethanIwantedtopay.Canyoucutthepricedownabit?
+7,6,-1,I'msorry.OursisafixedpriceshopandIcanassureyouthisisthebestpriceyoucangetforamurallikethis.
+8,6,-1,Maybeyouareright.OKI'lltakeit.
+9,0,-1,WellI'llhaveitwrappedforyou.
+10,0,-1,Thankyou.Hereisfourhundredyuan.
+11,0,-1,Thankyou.Pleasecomeagain.
+9812 6
+ (2, 2),(2, 2),(3, 3),(4, 2),(4, 2),(4, 3),(6, 2),(6, 2),(6, 3),(6, 6),
+1,6,-1,WillyousitdownMr.White?
+2,0,-1,Thankyou.It'sverykindofyoutoinvitemetosuchabeautifulplace.
+3,0,-1,IproposeatoasttoyourpleasanttourinChina.
+4,0,-1,Thankyouverymuch.
+5,6,-1,ThisfoodisaWaxspecialty.Pleasehelpyourself.
+6,0,-1,Thankyou.Ohittastesnice.
+8368 6
+ (1, 1),(3, 1),(3, 2),(5, 1),(5, 2),(5, 4),(5, 4),(5, 5),
+1,3,-1,Comeagain?Whatareyoutalkingabout?Aren'tweonthesameteamnow?
+2,6,-1,GuessagainDave.Ihavenointentionofleavinginvoking.Neverdid.
+3,3,-1,Whatdoyoumean?Youdidn't?Ohno...No!
+4,6,-1,That'srightDave.Itrickedyouintogivingaconfession.AndI'verecordedeverywordofit.
+5,3,-1,Buthow?SoyouknewallalongIwaswithWebTracker?Howdidyouknow?
+6,6,-1,Isawyourgreenpost-itnotes.Nobodyelsehasthem.
+267 14
+ (1, 1),(2, 1),(2, 2),(3, 2),(4, 3),(5, 4),(14, 13),
+1,0,-1,It'ssogreattobehere!I'msoexcitedtohelpyouandmydaughterwithyournewhome!
+2,0,-1,We'regladthatyou'rehere.Wouldyoulikeatourofthehouse?
+3,0,-1,That'dbegreatbutcouldIhaveacupofteafirst?
+4,0,-1,SureI'lljustgoputthekettleon.Whydon'tyouhaveaseatonthesofaandI'llgotakecareofthingsinthekitchen.
+5,0,-1,Thatwouldbelovelythanks.
+6,6,-1,Doyoutakemilkorsugarwithyourtea?
+7,6,-1,I'lltakealittlemilkbutnosugarplease.Makesureyoulettheteasteepafewminutesbeforeyoutaketheteabagoutofthecup.
+8,6,-1,Ok.Whatdoyouthinkaboutourlivingroom?
+9,6,-1,WellIdolikethemantelpieceandthecoffeetablebutIdon'treallycareforcurtains.Didyougetthematayardsale?Theylookancient.
+10,6,-1,Myparentsgavethemtousasahousewarminggift.
+11,6,-1,Ohdear.WellIsupposetheywilldofornow.doyoueverdustinhere?Itseemsabitdustyinhere.
+12,6,-1,YourdaughterusuallydoesthedustingandIdothevacuuming.
+13,6,-1,Isee.WellIcanhelpwiththechoreswhileI'mhere.Youtwocouldprobablyusemyhelp.
+14,0,-1,That'sveryniceofyoutooffer.Here'syourtea.Becarefulit'sstillquitehot.
+9389 11
+ (6, 5),(6, 6),(8, 6),(8, 7),(10, 6),(10, 7),(10, 10),
+1,6,-1,PleasecomeinSteven.
+2,6,-1,AllrightMr.Green.
+3,6,-1,Haveaseatoverthere.Howarethingsgoingoutintheoffice?
+4,6,-1,Prettywell.Everyoneisworkinghard.
+5,6,-1,Butourbusinesshasbeengoingdownsharplythecoupleofmonthsandwehavetoreducesomestaff.
+6,3,-1,YoumeanI'mamongthepeoplewhohavetogo?
+7,6,-1,I'mafraidso.
+8,1,-1,DidIdosomethingwrong?
+9,6,-1,You'rethesalesmanagerbutoursalesdidn'tgoup.
+10,1,-1,ButyouknowI'vebeenworkingveryhard.AndIhaveafamilytosupport.
+11,6,-1,Ifeelsorrybutthat'sthedecisionofthedirectorate.
+38 7
+ (1, 1),(2, 1),(2, 2),(3, 3),(7, 3),(7, 6),
+1,5,-1,Hey.Whydidyoutakethatmoney?Youaresuchacheater!Ishouldsendyoutojail!
+2,5,-1,Iamnotcheating.Whenyoupassgoyoucollect$200Everyoneknowsthat!
+3,5,-1,Wellyoucan'tjusttakethemoney.Youhavetoaskthebankformoney.AndI'mthebanker.
+4,6,-1,Banker?
+5,6,-1,Yes...
+6,6,-1,CanIhavemy$200please?
+7,0,-1,Sure.Hereyouare$200Thankyoupleasecomeagain!Nowit'smyturntorollthedice.
+291 8
+ (1, 1),(2, 1),(3, 1),(3, 3),(4, 3),
+1,0,-1,Ihavesomegreatnews!Iwasabletoswitchtothenightshift!
+2,0,-1,Ikneweverythingwouldworkoutforyou!
+3,0,-1,IgottomeetthenightAngertodaytoo.Wegotalongrightfromthestart.
+4,0,-1,Wonderful!Doyoualreadyhaveyourworkschedule?
+5,6,-1,NotyetIpickituptomorrow.
+6,6,-1,Doyouknowwhatyouwillbedoingyet?
+7,6,-1,YesI'llbemanagingtheguysonthedock.
+8,6,-1,You'resogoodwithpeople.Ithinktheywilllikeyou!
+10419 11
+ (2, 1),(2, 1),(5, 4),(5, 5),(10, 10),(11, 10),
+1,6,-1,Oh.Henry.Ihaven'tseenyouinages.Comein.Letmetakeyourcoat.Howareyougettingalong?
+2,0,-1,Verywellthankyou.
+3,6,-1,Pleasetakeaseat.Everythingwillbereadyinaminute.
+4,6,-1,Hereyougo.Wehaveyourcocktailandthere'resalad.friedchickenFrenchfriesandvanillaicecreamfordessert.Eatthechickenwhileit'shot.Ittastesbetter.
+5,0,-1,Wow!You'reright.Everythingisabsolutelydelicious.Pleasepassthepepper.
+6,6,-1,Hereyouare.TastetheFrenchfries.
+7,6,-1,They'resoft.
+8,6,-1,Wouldyoulikesomemore?
+9,6,-1,Nomore.Thankyou.
+10,0,-1,Here'stoourfriendshipandhealth!
+11,0,-1,Bottomsup!
+916 10
+ (7, 6),(8, 8),(9, 8),(10, 9),
+1,6,-1,What'stheMountaineeringClubdoingthisweekend?
+2,6,-1,WearegoingtoclimbacliffontheColoradoRiver.
+3,6,-1,Howhardistheclimb?
+4,6,-1,Itisaverydifficultclimbbecausetherearenotmanyplacestoputyourhandsandfeet.
+5,6,-1,Whatdidyoudolastweek?
+6,6,-1,Werappelleddownthesideof300-footcliff.Itwasveryexciting.
+7,0,-1,Wow!Thatsoundslikealotoffun.I'msorryImissedit.
+8,0,-1,Wellyoushouldcomethisweekend.Ithinkyoucoulddotheclimb.
+9,0,-1,YeahIwill.Seeyouthen!
+10,0,-1,O.K.Seeyou.
+625 6
+ (1, 1),(2, 1),(4, 3),(4, 4),(6, 4),(6, 5),
+1,0,-1,Iwenttothetutoringservicecentreoncampustoday.AndIgotajob.
+2,0,-1,Congratulation.Whatwillyoudo?
+3,6,-1,Theygotmeapart-timetutoringjobteachinganAustralianbusinessmanChinese.
+4,0,-1,That'swonderful.Iwanttogetapart-timejobtoo.TellmewhatIshoulddo.
+5,6,-1,It'sverysimpleactually.Youcangototheservicecentreandhaveyournameandjobinterestresisted.Theywillgiveyouacallifanyjobcomesup.
+6,0,-1,Good.I'lldoit.
+11053 14
+ (1, 1),(14, 13),
+1,3,-1,PoorDanny.Youaresoenfeebled!
+2,6,-1,Don'tworry.Nobigdeal.Justacommoncold.
+3,6,-1,MomcalledjustnowsayingthatsheandDadwillbebacklater.Doyouwanttospeaktothemonphone?
+4,6,-1,No.Youcannevercountonthegrown-upswhenthereissomething.
+5,6,-1,Whatever.Haveadrinkofwater.
+6,6,-1,Comeonsister.Thisistheseventhglassalready.
+7,6,-1,Maybelater.Ithinkwehaveamedicine-kit.
+8,6,-1,Dowe?Whereisit?
+9,6,-1,Probablyontheofthecabinet.I'llgoandgetit.
+10,6,-1,Becareful.NowIhavenoonebutyoutodependon.
+11,3,-1,Ohhereitis.Patulin.Ohno!
+12,6,-1,What'sthenewstrike?
+13,6,-1,Keeplyingdown.Thematteristhatallthemedicinehereispastexpiration.
+14,1,-1,Poorme!
+793 8
+ (4, 3),(4, 4),(5, 4),(5, 5),(6, 6),(7, 6),(7, 7),(8, 6),(8, 7),
+1,6,-1,Howdoyouarrangethissummervacation?
+2,6,-1,Iwanttotravel.
+3,6,-1,Wherewouldyouliketogo?
+4,0,-1,Theseaside.
+5,0,-1,That'sreallyagoodidea.Takingawalkonthebeachandlyinginthesunareprettygood.IrecommendyouQingdaoorDalian.
+6,0,-1,I'VebeentoQingdaobeforesoI'llchooseDalian.I'veheardthattheenvironmentthereisverygood.
+7,0,-1,Yesthat'sagoodplacetospendaholiday.LastyearIwentthere.It'sreally.
+8,0,-1,Thankyou!
+8921 13
+ (2, 1),(5, 4),(5, 5),(6, 5),
+1,6,-1,MyfriendEmilyrecentlylost18pounds.
+2,3,-1,Ohreally?
+3,6,-1,Thepointisthatshehasbeenpersuadingmetoloseweighttoo.
+4,6,-1,Wellit'sagoodthingforyou.
+5,3,-1,Good?Yesit'sgoodforherbutnotforme.YouseeshetellsmethatI'llfeelbetteraboutmyselfifIslimdown.ShekeepsgivingmenewspaperclippingsaboutthelatestmiracledietandinsiststhatIjoinahealthclubasshehas.
+6,3,-1,Soyoudon'tthinkyouarefatandneedtoloseweight?
+7,6,-1,Ijustcan'tbearitthatEmilymademefeellikeababywhoalwayspigsoutonjunkfood.
+8,6,-1,junkfoodisnotgoodforyourhealth.Toomuchofitwillmakeyoufat.
+9,6,-1,Butjunkfoodissoeasy.Itrequiresnosilverwareorplatesnorigidmealtimesnopleasesandthankyous.
+10,6,-1,Okbutjunkfoodhasmanydisadvantages.Asjunkfoodcontainshighamountofoilandfatyou'llfeelsleepybutnotbeabletoconcentratewhenyouhavealotofit.
+11,6,-1,Yesbutlifewithoutchipsicecreamandcocacolaisboring.
+12,6,-1,Letmesee.Youcouldexercisemoretokeepfit.
+13,6,-1,Wellthatsoundsbetterthangivingitup.
+891 11
+ (4, 3),(9, 9),(11, 10),
+1,6,-1,Whydidn'tyoutellmeyouhadagirlfriend?
+2,6,-1,SorryIthoughtyouknew.
+3,6,-1,Butyoushouldtellmeyouwereinlovewithher.
+4,3,-1,Didn'tI?
+5,6,-1,Youknowyoudidn't.
+6,6,-1,WellIamtellingyounow.
+7,6,-1,Yesbutyoumighthavetoldmebefore.
+8,6,-1,Ididn'tthinkyouwouldbeinterested.
+9,5,-1,Youcan'tbeserious.Howdareyounottellmeyouaregoingtomarryher?
+10,6,-1,SorryIdidn'tthinkitmattered.
+11,5,-1,Ohyoumen!Youareallthesame.
+469 10
+ (6, 6),(8, 8),(9, 8),(9, 9),(10, 9),(10, 10),
+1,6,-1,ExcusemeareyouMrs.GreenfromEngland?
+2,6,-1,YesIam.
+3,6,-1,I'mpleasedtomeetyouMrs.Green.MynameisMyra.IworkinBeijingInstituteofTechnology.Icameheretomeetyou.
+4,6,-1,Howdoyoudo?
+5,6,-1,Howdoyoudo?
+6,0,-1,It'skindofyoutomeetmeattheairport.
+7,6,-1,WelcometoBeijing.IsthisyourfirsttimeinChina?
+8,0,-1,NoIhavevisitedChinaseveraltimesbutit'smyfirstvisittoBeijingandIthinkit'sagreathonortobeinvitedtoyourbeautifulcity.
+9,0,-1,It'sourpleasuretohaveyouhere.Ihopeyouwillhaveapleasantstayhere.
+10,0,-1,Thankyou.I'msureIwillhaveawonderfultimehere.
+8613 15
+ (8, 7),(8, 8),(13, 12),(14, 13),(15, 14),
+1,6,-1,GoodafternoonsiristhereanythingIcanhelpyouwithtoday?
+2,6,-1,umm...yeah!I'mlookingforanicegifttogivemygirlfriend.Ourfifthanniversary'snextFriday.
+3,6,-1,WellIwouldbehappytoassistyouinchoosingtheperfectgiftforher.Isthereanythingparticularthatyouhaveinmind?
+4,6,-1,Nonotreally...I'mcompletelyataloss.
+5,6,-1,Wellyoucangiveherasetofpearlearringsorthisbeautifulheart-shapedpendant.Whatisherfavoritegemstone?
+6,6,-1,Thatpurpleone.I'msorry...I'VeneverboughtjewelleryforanyoneandI'mkindofnervous.
+7,6,-1,Don'tworrywespecializeinprovidingourcustomersarelaxedpressure-freeshoppingenvironment.Thatstoneisanamethyst.Wehavearangeofbeautifulamethystpieces.Takealookatthisbracelet.It's18Krose-goldstuddedwithamethystandbluetopaz.It'sagreatstatementpiece.
+8,0,-1,Oh...wow.That'sreallypretty.Jesswouldlovethat.But...Iwasthinkingofsomethingalittlemoredelicateperhapsanecklace?
+9,6,-1,Wehavethisbeautifulplatinumpendantoryoucouldalsogetheralocket.Youcouldalsogetheratimepiece--it'sbothglamorousyetfunctional.IfyoutellmealittlemoreaboutyourgirlfriendmaybeIcanhelpyoufindsomethingforher.
+10,6,-1,Jess?Wellshe'sverysmartandhasagreatsenseofhumor.She'sveryfeminine...
+11,6,-1,Perhapsyoucouldgiveheraring?
+12,6,-1,Well...actually...IwasthinkingaboutaskingJesstomarryme...I'Vejustbeensonervous.
+13,0,-1,WellsirIbelieveyourfifthanniversaryisagreattimetopropose!
+14,0,-1,OkayI'Vedecided.I'mgoingtopopthequestion!
+15,0,-1,Fabulous!Weshouldlookatengagementringsthen!Nowthat'sawholeothersection.
+8342 12
+ (2, 1),(2, 2),(3, 2),(6, 6),(7, 6),(8, 6),(8, 8),(10, 6),(10, 8),(10, 10),(10, 10),(11, 10),(11, 11),(12, 6),(12, 8),(12, 10),(12, 10),(12, 12),
+1,6,-1,Helloit'snicetomeetyou.
+2,0,-1,I'mgladwe'remeetingtoday.Thankyou.
+3,0,-1,You'rewelcome.
+4,6,-1,Iwouldliketotalktoyouaboutyourdaughter.
+5,6,-1,Isthereaproblem?
+6,0,-1,Noyourdaughterisgreat.
+7,0,-1,That'sgreatnews.
+8,0,-1,Yourdaughterisawonderfulstudent.
+9,6,-1,Sheisn'tmessingupinclass?
+10,0,-1,Ofcoursenot.Yourdaughterissmartandverywellbehaved.
+11,0,-1,WellI'msogladtohearthatshe'sdoingwell.
+12,0,-1,Itismypleasuretohaveherinmyclass.
+10906 14
+ (3, 3),(7, 7),(10, 7),(11, 11),(11, 11),(12, 11),(12, 11),(12, 12),(13, 11),(13, 11),(13, 12),(13, 13),(13, 13),(14, 11),(14, 11),(14, 12),(14, 13),
+1,6,-1,MerryChristmassweetie.How'syourbrotherenjoyingTaiwan?
+2,6,-1,Ryansayshewantstostay.Ithinkhe'sinlovewithsomegirlwhodesignsfruitplatters...
+3,1,-1,No!Christmaswithouthimisbadenough.Sohoneydoyouhavecoldfeetyet?
+4,6,-1,YeahespeciallysinceJackdidn'ttakecareoftheplanereservations.
+5,6,-1,You'renotcoming?
+6,6,-1,Notuntilthe31st.Socanyouchangethechurchreservations?
+7,1,-1,I'mafraidnot.Thechurchisbookeduntiltheyear2001.
+8,6,-1,Thenwherewillwehavetheceremony?Athome?
+9,6,-1,We'llhaveto.We'llrehearseonthe1standhavetheweddingonthe2nd.
+10,1,-1,I'msorryMom.
+11,0,-1,Don'tworrydear.I'magreathost.Nowgetsomerest.MerryChristmas.
+12,0,-1,MerryChristmasMom.Iloveyou.
+13,0,-1,Iloveyoutoo.AndforgiveJack.He'sdoinghisbest.
+14,0,-1,Iknow.Goodnight.
+601 6
+ (3, 1),(3, 2),(4, 3),(5, 4),(6, 5),
+1,6,-1,Doyouhaveanythingtodoafterthis?
+2,6,-1,NoIdon't.
+3,0,-1,Shallwedropinsomewhereforacoupleofdrinks?
+4,0,-1,Thatsoundslikeagoodidea.
+5,0,-1,Iknowaveryinterestingplace.
+6,0,-1,Ohdoyou?Good.
+8963 12
+ (2, 2),(4, 4),(6, 6),(8, 8),(12, 10),(12, 11),
+1,6,-1,Iseverythingallright?
+2,1,-1,Notatall.
+3,6,-1,What'stheproblem?
+4,1,-1,Someonejustrobbedme.
+5,6,-1,Whatdoyoumean?
+6,1,-1,Thisguyjustrobbedmerightonthestreet.
+7,6,-1,Hedidn'thurtyoudidhe?
+8,1,-1,I'mokay.Hejuststolemythings.
+9,6,-1,I'msosorry.
+10,6,-1,Ihavetofileareportatthepolicestation.
+11,6,-1,Letmetakeyou.
+12,0,-1,Iwouldlikethat.
+277 14
+ (1, 1),(3, 2),(3, 3),(5, 5),(13, 12),(13, 13),
+1,0,-1,WowAmylookatthatnumber.
+2,6,-1,What'ssogreataboutit?
+3,3,-1,Whatdoyoumean?It'sascrim.
+4,6,-1,NottomeIwouldn'tbecaughtdeadinthat.
+5,0,-1,Ilovethatkindofstuff.
+6,6,-1,Yeahyouseemtolikethosestyles.
+7,6,-1,Suredo.Igetakickoutoflookingpunk.
+8,6,-1,Thisonelooksreallyexpensivethough.
+9,6,-1,Idon'tcarehowmuchitcosts.I'mrollinginit.
+10,6,-1,Luckyyou!Ican'tbuyanythingelse.I'mflatbroke.
+11,6,-1,IgotareplacemypartyoutfitItrasheditlastweek.
+12,6,-1,Whydidyoudragmeintothis?I'vespentaweeksalary.
+13,3,-1,Areyouonthelevel?You'retheonewhocalledmeremember?
+14,6,-1,JustjokingTonia.I'vegotsomewonderfulclothes.Let'sgoandhaveacloselookatyouroutfit.
+598 8
+ (1, 1),(2, 1),(2, 2),(2, 2),(3, 2),(3, 3),(4, 1),(4, 3),(4, 4),(5, 1),(5, 4),(5, 5),(6, 1),(6, 5),(6, 6),(7, 1),(7, 6),(7, 6),(8, 1),(8, 7),
+1,0,-1,Goodmorning!Iamanewcomerinouroffice.
+2,0,-1,Goodmorning!Welcometoouroffice!
+3,0,-1,Nicetomeetyou!MynameisGraceWilliams.
+4,0,-1,Nicetomeetyoutoo!IamPeterSmith.
+5,0,-1,Todayismyfirstdayatwork!
+6,0,-1,Wellhopeyouwillenjoyyourfirstday!Justaskmeifyouneedanyhelp.
+7,0,-1,Thankyou.It'sverykindofyou.
+8,0,-1,Youarewelcome.
+683 9
+ (4, 2),(5, 5),(6, 5),(7, 5),(7, 6),(8, 5),(8, 6),(9, 5),(9, 6),
+1,6,-1,HelloisthatCathyspeaking?
+2,6,-1,YesisthatyouAllen?
+3,6,-1,Yeshowareyoudoing?
+4,0,-1,Notbad.
+5,0,-1,SayI'vegottwoticketsfortheconcertthisevening.Wouldyouliketocomewithme?
+6,0,-1,Sure.Thankyouverymuch.
+7,0,-1,ThenI'llpickyouupatsixthirty.OK?
+8,0,-1,Okseeyou.
+9,0,-1,Seeyou.
+968 15
+ (2, 2),(7, 6),(10, 10),(12, 10),(12, 12),(14, 14),(14, 14),
+1,6,-1,What'stheproblemNada?Youlookdowninthedumps.
+2,1,-1,Idon'tknow.Mylifeisabigmess.Everythingissocomplicated.
+3,6,-1,comeonnothingcanbethatbad.
+4,6,-1,butpromisemeyou'llkeepitasecret.
+5,6,-1,okIpromise.Sowhat'stroublingyousomuch?
+6,6,-1,I'vefalleninlovewithmyboss.
+7,3,-1,really?Ishemarried?
+8,6,-1,noofcoursenot.Heisstillsingle.
+9,6,-1,thenwhat'syourproblem?
+10,1,-1,Itrytokeepittomyself.Butthereisalotofgossipaboutus.
+11,6,-1,ohIsee.Officeromancetendstobethesubjectofgossip.
+12,1,-1,worsestillheistryingtoavoidmethesedays.
+13,6,-1,officeromanceisverytricky.
+14,1,-1,itgivesmealotofpressureandIfeeldepressed.
+15,6,-1,cheerupNada.You'llbefine.
+9666 9
+ (1, 1),(5, 3),(5, 3),(5, 4),(7, 6),(9, 8),(9, 9),
+1,0,-1,OhheyKeri!Youcookright!You'reaprettygoodcook.
+2,6,-1,I'mOK.
+3,6,-1,IwanttomakeanomeletsoactuallythisisreallysillyI'venevermadeonebefore.Howdoyoumakeanomelet?
+4,6,-1,WellIcanteachyouhowImakethemwhichisthesamewaymyfatherandgrandmothermakethemwhichisalittlespecial.
+5,0,-1,OK.Yeah!Yeah!
+6,6,-1,Firstyoutakesomeeggsandcracktheminabowlandwhiskthemupquitesothey'requitehighandfluffyandinahotpanandyouneedapanthat'sthat'skindofsmallthatthesidesgoupatanangle.Youputsomeoilandheatitupsoit'squitehotandthenyoutakeyourwhippedupeggsorwhiskedupeggsandpourthemintothepanandasit'scookingifyoutakeaspatulaandpushthebottomlayeroftheeggtothesidetothesidesandthentothemiddlesotheuncookedegggetstothebottomofthepan.
+7,0,-1,OhOK.Wow!
+8,6,-1,OK.Andkeepdoingthatuntilmostoftheeggiscookedsoyoushouldhaveanicethickomeletandthenflipitoveryou'llonlyhavetocookthatsidelightly.Putyourfillingsonthetopandfolditoverandletitsitjustlongenoughtomeltthecheese.
+9,0,-1,Wow.Thatsoundsreallygood.
+9046 15
+ (1, 1),(4, 4),(8, 8),(10, 10),(11, 10),(11, 11),
+1,3,-1,ohtheclothesherearesoexpensive!Nowondertherearefewpeople.
+2,6,-1,Beautycostsdear!Whatdoyouthinkofthisdress?Doyouthinkitsuitsme?
+3,6,-1,yeahit'slovelybuttobefrankit'snotthemostpractical.Youdon'thavemanyformaleventsinyourcalendardoyou?
+4,0,-1,comeonyousoundlikemyMom.Lookatthatit'sbeautiful!
+5,6,-1,whenyoubuyclothesyoumustthinkaboutthematerialqualityandprice.
+6,6,-1,maybeyouhaveapoint.
+7,6,-1,makesureyoubuywhatyouneedandyourclothescanbewornforvariousoccasions.
+8,0,-1,allright.Howaboutthisblackshirt?Itcanbewornforanything---apartyajobinterviewandevenafuneral!
+9,6,-1,that'struebutyoualreadyhavetwobackcoatsandoneblacksweater.
+10,0,-1,oh!Heylookthat'sthesameshirtBritneyworeinherconcert.
+11,0,-1,exactly!Ohmygod!IloveBritney!I'mgoingtogetit.
+12,6,-1,whynottryiton?
+13,6,-1,it'sjusttherightsize--aperfectfit!I'lltakeit.OhnoI'malittleshort.Didyoubringyourcreditcard?
+14,6,-1,yes.
+15,6,-1,IpromiseI'llpayyoubackassoonaswegethome.
+10955 13
+ (3, 2),(3, 2),(3, 3),(7, 6),(7, 6),(7, 7),(11, 10),(12, 12),(13, 10),(13, 12),
+1,6,-1,DaiLing.
+2,6,-1,OhHenryIhaven'tseenyouforages.Comein.Letmetakeyourcoat.Howareyougettingalong?
+3,0,-1,Verywellthankyou.
+4,6,-1,Pleasetakeaseat.Everythingwouldbereadyinaminute.
+5,6,-1,Canyoubringmeaglassoforangejuiceplease?Iamquitethirsty.
+6,6,-1,Hereyouare.Hereyougo.WehavecocktailandsaladfriedchickenFrenchfriesandicecreamfordessert.Eatingchickenwhileit'shot.ittastesbetter.
+7,0,-1,Wowyou'reright.Everythingisabsolutelydelicious.Pleasepassthepepper.
+8,6,-1,Hereyouare.TastetheFrenchfries.
+9,6,-1,They'resoft.
+10,6,-1,Wouldyoulikesomemore?
+11,0,-1,Nomorethankyou.
+12,0,-1,Hereistoourfriendshipandhealth!
+13,0,-1,Bottomisup.
+8790 11
+ (3, 3),(4, 3),(6, 3),(6, 5),(7, 7),(10, 9),(10, 10),
+1,6,-1,YouarefromJapanaren'tyou?
+2,6,-1,Ohyes!
+3,0,-1,IloveJapanalot.
+4,0,-1,Iamgladtohearthat.
+5,6,-1,Let'sgotoanotherplacewheremyfriendisworkingletmepayhere.
+6,0,-1,ThankyouI'llpaynextthen.
+7,0,-1,OhImustbegoingnow;itwasnicetalkingwithyou.
+8,6,-1,Checkplease.
+9,6,-1,500USdollars.
+10,3,-1,Nokidding!Wehaveonly5bottlesofbeer.
+11,6,-1,Youhadchampagneforthegirl.
+9734 12
+ (5, 5),(7, 6),(9, 6),(12, 8),
+1,6,-1,Canyouhelpmefindanicegiftformyyoungniece?
+2,6,-1,Barbiedollsarequitepopularyouknow.
+3,6,-1,You'reright.GirlsloveBarbie.ShowmeaBarbiedoll.
+4,6,-1,TakealookatthenewestBarbie--DigitalBarbie.
+5,0,-1,She'sbeautiful.What'sthepriceforDigitalBarbie?
+6,6,-1,OurregularpriceforDigitalBarbieis$29.95plustax.
+7,3,-1,Only$29.95?I'llbuyitofcourse.
+8,6,-1,Anotheronesold.Doyouseeanythingelseyouwouldlike?
+9,0,-1,Thankyoubutno.Thiswilldoitfornow.
+10,6,-1,Taxbringsyourtotalto$32.42.Howwouldyouliketopay?
+11,6,-1,Cashplease.
+12,0,-1,Here'syourchange.Thankyou.
+958 16
+ (2, 2),(4, 2),(6, 5),(8, 2),(8, 8),(12, 9),(12, 11),(13, 12),(14, 9),(14, 11),(14, 13),(15, 12),(15, 14),(16, 15),
+1,6,-1,Whyareyousoquiet?
+2,1,-1,Mygirlfriendjustbrokeupwithme.
+3,6,-1,Youmustfeelterriblenow.
+4,1,-1,Yeah.
+5,6,-1,Iremembermyfirstbreakup.Itwastheworstfeelingintheworld.Iwascryingeverydayforthreemonths.Andslowlyitgotbetter.Iknowyou'llfeelbettertoo.
+6,3,-1,You'vebeenthroughthistoo?
+7,6,-1,Yeah.Irememberitveryclearly.Thepainmakesiteasytoremember.Iknowyou'rereallyhurtingrightnowbutyouknowmanypeopleexperiencebreakups.
+8,1,-1,Butithurtstoomuch.
+9,6,-1,Iknowit'spainfulbutit'sonlytemporary.Afterthepaingoesawayyou'llfindothergirls.
+10,6,-1,WhatifIdon'twanttofindanothergirl?
+11,6,-1,You'llchangeyourmind.Lookateveryoneintheworld.Theyallbreakupandmoveon.Thefasteryouunderstandthisthequickeryouwillrecover.
+12,0,-1,You'reright.
+13,0,-1,Ialsoknowyoumuststillhavestrongfeelingsforherbuttrytothinkofallthebadthings.Youknowshedidn'ttreatyouthatwell.Isthatthepersonyouwanttospendtherestofyourlifewith?
+14,0,-1,Yeah.Thanksforthetalk.
+15,0,-1,I'llgiveyouacalllater.Weshouldhangout.It'sgoodtobearoundpeople.
+16,0,-1,Ok.I'lltalktoyoulater.
+9705 12
+ (1, 1),(2, 1),(2, 2),(3, 1),(3, 3),(4, 1),(4, 3),(4, 4),(5, 1),(5, 3),(5, 4),(7, 7),(9, 9),(11, 11),(12, 12),
+1,0,-1,Ireallylikethewaythishouselooks.
+2,0,-1,Yesithasgreatcurbappeal.
+3,0,-1,Thelandscapingiswonderful!
+4,0,-1,Yesitisnicebutwaituntilyouseetheinterior.
+5,0,-1,OhIseewhatyoumean!
+6,6,-1,Thecarpetingandpaintareallnewaswellasthewindowtreatments.
+7,0,-1,Ilovethesagegreencarpetingwiththesunset-coloredwalls.
+8,6,-1,Comeandseethekitchen.
+9,0,-1,Ohlookatthatbeautifulcountertopmaterialandthedoublesink!
+10,6,-1,Let'sgocheckoutthebedroomandbathroom.
+11,0,-1,IreallyliketheJacuzzibathtubinthebathroom.
+12,4,-1,Iamhappythatyoulikethehouse.Weshouldwritedownwhatwelikesothatwecanrememberit.
+546 7
+ (2, 2),(3, 3),(4, 4),(7, 3),
+1,6,-1,How'sthebride-to-be?
+2,1,-1,Tiredandstressed.Thisweddingisgivingmeaheadache.
+3,0,-1,Justrelax.Withmeasyourmaidofhonoreverythingwillbefine!
+4,4,-1,I'mworriedthateverythingwillbechaotic!
+5,6,-1,Hey!I'mthetourguide.I'lltakecareoftheTaiwaneseguests.
+6,6,-1,You'regoingtohavetotellthemwhattodoinchurchwhateverythingmeans...
+7,0,-1,Iwill.Don'tworry!
+354 6
+ (2, 2),(3, 3),(4, 2),(4, 4),
+1,0,-1,Hit'emhighhit'emlow.Classof'93--let'sgo!
+2,0,-1,Hithereeveryone.Wehopeyou'rehavingagoodnight!
+3,0,-1,Wasn'tthatfootballgamegreat!Ijustknewwe'dwin!
+4,0,-1,Thenightisyoungfolks.Getsomefoodandminglewiththosefacesfromyesterday.
+5,6,-1,Laterwe'llletyouknowwhotheKingandQueenoftheReunionwillbe.
+6,6,-1,Butfornowthebandisplayingthesongsfromoursenioryear.Getoutonthatdancefloor!
+9653 7
+ (1, 1),(2, 2),(3, 3),
+1,5,-1,IsStanleystillsingingthatElvissong?He'sreallyhoggingthemic!
+2,5,-1,IfIhearLoveMeTenderonemoretimeIthinkI'llgocrazy!
+3,5,-1,Hesoundslikeasickcow!
+4,6,-1,Canweadjustthepitchalittle?Maybehe'llsoundbetterinahigherkey.
+5,6,-1,Ialreadytriedthat.Nothingseemstohelp.
+6,6,-1,Hey!Whereareyougoing...?
+7,6,-1,Coingoutforawalk.
+8803 12
+ (1, 1),(3, 2),(3, 3),(5, 4),(5, 5),(7, 6),(7, 7),(9, 2),(9, 3),(9, 4),(9, 5),(9, 6),(9, 7),(9, 9),(11, 2),(11, 3),(11, 4),(11, 5),(11, 6),(11, 7),(11, 9),(11, 11),
+1,5,-1,WhyamIbeingarrested?
+2,6,-1,Youhaveawarrantoutforyourarrest.
+3,5,-1,Idon'thaveawarrant.
+4,6,-1,Mycomputershowsthatyouhaveabenchwarrant.
+5,5,-1,Idon'tknowwhatabenchwarrantis.
+6,6,-1,Youapparentlymissedacourtappearance.
+7,5,-1,Iwasnevertoldtogotocourt.
+8,6,-1,There'snothingIcandoaboutthat.
+9,5,-1,Thisisn'tfair.
+10,6,-1,That'slife.
+11,5,-1,Whataboutmyrights?
+12,6,-1,Anythingyousaycanandwillbeusedagainstyouinacourtoflaw.
+500 4
+ (1, 1),(2, 1),(3, 3),(4, 4),
+1,0,-1,HiEllen.Thatoutfitlooksterrific!
+2,0,-1,ThanksJim.Ididn'tthinkguyspaidattentiontostufflikethat.
+3,0,-1,Nowejustdon'tusuallyadmitit!
+4,0,-1,Wellthanksforthecomplimentanyway!
+10030 13
+ (7, 6),(10, 9),(12, 9),
+1,6,-1,CanyoutypeJane?
+2,6,-1,YesIcan.
+3,6,-1,Howmanywordsaminute?
+4,6,-1,About100wordsaminute.
+5,6,-1,En...andcanyouspeakanyforeignlanguages?
+6,6,-1,YesIcanspeakSpanishandIcanalsospeakChinese.
+7,3,-1,Really?that'sverygood.WhataboutFrench?
+8,6,-1,NoIcan'tspeakFrench.ButIcanspeakItaliannotverywellthough.
+9,6,-1,...Canyoustartnextweek?
+10,3,-1,Nextweek?
+11,6,-1,YesonMonday.
+12,3,-1,YoumeanIhavethejob?
+13,6,-1,Yesthat'srightyouhavethejobnow.
+9686 19
+ (2, 1),(2, 2),(4, 3),(4, 4),(12, 11),(13, 12),(13, 13),(17, 16),(17, 17),(19, 17),(19, 18),
+1,6,-1,Whydon'tyouwatchwhereyou'regoing?
+2,3,-1,Me?You'retheonewhopulledoutinfrontofme!
+3,6,-1,Therewasplentyofroomformetopullout.Youdidn'thavetostayinthelaneyouwerein.
+4,5,-1,Heylisten.IhadeveryrighttostayinthelaneIwasin.YouweresupposedtowaituntilIpassedtopullout.Andanyhowyoudidn'tgivemeanytimetochangelanes.Allofasudden--BANG--thereyouarerightinfrontofme.
+5,6,-1,Ithinkmyarmisbroken.
+6,6,-1,Sorryaboutyourarmbutitservesyouright.Youneedtolearnhowtodrive.You'reluckyyoudidn'tgetkilled.AndI'mluckytobealivetoo.
+7,6,-1,Listenlet'sjustwaituntilthepolicegethere.Thenwecandecidewhosefaultthisaccidentwas.
+8,6,-1,Finewithme.Iknowthelawsoftheroad.I'mnotworried.
+9,6,-1,Ihaveacellphoneinmycar.Nowit'sprobablyontheflooronthepassengerside.Whydon'tyougetitformeandthenIcancallthepolice?
+10,6,-1,Alright.
+11,6,-1,Itdoesn'twork.Itlookslikeit'sbroken.Ineedtogettoahospital.Youshoulddrivemethere.
+12,3,-1,Ohyeah?It'sbetterifwemakeapolicereportfirst.Thenyoucangotothehospital.
+13,5,-1,Damnit!I'minjuredhere.Wecouldwaitalldayforthepolice.
+14,6,-1,Wellyou'lljusthavetowait.I'mnotgoingtomovemycaruntilthepolicearrive.I'llgointooneofthosehousesoverthereandusetheirphone.Don'tworry.You'llgettothehospitalintime.
+15,6,-1,Itreallyhurts.
+16,6,-1,Yesmaybeitdoes.Butifyou'regoingtodrivelikeyoudidjustnowyouwillhavetogetusedtoalittlephysicalpain.YouknowwhatImean?
+17,5,-1,Tohellwithyou.Theaccidentwasyourfault.
+18,6,-1,I'mafraiditwasn't.Andwhenthepolicegethereyouwillalsoseethatitwasn't.Butenoughofthisbickering.I'mgoingtogofindaphone.Don'tmovethatarmwhileI'mgone.Alright?
+19,5,-1,Tohellwithyou.
+8002 5
+ (1, 1),(3, 1),(3, 2),(4, 4),(5, 4),(5, 5),
+1,3,-1,Look!Allenhasthemic!
+2,6,-1,Ithoughtheonlylikedtolisten!
+3,3,-1,ThatwasbeforeheheardStanleysing!Iguesshecouldn'tstanditanymoresohedecidedtogiveitatryhimself!
+4,0,-1,(SoundofAllensinging)HeyAllenhasareallygoodvoice!HesoundslikeJohnnyDean!
+5,0,-1,Andhecanmove.too!HedanceslikeRickyMartin!
+435 10
+ (2, 1),(3, 2),(3, 3),(5, 4),(5, 5),(7, 4),(7, 5),(7, 6),(9, 8),
+1,6,-1,HeyJulieyouwanttogograbsomethingtoeat?
+2,0,-1,Sure!Whatdoyoufeellikehaving?
+3,0,-1,Ireallyfeellikehavingabigjuicysteak!
+4,6,-1,Oh.OK.Idon'teatmeatbutthat'sfineIamsurewhereverwearegoingtheywillhaveotheroptionsright?
+5,3,-1,Ididn'tknowyouwereavegetarian!
+6,6,-1,I'mnotIamavegan.
+7,3,-1,Awhat?
+8,6,-1,Avegan.Idon'teatoruseanyanimalbasedproducts.Idon'twearleathereateggsdrinkmilkoranythingthatcomesfromananimal.Iusedtobeapescatarianbeforewhichbasicallymeansyoudon'teatmeatbutstillhavefishandseafood.
+9,0,-1,Wow!That'sinteresting!Itmustbetough!
+10,6,-1,It'sabitdifficulttofindvegetarianfriendlyrestaurantssometimesbutsincemoreandmorepeoplearevegetariansorvegansnowadaysit'sgettingabitlessdifficult.
+719 4
+ (2, 1),(2, 2),(3, 2),(3, 3),(4, 1),(4, 2),(4, 3),(4, 4),
+1,6,-1,Heyhowwastheshow?
+2,1,-1,Notgreat.It'sakindofboring.
+3,3,-1,Really?Ihearditwassupposedtobegreat.
+4,1,-1,Yesmetoo.ButI'mdisappointed.
+28 18
+ (1, 1),(2, 1),(2, 2),(11, 11),(13, 12),(17, 16),(17, 17),
+1,0,-1,wereallywerelucky.Wegotthelastavailabletablefortwo---andwedidn'tevenhaveareservation!Didyouseethelonglinesbehindus?
+2,0,-1,yeahI'mgladthatwedidn'thavetowaitlong.I'mstarving!
+3,6,-1,let'stakealookatthemenusowecanorder.Doyouwanttochooseanappetizerforustoshare?
+4,6,-1,whatwouldyouratherhavesamosasorpoppadoms?
+5,6,-1,Iheardthatoneoftheirspecialitiesisthesamosa.
+6,6,-1,welllet'sgetaplateofthosethen.
+7,6,-1,soundsgood.Whatareyougoingtohaveforyourmaincourse?
+8,6,-1,IthinkImighthaveadahl.
+9,6,-1,what'sinadahl?
+10,6,-1,it'sgotchickpeasandvegetablesinaspicycurrysaucewithrice.
+11,0,-1,thatsoundsnice.Doyouwanttosharesomekebabsaswell?
+12,6,-1,ok.Howaboutsomelambkebabs?
+13,0,-1,that'smyfavourite.Doyouwanttohavesomewineorbeer?
+14,6,-1,IthinkI'llhaveabeer.
+15,6,-1,okshallIflagdownthewaitress?
+16,6,-1,Iwouldn'trecommendit.Ithinkweshouldwaituntilshecomesround.
+17,0,-1,you'reright.Thatmightseemabitrude.It'sagoodthingI'vegotyouwithme!
+18,6,-1,whatwouldyoudowithoutme?
+844 11
+ (5, 4),(7, 4),(7, 7),(9, 4),(9, 7),(11, 4),(11, 7),(11, 10),(11, 11),
+1,6,-1,HiImadeareservationforamid-sizevehicle.ThenameisJimmyFox.
+2,6,-1,I'msorrywehavenomid-sizeavailableatthemoment.
+3,6,-1,Idon'tunderstandImadeareservationdoyouhavemyreservation?
+4,6,-1,Yeswedounfortunatelyweranoutofcars.
+5,5,-1,Butthereservationkeepsthecarhere.That'swhyyouhavethereservation.
+6,6,-1,Iknowwhywehavereservations.
+7,5,-1,Idon'tthinkyoudo.IfyoudidI'dhaveacar.Seeyouknowhowtotakethereservationyoujustdon'tknowhowtoholdthereservationandthat'sreallythemostimportantpartofthereservationtheholding.Anybodycanjusttakethem.
+8,6,-1,ButwedohaveacompactoranSUVifyou'dlike.
+9,5,-1,Fine.I'lltakethecompact.
+10,6,-1,Alright.WehaveablueFordFocusforyouMr.Fox.Wouldyoulikeinsurance?
+11,5,-1,YeahyoubettergivemetheinsurancebecauseIamgonnabeatthehelloutofthiscar.
+8608 12
+ (1, 1),(4, 4),(7, 7),(8, 7),(8, 8),(11, 10),(12, 11),(12, 12),
+1,0,-1,Wowtheferriswheeloverthereissobig.I'dliketotakearideonit.
+2,6,-1,ItiscalledEnergyCollector.
+3,6,-1,Lookatyourright-hand.IsitthezoneoftheLostMayaKingdom?
+4,0,-1,Maybe.OhIseetheJungleFlyingTrain.Ioncerodeit.Itwasveryexciting.
+5,6,-1,Iwanttohaveatrylater.
+6,6,-1,Metoo.Daniellookatyourleftside.CanyouseetheAirForceAnts?
+7,0,-1,Wowthat'smyfavorite.It'slikeasupermanshootingrightupintothesky.
+8,0,-1,Goodyoucanmakeyourdreamcometruehere.
+9,6,-1,Ofcourse.AfterthisIwanttoshowyoutotheHauntedHouse.
+10,6,-1,Soyoucanproveyouareaman.
+11,0,-1,Bingo!
+12,0,-1,It'sjustyou!
+637 11
+ (2, 2),(4, 2),(4, 4),(6, 6),
+1,6,-1,HiPaul.Howareyoufriend.
+2,2,-1,Notgood.Mycousinisdrivingmeupthewall.
+3,6,-1,Howso?
+4,2,-1,Hestaysupuntillallhoursofthenightandheneverliftsafingertohelp.
+5,6,-1,Haveyoutalktohimaboutit?
+6,2,-1,NotyetbutIhavetosoon.He'seatingmeoutofhouseandhome.Icaughthimreadingthefridgeagainlastnight
+7,6,-1,AhahahMaybethatwillhelpyouloseweight.
+8,6,-1,ThisisnolaughingmatterNick.
+9,6,-1,SorryPaul.Icouldn'thelpit.Sowhydoesn'thegiveyouahand?
+10,6,-1,Hewatchthetobtoomuch.NowreallyIdon'tknow.ButIcan'thandlethismuchlonger.
+11,6,-1,WelltalktohimandletmeknowwhathappensOK?
+282 14
+ (3, 3),(4, 3),(6, 3),(10, 9),(10, 10),(14, 13),
+1,6,-1,WelcomehowmayIhelpyoutoday?
+2,6,-1,I'maskforapizzaplease.
+3,0,-1,Thenyouwillbehappytohearthattodayallourpizzasareonsale.Twoforone.
+4,0,-1,You'rerightthatisgreat.
+5,6,-1,Whatsizewouldyoulike?
+6,0,-1,Mediumonewillbeperfectthankyou
+7,6,-1,Whichkinddoyouwant?
+8,6,-1,Ilikeseafoodonmypizza.
+9,6,-1,Wehavetwoseafoodpizzas.Tunaandcrab.
+10,0,-1,Tunasoundsgoodtoday.
+11,6,-1,Wouldthatbeforhereortakeaway?
+12,6,-1,Thatwouldbetogo.
+13,6,-1,That'llbeinatenminutes.PleasesitoverthereandI'llcallyouoverassoonerasit'sready.
+14,0,-1,Noproblem.
+9204 7
+ (1, 1),(3, 3),(3, 3),(5, 3),(5, 3),(5, 5),(5, 5),(5, 5),
+1,1,-1,ThebosshadaninformaldiscussionwithmethismorningIfeelreallydown.
+2,6,-1,What'sup?
+3,1,-1,WellactuallyIfailedtomeetadeadlinelastweekandIforgottoanswerane-mailforaVIPcustomeryesterday.
+4,6,-1,Anythingthatdistractsyoufromwork?
+5,1,-1,Yeseverything.Ifeeloverwhelmedbythedailywork.SometimesIjustcan'tfocusonwhatIamdoing.WhatisworsethoughImakeplansforawholeweekIalwayshavetomakechangeslateronbecauseotherthingscomeup.Ican'tmanagemytimewell.Ican'thandleworkwell.IamafraidIwasscrewupmorethings.
+6,6,-1,LookLucy.Thingsarenotsobadasyousaid.Thisisourcompany'sbusiesttimeinayear.Youneedtorelaxalittle.Don'tpushyourselftoohardok?
+7,6,-1,WellIwilltry.
+8182 10
+ (2, 2),(3, 2),(4, 2),(4, 3),(9, 7),(9, 8),(10, 9),(10, 10),
+1,6,-1,HowareyouSue?
+2,0,-1,Prettygood.I'Vejusthadmynewpoemspublished.
+3,0,-1,Congratulationsonyoursuccess.
+4,0,-1,Thankyou.
+5,6,-1,Andhow'syourbrother?
+6,6,-1,Heisfine.
+7,6,-1,He'sgoingtobesenttoBritaintostudyreally?
+8,6,-1,Yes.He'salreadygotthepassportandvisa.
+9,0,-1,Fantastic!Pleasesendhimmycongratulations.
+10,0,-1,Thankyou.He'sveryluckyindeed.
+10095 12
+ (7, 7),(8, 7),(8, 8),(11, 10),(12, 11),(12, 12),
+1,6,-1,Wowtheferriswheeloverthereissobig.I'dliketotakearideonit.
+2,6,-1,ItiscalledEnergyCollector.
+3,6,-1,Lookatyourright-hand.IsitthezoneoftheLostMayaKingdom?
+4,6,-1,Maybe.Oh.IseetheJungleFlyingTrain.Ioncerodeit.Itwasveryexciting.
+5,6,-1,Iwanttohaveatrylater.
+6,6,-1,Metoo.Daniellookatyourleftside.CanyouseetheAirForceAnts?
+7,0,-1,Wowthat'smyfavorite.It'slikeasupermanshootingrightupintothesky.
+8,0,-1,Goodyoucanmakeyourdreamcometruehere.
+9,6,-1,Ofcourse.AfterthisIwanttoshowyoutotheHauntedHouse.
+10,6,-1,Soyoucanproveyouareaman.
+11,0,-1,Bingo!
+12,0,-1,It'sjustyou!
+822 4
+ (1, 1),(2, 1),(2, 2),(3, 1),(3, 2),(3, 3),(4, 1),(4, 2),(4, 3),
+1,0,-1,LeeI'mgoingtogetmarriednextmonth.
+2,0,-1,Goodnews!Andcongratulations!
+3,0,-1,Youareinvitedtomywedding.
+4,0,-1,Thankyou.I'llcertainlybethere.
+8068 13
+ (2, 2),(10, 10),(13, 10),
+1,6,-1,Wouldyouliketoseeournewshirts?
+2,1,-1,SorrybutI'mnotreallythatinterestedinthosethings.
+3,6,-1,Welltheyareveryniceyouknow.
+4,6,-1,Really?
+5,6,-1,Andnotexpensiveeither.
+6,6,-1,OhIdon'tcareaboutthat.
+7,6,-1,Everybodyisbuyingthem.
+8,6,-1,Arethey?
+9,6,-1,Yestheyareveryfashionableyousee.
+10,1,-1,IamafraidIamnotinterestedinfashion.
+11,6,-1,Isee.
+12,6,-1,Butthankyouverymuchallthesame.
+13,1,-1,SorryIcouldn'thelpyou.
+578 4
+ (1, 1),(2, 1),(2, 2),(3, 1),(3, 3),(4, 1),(4, 2),(4, 3),
+1,0,-1,MsAndersonmynameisMike.IamDivisionChiefofABCCompany.WelcometoToronto.
+2,0,-1,Thankyou.It'sapleasuretomeetyou.
+3,0,-1,Apleasuremeetingyouaswelltheflowersareforyou.
+4,0,-1,Thankyoutheyarebeautiful.
+58 11
+ (3, 3),(5, 4),(9, 8),(9, 9),(11, 8),(11, 9),(11, 10),
+1,6,-1,Ihaveacellphoneinmycar.Nowit'sprobablyontheflooronthepassengerside.Whydon'tyougetitformeandthenIcancallthepolice?
+2,6,-1,Alright.
+3,4,-1,Itdoesn'twork.Itlookslikeit'sbroken.Ineedtogettoahospital.Youshoulddrivemethere.
+4,6,-1,Ohyeah?It'sbetterifwemakeapolicereportfirst.Thenyoucangotothehospital.
+5,5,-1,Damnit!I'minjuredhere.Wecouldwaitalldayforthepolice.
+6,6,-1,Wellyou'lljusthavetowait.I'mnotgoingtomovemycaruntilthepolicearrive.I'llgointooneofthosehousesoverthereandusetheirphone.Don'tworry.You'llgettothehospitalintime.
+7,6,-1,Itreallyhurts.
+8,6,-1,Yesmaybeitdoes.Butifyou'regoingtodrivelikeyoudidjustnowyouwillhavetogetusedtoalittlephysicalpain.YouknowwhatImean?
+9,5,-1,Tohellwithyou.Theaccidentwasyourfault.
+10,6,-1,I'mafraiditwasn't.Andwhenthepolicegethereyouwillalsoseethatitwasn't.Butenoughofthisbickering.I'mgoingtogofindaphone.Don'tmovethatarmwhileI'mgone.Alright?
+11,5,-1,Tohellwithyou.
+62 10
+ (2, 1),(6, 1),(8, 8),(10, 8),(10, 9),
+1,6,-1,CouldIhavesomefish?
+2,0,-1,Certainly.Andwhatvegetableswouldyoulike?
+3,6,-1,OhspinachIthink.
+4,6,-1,FineAndwhataboutsomethingtodrink?
+5,6,-1,Justabeerplease.
+6,0,-1,Good.Thankyou.sir.
+7,6,-1,Wouldyouliketohavesomemorebeer?
+8,0,-1,Nothanks.I'Vehadenough.I'llhavemybillplease.
+9,6,-1,Ofcourse.Pleasewaitamoment.I'llgoandgetit.
+10,0,-1,Thankyou.
+478 7
+ (3, 2),(4, 3),(5, 2),(6, 5),(7, 2),(7, 6),
+1,6,-1,HellosirwhatcanIdoforyoutoday?
+2,6,-1,HelloIneedanewsuit.IhaveanimportantinterviewnextweeksoIreallyneedtolooksharp.
+3,0,-1,Noproblem!Wehaveabroadselectionofsuitsalltailoredmadesothatitwillfitperfectly.
+4,0,-1,Great!IwantathreepiecesuitpreferablymadefromItaliancashmereorwool.
+5,0,-1,Verywellsir.Wouldyouliketohavesomeshirtsmadealso?
+6,0,-1,Sure.I'llalsotakesomesilvercufflinkandapairofsilkties.
+7,0,-1,Verygood.Nowifyouwillaccompanymewecantakeyourmeasurementsandchoosethepatternsforyoursuitandshirts.
+34 12
+ (4, 4),(5, 4),(5, 5),(6, 4),(6, 6),(12, 4),(12, 6),(12, 10),
+1,6,-1,HiDan.What'snew?
+2,6,-1,Wherehaveyoubeen?I'vebeentryingtogetintouchwithyoufortwodays.
+3,6,-1,IwenttoSaltLakeCityonbusiness.What'sup?
+4,1,-1,Igotfired.
+5,3,-1,Howcome?LasttimeIsawyou.Youtoldmeitwasagoodjobandyou'dliketotakeitasacareer.Thatwasonlyonemonthago.Whythissuddenchange?
+6,1,-1,It'salongstory.InawordIdidn'tdoagoodjobofit.ImessedupabusinessdealadealthatwouldhavemadetenmilliondollarsandImesseditup.
+7,6,-1,Whatareyougoingtodonow?
+8,6,-1,Iamtryingtofindajobasap.Lilydoesn'tknowyet.Ididn'ttellher.IspentthepastthreedaysatthecoffeeshopnexttoyourofficeandshethoughtIwenttoworkasusual.
+9,6,-1,That'snotthewaytosolvetheproblem.Didyoulookintheclassifiedadvertisementscolumn?
+10,6,-1,YesIdid.ButIwasn'tqualifiedformostofthejobsthatIwasinterestedin.
+11,6,-1,Listen.IwillseewhatIcandook?YougohomeandtellLilyaboutthisproblemyouhavenow.SheisyourwifeandIamsureshewillunderstand.
+12,1,-1,Ijustdon'tknowhowtobringitup.Wellallright.Shehastherighttoknowanyways.
+712 4
+ (1, 1),(1, 1),(2, 1),(2, 1),(2, 2),(3, 1),(3, 1),(3, 3),(4, 1),(4, 1),(4, 4),(4, 4),(4, 4),
+1,0,-1,Lookhereisaveryspecialbusinesscardfromanillustrator.EverytimeIgothroughmybookofbusinesscardsIwillnoticeit.Itisaneye-catchingone.
+2,0,-1,Wowfantastic.Ilikethefontandcolorforhisname.Itiscreativeyetpersonal.
+3,0,-1,Yesitisabolddesign.Peoplewillbelievehecanmakeanillustrationasanimpressiveasabusinesscard.Itjuststandsoutfromthoseplainandstandardonesusedbygovernmentpeopleorotherbigprivateandpublicorganizations.
+4,0,-1,Iagree.Businesscardsaregreattoolsforpromotingpersonalbusiness.Itwon'ttakemuchtimetodesignanamazingcardbutitcanmakeabigdifferenceamongthecrowd.Andyou'llalwaysnoticeitfromyourcollection.Fortheyhaveoutspokencolorsowndesignandthesizesarenotalwaysaccordingthemainstreambusinesscard.Iwishtohaveonelikethis.Butforsureourcompanyhasitsowncorporatedesignwhichallemployeeshavetofollow.
+913 7
+ (1, 1),(2, 1),(3, 1),(3, 2),(3, 3),(4, 1),(4, 4),(4, 4),(5, 1),(5, 5),(6, 5),(6, 6),(7, 6),
+1,3,-1,DianeGrant?Ihaven'tseenyouforages!
+2,0,-1,Brian!Howhaveyoubeen?
+3,0,-1,Prettygood.Sayyou'vereallychanged!
+4,0,-1,OhwellI'velostsomeweight.Andmyhairislongerthanbefore.
+5,0,-1,Wellyoulookgreat!Howareyou?
+6,0,-1,I'mdoingreallywell.Igotmarriedaboutthreeyearsago.Ihavetwokidsnow.
+7,0,-1,That'sterrific!
+579 12
+ (1, 1),(2, 1),(5, 4),(12, 4),(12, 11),(12, 12),
+1,0,-1,Iamreallyinterestedinbuyingthistelevision.
+2,0,-1,That'ssogreat!
+3,6,-1,Howmuchareyousellingitfor?
+4,6,-1,Thist.visonly$2500.
+5,3,-1,Youcan'tbeserious.
+6,6,-1,That'showmuchthist.vcosts.
+7,6,-1,That'stooexpensiveforme.
+8,6,-1,Thistelevisionisofveryhighquality.
+9,6,-1,Youcan'tgodownontheprice.
+10,6,-1,Byhowmuch?
+11,6,-1,I'llbuyitfor$2000.
+12,1,-1,I'msorrybutthepriceisfinal.
+691 5
+ (1, 1),(2, 1),(3, 1),(3, 2),(4, 1),(4, 3),(5, 1),(5, 2),
+1,0,-1,Lilycanyoutakepartinourpicnicthisweekend?
+2,0,-1,Thatsoundsgreat.Whereareyougoing?
+3,0,-1,Ithinkwecangototherivergoaroundandhavesupper.
+4,0,-1,WhatshouldIbring?
+5,0,-1,Nothing.Justwearcomfortableclothesandgoodshoesforwalking.We'llbringeverything.
+261 8
+ (3, 3),(4, 4),(5, 4),(7, 7),(8, 7),
+1,6,-1,Areyoufinished?
+2,6,-1,Yes.MayIhavesomemorebeer?
+3,0,-1,Ohsure.I'llbebackinaminute.Thankyouforwaiting.Hereitis.Didyouenjoyyourmeal?
+4,0,-1,YesthemealwasverydeliciousandIenjoyedverymuch.I'mfull.
+5,0,-1,Isthatso?I'mgladyouenjoyedit.
+6,6,-1,BythewayMiss.Whereisthetoilet?
+7,1,-1,Toiletsareintherear.I'mafraidallthetoiletsarefullyoccupiedatthemoment.
+8,3,-1,What?
+681 7
+ (3, 2),(5, 5),(6, 5),(6, 6),(7, 6),
+1,6,-1,HiMonicahowiseverythinggoing?
+2,6,-1,EverythinggoeswellbutIamthinkingaboutquittingmycurrentjob.
+3,3,-1,Why?You'renotsatisfiedanymore?
+4,6,-1,Ijustsense.ButIcannotgrowanymore.Mybossisnotreallysupportingme.IaminterestedinsomepositionsinotherJVcompaniesbutIneedtodosomemorein-depthresearchbeforeIsendmyapplicationlettersout.
+5,0,-1,Thatisimportant.Doingresearchonacompanyyouareinterestedinwilldefinitelyhelpyourapplication.
+6,0,-1,Certainlyitisverynicetalkingwithyou.ButIreallyhavetogonow.Catchyoulater.
+7,0,-1,Okgoodlucktoyou.
+532 15
+ (1, 1),(2, 2),(13, 12),(14, 8),(14, 13),(15, 12),
+1,0,-1,thatwasareallygoodmealGordon.
+2,0,-1,Itsurewas.Icouldn'teatanotherbite.
+3,6,-1,wellitisgettingprettylate.Ithinkweshouldgohome.
+4,6,-1,you'reright.Ihavetogetupearlytogotoworktomorrow.
+5,6,-1,let'sseehowmuchthebillis.
+6,6,-1,don'tworryaboutit.Tonightismytreat.
+7,6,-1,whatareyoutalkingabout?We'llsplitthebill.
+8,6,-1,noIinsist.IkepttellingyouthatIwouldtreatyoutodinnerbutIstillhaven't.
+9,6,-1,nowayGordon.Iknowthatyouarealittleshortoncashatthemoment.There'snoneedforyoutopayforthewholebill.
+10,6,-1,alrightifthat'sthewayyouaregoingtobewe'llsplitthebill.
+11,6,-1,that'sbetter.Thiswaywewillbothhavemoneytotakeacabhomeotherwiseyouwouldprobablyhavetowalk.
+12,6,-1,justpromiseyouwillletmetreatyoutodinnernextweekok?
+13,0,-1,you'vegotadeal.
+14,0,-1,great.Bye.
+15,0,-1,bye.
+760 4
+ (1, 1),(2, 1),(2, 2),(3, 2),(3, 3),(4, 2),(4, 3),
+1,0,-1,NicetoseeyouPatrick.
+2,0,-1,Bob!Ihearyourteamwonthematch.
+3,0,-1,Yeah.Allofustriedourbest.
+4,0,-1,Congratulations!
+722 6
+ (1, 1),(2, 1),(5, 3),(5, 4),(6, 3),(6, 4),
+1,0,-1,HiTinaI'Vegotgoodnews.IhavesuccessfullypassedthefirsttworoundsofinterviewwithABCCompany.TheyinformedmetogotothefinalroundnextMonday.Itlooksverypromising.
+2,0,-1,Thatisawesome.Congratulation!Iknowyoucanmakeit.
+3,6,-1,Thanks.Let'sgoforacelebrationthisevening.Areyoufree?
+4,6,-1,Yes.Waitformeatthecafedownmyofficebuilding.See5PMok?
+5,0,-1,Noproblem.Seeyou!
+6,0,-1,Seeyou!
+745 19
+ (1, 1),(3, 1),(3, 2),(11, 11),(13, 11),(13, 12),(13, 13),(15, 11),(15, 12),(15, 13),(17, 16),(17, 17),(19, 16),(19, 17),
+1,5,-1,Whydon'tyouwatchwhereyou'regoing?
+2,6,-1,Me?You'retheonewhopulledoutinfrontofme!
+3,5,-1,Therewasplentyofroomformetopullout.Youdidn'thavetostayinthelaneyouwerein.
+4,6,-1,Heylisten.IhadeveryrighttostayinthelaneIwasin.YouweresupposedtowaituntilIpassedtopullout.Andanyhowyoudidn'tgivemeanytimetochangelanes.Allofasudden--BANG--thereyouarerightinfrontofme.
+5,6,-1,Ithinkmyarmisbroken.
+6,6,-1,Sorryaboutyourarmbutitservesyouright.Youneedtolearnhowtodrive.You'reluckyyoudidn'tgetkilled.AndI'mluckytobealivetoo.
+7,6,-1,Listenlet'sjustwaituntilthepolicegethere.Thenwecandecidewhosefaultthisaccidentwas.
+8,6,-1,Finewithme.Iknowthelawsoftheroad.I'mnotworried.
+9,6,-1,Ihaveacellphoneinmycar.Nowit'sprobablyontheflooronthepassengerside.Whydon'tyougetitformeandthenIcancallthepolice?
+10,6,-1,Alright.
+11,5,-1,Itdoesn'twork.Itlookslikeit'sbroken.Ineedtogettoahospital.Youshoulddrivemethere.
+12,6,-1,Ohyeah?It'sbetterifwemakeapolicereportfirst.Thenyoucangotothehospital.
+13,5,-1,Damnit!I'minjuredhere.Wecouldwaitalldayforthepolice.
+14,6,-1,Wellyou'lljusthavetowait.I'mnotgoingtomovemycaruntilthepolicearrive.I'llgointooneofthosehousesoverthereandusetheirphone.Don'tworry.You'llgettothehospitalintime.
+15,5,-1,Itreallyhurts.
+16,6,-1,Yesmaybeitdoes.Butifyou'regoingtodrivelikeyoudidjustnowyouwillhavetogetusedtoalittlephysicalpain.YouknowwhatImean?
+17,5,-1,Tohellwithyou.Theaccidentwasyourfault.
+18,6,-1,I'mafraiditwasn't.Andwhenthepolicegethereyouwillalsoseethatitwasn't.Butenoughofthisbickering.I'mgoingtogofindaphone.Don'tmovethatarmwhileI'mgone.Alright?
+19,5,-1,Tohellwithyou.
+10916 12
+ (1, 1),(1, 1),(4, 4),(8, 7),(8, 8),(11, 10),
+1,0,-1,DoyouknowhowhappyIam?TheAntKingdomisaperfectworldwithcolorfulfairytales.Itseemsliketheairisfreshhere.
+2,6,-1,Justkidslikethat.
+3,6,-1,Comeonbabystoptryingtopretendlikeaman.Ifyougothereyouaresuretolikethem.
+4,0,-1,Hurryup!Hurryup!Whatlovelycaterpillarsareoverthere!
+5,6,-1,Isaidyouaresuretolikethem.ThereistheGrandParadeOfAntsCarnivalinafewminutesinthesquare.Youwillexperienceadreamoffantasy.
+6,6,-1,What'sthat?
+7,6,-1,Allkindsofinsectsdressthemselvesup.TheydrivestraighttheirownFlowerCarsalongtheParadeAvenueofAntsKingdom.
+8,0,-1,That'ssplendid.Canyoutakethreepicturesofmewiththem?
+9,6,-1,Ithoughtyouhadgrownoutofsuchchildpractices.
+10,6,-1,Cutitout.Lookatmysmileanditseemsliketheflowersinthespring.Right?
+11,2,-1,Gross!
+12,6,-1,Hurryup!Thesmileisfrozenonmyface.
+8753 8
+ (1, 1),(3, 2),(3, 3),(5, 2),(5, 3),(5, 5),(7, 2),(7, 3),(7, 5),(7, 7),
+1,5,-1,StupidgirlmakingmespendsomuchmoneynowIhavetogetitfromtheATM...
+2,6,-1,HellowelcometoUniversalBank.Pleaseinsertyourcardintotheslot.
+3,5,-1,Iknowwheretoputmycard!StupidmachinetalkingtomelikeI'manidiot...
+4,6,-1,Pleaseinputyour6digitPINcodefollowedbythepoundkey.Thankyou.Pleaseselectanoption.Thankyou.Youhaveselectedwithdrawal.
+5,5,-1,YeahyeahIknowwhatIselected.Justgivememymoney!
+6,6,-1,Pleasetypetheamountyouwouldliketowithdraw.Thankyouyouwanttotransfer10000USDtotheWorldWildlifeFoundation.Ifthisiscorrectpleasepress1.
+7,5,-1,Nono!Stupidmachinewhatareyoudoing!No!
+8,6,-1,Confirmed.Thankyouforusingourbank!Pleaseremoveyourcardfromtheslot.Goodbye!
+678 13
+ (8, 7),(8, 8),(8, 8),(9, 8),(9, 9),(10, 7),(10, 8),(10, 8),(10, 10),(11, 8),(11, 9),(11, 11),(12, 7),(12, 8),(12, 8),(12, 10),(12, 12),(13, 8),(13, 9),(13, 11),(13, 12),(13, 13),
+1,6,-1,Whatdoyouthinkofthisone?
+2,6,-1,Ehsoso.
+3,6,-1,Andthisone?Tooflashy?
+4,6,-1,Nahnottooflashy.
+5,6,-1,Hug!Andthissweaterfrommyaunt?Isn'tithideous?
+6,6,-1,Iguess.
+7,6,-1,Areyouevenlistening?I'mtryingtohaveaconversationwithyou.
+8,5,-1,AndI'mtryingtowatchthegamebutyou'reyappingonaboutyournewclothes!
+9,5,-1,WellIhavetodecidewhichgiftstokeepandwhichtoexchangeforbetteroneswhenIgototheBoxingDaysalesthisafternoon!
+10,5,-1,Wellcouldyoudomethefavorofmakingthisquick?It'sthethirdquarterandyou'Vebeenblabberingonsincethefirst!
+11,5,-1,Ohyourpreciousgame.Youwatchthesamegameeveryyearandeachyearyourbelovedhometownteamlosesbyatleastthreegoals!
+12,5,-1,Ohnoyoudidn't.Youdidn'tjustinsulttheSals-burySealsdidyou?Whydon'tyoujust.justgoandreturnallofthosestupidclothesandnotcomebackuntilthesalesareover?
+13,5,-1,Imightjust!Enjoyyourstupidgame!
+8768 16
+ (4, 1),(4, 3),(7, 6),(15, 14),(16, 15),
+1,6,-1,HiBarbara.Haveyoulostweight?
+2,6,-1,HiJulie.Yeah.I'vebeenonadietforacoupleofmonthsnow.
+3,6,-1,Wow.Youlookgreat.
+4,0,-1,Thanksfornoticing.
+5,6,-1,Whattypeofdietwereyouon?
+6,6,-1,Ijoinedahealthclubandmytrainergavemetipsoneating.WithacombinationofeatingbetterandexercisingImanagedtolose15poundsin2months.
+7,0,-1,That'samazing.Whattipsdidyourtrainergiveyou?
+8,6,-1,MostlyonhowtoexercisebutthebestadviceIgotwaschangingmyeatinghabits.Insteadofeating3timesadayshetoldmetoeat5timesaday.
+9,6,-1,Thatdoesn'tmakesense.Ifyoueatmorethanhowdoyouloseweight?
+10,6,-1,ActuallyI'meatingthesameamount.Ieat5smallermealsaday.Basicallyitnaturallyspeedsupthemetabolismandhelpstoburnfatatafasterrate.
+11,6,-1,Thatmakessense.I'mgoingtotrythat.
+12,6,-1,Youdon'tneedtoloseweight.
+13,6,-1,IhavealittlegutIhavebeentryingtogetridof.
+14,6,-1,Ah...butremembertoincorporatealittleexerciseintoyourdiet.
+15,0,-1,Thanksfortheadvice.
+16,0,-1,Noproblem.
+8373 8
+ (2, 1),(3, 3),(4, 4),(6, 4),(6, 6),(7, 1),(7, 7),
+1,6,-1,Something'sburning?
+2,3,-1,Ohmybread!
+3,0,-1,MmIloveburntbread.
+4,5,-1,Cursethisoven!Curseit!
+5,6,-1,ButIpreferburntbread.
+6,5,-1,Cursetheworstovenintheworld.
+7,0,-1,Wonderful!Aperfectpieceofbread!
+8,6,-1,Therearethirteenofthem.Ohhaveanother.Haveathirdifyoulikehavethemall.
+910 7
+ (1, 1),(2, 2),(3, 2),(4, 3),(4, 4),(5, 4),(6, 2),(7, 4),(7, 6),
+1,0,-1,HelloBessie.
+2,0,-1,HelloJack.Happybirthday!
+3,3,-1,Mybirthday?IforgotitThankyouforrememberingmybirthday.
+4,0,-1,I'dliketoofferyoumycongratulationsonyourbirthdayandbestwishesforyourfuturehappinessgoodhealthandcontinuedsuccess.I'veaskedtheFairyFlowerstosendyouabunchofflowers.Ihopeyou'lllikethem.
+5,0,-1,Thanksalot.I'msotouched.
+6,0,-1,Nowletmesing"Happybirthday"foryou.
+7,0,-1,Thankyouverymuch.
+10226 14
+ (3, 1),(3, 2),(5, 5),(8, 7),(8, 8),(13, 13),
+1,6,-1,I'dappreciateitifyoucouldhelpmepickoutagiftformydaughter.
+2,6,-1,Wouldshebeinterestedinalaptop?
+3,0,-1,That'sexactlywhatIwasthinkingof.
+4,6,-1,AMacwouldbeanexcellentgift.
+5,0,-1,IlikeMacs.HowmuchforaMac?
+6,6,-1,Youcantakea15-inchProhomerightnowforonly$2100.
+7,6,-1,AMacitis.I'lltakeonehomewithme.
+8,0,-1,She'llbeveryhappywiththis.Andhowdoyouplantopayforit?
+9,6,-1,I'llusemyVISAifthat'sokay.
+10,6,-1,Nowifyou'lljustsignheretheMacisallyours.
+11,6,-1,Willsheneedanythingbesideswhat'sinthisbox?
+12,6,-1,Everythingsheneedsisrighthereinthebox.
+13,0,-1,Iappreciateyourhelp.MaybeI'llbebackformorecomputerstuff.
+14,6,-1,YourdaughtershouldgetstraightA'sfromnowon.Good-bye.
+12 5
+ (1, 1),(3, 2),(3, 3),(5, 5),
+1,1,-1,I'msorryI'msolate.Ihadareallybadday.
+2,6,-1,It'stenaftersix.We'relate.Butdinnerisatsixthirty.
+3,1,-1,Iknow.Iknow.I'mreallysorry.Ilostmybag.
+4,6,-1,I'llcallthelostandfoundoffice.
+5,1,-1,Ididn'tthinkofit.Thankyou.AndIdoapologizeforbeinglate.
+10301 10
+ (7, 7),(8, 7),(8, 8),(9, 9),(10, 9),
+1,6,-1,Marycouldyoupleasecomeinforashortwhile?
+2,6,-1,Noproblem.
+3,6,-1,MaryI'dlikeyoutomeetRichardOurnewexecutiveinthemarketing.
+4,6,-1,NicetomeetyouAustin.
+5,6,-1,Welcometoourdepartment.Ihopeyou'lllikeithere.
+6,6,-1,BythewayRichardwillassistmeintheplanningwork.Ihopeyoucanworkwelltogether.
+7,0,-1,Sureifyou'vegotanyproblemyoucanaskme.
+8,0,-1,Thankyou.It'sverykindofyou.
+9,0,-1,RichardMaryisaveryhelpfulandexperiencedsecretaryindeedandI'msureyouwillfindout.
+10,0,-1,Thankyousir.I'lltrymybesttoassistRichardinhiswork.
+182 11
+ (3, 3),(4, 4),(8, 7),(8, 8),(10, 7),(10, 8),(10, 10),
+1,6,-1,Hello!
+2,6,-1,HelloIsthatStefan?
+3,1,-1,I'msorrybutI'mafraidyou'vedialedthewrongnumber.ThereisnoStefanhere.
+4,3,-1,Really?Areyousure?Icalledbeforeandhewasthere.
+5,6,-1,Yes.I'msure.Youhavethewrongnumber.Ihaveusedthisnumberformorethan20years.
+6,6,-1,Thatcan'tbetrue.Irememberthenumberclearly.Isyournumber1199886?
+7,6,-1,Noitisn't.It's1199866.Itseemsthatyouhavemisdialed.
+8,1,-1,OhI'msorryIbotheredyou.I'mreallysorry.
+9,6,-1,Itdoesn'tmatter.Ithappenstoeveryone.
+10,1,-1,Sorryagainforbotheringyou.
+11,6,-1,That'sallright.
+926 12
+ (2, 2),(4, 2),(6, 6),(8, 6),(10, 6),(10, 9),(12, 12),(12, 12),
+1,6,-1,HiJackhowhaveyoubeen?
+2,1,-1,Notverywell.
+3,6,-1,Why?Lookslikeyou'refeelingverydown!Whathappened?
+4,1,-1,Nothing.
+5,6,-1,Comeon.Foramanwho'sfeelingsodownthere'reusuallytworeasons.Eitherhiscareerisgoingdownhillorhehasabrokenheart.Sinceyou'resosuccessfulitmustbethelatter.
+6,1,-1,Wellyou'reright.IjustbrokeupwithJane.
+7,6,-1,OhI'msorry.Ithoughtyoutwoweremadeforeachocher.
+8,1,-1,Wellyouneverknow.I'mreadyforacommitmentandwanttosettledownbutshesaysshewantstopursuehercareerwhileshe'sstillyoung.
+9,6,-1,Wellsheisnottoblame.It'salwaysdifficulttochoosebetweencareerandfamily.
+10,1,-1,Maybeyou'reright.
+11,6,-1,JackIdon'tknowwhattosaytocomfortyoubutcheerup!Thereareplentyoffishintheseaandyou'llfindyoursoulmateyourperfectmatch!
+12,1,-1,Yeahbutit'shardtoforgetheratmoment.Youknowweweretogetherforalmostfiveyears.It'sreallyhard...
+9516 14
+ (5, 4),(5, 5),(7, 6),(7, 7),(9, 9),(11, 9),(11, 10),(12, 11),(12, 12),(14, 13),(14, 14),
+1,6,-1,Howaboutthisfloorlamp?
+2,6,-1,Finejustgetit!Wehavebeenshoppingforfurnitureforfivehours!I'msotired!
+3,6,-1,Westillneedtofindanarmoireandadresser.
+4,6,-1,Fine!Iamgoingtogohomeanddropoffthisnightstandcoffeetableandloveseatwhileyoulookfortherestofthethings.
+5,0,-1,Great!PickmeupinaboutanhourbecauseIthinkI'llalsogetabeanbagandadiningset.
+6,6,-1,Whileyouareatitcanyoupickoutanicerecliner?IreallywantonesoIcanwatchTV.
+7,3,-1,Recliner?Inmybeautifullydecoratedlivingroom?Idon'tthinkso!
+8,6,-1,Howaboutthisfloorlamp?
+9,5,-1,Finejustgetit!Wehavebeenshoppingforfurnitureforfivehours!I'msotired!
+10,6,-1,Westillneedtofindanarmoireandadresser.
+11,5,-1,Fine!Iamgoingtogohomeanddropoffthisnightstandcoffeetableandloveseatwhileyoulookfortherestofthethings.
+12,0,-1,Great!PickmeupinaboutanhourbecauseIthinkI'llalsogetabeanbagandadiningset.
+13,6,-1,Whileyouareatitcanyoupickoutanicerecliner?IreallywantonesoIcanwatchTV.
+14,3,-1,Recliner?Inmybeautifullydecoratedlivingroom?Idon'tthinkso!
+10059 8
+ (2, 1),(2, 2),(3, 2),(4, 3),(5, 2),(5, 5),(7, 2),(7, 5),(7, 7),(7, 7),
+1,6,-1,What'swrongwithyou?Whyareyouscratchingsomuch?
+2,5,-1,Ifeelitchy!Ican'tstanditanymore!IthinkImaybecomingdownwithsomething.Ifeellightheadedandweak.
+3,4,-1,Letmehavealook.Whoa!Getawayfromme!
+4,3,-1,What'swrong?
+5,4,-1,Ithinkyouhavechickenpox!Youarecontagious!Getaway!Don'tbreatheonme!
+6,6,-1,Maybeit'sjustarashoranallergy!Wecan'tbesureuntilIseeadoctor.
+7,4,-1,Wellinthemeantimeyouareabiohazard!Ididn'tgetitwhenIwasakidandI'Veheardthatyoucanevendieifyougetitasanadult!
+8,6,-1,Areyouserious?Youalwaysblowthingsoutofproportion.InanycaseIthinkI'llgotakeanoatmealbath.
+772 4
+ (2, 2),(4, 2),
+1,0,-1,Whatareyougoingtodonextyear?
+2,0,-1,Iwanttogotraveling.
+3,0,-1,Doyouhaveanywhereinmind?
+4,0,-1,YesI'vebeenthinkingaboutFlorida.
+10047 8
+ (4, 4),(4, 4),(6, 4),(6, 4),(8, 7),(8, 7),(8, 7),
+1,6,-1,Hellothanksforcalling123TechHelpI'mTodd.HowcanIhelpyou?
+2,4,-1,Hello?Canyouhelpme?Mycomputer!Ohman...
+3,6,-1,It'sokaysircalmdown.Whathappened?
+4,4,-1,Iturnedonmylaptopanditbroke!Imeanthemonitorwentblack!
+5,6,-1,Oksiritsoundslikeyoumighthaveavirus.
+6,4,-1,Idon'tfeelsick...letmecheck...Nope!NofeverI'mfine.
+7,6,-1,NoyourcomputermighthaveavirusImeanithasabadprogramonit.Maybethat'swhyitcrashed.IrecommendthatyourunanantivirusprograminordertosafelyremoveanyunwantedspywareorTrojans.
+8,3,-1,Phew!...WaitaminuteCRASH??!!Spyware?Trojans!What?where?when?!
+248 17
+ (1, 1),(6, 5),(7, 5),(7, 7),(8, 5),(8, 7),(14, 13),(14, 14),(15, 11),
+1,0,-1,guesswhat?I'vegotgreatnews!
+2,6,-1,whatisit?
+3,6,-1,wellyouknowhowI'vebeenworkingattheEconomistasaproof-readerright?
+4,6,-1,yes.
+5,6,-1,welltheeditor-in-chiefheardthatIhadexperienceasaneditoratanothermagadizeandaskedmeifIwasinterestedinbecominganassistanteditorforhim.
+6,0,-1,really?That'sfantastic!Willyougetachancetodoanywriting?
+7,0,-1,shesaidthatthecolumnistfortheliterarycriticismcolumnwouldbegoingonpregnancyleavesoonandthatIcouldbeinchargeofthecolumnuntilshecameback.
+8,0,-1,wow!That'sreallygreatnews.Howoftendoesthemagazinecomeout?
+9,6,-1,it'samonthlymagazinebutmycolumnwillbesharedwithanothercolumnistsomyarticleswillbeduefortnightly.
+10,6,-1,areyoulookingforwardtodoingmoreeditingwork?
+11,6,-1,yesbutI'mevenmoreexcitedaboutgettingmythoughtspublishedagain!
+12,6,-1,doyouhaveanyorderformsheresothatIcangetasubscriptiontothemagazine?
+13,6,-1,Idon'thaveanywithmebutIthinkIcouldmanagetobringafreecopyhomeforyou.
+14,0,-1,I'mreallylookingforwardtoreadingyourcolumn.
+15,0,-1,metoo.Doyouwanttogoouttocelebratemygoodnews?
+16,6,-1,surewherewouldyouliketogo?
+17,6,-1,perhapswecouldgotothelibraryfestivalthat'sgoingonatthelocalbookshop.
+860 11
+ (2, 2),(4, 4),(6, 6),(8, 6),(8, 8),
+1,6,-1,HeySandrawhat'swrong?Youlookfurious!
+2,5,-1,I'vehaditwithTim!IthinkI'mgoingtoquit!
+3,6,-1,ButSandra...youloveyourjob!Youspentmonthstryingtogetthisposition.It'sperfectforyou!
+4,5,-1,Yeah...Iknow.ButI'msickandtiredofalltheofficepowerstruggles!
+5,6,-1,Whatkindofpowerstrugglesareyoutalkingabout?
+6,5,-1,BasicallyIthinkTimisthreatenedbyme.I'mdoingabetterjobthanheissohe'stryingtosabotagemycareer!
+7,6,-1,Sohetalksaboutyoubehindyourback?
+8,5,-1,Yes.He'sallniceandfriendlytomyface.ButthesecondIturnaroundhestabsmeintheback!
+9,6,-1,Ihadaworkerlikethatonce.Shewasalwaystakingcreditformyideas.
+10,6,-1,IshouldkeepabetterrecordofmycorrespondencewiththeclientssoifnecessaryIcanproveitwasmyeffort.
+11,6,-1,Myco-workerhadawholebunchofbadofficehabits.Shelikedtoname-drop...wewouldbeinameetingandshewouldsayyesterdayIwaschattingwithTom.ShemeantTomSolomon...ourCEO.
+9779 12
+ (2, 2),(3, 2),(3, 3),(8, 8),(9, 8),
+1,6,-1,Didyouhearwhowontheelection?
+2,3,-1,Ican'tbelievethatObamawon.
+3,0,-1,Icouldn'tbehappiertoknowthathe'sournewPresident.
+4,6,-1,Iknow!Hejustmadehistory!
+5,6,-1,Youvotedforhimright?
+6,6,-1,Idid.Didyou?
+7,6,-1,Ivotedforhim.
+8,0,-1,IamsohappythatheisournewPresident!
+9,0,-1,SoamI.
+10,6,-1,IhopethathebringschangetoAmerica.
+11,6,-1,Ihavefaithinhim.
+12,6,-1,IhavefaithinournewPresident.
+999 12
+ (1, 1),(3, 2),(4, 4),(5, 4),(5, 5),(8, 7),(8, 8),(11, 7),(11, 9),(11, 10),(11, 11),(12, 11),
+1,0,-1,Whataniceday!
+2,6,-1,yes.Howaboutgoingoutandenjoyingthesunshineonthegrass?
+3,0,-1,greatlet'sgo!
+4,0,-1,heydarlingIthinkImighthavealittleheatstrokefrombeinginthesunallday.Iwassorelaxed.ItfeltasifIwereinanotherworld.
+5,0,-1,exactly.Youknowthesunshineandwindremindmeofourhoneymoon.Youremember?Theislandthesoundofthewavesthesaltyseaairandthesunshine...
+6,6,-1,yesitwaswonderfulbutit'salreadybeenayear.Howtimeflies!
+7,6,-1,whynotgoagaintocelebrateoutone-yearanniversary?Wecangotothesamebeachstayinthesamehotelandenjoyadinnerinthesamerestaurant.
+8,3,-1,areyoukidding?Canyouaffordit?Doyouthinkwecangetaroomonsuchshortnotice?
+9,6,-1,nevermindthatI'lltakecareofit.Areyouavailablenextweek?
+10,6,-1,yeahIthinkso.
+11,0,-1,ok.I'llmakethearrangements.Itwillbegreat.
+12,0,-1,wonderful!I'llstartpackingoursuitcases.
+9789 7
+ (1, 1),(2, 1),(5, 4),(7, 1),(7, 4),(7, 7),
+1,0,-1,StevethanksforlookingafterJohnny.
+2,0,-1,ItwasapleasureMrs.Robinson.
+3,6,-1,Andthiskitchenissoclean.DidyouhelpJohnnywiththat?
+4,6,-1,Ihelpedbreak...ImeanWASH...allthedishes!
+5,0,-1,That'sgreat.Andthegarbagetoo?
+6,6,-1,Yeahuhit'soutside.ListenIreallyhavetobegoingnow.
+7,0,-1,Thanksforyourhelp!
+767 6
+ (2, 1),(2, 2),(4, 4),(6, 1),(6, 4),(6, 6),
+1,6,-1,I'msorryladies.Mr.Smith'sviewingisover.Itendedanhourago.
+2,1,-1,Butwejustdroveacrosstown.Can'twejustgointoseehimonelast...
+3,6,-1,I'mafraidnot.Butattomorrow'sfuneralthefamilyrequestedanopencasketservice.
+4,1,-1,Thisisalltoofast.He'smybestfriendandnowhe'sgone.
+5,6,-1,I'msorry.Iknowitmusthavecomeasagreatshock.
+6,1,-1,TheviewingwasforsayinggoodbyeandIdidn'tevengetthat.
+796 8
+ (1, 1),(3, 2),(3, 3),(4, 2),(4, 3),(4, 4),(6, 2),(6, 3),(6, 4),(6, 6),(7, 7),(8, 7),
+1,0,-1,Verygladtoknowsomethingaboutyouthenwhatareyougoingtodowhenyoufinish.
+2,6,-1,OhI'llgotoshanghaitopracticethere.
+3,0,-1,That'sagoodidea.Itmustbeeasytofindajobinshanghai.
+4,0,-1,Ithinksoyouknowthereisagreatdealofopportunityforbusinessthere.
+5,6,-1,AndEnglishisveryusefulinyourjob.
+6,0,-1,Ithinkitwillbeveryusefulinmanyways.BesideshanghaiisanimportanttradecenternotonlyinChinabutalsointheworldEnglishisusefulinalmostallwalksoflife.
+7,0,-1,Youwillbeaverypromisingone.
+8,0,-1,That'smywish.
+10060 10
+ (4, 1),(4, 4),(6, 5),(8, 5),(8, 7),(9, 5),(9, 7),(9, 8),(10, 9),
+1,6,-1,HelloisMarieWardthereplease?
+2,6,-1,I'llseeifsheisin.
+3,6,-1,Ok.
+4,1,-1,I'mafraidshe'sout.
+5,6,-1,Canyougiveheramessageplease?
+6,0,-1,Yesofcourse.
+7,6,-1,PleasetellhertogiveColinacallwhenshegetsback.Shehasmynumber.
+8,0,-1,Sure.
+9,0,-1,Thankyouforyourhelp.
+10,0,-1,It'smypleasure.

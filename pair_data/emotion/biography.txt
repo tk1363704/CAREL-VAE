@@ -1,0 +1,569 @@
+1 3
+(2, 2),
+1, 6, -1, ThatdayJobswalkedintothelobbyofthevideogamemanufacturerAtariandtoldthepersonneldirector
+2, 3, -1, whowasstartledbyhisunkempthairandattire
+3, 6, -1, thathewouldn'tleaveuntiltheygavehimajob.
+2 4
+(4, 4),
+1, 6, -1, JobsspentafewdaysinMunich
+2, 6, -1, wherehesolvedtheinterferenceproblem
+3, 5, -1, butintheprocessheflummoxedthedarksuitedGermanmanagers
+4, 5, -1, TheycomplainedtoAlcornthathedressedandsmelledlikeabumandbehavedrudely.
+3 2
+(2, 2),
+1, 6, -1, Forhispart
+2, 5, -1, JobswasupsetthattheGermanskepttryingtofeedhimmeatandpotatoes.
+8 4
+(1, 1),
+1, 0, -1, WozniakwasthrilledwhenJobsaskedhimtohelpandproposedsplittingthefee
+2, 6, -1, thiswasthemostwonderfulofferinmylife
+3, 6, -1, toactuallydesignagamethatpeoplewoulduse
+4, 6, -1, herecalled.
+9 4
+(2, 2),
+1, 6, -1, TheAtariexperiencehelpedshapeJobs'sapproachtobusinessanddesign
+2, 0, -1, HeappreciatedtheuserfriendlinessofAtari'sinsertquarteravoidklingonsgames
+3, 6, -1, thatsimplicityrubbedoffonhimandmadehimaveryfocusedproductperson
+4, 6, -1, saidRonWayne.
+10 6
+(1, 2),
+1, 3, -1, ItypedafewkeysonthekeyboardandIwasshocked
+2, 6, -1, Thelettersweredisplayedonthescreen
+3, 6, -1, twasSunday
+4, 6, -1, June29
+5, 6, -1, 1975
+6, 6, -1, amilestoneforthepersonalcomputer.
+11 4
+(3, 2),
+1, 6, -1, Hisargumentwasthatagreatengineerwouldberememberedonlyifheteamedwithagreatmarketer
+2, 6, -1, andthisrequiredhimtocommithisdesignstothepartnership
+3, 0, -1, JobswassoimpressedandgratefulthatheofferedWaynea10%stakeinthenewpartnership
+4, 6, -1, turninghimintoatie-breakerifJobsandWozniakdisagreedoveranissue.
+12 4
+(3, 2),
+1, 6, -1, Hisargumentwasthatagreatengineerwouldberememberedonlyifheteamedwithagreatmarketer
+2, 6, -1, andthisrequiredhimtocommithisdesignstothepartnership
+3, 0, -1, JobswassoimpressedandgratefulthatheofferedWaynea10%stakeinthenewpartnership
+4, 6, -1, turninghimintoatie-breakerifJobsandWozniakdisagreedoveranissue.
+13 2
+(2, 2),
+1, 6, -1, JobsandWozniakhadnopersonalassets
+2, 4, -1, butWayne(whoworriedaboutaglobalfinancialArmageddon)keptgoldcoinshiddeninhismattress.
+14 5
+(5, 5),
+1, 6, -1, JobsandWozniakhadnopersonalassets
+2, 4, -1, butWayne(whoworriedaboutaglobalfinancialArmageddon)keptgoldcoinshiddeninhismattress
+3, 6, -1, BecausetheyhadstructuredAppleasasimplepartnershipratherthanacorporation
+4, 6, -1, thepartnerswouldbepersonallyliableforthedebts
+5, 4, -1, andWaynewasafraidpotentialcreditorswouldgoafterhim.
+17 8
+(1, 6),
+1, 6, -1, Terrellwasabittakenaback
+2, 6, -1, Therewasnopowersupply
+3, 6, -1, case
+4, 6, -1, monitor
+5, 6, -1, orkeyboard
+6, 6, -1, Hehadexpectedsomethingmorefinished
+7, 6, -1, ButJobsstaredhimdown
+8, 6, -1, andheagreedtotakedeliveryandpay.
+18 4
+(1, 4),
+1, 6, -1, AsWozniaklaterexulted
+2, 6, -1, Wewereparticipatinginthebiggestrevolutionthathadeverhappened
+3, 6, -1, Ithought
+4, 0, -1, Iwassohappytobeapartofit.
+19 5
+(3, 1),
+1, 6, -1, Youmightwanttobuyusforafewhundredthousanddollars
+2, 6, -1, Jobssaidwhentheygotthere
+3, 5, -1, Wozniakwasstunnedbythisridiculous
+4, 6, -1, suggestion
+5, 6, -1, butJobspersisted.
+20 2
+(2, 1),
+1, 6, -1, Withinweekshehadproducedasimplefoammoldedplasticcasethatwasunclutteredandexudedfriendliness
+2, 0, -1, Jobswasthrilled.
+21 1
+(1, 1),
+1, 5, -1, WhatbotheredhimmorewasthatJobsknewnothingaboutmarketingandseemedcontenttopeddlehisproducttoindividualstoresonebyone.
+22 3
+(2, 1),
+1, 6, -1, HewantedtosecurealocationrightatthefrontofthehallasadramaticwaytolaunchtheAppleII
+2, 5, -1, andsoheshockedWozniakbypaying$5
+3, 6, -1, 000inadvance.
+23 2
+(2, 2),
+1, 6, -1, LikeMarkkula
+2, 1, -1, hehateddealingwiththeconflictsthatJobsengendered.
+24 8
+(7, 1),
+1, 6, -1, Scottassigned1toWozniakand2toJobs
+2, 6, -1, Notsurprisingly
+3, 6, -1, Jobsdemandedtobe1
+4, 6, -1, Iwouldn'tlethimhaveit
+5, 6, -1, becausethatwouldstokehisegoevenmore
+6, 6, -1, saidScott
+7, 6, -1, Jobsthrewatantrum
+8, 6, -1, evencried.
+25 8
+(8, 1),
+1, 6, -1, Scottassigned1toWozniakand2toJobs
+2, 6, -1, Notsurprisingly
+3, 6, -1, Jobsdemandedtobe1
+4, 6, -1, Iwouldn'tlethimhaveit
+5, 6, -1, becausethatwouldstokehisegoevenmore
+6, 6, -1, saidScott
+7, 6, -1, Jobsthrewatantrum
+8, 6, -1, evencried.
+26 3
+(3, 2),
+1, 6, -1, JobsalsoinsistedthatApplebedifferentinhowittreatedcustomers
+2, 6, -1, HewantedaoneyearwarrantytocomewiththeAppleII
+3, 5, -1, ThisflabbergastedScott
+27 4
+(3, 2),
+1, 6, -1, AyearafterLisawasborn
+2, 6, -1, Jobsagreedtotakeapaternitytest
+3, 3, -1, Brennan'sfamilywassurprised
+4, 6, -1, butJobsknewthatApplewouldsoonbegoingpublicandhedecideditwasbesttogettheissueresolved.
+29 4
+(3, 2),(3, 4),
+1, 6, -1, AtkinsonandothershadreadsomeofthepaperspublishedbyXeroxPARC
+2, 6, -1, sotheyknewtheywerenotgettingafulldescription
+3, 6, -1, JobsphonedtheheadoftheXeroxventurecapitaldivisiontocomplain
+4, 6, -1, acallimmediatelycamebackfromcorporateheadquartersinConnecticutdecreeingthatJobsandhisgroupshouldbeshowneverything.
+30 5
+(4, 1),
+1, 6, -1, Theysaiditwouldforceustouseaphosphorthatwasalotlesspersistentandwouldflickermore
+2, 6, -1, oAtkinsonenlistedJobs
+3, 6, -1, whocamedownonhisside
+4, 4, -1, Thehardwarefolksgrumbled
+5, 6, -1, butthenwentoffandfigureditout.
+31 6
+(5, 3),
+1, 6, -1, Hewasworkingsohardthatonemorning
+2, 6, -1, inadaze
+3, 6, -1, hedrovehisCorvetteintoaparkedtruckandnearlykilledhimself
+4, 6, -1, Jobsimmediatelydrovetothehospitaltoseehim
+5, 4, -1, Wewereprettyworriedaboutyou
+6, 6, -1, hesaidwhenAtkinsonregainedconsciousness.
+32 4
+(3, 1),(3, 2),
+1, 6, -1, Thisrequiredusingaballratherthantheusualtwowheels
+2, 6, -1, OneoftheengineerstoldAtkinsonthattherewasnowaytobuildsuchamousecommercially
+3, 0, -1, AfterAtkinsoncomplainedtoJobsoverdinner
+4, 1, -1, hearrivedattheofficethenextdaytodiscoverthatJobshadfiredtheengineer.
+33 3
+(3, 3),
+1, 6, -1, ButJohnCouchandtheotherprofessionalengineersonhisLisateam
+2, 6, -1, manyofthembuttoneddownHPtypes
+3, 5, -1, resentedJobs'smeddlingandwereinfuriatedbyhisfrequentinsults.
+34 3
+(1, 1),
+1, 4, -1, BothMikeScottandMikeMarkkulawereintentonbringingsomeordertoAppleandbecameincreasinglyconcernedaboutJobs'sdisruptivebehavior
+2, 6, -1, SoinSeptember1980
+3, 6, -1, theysecretlyplottedareorganization.
+35 6
+(5, 1),
+1, 6, -1, Hewasmadenon-executivechairmanoftheboard
+2, 6, -1, ThispositionallowedhimtoremainApple'spublicface
+3, 6, -1, butitmeantthathehadnooperatingcontrol
+4, 6, -1, Thathurt
+5, 1, -1, IwasupsetandfeltabandonedbyMarkkula
+6, 6, -1, hesaid.
+38 2
+(2, 1),
+1, 6, -1, Someofthepeopleontheprojectbecameenamoredofthequesttodoeverythingwiththemouse
+2, 6, -1, helatergrouse.
+39 6
+(2, 2),
+1, 6, -1, JobseventriedtoreengageWozniak
+2, 6, -1, Iresentedthefactthathehadnotbeendoingmuch
+3, 6, -1, butthenIthought
+4, 6, -1, hell
+5, 6, -1, Iwouldn'tbeherewithouthisbrilliance
+6, 6, -1, Jobslatertoldme.
+41 3
+(3, 3),
+1, 6, -1, OnedayJobscameintothecubicleofLarryKenyon
+2, 6, -1, anengineerwhowasworkingontheMacintoshoperatingsystem
+3, 5, -1, andcomplainedthatitwastakingtoolongtobootup.
+43 3
+(1, 2),
+1, 6, -1, ThenJobsletlooseablisteringburstofcriticism
+2, 6, -1, It'swaytooboxy
+3, 0, -1, it'sgottobemorecurvaceous.
+44 9
+(9, 1),(9, 4),
+1, 6, -1, Hehadjustcomeupwithabrilliantalgorithmthatcoulddrawcirclesandovalsonscreenquickly
+2, 6, -1, Themathformakingcirclesusuallyrequiredcalculatingsquareroots
+3, 6, -1, whichthe68000microprocessordidntsupport
+4, 6, -1, ButAtkinsondidaworkaroundbasedonthefactthatthesumofasequenceofoddnumbersproducesasequenceofperfectsquares(forexample
+5, 6, -1, 1+3=4
+6, 6, -1, 1+3+5=9
+7, 6, -1, etc
+8, 6, -1, HertzfeldrecalledthatwhenAtkinsonfireduphisdemo
+9, 0, -1, everyonewasimpressedexceptJobs.
+46 3
+(3, 1),
+1, 6, -1, JobswantstodestroyLisabecausewewouldn'tlethimcontrolit
+2, 6, -1, hesaid
+3, 1, -1, lookingasifhewereabouttocry.
+47 5
+(5, 2),
+1, 6, -1, AtkinsonhadbeenleftoutofthepublicityinterviewsfortheLisalaunch
+2, 6, -1, andhemarchedintoJobs'shotelroomandthreatenedtoquit
+3, 6, -1, Jobstriedtominimizetheslight
+4, 5, -1, butAtkinsonrefusedtobemollified
+5, 5, -1, Jobsgotannoyed.
+48 8
+(7, 2),
+1, 6, -1, ButbythetimetheLisawasreadytoshipinthespringof1983
+2, 6, -1, itwasclearthattheTwiggywasbuggy
+3, 6, -1, BecausetheLisaalsocamewithahard-diskdrive
+4, 6, -1, thiswasnotacompletedisaster
+5, 6, -1, ButtheMachadnoharddisk
+6, 6, -1, soitfacedacrisis
+7, 6, -1, TheMacteamwasbeginningtopanic
+8, 6, -1, saidHertzfeld.
+49 5
+(3, 2),(5, 2),
+1, 0, -1, AfewdayslaterhedrovetoApple'sfactoryinSanJosetoseetheTwiggybeingmade
+2, 1, -1, Morethanhalfwererejected
+3, 6, -1, Jobserupted
+4, 1, -1, Withhisfaceflushed
+5, 6, -1, hebeganshoutingandsputteringaboutfiringeveryonewhoworkedthere.
+50 2
+(2, 2),
+1, 6, -1, Hetookthemtovisitacomputerstore
+2, 5, -1, wherehewasstruckbyhowpoorlytheproductsweremarketed.
+51 2
+(2, 2),
+1, 6, -1, WhenhearrivedatAppleheadquarters
+2, 3, -1, Sculleywasstartledbytheunassumingofficesandcasualatmosphere.
+52 5
+(4, 3),
+1, 6, -1, TheexplanationthatSculleymightbuyalotofMacintoshesforPepsisoundedalittlebitfishytome
+2, 6, -1, Hertzfeldrecalled
+3, 6, -1, butheandSusanKarecreatedascreenofPepsicapsandcansthatdancedaroundwiththeApplelogo
+4, 0, -1, Hertzfeldwassoexcitedhebeganwavinghisarmsaroundduringthedemo
+5, 5, -1, butSculleyseemedunderwhelmed.
+53 5
+(4, 3),
+1, 6, -1, TheexplanationthatSculleymightbuyalotofMacintoshesforPepsisoundedalittlebitfishytome
+2, 6, -1, Hertzfeldrecalled
+3, 6, -1, butheandSusanKarecreatedascreenofPepsicapsandcansthatdancedaroundwiththeApplelogo
+4, 0, -1, Hertzfeldwassoexcitedhebeganwavinghisarmsaroundduringthedemo
+5, 5, -1, butSculleyseemedunderwhelmed.
+54 2
+(1, 2),
+1, 3, -1, Sculleywasastonished
+2, 6, -1, AtPepsinoonewouldhavechallengedthechairmanlikethat.
+55 3
+(3, 2),
+1, 6, -1, Tohim
+2, 6, -1, themarketingcostswerelikeanyotherproductioncostandneededtobefactoredintotheprice
+3, 0, -1, Jobsresistedfuriously.
+56 6
+(6, 6),
+1, 6, -1, SoJobspromisedthem
+2, 6, -1, dontworry
+3, 6, -1, imnotgoingtolethimgetawaywithit
+4, 6, -1, Butintheend
+5, 6, -1, Sculleyprevailed
+6, 6, -1, Eventwenty-fiveyearslaterJobsseethedwhenrecallingthedecision:It'sthemainreasontheMacintoshsalesslowedandMicrosoftgottodominatethemarket.
+57 5
+(2, 2),
+1, 6, -1, Hertzfeld
+2, 5, -1, whotookgreatpridethattheycouldachievetheirfunctionalitysolelyusingsoftware
+3, 6, -1, replied
+4, 6, -1, Wedonthaveanyspecialhardwareforit
+5, 6, -1, Gatesinsistedthatitwasnecessarytohavespecialhardwaretomovethecursorthatway.
+58 3
+(2, 2),
+1, 6, -1, Despitetheirmutualwariness
+2, 0, -1, bothteamswereexcitedbytheprospectthatMicrosoftwouldcreategraphicalsoftwarefortheMacintoshthatwouldtakepersonalcomputingintoanewrealm
+3, 6, -1, andtheywenttodinneratafancyrestauranttocelebrate.
+59 5
+(1, 4),(1, 5),
+1, 6, -1, Butthisarrangementupsetcompetingsoftwaremakers
+2, 6, -1, Inaddition
+3, 6, -1, itseemedthatsomeofMicrosoft'sprogramsmightbelate
+4, 6, -1, SoJobsinvokedaprovisioninhisdealwithMicrosoftanddecidednottobundleitssoftware
+5, 6, -1, Microsoftwouldhavetoscrambletodistributeitssoftwareasproductssolddirectlytoconsumers.
+60 2
+(2, 2),
+1, 6, -1, AsJobsandhisteambegantoworkcloselywithMicrosoft
+2, 4, -1, theygrewworriedthatitwouldcopyMacintosh'sgraphicaluserinterface.
+61 2
+(2, 1),
+1, 6, -1, Idrewacircle
+2, 0, -1, WarholexclaimedproudlyafterusingQuickDraw.
+62 5
+(3, 2),
+1, 6, -1, AfterJobstalkedaboutthejust-in-timeproductionschedules
+2, 6, -1, sheaskedaboutovertimepay
+3, 5, -1, Hewasannoyed
+4, 6, -1, sohedescribedhowautomationhelpedhimkeepdownlaborcosts
+5, 6, -1, asubjectheknewwouldnotdelighther.
+64 7
+(6, 5),
+1, 6, -1, Hewasjustcompletelyobnoxiousandthinkinghecouldgetawaywithanything
+2, 6, -1, sherecalled
+3, 6, -1, InParisshehadarrangedaformaldinnerwithFrenchsoftwaredevelopers
+4, 6, -1, butJobssuddenlydecidedhedidntwanttogo
+5, 6, -1, InsteadheshutthecardooronHoffmanandtoldherhewasgoingtoseetheposterartistFoloninstead
+6, 6, -1, Thedevelopersweresopissedofftheywouldn'tshakeourhands
+7, 6, -1, shesaid.
+65 2
+(2, 1),
+1, 6, -1, WhenJobsmadehisusualthreataboutcuttingdownonFrance'sallocationsifGassedidntjackupsalesprojections
+2, 5, -1, Gassegotangry.
+66 3
+(1, 1),
+1, 5, -1, IwasfuriousbecausetheMacXLwasntreal
+2, 6, -1, saidHoffman
+3, 6, -1, ItwasjusttoblowtheexcessLisasoutthedoor.
+68 8
+(8, 3),
+1, 6, -1, TheMacintoshteamisdoinggreat
+2, 6, -1, andimhavingthebesttimeofmyliferightnow
+3, 6, -1, you'rejustcompletelyoutoftouch
+4, 6, -1, isstarewaswithering
+5, 6, -1, buthealsotriedtolookamusedatHertzfeld'sassessment
+6, 6, -1, youreallybelievethat
+7, 6, -1, Idontthinkthere'sanywaythatIcancomeback
+8, 0, -1, Hertzfeldrepliedglumly.
+69 2
+(2, 2),
+1, 6, -1, Byearly1985BurrellSmithwasalsoreadytoleave
+2, 4, -1, HehadworriedthatitwouldbehardtoquitifJobstriedtotalkhimoutofit
+70 2
+(2, 1),
+1, 0, -1, TherehehappenedtoseesketchesthatthefirmhadmadeforWozniak'snewremotecontroldevice
+2, 6, -1, andheflewintoarage.
+71 1
+(1, 1),
+1, 0, -1, AstheMacintoshcontinuedtodisappoint-salesinMarch1985wereonly10%ofthebudgetforecast.Jobsholedupinhisofficefumingorwanderedthehallsberatingeveryoneelsefortheproblems.
+72 2
+(1, 2),
+1, 6, -1, Inhisgrowlingvoice
+2, 6, -1, hesaidthatJobshadbeenbehavingfoolishlyforayearandhadnorighttobemanagingadivision.
+74 2
+(1, 1),
+1, 1, -1, HisirestokedbyhearingfromMarkkulathatJobshadspentthepreviouseveningtryingtosubverthim
+2, 6, -1, SculleywalkedovertoJobs'sofficeonTuesdaymorning.
+76 2
+(2, 1),
+1, 6, -1, HewarnedthemthattherewerestrictlawsagainstsharingtechnologywiththeSoviets
+2, 5, -1, Jobswasannoyed.
+77 2
+(2, 2),
+1, 6, -1, Lewin'suniversityconsortiumhadbeenagodsendtotheMacintoshgroup
+2, 1, -1, buthehadbecomefrustratedafterJobsleftandBillCampbellhadreorganizedmarketinginawaythatreducedtheroleofdirectsalestouniversities.
+79 1
+(1, 1),
+1, 0, -1, WhatparticularlystruckNocerawasJobs'salmostwillfullackoftact.
+80 3
+(3, 1),
+1, 6, -1, Inthespringof1988cashwasrunningsoshortthatheconvenedameetingtodecreedeepspendingcutsacrosstheboard
+2, 6, -1, Whenitwasover
+3, 4, -1, LasseterandhisanimationgroupwerealmosttooafraidtoaskJobsaboutauthorizingsomeextramoneyforanothershort.
+81 6
+(6, 3),
+1, 6, -1, JobshadbeenreluctanttoletPaulandClara
+2, 6, -1, whomheconsideredhisrealparents
+3, 6, -1, knowabouthissearchforhisbirthmother
+4, 6, -1, Withasensitivitythatwasunusualforhim
+5, 6, -1, andwhichshowedthedeepaffectionhefeltforhisparents
+6, 4, -1, heworriedthattheymightbeoffended.
+83 1
+(1, 1),
+1, 0, -1, Jobswasthrilledtofindthathehadasiblingwhowassosimilartohim.
+86 6
+(2, 2),
+1, 6, -1, Onoccasionthiscouldbackfire
+2, 4, -1, suchaswhenJobsandIveinsistedonusingasolidpieceofbrushedaluminumfortheedgeoftheiPhone4evenwhentheengineersworriedthatitwouldcompromisetheantenna
+3, 6, -1, ButusuallythedistinctivenessofitsdesignsfortheiMac
+4, 6, -1, theiPod
+5, 6, -1, theiPhone
+6, 6, -1, andtheiPadwouldsetAppleapartandleadtoitstriumphsintheyearsafterJobsreturned.
+94 6
+(6, 4),
+1, 6, -1, SoWoolardhappilygrantedJobs'swish
+2, 6, -1, withaGulfstreamV
+3, 6, -1, andalsoofferedhimfourteenmillionstockoptions
+4, 6, -1, Jobsgaveanunexpectedresponse
+5, 6, -1, Hewantedmore:twentymillionoptions
+6, 5, -1, Woolardwasbaffledandupset.
+96 3
+(2, 1),
+1, 6, -1, ThemostZenofallsimplicitieswasJobs'sdecree
+2, 3, -1, whichastonishedhiscolleagues
+3, 6, -1, thattheiPodwouldnothaveanon-offswitch.
+99 9
+(9, 8),
+1, 6, -1, Butassoonastheycheckedin
+2, 6, -1, hebracedhimself
+3, 6, -1, andsureenoughhisphonerangaminutelater
+4, 6, -1, Ihatemyroom
+5, 6, -1, Jobsdeclared
+6, 6, -1, It'sapieceofshit
+7, 6, -1, let'sgo
+8, 6, -1, SoIvegatheredhisluggageandwenttothefrontdesk
+9, 3, -1, whereJobsbluntlytoldtheshockedclerkwhathethought.
+100 7
+(2, 2),
+1, 6, -1, Bewkesdidntagreewithanyofthosepremises
+2, 0, -1, HesaidhewashappyforAppletoselldigitalsubscriptionsforTimeInc
+3, 6, -1, Apple's30%takewasnottheproblem
+4, 6, -1, imtellingyourightnow
+5, 6, -1, ifyousellasubforus
+6, 6, -1, youcanhave30%
+7, 6, -1, Bewkestoldhim.
+102 4
+(2, 1),
+1, 6, -1, WhatdidhethinkofthesuggestionthatApplesometimesactedarrogantly
+2, 1, -1, imnotworriedaboutthat
+3, 6, -1, hesaid
+4, 6, -1, becausewe'renotarrogant.
+718 6
+(4, 2),
+1, 0, -1, JobsstoodbackandproudlygazedathisnewMacintosh
+2, 6, -1, Itlookslikeit'sfromanotherplanet
+3, 6, -1, hesaid
+4, 6, -1, astheaudiencelaughed
+5, 6, -1, agoodplanet
+6, 6, -1, Aplanetwithbetterdesigners.
+719 7
+(2, 4),
+1, 6, -1, Heperkedupwhenthereportersaidsomethinglike
+2, 0, -1, dontgetexcited
+3, 6, -1, Macusers
+4, 6, -1, becauseitwontworkwithMacs
+5, 6, -1, ncaidsaidtohimself
+6, 6, -1, Ha
+7, 6, -1, Icanfixthat
+721 1
+(1, 1),
+1, 4, -1, Hewasworriedthattheeraofpromotingasongthroughairplayontheradiowasover.
+722 3
+(2, 2),
+1, 6, -1, Wedontwanttodothisforanyoneelse
+2, 4, -1, ewasworriedaboutsettingtheprecedentofartistsgettingaroyaltyfromeachiPodsold
+3, 0, -1, VincentassuredhimthattheU2dealwouldbespecial.
+723 3
+(1, 3),
+1, 4, -1, Lasseterbegantogetworriedwhen
+2, 6, -1, inearly1996
+3, 6, -1, heheardrumorsthatDreamWorksmightbemakingitsowncomputer-animatedmovieaboutants.
+726 4
+(4, 3),
+1, 6, -1, JonyandStevewereriffingontheirdesignproblem
+2, 6, -1, thenJonyasked
+3, 6, -1, whatifthescreenwasseparatedfromthebaselikeasunflower
+4, 0, -1, Hegotexcitedandstartedsketching.
+727 5
+(1, 3),
+1, 1, -1, Theproblemwasthatheworriedabouthisimage
+2, 6, -1, especiallyaftertheFortunearticle
+3, 6, -1, Hedidnotwanttoacceptthenewgrantunlesstheboardcanceledhisoldoptionsatthesametime
+4, 6, -1, Buttodosowouldhaveadverseaccountingimplications
+5, 6, -1, becauseitwouldbeeffectivelyrepricingtheoldoptions.
+728 4
+(3, 3),
+1, 6, -1, He'saone-of-a-kindpersonagenius
+2, 1, -1, ubinstein'scasewasalittlemorecontentious
+3, 5, -1, HewasupsetbyCook'sascendencyandfrazzledafterworkingfornineyearsunderJobs
+4, 0, -1, Theirshoutingmatchesbecamemorefrequent.
+729 4
+(2, 2),
+1, 6, -1, Becausemostofhiscolleagueswereusedtoitbythenandhadlearnedtocope
+2, 5, -1, whatupsetthemmostwaswhenhisireturnedonstrangers
+3, 6, -1, OncewewenttoaWholeFoodsmarkettogetasmoothie
+4, 6, -1, Iverecalled.
+730 6
+(4, 4),
+1, 6, -1, Jobswouldgetbored
+2, 6, -1, grabRiley'smobilephone
+3, 6, -1, andstartpointingoutallthewaysitwasbrain-dead
+4, 0, -1, oJobsandhisteambecameexcitedabouttheprospectofbuildingaphonethattheywouldwanttouse
+5, 6, -1, That'sthebestmotivatorofall
+6, 6, -1, Jobslatersaid.
+731 3
+(1, 1),
+1, 5, -1, GateswasannoyedthattheguykeptrevealinginformationaboutthetabletPChehaddevelopedforMicrosoft
+2, 6, -1, He'souremployeeandhe'srevealingourintellectualproperty
+3, 6, -1, Gatesrecounted.
+732 3
+(3, 3),
+1, 6, -1, Alotoffeaturesthatseemsimplenowweretheresultofcreativebrainstorms
+2, 6, -1, Forexample
+3, 4, -1, theteamworriedabouthowtopreventthedevicefromplayingmusicormakingacallaccidentallywhenitwasjanglinginyourpocket.
+733 6
+(6, 4),
+1, 6, -1, HecontinuedtoinsistthattheMicrosoftapproachofusingastylusforinputwouldprevail
+2, 6, -1, i'vebeenpredictingatabletwithastylusformanyyears
+3, 6, -1, hetoldme
+4, 6, -1, Iwilleventuallyturnouttoberightorbedead
+5, 6, -1, enightafterhisannouncement
+6, 4, -1, Jobswasannoyedanddepressed.
+734 5
+(5, 5),
+1, 6, -1, JobslikedStengel
+2, 6, -1, whohadassignedatalentedteamledbyJoshQuittnertomakearobustiPadversionofthemagazineeachweek
+3, 6, -1, ButhewasupsettoseeAndySerwerofFortunethere
+4, 6, -1, Tearingup
+5, 5, -1, hetoldSerwerhowangryhestillwasaboutFortune'sstorytwoyearsearlierrevealingdetailsofhishealthandthestockoptionsproblems.
+735 5
+(3, 3),
+1, 6, -1, Therewasoneproblem:WhenPowelltoldherhusband
+2, 6, -1, hesaidhedidntwanttodoit
+3, 5, -1, Hewasannoyedthatshehadarrangeditbehindhisback
+4, 6, -1, imnotgoingtogetslottedinforatokenmeetingsothathecancheckoffthathemetwithaCEO
+5, 6, -1, hetoldher.
+736 2
+(2, 2),
+1, 6, -1, Hehadmadethesameofferin2008
+2, 5, -1, buthe'dbecomeannoyedwhenObama'sstrategistDavidAxelrodwasnttotallydeferential.
+857 6
+(2, 4),
+1, 6, -1, Stevegoesintopitchhim
+2, 6, -1, butJoecouldn'tstandhim
+3, 6, -1, Alcornrecalled
+4, 0, -1, HedidntappreciateSteve'shygiene
+5, 6, -1, Jobswasbarefoot
+6, 6, -1, andatonepointputhisfeetuponadesk.
+858 3
+(3, 3),
+1, 6, -1, ButApplewasmybaby
+2, 6, -1, andIdidntwanttogiveitup
+3, 6, -1, Relinquishinganycontrolwasagonizingtohim.
+859 6
+(6, 3),
+1, 6, -1, Sculleyrecalled
+2, 6, -1, Mostofthemthoughtitwastheworstcommercialtheyhadeverseen
+3, 6, -1, Sculleyhimselfgotcoldfeet
+4, 6, -1, HeaskedChiatDaytoselloffthetwocommercialspotsonesixtyseconds
+5, 6, -1, theotherthirtythattheyhadpurchased
+6, 6, -1, bswasbesidehimself.
+860 1
+(1, 1),
+1, 0, -1, HewouldlaterbristlewheneveranyonereferredtoPaulandClaraJobsashisadoptiveparentsorimpliedthattheywerenothisrealparents.
+1377 1
+(1, 1),
+1, 6, -1, Hewasstressedoutbyallthetravellinginhisjob.
+2024 3
+(3, 3),
+1, 6, -1, Spendsometimelookingatyourownapplicationandseeifyoucanfindfunctionsthatseemasiftheyshouldbeundoable
+2, 6, -1, butcurrentlyarent
+3, 3, -1, Youmaybesurprisedbyhowmanyyoufind.
+2629 4
+(4, 4),
+1, 6, -1, roughpeople
+2, 6, -1, whowereusedtoworkingindirtyconditionsforlonghours
+3, 6, -1, whenIrealizedwhatmylifewasgoingtobelikefromnowon
+4, 4, -1, IwasdeeplyashamedathavingsuchajobandIwasalsoafraidthatIwouldforgeteverythingIhadlearntfrommymotherandmyteachers.
+2837 1
+(1, 1),
+1, 4, -1, Hewasverynervousduringhisfirstjobinterview

@@ -1,0 +1,2092 @@
+4 2
+ (2, 1),
+1,6,2,They dont even have a word for vegetarian
+2,2,complained,he complained ( incorrectly ) in a phone call to Alcorn .
+104 9
+ (5, 4),
+1,6,6,During this expedition Speke reached the most southerly point of the lake
+2,6,6,and gave it its present name
+3,6,6,Speke arrived back in England in the spring of 1859
+4,6,1,Burton being left behind on account of his illness
+5,1,strained,The relations between the two had become strained
+6,6,6,and this was accentuated by Speke 's hast to publish the account of his explorations
+7,6,6,He was given the command of another expedition which left England in April 1860
+8,6,6,in company with Captain James Augustus Grant
+9,6,6,to ascertain still further if the Victoria Nyanza were indeed the source of the Nile .
+105 9
+ (6, 6),
+1,6,6,The district chief is absolute
+2,6,6,though guided in great measure by his  "  grey beards
+3,6,6,"   who constantly attend his residence
+4,6,6,and talk over their affairs of state
+5,6,6,These commonly concern petty internal matters
+6,2,2,for they are too selfish and too narrow-minded to care for anything but their own private concerns
+7,6,6,The grey beards circulate the orders of the chief amongst the village chiefs
+8,6,6,who are fined when they do not comply with them
+9,6,6,and hence all orders are pretty well obeyed .
+109 9
+ (7, 7),
+1,6,6,and judging from the progressive state of the world
+2,6,6,one is led to suppose that the African must soon either step out from his darkness
+3,6,6,or be superseded by a being superior to himself
+4,6,6,Could a government be formed for them like ours in India
+5,6,6,they would be saved
+6,6,6,but without it
+7,4,4,I fear there is very little chance
+8,6,6,for at present the African neither can help himself nor will he be helped about by others
+9,6,6,because his country is in such a constant state of turmoil he has too much anxiety on hand looking out for his food to think of anything else
+110 16
+ (6, 6),
+1,6,6,Could a government be formed for them like ours in India
+2,6,6,they would be saved
+3,6,6,but without it
+4,6,6,I fear there is very little chance
+5,6,6,for at present the African neither can help himself nor will he be helped about by others
+6,1,1,because his country is in such a constant state of turmoil he has too much anxiety on hand looking out for his food to think of anything else
+7,6,6,As his fathers ever did
+8,6,6,so does he
+9,6,6,He works his wife
+10,6,6,sells his children
+11,6,6,enslaves all he can lay hands upon
+12,6,6,and
+13,6,6,unless when fighting for the property of others
+14,6,6,contents himself with drinking
+15,6,6,singing
+16,6,6,and dancing like a baboon to drive dull care away .
+111 13
+ (10, 10),
+1,6,6,The slave in this new position finds himself much better off than he ever was in his life before
+2,6,6,with this exception
+3,6,6,that as a slave he feels himself much degraded in the social scale of society
+4,6,6,and his family ties are all cut off from him probably his relations have all been killed in the war in which he was captured
+5,6,6,Still
+6,6,6,after the first qualms have worn off
+7,6,6,we find him much attached to his master
+8,6,6,who feeds him and finds him in clothes in return for the menial services which he performs
+9,6,6,In a few years after capture
+10,0,0,or when  confidence has been gained by the attachment shown by the slave
+11,6,6,if the master is a trader in ivory
+12,6,6,he will intrust him with the charge of his stores
+13,6,6,and send him all over the interior of the continent to purchase for him both slaves and ivory
+112 13
+ (8, 7),
+1,6,6,Still
+2,6,6,after the first qualms have worn off
+3,6,6,we find him much attached to his master
+4,6,6,who feeds him and finds him in clothes in return for the menial services which he performs
+5,6,6,In a few years after capture
+6,6,6,or when confidence has been gained by the attachment shown by the slave
+7,6,2,if the master is a trader in ivory
+8,2,intrust,he will intrust him with the charge of his stores
+9,6,6,and send him all over the interior of the continent to purchase for him both slaves and ivory
+10,6,6,but should the master die
+11,6,6,according to the Mohammedan creed the slaves ought to be freed
+12,6,6,In Arabia this would be the case
+13,6,6,but at Zanzibar it more generally happens that the slave is willed to his successor .
+115 8
+ (6, 7),
+1,6,6,To call on the Sultan
+2,6,6,of course
+3,6,6,was our first duty
+4,6,6,He received us in his usually affable manner
+5,6,6,made many trite remarks concerning our plans
+6,3,3,was surprised
+7,6,3,if my only object in view was to see the great river running out of the lake
+8,6,6,that I did not go by the more direct route across the Masai country and Usoga
+117 12
+ (6, 5),
+1,6,6,On my return to Zanzibar
+2,6,6,the Brisk sailed for the Mauritius
+3,6,6,but fortune sent Grant and myself on a different cruise
+4,6,6,Sultan Majid
+5,6,0,having heard that a slaver was lying at Pangani
+6,0,anxious,and being anxious to show his good faith with the English
+7,6,6,begged me to take command of one his vessels of war and run it down
+8,6,6,Accordingly
+9,6,6,embarking at noon
+10,6,6,as soon as the vessel could be got ready
+11,6,6,we lay to that night at Tombat
+12,6,6,with a view of surprising the slaver next morning
+119 8
+ (2, 2),
+1,6,6,but a few soft words were found sufficient to make them all withdraw and settle the matter at issue by arbitration in some appointed place
+2,0,0,A few men without property can cross their lands fearlessly
+3,6,6,though a single individual with property would stand no chance
+4,6,6,for they are insatiable thieves
+5,6,6,But little is seen of these people on the journey
+6,6,6,as the chiefs take their taxes by deputy
+7,6,6,partly out of pride
+8,6,6,and partly because they think they can extort more by keeping in the mysterious distance .
+120 7
+ (3, 3),
+1,6,6,They both knew Hindustani
+2,6,6,but while Rahan 's services at sea had been short
+3,0,0,Baraka had served nearly all his life with Englishmen was the smartest and most intelligent negro I ever saw was invaluable to Colonel Rigby as a detector of slave traders
+4,6,6,and enjoyed his confidence completely so much so
+5,6,6,that he said
+6,6,6,on parting with him
+7,6,6,that he did not know where he should be able to find another man to fill his post .
+121 7
+ (3, 3),
+1,6,6,They both knew Hindustani
+2,6,6,but while Rahan 's services at sea had been short
+3,0,0,Baraka had served nearly all his life with Englishmen was the smartest and most intelligent negro I ever saw was invaluable to Colonel Rigby as a detector of slave traders
+4,6,6,and enjoyed his confidence completely so much so
+5,6,6,that he said
+6,6,6,on parting with him
+7,6,6,that he did not know where he should be able to find another man to fill his post .
+122 9
+ (4, 4),
+1,6,6,wo taxes in five miles was a thing unheard of
+2,6,6,and I heard no more about the matter
+3,6,6,until Bombay in the evening told me how Sheikh Said
+4,4,4,fearing awkward consequences
+5,6,6,had settled to give two dubuani
+6,6,6,one being taken from his own store
+7,6,6,Lion 's Claw also turned up again
+8,6,6,getting his cloths of yesterday one more being added from the Sheikh 's stores and he was then advised to go off quietly
+9,6,6,as I was a fire eater whom nobody dared approach after my orders had been issued .
+124 7
+ (2, 2),
+1,6,6,At the advice of Musa
+2,1,1,I sent Maula 's son off at night to tell the old chief how sorry I was to find the Arabs so hot-headed I could not even effect an arrangement with them
+3,6,6,It was a great pity
+4,6,6,for Manua Sera was so much liked by the Wanyamuezi
+5,6,6,they would
+6,6,6,had they been able
+7,6,6,have done anything to restore him .
+125 7
+ (3, 2),
+1,6,6,At the advice of Musa
+2,6,1,I sent Maula 's son off at night to tell the old chief how sorry I was to find the Arabs so hot-headed I could not even effect an arrangement with them
+3,1,pity,It was a great pity
+4,6,6,for Manua Sera was so much liked by the Wanyamuezi
+5,6,6,they would
+6,6,6,had they been able
+7,6,6,have done anything to restore him .
+126 16
+ (8, 8),
+1,6,6,Next day the non belligerent Arabs left in charge of the station
+2,6,6,headed by my old friends Abdulla and Mohinna
+3,6,6,came to pay their respects again
+4,6,6,recognising in me
+5,6,6,as they said
+6,6,6,a  "  personification of their sultan
+7,6,6,"   and therefore considering what they were doing only due to my rank
+8,1,1,They regretted with myself that Snay was so hot-headed
+9,6,6,for they themselves thought a treaty of peace would have been the best thing for them
+10,6,6,for they were more than half ruined already
+11,6,6,and saw no hope for the future
+12,6,6,Then
+13,6,6,turning to geography
+14,6,6,I told Abdulla all I had written and lectured in England concerning his stories about navigators on the N'yanza
+15,6,6,which I explained must be the Nile
+16,6,6,and wished to know if I should alter it in any way :
+127 13
+ (9, 8),
+1,6,6,27th and 28th
+2,6,6,I now gave all my men presents for the severe trials they had experienced in the wilderness
+3,6,6,forgetting
+4,6,6,as I told them
+5,6,6,the merciless manner in which they had plundered me
+6,6,6,but as I have a trifle more in proportion
+7,6,6,to the three sole remaining pagazis
+8,6,2,because they had not finished their work
+9,2,discontented,my men were all discontented
+10,6,6,and wished to throw back their presents
+11,6,6,saying I did not love them
+12,6,6,although they were  "  permanents
+13,6,6,"   as much as the  "  temporaries .  "
+128 11
+ (5, 5),
+1,6,6,Days rolled on
+2,6,6,and nothing was done in particular  beyond increasing my stock of knowledge of distant places and people
+3,6,6,enlarging my zoological collection
+4,6,6,and taking long series of astronomical observations until the 13th
+5,1,1,when the whole of Kaze was depressed by a sad scene of mourning and tears
+6,6,6,Some slaves came in that night having made their way through the woods from Ugogo
+7,6,6,avoiding the track to save themselves from detection  and gave information that Snay
+8,6,6,Jafu
+9,6,6,and five other Arabs
+10,6,6,had been killed
+11,6,6,as well as a great number of slaves .
+129 8
+ (2, 4),
+1,6,6,The Arabs
+2,1,grief,after the first burst of their grief was over
+3,6,6,came to me again in a body
+4,6,1,and begged me to assist them
+5,6,6,for they were utterly undone
+6,6,6,Manua Sera prevented their direct communication with their detachment at Mdaburu
+7,6,6,and that again was cut off from their caravans at Kanyenye by the Mzanza people
+8,6,6,and in fact all the Wagogo
+130 15
+ (15, 15),
+1,6,6,Her old mistress
+2,6,6,she said
+3,6,6,died well stricken in years
+4,6,6,and
+5,6,6,as she had succeeded her
+6,6,6,the people of her country invited Singinya to marry her
+7,6,6,because feuds had arisen about the rights of succession
+8,6,6,and it was better a prince
+9,6,6,whom they thought best suited by birth and good qualities
+10,6,6,should head their warriors
+11,6,6,and keep all in order
+12,6,6,At that moment Singinya was out in the field fighting his enemies
+13,6,6,and she was sure
+14,6,6,when he heard I was here
+15,1,1,that he would be very sorry he had missed seeing me .
+131 11
+ (9, 9),
+1,6,6,He used to trade in ivory
+2,6,6,on account of some Arabs at Zanzibar
+3,6,6,On crossing Usui
+4,6,6,he once had a fight with one of the chiefs of the country and killed him
+5,6,6,but he got through all right
+6,6,6,because the natives
+7,6,6,after two or three of their number had been killed
+8,6,6,dispersed
+9,4,4,and feared to come near his musket again
+10,6,6,He visited Uganda when the late king Sunna was living
+11,6,6,and even traded Usoga
+132 4
+ (3, 3),
+1,6,6,Adding a little advice of his own
+2,6,6,Sheikh Said pressed me to go on with the journey as fast as possible
+3,2,2,because all the Arabs had accused me of conspiring with Manua Sera
+4,6,6,and would turn against me unless I soon got away .
+134 8
+ (8, 8),
+1,6,6,after being humbugged so many times by his procrastination
+2,6,6,I gave Sheikh Said more letters and specimens
+3,6,6,with orders to take the Tots down to the coast as soon as practicable
+4,6,6,and started once more for the north
+5,6,6,expecting very shortly to hear of Musa 's death
+6,6,6,though he promised to follow me the very next day or die in the attempt
+7,6,6,and he also said he would bring on the four men required by Suwarora
+8,0,0,for I was fully satisfied in my mind that he would have marched with me then had he had the resolution to do so at all .
+135 9
+ (3, 3),(5, 3),
+1,6,6,but they came and went in the most tantalising manner
+2,6,6,notwithstanding I offered three times the hire that any merchant could afford to give
+3,1,1,Every day seemed to be worse and worse
+4,6,6,Some of Musa 's men came to get palm toddy for him
+5,1,weak,as he was too weak  to stand
+6,6,6,and was so cold nothing would warm him
+7,6,6,There was
+8,6,6,however
+9,6,6,no message brought for myself
+136 8
+ (1, 2),
+1,1,suffer,My patience was beginning to suffer again
+2,6,1,for I could not help thinking that the chiefs of the place were preventing their village men going with me in order that my presence here might ward of the Watuta
+3,6,6,so I called up the kirangozi
+4,6,6,who had thirteen  "  Watoto
+5,6,6,"   as they are called
+6,6,6,or children of his own
+7,6,6,wishing to go
+8,6,6,and asked him if he knew why no other men could be got .
+138 11
+ (9, 9),
+1,6,6,This provoked fresh squabbles
+2,6,6,The drums had beaten and the tax was settled
+3,6,6,I could not pay more
+4,6,6,The kirangozi
+5,6,6,however
+6,6,6,said he would not move a peg unless I gave something more
+7,6,6,else he would be seized on his way back
+8,6,6,His  "  children all said the same
+9,1,1,and as I thought Grant would only be worsted if I did not keep friends with the scoundrel
+10,6,6,I gave four yards more merikani
+11,6,6,and then went on my way .
+139 10
+ (7, 7),
+1,6,6,At length giving in
+2,6,6,I entered Ruhe 's boma
+3,6,6,the poles of which were decked with the skulls of his enemies stuck upon them
+4,6,6,Instead
+5,6,6,however
+6,6,6,of seeing him myself
+7,4,4,as he feared my evil eye
+8,6,6,I conducted the arrangements for the hongo through Baraka
+9,6,6,in the same way as I did at M'yonga 's
+10,6,6,directing that it should be limited to the small sum of one barsati and four yards kiniki .
+140 11
+ (2, 2),
+1,6,6,This was too provoking
+2,4,4,The perpetual worry had given Baraka a fever
+3,6,6,and had made me feel quite sick
+4,6,6,so I said
+5,6,6,if he ever mentioned a gun or lucifer s again
+6,6,6,I would fight the matter out with him
+7,6,6,for I had not come there to be bullied
+8,6,6,He then gave way
+9,6,6,and begged I would allow my men to fire a volley outside his boma
+10,6,6,as the Watuta were living behind a small line of granitic hills flanking the west of his district
+11,6,6,and he wished to show them what a powerful force he had got with him .
+141 13
+ (4, 5),
+1,6,6,I then told the Pig and Baraka to settle at once
+2,6,6,They no sooner did so than the drums beat
+3,6,6,and Makaka
+4,0,humour,in the best humour possible
+5,6,0,came over to say I had permission to go when I liked
+6,6,6,but he hoped I would give him a gun and a box of lucifer s
+7,6,6,This was too provoking
+8,6,6,The perpetual worry had given Baraka a fever
+9,6,6,and had made me feel quite sick
+10,6,6,so I said
+11,6,6,if he ever mentioned a gun or lucifer ss again
+12,6,6,I would fight the matter out with him
+13,6,6,for I had not come there to be bullied .
+142 11
+ (7, 10),
+1,6,6,Whilst engaged in this operation
+2,6,6,Baraka
+3,6,6,accompanied by Wadimoyo ( Heart ' s-stream )
+4,6,6,another of my freeman
+5,6,6,approached me in great consternation
+6,6,6,whispering to themselves
+7,4,fearful,They said they had some fearful news to communicate
+8,6,6,which
+9,6,6,when I heard it
+10,6,4,they knew would deter our progress :  it was of such great moment and magnitude
+11,6,6,they thought they could not deliver it then .
+143 9
+ (3, 3),
+1,6,6,Then Baraka said
+2,6,6,"  I have just heard from Makaka
+3,5,5,that a man who arrived from Usui only a few minutes ago has said Suwarora is so angry with the Arabs that he has detained one caravan of theirs in his country
+4,6,6,and
+5,6,6,separating the whole of their men
+6,6,6,has placed each of them in different bomas
+7,6,6,with orders to his village officers that
+8,6,6,in case the Watuta came into his country
+9,6,6,without further ceremony they were to be all put to death .  "
+144 14
+ (14, 14),
+1,6,6,This was a fearful drain on my store
+2,6,6,but the Pig
+3,6,6,seeing my concern
+4,6,6,merely laughed at it
+5,6,6,and said
+6,6,6,"  Oh
+7,6,6,these savage chiefs are all alike here
+8,6,6,you will have one of these taxes to pay every stage to Uyofu
+9,6,6,and then the heavy work will begin
+10,6,6,for all these men
+11,6,6,although they assume the dignity of chief to themselves
+12,6,6,are mere officers
+13,6,6,who have to pay tribute to Suwarora
+14,5,5,and he would be angry if they were shortcoming .  "
+145 11
+ (5, 5),
+1,6,6,These two slaves
+2,6,6,both of whom knew all the chiefs and languages up to and including Uganda
+3,6,6,promised me faithfully they would go with Bombay on to Usui
+4,6,6,and bring back porters in sufficient number for Grant and myself to go on together
+5,4,4,They laughed at the stories I told them of the terror that had seized Baraka and all the Wanguana
+6,6,6,and told me
+7,6,6,as old Musa had often done before
+8,6,6,that those men
+9,6,6,especially Baraka
+10,6,6,had from their first leaving Kaze made up their minds they would not enter Usui
+11,6,6,or go anywhere very far north .
+147 8
+ (7, 6),
+1,6,6,whilst in the valley there were not only magnificent trees of extraordinary height
+2,6,6,but also a surprising amount of the richest cultivation
+3,6,6,amongst which the banana may be said to prevail
+4,6,6,Notwithstanding this apparent richness in the land
+5,6,6,the Wanyambo
+6,6,2,living in their small squalid huts
+7,2,poor,seem poor
+8,6,6,The tobacco they smoke is imported from the coffee growing country of Uhaiya .
+148 9
+ (6, 6),
+1,6,6,Leaving the valley of Uthenga
+2,6,6,we rose over the spur of N'yamwara
+3,6,6,where we found we had attained the delightful altitude of 5000 odd feet
+4,6,6,Oh
+5,6,6,how we enjoyed it
+6,0,0,every one feeling so happy at the prospect of meeting so soon the good king Rumanika
+7,6,6,Tripping down the greensward
+8,6,6,we now worked our way to the Rozoka valley
+9,6,6,and pitched our tents in the village .
+149 9
+ (5, 6),
+1,6,6,Leaving the valley of Uthenga
+2,6,6,we rose over the spur of N'yamwara
+3,6,6,where we found we had attained the delightful altitude of 5000 odd feet
+4,6,6,Oh
+5,0,enjoyed,how we enjoyed it
+6,6,0,every one feeling so happy at the prospect of meeting so soon the good king Rumanika
+7,6,6,Tripping down the greensward
+8,6,6,we now worked our way to the Rozoka valley
+9,6,6,and pitched our tents in the village .
+150 10
+ (9, 10),
+1,6,6,Now
+2,6,6,the real facts of the case were these though I did not find them out at the time :   Baraka had bought some slaves with my effects
+3,6,6,and he had had a fight with some of my men because they tampered with his temporary wife a princess he had picked up in Phunze
+4,6,6,To obtain her hand he had given ten necklaces of MY beads to her mother
+5,6,6,and had agreed to the condition that he should keep the girl during the journey
+6,6,6,and after it was over
+7,6,6,and he took her home
+8,6,6,he would
+9,0,pleased,if his wife pleased him
+10,6,0,give her mother ten necklaces more .
+151 10
+ (4, 4),
+1,6,6,Ever anxious to push on with the journey
+2,6,6,as I felt every day 's delay only tended to diminish my means that is
+3,6,6,my beads and copper wire I instructed Bombay to take the under mentioned articles to Rumanika as a small sample of the products of my country
+4,1,1,to say I felt quite ashamed of their being so few and so poor
+5,6,6,but I hoped he would forgive my shortcomings
+6,6,6,as he knew I had been so often robbed on the way to him
+7,6,6,and I trusted
+8,6,6,in recollection of Musa
+9,6,6,he would give me leave to go on to Uganda
+10,6,6,for every day 's delay was consuming my supplies .
+152 9
+ (5, 5),
+1,6,6,Next morning
+2,6,6,however
+3,6,6,on seeing me actually preparing to start
+4,6,6,Lumeresi found he could not let me go until I increased the tax by three more cloths
+5,2,2,as some of his family complained that they had got nothing
+6,6,6,After some badgering
+7,6,6,I paid what he asked for
+8,6,6,and ordered the men to carry me out of the palace before anything else was done
+9,6,6,for I would not sleep another night where I was .
+153 8
+ (6, 6),
+1,6,6,Neither his father nor any of his forefathers had had such a great favour shown them
+2,6,6,He was alarmed
+3,6,6,he confessed
+4,6,6,when he heard we were coming to visit him
+5,6,6,thinking we might prove some fearful monsters that were not quite human
+6,0,0,but now he was delighted beyond all measure with what he saw of us
+7,6,6,A messenger should be sent at once to the king of Uganda to inform him of our intention to visit him
+8,6,6,with his own favourable report of us .
+155 12
+ (10, 9),
+1,6,6,Here some of the porters
+2,6,6,attempting to bolt
+3,6,6,were intercepted by my coast men and had a fight of it
+4,6,6,for they fired arrows
+5,6,6,and in return the coast men cut their bows
+6,6,6,The whole camp
+7,6,6,of course
+8,6,6,was in a blaze at this
+9,6,2,their tribe was insulted
+10,2,not stand it,and they would not stand it
+11,6,6,until Bombay put down their pride with a few strings of beads
+12,6,6,as the best means of restoring peace in the camp .
+156 11
+ (4, 4),
+1,6,6,At this place we were visited by the chief of the district
+2,6,6,Pongo ( bush boc )
+3,6,6,who had left his palace to see us and invite us his way
+4,4,4,for he feared we might give him the slip by going west into Uyofu
+5,6,6,He sent us a cow
+6,6,6,and said he should like some return
+7,6,6,for Masudi
+8,6,6,who had gone ahead
+9,6,6,only gave him a trifle
+10,6,6,professing to be our vanguard
+11,6,6,and telling him that as soon as we came with the large caravan we would satisfy him to his heart 's content .
+157 12
+ (6, 7),
+1,6,6,It was given
+2,6,6,after many angry words
+3,6,6,but it was the old story over again  he would have one more wire and a cloth
+4,6,6,or else he would not allow us to proceed on the morrow
+5,6,6,My men
+6,5,provoked,this time really provoked
+7,6,5,said they would fight it out
+8,6,6,a king breaking his word in that way
+9,6,6,But in the end the demand had to be paid
+10,6,6,and at last
+11,6,6,at 9 P
+12,6,6,the drums beat the satisfaction .
+158 10
+ (1, 1),
+1,0,0,Happily no one tried to pillage us here
+2,6,6,so on we went to Vikora 's
+3,6,6,another officer
+4,6,6,living at N'yakasenye
+5,6,6,under a sandstone hill
+6,6,6,faced with a dyke of white quartz
+7,6,6,over which leaped a small stream of water a seventy feet drop which
+8,6,6,it is said
+9,6,6,Suwarora sometimes paid homage to when the land was oppressed by drought
+10,6,6,Vikora 's father it was whom Sirboko of Mininga shot .
+159 13
+ (1, 1),
+1,0,0,Just then Bombay returned flushed with the excitement of a great success
+2,6,6,He had been in Masudi 's camp
+3,6,6,and had delivered my message to Insangez
+4,6,6,Asudi
+5,6,6,he said
+6,6,6,had been there a fortnight unable to settle his hongo
+7,6,6,for the great Mkama had not deigned to see him
+8,6,6,though the Arab had been daily to his palace requesting an interview
+9,6,6,"  Well
+10,6,6,"   I said
+11,6,6,"  that is all very interesting
+12,6,6,but what next
+13,6,6,will the big king see us
+160 12
+ (7, 7),
+1,6,6,On leaving this interesting place
+2,6,6,with the widespread information of all the surrounding countries I had gained
+3,6,6,my mind was so impressed with the topographical features of all this part of Africa
+4,6,6,that in my heart I resolved I would make Rumanika as happy as he had made me
+5,6,6,and asked K'yengo his doctor
+6,6,6,of all things I possessed what the king would like best
+7,3,3,To my surprise I then learnt that Rumanika had set his heart on the revolving rifle I had brought for Mtesa the one
+8,6,6,in fact
+9,6,6,which he had prevented my sending on to Uganda in the hands of Kachuchu
+10,6,6,and he would have begged me for it before had his high-minded dignity
+11,6,6,and the principle he had established of never begging for anything
+12,6,6,not interfered .
+162 7
+ (4, 4),
+1,6,6,Before breaking up
+2,6,6,Rumanika wished to give me any number of ivories I might like to mention
+3,6,6,even three or four hundred
+4,0,0,as a lasting remembrance that I had done him the honour of visiting Karague in his lifetime
+5,6,6,for though Dagara had given to coloured merchants
+6,6,6,he would be the first who had given to a white man
+7,6,6,Of course this royal offer was declined with politeness
+163 9
+ (6, 5),
+1,6,6,he must understand that it was not the custom of big men in my country to accept presents of value when we made visits of pleasure
+2,6,6,I had enjoyed my residence in Karague
+3,6,6,his intellectual conversations and his kind hospitality
+4,6,6,all of which I should record in my books to hand down to posterity
+5,6,0,but if he would give me a cow 's horn
+6,0,0,I would keep it as a trophy of the happy days I had spent in his country
+7,6,6,He gave me one
+8,6,6,measuring 3 feet 5 inches in length
+9,6,6,and 18.75 inches in circumference at the base .
+166 12
+ (1, 1),
+1,2,2,In the evening we had another row with my head men Baraka having accused Bombay of trying to kill him with magic
+2,6,6,Bombay
+3,6,6,who was so incessantly bullied by Baraka 's officious attempts to form party cliques opposed to the interests of the journey
+4,6,6,and get him turned out of the camp
+5,6,6,indiscreetly went to one of K'yengo 's men
+6,6,6,and asked him if he knew of any medicine that would affect the hearts of the Wanguana so as to incline them towards him
+7,6,6,and on the sub doctor saying Yes
+8,6,6,Bombay gave him some beads
+9,6,6,and bought the medicine required
+10,6,6,which
+11,6,6,put into a pot of pombe
+12,6,6,was placed by Baraka 's side .
+168 7
+ (7, 7),
+1,6,6,Some other travellers from the north again informed us that they had heard of Wanguana who attempted to trade in Gani and Chopi
+2,6,6,but were killed by the natives
+3,6,6,I now assured Rumanika that in two or three years he would have a greater trade with Egypt than he ever could have with Zanzibar
+4,6,6,for when I opened the road
+5,6,6,all those men he heard of would swarm up here to visit him
+6,6,6,however
+7,1,1,only laughed at my folly in proposing to go to a place of which all I heard was merely that every stranger who went there was killed
+169 10
+ (6, 6),
+1,6,6,He began to show a disinclination to allow my going there
+2,6,6,and though from the most friendly intention
+3,6,6,this view was alarming
+4,6,6,for one word from him could have ruined my projects
+5,6,6,As it was
+6,4,4,I feared my followers might take fright and refuse to advance with me
+7,6,6,I thought it good policy to talk of there being many roads leading through Africa
+8,6,6,so that Rumanika might see he had not got
+9,6,6,as he thought
+10,6,6,the sole key to the interior .
+170 15
+ (5, 5),
+1,6,6,Although
+2,6,6,however
+3,6,6,this very interesting people
+4,6,6,the Wahuma
+5,0,0,delight in supposing themselves to be of European origin
+6,6,6,they are forced to confess
+7,6,6,on closer examination
+8,6,6,that although they came in the first instance from the doubtful north
+9,6,6,they came latterly from the east
+10,6,6,as part of a powerful Wahuma tribe
+11,6,6,beyond Kidi
+12,6,6,who excel in arms
+13,6,6,and are so fierce no Kidi people
+14,6,6,terrible in war as these too are described to be
+15,6,6,can stand against them .
+171 11
+ (8, 8),
+1,6,6,after ordering all the seizures to be given up to Maula on behalf of the king
+2,6,6,and threatening to discharge any of my men who dared retain one item of the property
+3,6,6,I shut the door of my hut to do penance for two days
+4,6,6,giving orders that nobody but my cook Ilmas
+5,6,6,not even Bombay
+6,6,6,should come near me
+7,6,6,for the king had caused my men to sin had disgraced their red cloth and had inflicted on me a greater insult than I could bear
+8,1,1,I was ashamed to show my face
+9,6,6,Just as the door was closed
+10,6,6,other pages from the king brought the Whitworth rifle to be cleaned
+11,6,6,and demanded an admittance
+172 4
+ (2, 2),
+1,6,6,On Maula 's return
+2,0,0,I was told the king would not believe so generous a man as Bana could have sent him so few beads
+3,6,6,he believed most of my store must have been stolen on the road
+4,6,6,and would ask me about that to-morrow .
+173 9
+ (6, 6),
+1,6,6,He intimated that for the future I must fire a gun at the waiting hut whenever I entered the palace
+2,6,6,so that he might hear of my arrival
+3,6,6,for he had been up that morning
+4,6,6,and would have been glad to see me
+5,6,6,only the boys
+6,4,4,from fear of entering his cabinet
+7,6,6,had forged a lie
+8,6,6,and deprived him of any interview with me
+9,6,6,which he had long wished to get .
+174 12
+ (11, 11),
+1,6,6,In a little while I felt tired of the monotony
+2,6,6,and wished to hang up a curtain
+3,6,6,that I might lie down in privacy and sleep till the king was ready
+4,6,6,but the officers in waiting forbade this
+5,6,6,as contrary to law
+6,6,6,and left me the only alternative of walking up and down the court to kill time
+7,6,6,spreading my umbrella against the powerful rays of the sun
+8,6,6,A very little of that made me fidgety and impetuous
+9,6,6,which the Waganda noticed
+10,6,6,and
+11,1,1,from fear of the consequences
+12,6,6,they began to close the gate to prevent my walking away .
+175 11
+ (7, 7),
+1,6,6,Until now I did not feel sure where the various rush drains I had been crossing since leaving the Katonga valley all went to
+2,6,6,but here my mind was made up
+3,6,6,for I found a large volume of water going to the northwards
+4,6,6,I took off my clothes at the end of the bridge and jumped into the stream
+5,6,6,which I found was twelve yards or so broad
+6,6,6,and deeper than my height
+7,0,0,I was delighted beyond measure at this very surprising fact
+8,6,6,that I was indeed on the northern slopes of the continent
+9,6,6,and had
+10,6,6,to all appearance
+11,6,6,found one of the branches of the Nile 's exit from the N'yanza .
+176 11
+ (6, 5),
+1,6,6,"  Yes
+2,6,6,at Anguza
+3,6,6,"  Then you had two mothers and two fathers one set died at Anguja
+4,6,6,and the other set at Anguza
+5,6,2,you are a humbug
+6,2,dont believe,I dont believe you
+7,6,6,you are no Mguana
+8,6,6,but a slave who has been snatched from his family
+9,6,6,and does not know where any of his family are
+10,6,6,ah
+11,6,6,ah
+178 12
+ (4, 4),
+1,6,6,but Ntalo wont be done
+2,6,6,so retorts by saying
+3,6,6,"  Sangizo
+4,2,2,you may laugh at me because I am an orphan
+5,6,6,but what are you
+6,6,6,you are a savage a Mshezi
+7,6,6,you come from the Mashenzi
+8,6,6,and you wear skins
+9,6,6,not cloths
+10,6,6,as men do
+11,6,6,so hold your impudent tongue "
+12,6,6,and the camp pealed with merry boisterous laughter again .
+179 13
+ (1, 1),
+1,2,2,And all the men of the camp laugh together at the wretched Ntalo 's defeat
+2,6,6,but Ntalo wont be done
+3,6,6,so retorts by saying
+4,6,6,"  Sangizo
+5,6,6,you may laugh at me because I am an orphan
+6,6,6,but what are you
+7,6,6,you are a savage a Mshezi
+8,6,6,you come from the Mashenzi
+9,6,6,and you wear skins
+10,6,6,not cloths
+11,6,6,as men do
+12,6,6,so hold your impudent tongue "
+13,6,6,and the camp pealed with merry boisterous laughter again .
+180 22
+ (5, 6),
+1,6,6,The king acknowledged the truthfulness of their story
+2,6,6,saying he had heard the same himself
+3,6,6,and both Wakungu
+4,6,6,as is the custom in Uganda
+5,0,enthusiastic,thanked their lord in a very enthusiastic manner
+6,6,0,kneeling on the ground for no one can stand in the presence of his majesty in an attitude of prayer
+7,6,6,and throwing out their hands as they repeated the words N'yanzig
+8,6,6,N'yanzig
+9,6,6,ai N'yanzig Mkahma wangi
+10,6,6,etc
+11,6,6,etc
+12,6,6,for a considerable time
+13,6,6,when
+14,6,6,thinking they had done enough of this
+15,6,6,and heated with the exertion
+16,6,6,they threw themselves flat upon their stomachs
+17,6,6,and
+18,6,6,floundering about like fish on land
+19,6,6,repeated the same words over again and again
+20,6,6,and rose doing the same
+21,6,6,with their faces covered with earth
+22,6,6,for majesty in Uganda is never satisfied till subjects have groveled before it like the most abject worms .
+182 8
+ (7, 7),
+1,6,6,22d
+2,6,6,To-day the king went the round of his relations
+3,6,6,showing the beautiful things given him by the white man a clear proof that he was much favoured by the  "  spirits
+4,6,6,"   for neither his father nor any of his forefathers had been so recognised and distinguished by any  "  sign "   as a rightful inheritor to the Uganda throne :  an anti-Christian interpretation of omens
+5,6,6,as rife in these dark regions now as it was in the time of King Nebuchadnezzar
+6,6,6,At midnight the three muskets were returned
+7,0,0,and I was so pleased with the young king 's prompt attitude and honesty
+8,6,6,I begged he would accept them .
+186 12
+ (5, 5),
+1,6,6,Instead of admiring this childish pastime
+2,6,6,which in Uganda is considered royal sport
+3,6,6,I rather looked disdainful
+4,6,6,until
+5,1,1,apparently disappointed at my indifference
+6,6,6,he asked what the box I had brought contained
+7,6,6,On being told it was the medicine he desired
+8,6,6,he asked me to draw near
+9,6,6,and sent his courtiers away
+10,6,6,When only the interpreters and one confidential officer were left
+11,6,6,besides myself
+12,6,6,he wished to know if I could apply the medicine without its touching the afflicted part .
+188 17
+ (6, 6),(17, 6),
+1,6,6,We reached the Cowes by torchlight at 9 p
+2,6,6,when the king had a picnic dinner with me
+3,6,6,turned in with his women in great comfort
+4,6,6,and sent me off to a dreary hut
+5,6,6,where I had to sleep upon a grass strew floor
+6,3,3,I was surprised we had to walk so far
+7,6,6,when
+8,6,6,by appearance
+9,6,6,we might have boated it from the head of the creek all the way down
+10,6,6,but
+11,6,6,on inquiry
+12,6,6,was informed of the swampy nature of the ground at the head of the creek precluded any approach to the clear water there
+13,6,6,and hence the long overland journey
+14,6,6,which
+15,6,6,though fatiguing to the unfortunate women
+16,6,6,who had to trot the whole way behind Mtesa 's four mile an hour strides
+17,3,amusing,was very amusing .
+190 8
+ (5, 5),(7, 5),
+1,6,6,I now asked permission to speak with him on some important matters
+2,6,6,when he sent his women away and listened
+3,6,6,I said I felt anxious about the road on which Mabruki was travelling
+4,6,6,to which I added that I had ordered him to tell Petherick to come here or else to send property to the value of one thousand dollars
+5,4,4,and I felt anxious because some of the queen 's officers felt doubtful about Waganda being able to penetrate Kidi
+6,6,6,He said I need not concern myself on that score
+7,4,anxious,he was much more anxious for the white men to come here than even I was
+8,6,6,and he would not send my men into any danger
+297 6
+ (5, 4),
+1,6,6,They are so much waste paper
+2,6,6,Gentlemen
+3,6,6,the Indians are children
+4,6,4,If you give them presents
+5,4,be afraid of,they believe you to be afraid of them
+6,6,6,I will deal with them without presents
+443 12
+ (1, 1),
+1,3,3,The baron 's surprise found vent in a positive distortion of his features
+2,6,6,"  Ah
+3,6,6,"   said he
+4,6,6,in three different tones
+5,6,6,"  ah
+6,6,6,ah
+7,6,6,"   And as no one had offered him a seat
+8,6,6,he approached an arm chair and took possession of it
+9,6,6,exclaiming
+10,6,6,"  You will allow me
+11,6,6,I trust
+12,6,6,Those stairs have put me in such a state
+453 5
+ (1, 4),
+1,4,despair,The concierge was in despair
+2,6,6,"  Heavens
+3,6,6,"   he exclaimed
+4,6,4,"  so the master 's dead
+5,6,6,What a misfortune
+714 8
+ (8, 7),
+1,6,6,Of these they sent one to take their loot back to Kaze
+2,6,6,another to form a reserve force at Mdaburu
+3,6,6,on the east flank of the wilderness
+4,6,6,and a third
+5,6,6,headed by Snay and Jafu
+6,6,6,to attack Mzanza
+7,6,0,At the first onset Snay and Jafu carried everything before them
+8,0,3,and became so excited over the amount of their loot that they lost all feelings of care or precaution .
+715 9
+ (6, 7),
+1,6,6,Next morning
+2,6,6,then
+3,6,6,after giving the Tots over in charge of some men to escort them on to Kaze quietly
+4,6,6,I set our myself with a dozen men
+5,6,6,and the following evening I put up with Musa
+6,4,afraid,who told me Baraka had just left without one man all his slaves having become afraid to go
+7,6,4,since the news of the Arab alliance had reached Kaze
+8,6,6,Suwarora had ordered his subjects to run up a line of bomas to protect his frontier
+9,6,6,and had proclaimed his intention to kill every coast man who dared attempt to enter Usui .
+738 9
+ (9, 9),
+1,6,6,Next morning Camaralzaman woke up before the bird left its perch
+2,6,6,and no sooner did it take flight than he followed it again with as little success as the previous day
+3,6,6,only stopping to eat some herbs and fruit he found by the way
+4,6,6,In this fashion he spent ten days
+5,6,6,following the bird all day and spending the night at the foot of a tree
+6,6,6,whilst it roosted on the topmost bough
+7,6,6,On the eleventh day the bird and the prince reached a large town
+8,6,6,and as soon as they were close to its walls the bird took a sudden and higher flight and was shortly completely out of sight
+9,1,1,whilst Camaralzaman felt in despair at having to give up all hopes of ever recovering the talisman of the Princess Badoura .
+739 5
+ (1, 1),
+1,3,3,On first waking she was much surprised not to find the prince near her
+2,6,6,She called her women and asked if they knew where he was
+3,6,6,and whilst they were telling her that they had seen him enter the tent
+4,6,6,but had not noticed his leaving it
+5,6,6,she took up her belt and perceived that the little pouch was open and the talisman gone .
+740 8
+ (5, 4),
+1,6,6,She at once concluded that her husband had taken it and would shortly bring it back
+2,6,6,She waited for him till evening rather impatiently
+3,6,6,and wondering what could have kept him from her so long
+4,6,1,When night came without him she felt in despair and abused the talisman and its maker roundly
+5,1,grief,In spite of her grief and anxiety however
+6,6,6,she did not lose her presence of mind
+7,6,6,but decided on a courageous
+8,6,6,though very unusual step .
+741 8
+ (5, 4),
+1,6,6,She at once concluded that her husband had taken it and would shortly bring it back
+2,6,6,She waited for him till evening rather impatiently
+3,6,6,and wondering what could have kept him from her so long
+4,6,4,When night came without him she felt in despair and abused the talisman and its maker roundly
+5,4,anxiety,In spite of her grief and anxiety however
+6,6,6,she did not lose her presence of mind
+7,6,6,but decided on a courageous
+8,6,6,though very unusual step .
+742 12
+ (6, 6),
+1,6,6,The prince
+2,6,6,who had watched the whole scene with much interest
+3,6,6,now drew near the spot where it happened
+4,6,6,and glancing at the dead bird he noticed something red lying near which had evidently fallen out of its inside
+5,6,6,He picked it up
+6,3,3,and what was his surprise when he recognised the Princess Badoura 's talisman which had been the cause of many misfortunes
+7,6,6,It would be impossible to describe his joy
+8,6,6,he kissed the talisman repeatedly
+9,6,6,wrapped it up
+10,6,6,and carefully tied it round his arm
+11,6,6,For the first time since his separation from the princess he had a good night
+12,6,6,and next morning he was up at day break and went cheerfully to ask what work he should do .
+743 3
+ (3, 3),
+1,6,6,He then led the gardener to the cave
+2,6,6,and having shown him the treasure stored up there
+3,0,0,said how happy it made him that Heaven should in this way reward his kind host 's many virtues and compensate him for the privations of many years .
+744 11
+ (5, 5),
+1,6,6,It may well be believed that the prince felt in despair at this fresh misfortune
+2,6,6,which obliged him to spend another year in a strange and distasteful country
+3,6,6,Moreover
+4,6,6,he had once more lost the Princess Badoura 's talisman
+5,4,4,which he feared he might never see again
+6,6,6,There was nothing left for him but to hire the garden as the old man had done
+7,6,6,and to live on in the cottage
+8,6,6,As he could not well cultivate the garden by himself
+9,6,6,he engaged a lad to help him
+10,6,6,and to secure the rest of the treasure he put the remaining gold dust into fifty more jars
+11,6,6,filling them up with olives so as to have them ready for transport .
+745 7
+ (3, 4),
+1,6,6,"  Alas
+2,6,6,Sire
+3,1,1,I bring sad news to your Majesty
+4,6,1,There can be no doubt that the prince has completely lost his senses
+5,6,6,He declares that he saw a lady sleeping on his couch last night
+6,6,6,and the state you see me in proves how violent contradiction makes him
+7,6,6,He then gave a minute account of all the prince had said and done .
+746 1
+ (1, 1),
+1,5,5,"  I feel really very angry with your slave for alarming his Majesty by the news he brought him .  "
+747 8
+ (6, 8),
+1,6,6,The emir accepted the condition
+2,6,6,and the king led him to the princess
+3,6,6,who
+4,6,6,veiling her face
+5,6,6,remarked
+6,3,3,"  I am surprised
+7,6,6,sire
+8,6,3,that you should bring an unknown man into my presence "   .
+748 6
+ (4, 6),
+1,6,6,Now it happened that after things had been going on in this way for some time the nurse 's son Marzavan returned from his travels
+2,6,6,He had been in many countries and learnt many things
+3,6,6,including astrology
+4,1,1,Needless to say that one of the first things his mother told him was the sad condition of the princess
+5,6,6,his foster sister
+6,6,1,Marzavan asked if she could not manage to let him see the princess without the king 's knowledge .
+749 9
+ (4, 4),
+1,6,6,"  If what you tell me
+2,6,6,Princess
+3,6,6,is indeed the case
+4,1,1,I do not despair of finding comfort for you
+5,6,6,Take patience yet a little longer
+6,6,6,I will set out at once to explore other countries
+7,6,6,and when you hear of my return be sure that he for whom you sigh is not far off
+8,6,6,So saying
+9,6,6,he took his leave and started next morning on his travels .
+750 6
+ (2, 2),
+1,6,6,"  Now is the time to perform your promise
+2,2,2,I am so impatient to see my beloved princess once more that I am sure I shall fall ill again if we do not start soon
+3,6,6,The one obstacle is my father 's tender care of me
+4,6,6,for
+5,6,6,as you may have noticed
+6,6,6,he cannot bear me out of his sight .  "
+752 5
+ (5, 5),
+1,6,6,In answer to Camaralzaman 's inquiries as to the reason for this
+2,6,6,Marzavan replied that the only chance they had of continuing their journey was to divert attention by creating the idea of the prince 's death
+3,6,6,"  Your father will doubtless be plunged in the deepest grief
+4,6,6,"   he went on
+5,0,0,"  but his joy at your return will be all the greater .  "
+753 11
+ (1, 1),
+1,1,1,The prince in despair at all his useless trouble began to think whether he had better return to the camp
+2,6,6,"  But
+3,6,6,"   thought he
+4,6,6,"  how shall I find my way back
+5,6,6,Must I go up hill or down
+6,6,6,I should certainly lose my way in the dark
+7,6,6,even if my strength held out
+8,6,6,Overwhelmed by hunger
+9,6,6,thirst
+10,6,6,fatigue and sleep
+11,6,6,he ended by spending the night at the foot of the tree .
+761 38
+ (30, 30),
+1,6,6,At daylight we wandered inland
+2,6,6,and soon saw some huts
+3,6,6,to which we directed our steps
+4,6,6,As we drew near their black inhabitants swarmed out in great numbers and surrounded us
+5,6,6,and we were led to their houses
+6,6,6,and as it were divided among our captors
+7,6,6,I with five others was taken into a hut
+8,6,6,where we were made to sit upon the ground
+9,6,6,and certain herbs were given to us
+10,6,6,which the blacks made signs to us to eat
+11,6,6,Observing that they themselves did not touch them
+12,6,6,I was careful only to pretend to taste my portion
+13,6,6,but my companions
+14,6,6,being very hungry
+15,6,6,rashly ate up all that was set before them
+16,6,6,and very soon I had the horror of seeing them become perfectly mad
+17,6,6,Though they chattered incessantly I could not understand a word they said
+18,6,6,nor did they heed when I spoke to them
+19,6,6,The savages now produced large bowls full of rice prepared with cocoanut oil
+20,6,6,of which my crazy comrades ate eagerly
+21,6,6,but I only tasted a few grains
+22,6,6,understanding clearly that the object of our captors was to fatten us speedily for their own eating
+23,6,6,and this was exactly what happened
+24,6,6,My unlucky companions having lost their reason
+25,6,6,felt neither anxiety nor fear
+26,6,6,and ate greedily all that was offered them
+27,6,6,So they were soon fat and there was an end of them
+28,6,6,but I grew leaner day by day
+29,6,6,for I ate but little
+30,4,4,and even that little did me no good by reason of my fear of what lay before me
+31,6,6,However
+32,6,6,as I was so far from being a tempting morsel
+33,6,6,I was allowed to wander about freely
+34,6,6,and one day
+35,6,6,when all the blacks had gone off upon some expedition leaving only an old man to guard me
+36,6,6,I managed to escape from him and plunged into the forest
+37,6,6,running faster the more he cried to me to come back
+38,6,6,until I had completely distanced him .
+765 25
+ (2, 19),(20, 19),
+1,6,6,Persecuted by ill fortune
+2,1,grief,and stricken with grief
+3,6,6,there seemed to be only one means of safety left to me
+4,6,6,I shaved my beard and my eyebrows
+5,6,6,and put on the dress of a calender
+6,6,6,in which it was easy for me to travel without being known
+7,6,6,I avoided the towns till I reached the kingdom of the famous and powerful Caliph
+8,6,6,haroun al raschid
+9,6,6,when I had no further reason to fear my enemies
+10,6,6,It was my intention to come to Bagdad and to throw myself at the feet of his Highness
+11,6,6,who would
+12,6,6,I felt certain
+13,6,6,be touched by my sad story
+14,6,6,and would grant me
+15,6,6,besides
+16,6,6,his help and protection
+17,6,6,hat you ask is impossible
+18,6,6,"   she answered
+19,6,1,"  but stay here with me instead
+20,1,0,and we can be happy
+21,6,6,and all you will have to do is to betake yourself to the forest every tenth day
+22,6,6,when I am expecting my master the genius
+23,6,6,He is very jealous
+24,6,6,as you know
+25,6,6,and will not suffer a man to come near me .  "
+766 8
+ (3, 3),
+1,6,6,"  Princess
+2,6,6,"   I replied
+3,4,4,"  I see it is only fear of the genius that makes you act like this
+4,6,6,For myself
+5,6,6,I dread him so little that I mean to break his talisman in pieces
+6,6,6,Awful though you think him
+7,6,6,he shall feel the weight of my arm
+8,6,6,and I herewith take a solemn vow to stamp out the whole race .  "
+767 8
+ (5, 5),
+1,6,6,"  Princess
+2,6,6,"   I replied
+3,6,6,"  I see it is only fear of the genius that makes you act like this
+4,6,6,For myself
+5,4,4,I dread him so little that I mean to break his talisman in pieces
+6,6,6,Awful though you think him
+7,6,6,he shall feel the weight of my arm
+8,6,6,and I herewith take a solemn vow to stamp out the whole race .  "
+769 25
+ (20, 20),
+1,6,6,I was about to fall on my knees and thank the princess but she did not give me time
+2,6,6,Turning to the Sultan
+3,6,6,her father
+4,6,6,she said
+5,6,6,"  Sire
+6,6,6,I have gained the battle
+7,6,6,but it has cost me dear
+8,6,6,The fire has penetrated to my heart
+9,6,6,and I have only a few moments to live
+10,6,6,This would not have happened if I had only noticed the last pomegranate seed and eaten it like the rest
+11,6,6,It was the last struggle of the genius
+12,6,6,and up to that time I was quite safe
+13,6,6,But having let this chance slip I was forced to resort to fire
+14,6,6,and in spite of all his experience I showed the genius that I knew more than he did
+15,6,6,He is dead and in ashes
+16,6,6,but my own death is approaching fast
+17,6,6,"  My daughter
+18,6,6,"   cried the Sultan
+19,6,6,"  how sad is my condition
+20,3,3,I am only surprised I am alive at all
+21,6,6,The eunuch is consumed by the flames
+22,6,6,and the prince whom you have delivered has lost the sight of one eye
+23,6,6,He could say no more
+24,6,6,for sobs choked his voice
+25,6,6,and we all wept together .
+771 7
+ (6, 5),
+1,6,6,The prince could hardly believe his ears
+2,6,6,and rode off as hard as he could
+3,6,6,He found his way
+4,6,6,and arrived safe and sound at his father 's house
+5,6,5,where he told him of the danger he had run because of the grand vizir 's carelessness
+6,5,5,The king was very angry
+7,6,6,and had him strangled immediately .
+772 8
+ (3, 2),
+1,6,6,Whilst she was crying the grand vizir came in and asked if the fish were ready
+2,6,3,She told him all that had happened
+3,3,3,and he was much surprised
+4,6,6,He sent at once for the fisherman
+5,6,6,and when he came said to him
+6,6,6,"  Fisherman
+7,6,6,bring me four more fish like you have brought already
+8,6,6,for an accident has happened to them so that they cannot be served up to the Sultan .  "
+786 8
+ (2, 2),
+1,6,6,The prince was not asleep
+2,1,1,and as he lay awake moaning over all the sad events which had separated him from his wife
+3,6,6,he thought he heard a knock at the garden door
+4,6,6,He went to open it
+5,6,6,and was immediately seized by the captain and sailors
+6,6,6,who without a word of explanation forcibly bore him off to the boat
+7,6,6,which took them back to the ship without loss of time
+8,6,6,No sooner were they on board than they weighed anchor and set sail .
+787 5
+ (1, 1),
+1,3,3,Camaralzaman was much surprised at hearing the king whom he never suspected of being a woman in disguise asserting their acquaintance
+2,6,6,for he felt sure he had never seen her before
+3,6,6,However he received all the praises bestowed on him with becoming modesty
+4,6,6,and prostrating himself
+5,6,6,said :
+788 9
+ (3, 6),
+1,6,6,Camaralzaman took the talisman and
+2,6,6,holding it to the light
+3,3,3,cried with surprise
+4,6,6,"  Sire
+5,6,6,you ask me the use of this talisman
+6,6,3,Alas
+7,6,6,hitherto it has been only a source of misfortune to me
+8,6,6,being the cause of my separation from the one I love best on earth
+9,6,6,The story is so sad and strange that I am sure your Majesty will be touched by it if you will permit me to tell it you .  "
+789 6
+ (3, 4),
+1,6,6,"  Do not expect ever to see the king again
+2,6,6,"   said the princess
+3,0,joy,as she wiped the tears of joy from her eyes
+4,6,0,"  in me you see the king
+5,6,6,Let us sit down
+6,6,6,and I will tell you all about it .  "
+790 2
+ (1, 1),
+1,3,3,When the king arrived great was his surprise at finding a strange lady in company of the grand treasurer who had no actual right to enter the private apartment
+2,6,6,Seating himself he asked for the king .
+791 9
+ (5, 5),
+1,6,6,This advice appearing reasonable
+2,6,6,Khacan decided to follow it
+3,6,6,but his wrath against his son did not abate
+4,6,6,Noureddin dared not appear all that day
+5,4,4,and fearing to take refuge with his usual associates in case his father should seek him there
+6,6,6,he spent the day in a secluded garden where he was not known
+7,6,6,He did not return home till after his father had gone to bed
+8,6,6,and went out early next morning before the vizir awoke
+9,6,6,and these precautions he kept up during an entire month .
+792 6
+ (3, 3),
+1,6,6,The Caliph haroun al raschid
+2,6,6,chancing at that moment to open a window in the saloon of his palace looking on the garden
+3,3,3,was surprised to see the pavilion brilliantly illuminated
+4,6,6,Calling the grand vizir
+5,6,6,Giafar
+6,6,6,he said to him :
+793 11
+ (11, 11),
+1,6,6,That morning the princess rose earlier than she had done since she had been carried into Africa by the magician
+2,6,6,whose company she was forced to endure once a day
+3,6,6,She
+4,6,6,however
+5,6,6,treated him so harshly that he dared not live there altogether
+6,6,6,As she was dressing
+7,6,6,one of her women looked out and saw Aladdin
+8,6,6,The princess ran and opened the window
+9,6,6,and at the noise she made Aladdin looked up
+10,6,6,She called to him to come to her
+11,0,0,and great was the joy of these lovers at seeing each other again .
+796 26
+ (10, 13),
+1,6,6,Meanwhile
+2,6,6,Prince Firouz Schah had gone gaily up into the air
+3,6,6,and for the space of an hour continued to ascend higher and higher
+4,6,6,till the very mountains were not distinguishable from the plains
+5,6,6,Then he began to think it was time to come down
+6,6,6,and took for granted that
+7,6,6,in order to do this
+8,6,6,it was only needful to turn the screw the reverse way
+9,6,6,but
+10,3,3,to his surprise and horror
+11,6,6,he found that
+12,6,6,turn as he might
+13,6,3,he did not make the smallest impression
+14,6,6,He then remembered that he had never waited to ask how he was to get back to earth again
+15,6,6,and understood the danger in which he stood
+16,6,6,Luckily
+17,6,6,he did not lose his head
+18,6,6,and set about examining the horse 's neck with great care
+19,6,6,till at last
+20,6,6,to his intense joy
+21,6,6,he discovered a tiny little peg
+22,6,6,much smaller than the other
+23,6,6,close to the right ear
+24,6,6,This he turned
+25,6,6,and found him self dropping to the earth
+26,6,6,though more slowly than he had left it .
+797 16
+ (11, 12),
+1,6,6,"  I do not know
+2,6,6,Princess
+3,6,6,how to express my gratitude for your obliging offer
+4,6,6,which I would accept at once if it were not for the recollection of all the uneasiness the King my father must be suffering on my account
+5,6,6,I should be unworthy indeed of all the love he showers upon me
+6,6,6,if I did not return to him at the first possible moment
+7,6,6,For
+8,6,6,while I am enjoying the society of the most amiable of all princesses
+9,6,6,he is
+10,6,6,I am quite convinced
+11,1,grief,plunged in the deepest grief
+12,6,1,having lost all hope of seeing me again
+13,6,6,I am sure you will understand my position
+14,6,6,and will feel that to remain away one instant longer than is necessary would not only be ungrateful on my part
+15,6,6,but perhaps even a crime
+16,6,6,for how do I know if my absence may not break his heart
+798 12
+ (6, 6),
+1,6,6,"  Princess
+2,6,6,"   he added
+3,6,6,"  it may be that in your heart you class me with those false lovers whose devotion cannot stand the test of absence
+4,6,6,If you do
+5,6,6,you wrong me
+6,4,4,and were it not for fear of offending you
+7,6,6,I would beseech you to come with me
+8,6,6,for my life can only be happy when passed with you
+9,6,6,As for your reception at the Persian Court
+10,6,6,it will be as warm as your merits deserve
+11,6,6,and as for what concerns the King of Bengal
+12,6,6,he must be much more indifferent to your welfare than you have led me to believe if he does not give his consent to our marriage .  "
+799 10
+ (10, 10),
+1,6,6,The prince at once seized the opening thus given him
+2,6,6,and told the whole story of his treatment by the Princess of Bengal
+3,6,6,not even concealing the fact that she had fallen in love with him
+4,6,6,"  And
+5,6,6,Sire
+6,6,6,"   ended the prince
+7,6,6,"  having given my royal word that you would not refuse your consent to our marriage
+8,6,6,I persuaded her to return with me on the Indian 's horse
+9,6,6,I have left her in one of your Highness 's country houses
+10,4,4,where she is waiting anxiously to be assured that I have not promised in vain
+800 9
+ (5, 5),
+1,6,6,The Sultan was transported with delight on learning the result of the interview
+2,6,6,and his opinion of the doctor 's skill was raised still higher when
+3,6,6,on the following day
+4,6,6,the princess behaved towards him in such a way as to persuade him that her complete cure would not be long delayed
+5,0,0,However he contented himself with assuring her how happy he was to see her health so much improved
+6,6,6,and exhorted her to make every use of so clever a physician
+7,6,6,and to repose entire confidence in him
+8,6,6,Then he retired
+9,6,6,without awaiting any reply from the princess .
+801 10
+ (10, 10),
+1,6,6,They obtained permission of the Sultan to take up their abode in the palace for some weeks
+2,6,6,and never left their sister night or day
+3,6,6,When at last a little boy
+4,6,6,beautiful as the sun
+5,6,6,was born
+6,6,6,they laid him in his cradle and carried it down to a canal which passed through the grounds of the palace
+7,6,6,Then
+8,6,6,leaving it to its fate
+9,6,6,they informed the Sultan that instead of the son he had so fondly desired the Sultana had given birth to a puppy
+10,1,1,At this dreadful news the Sultan was so overcome with rage and grief that it was with great difficulty that the grand vizir managed to save the Sultana from his wrath .
+802 33
+ (24, 24),
+1,6,6,When the dervish saw that the prince 's mind was made up
+2,6,6,he drew a ball from a bag that lay near him
+3,6,6,and held it out
+4,6,6,"  If it must be so
+5,6,6,"   he said
+6,6,6,with a sigh
+7,6,6,"  take this
+8,6,6,and when you have mounted your horse throw the ball in front of you
+9,6,6,It will roll on till it reaches the foot of a mountain
+10,6,6,and when it stops you will stop also
+11,6,6,You will then throw the bridle on your horse 's neck without any fear of his straying
+12,6,6,and will dismount
+13,6,6,On each side you will see vast heaps of big black stones
+14,6,6,and will hear a multitude of insulting voices
+15,6,6,but pay no heed to them
+16,6,6,and
+17,6,6,above all
+18,6,6,beware of ever turning your head
+19,6,6,If you do
+20,6,6,you will instantly become a black stone like the rest
+21,6,6,For those stones are in reality men like yourself
+22,6,6,who have been on the same quest
+23,6,6,and have failed
+24,4,4,as I fear that you may fail also
+25,6,6,If you manage to avoid this pitfall
+26,6,6,and to reach the top of the mountain
+27,6,6,you will find there the Talking Bird in a splendid cage
+28,6,6,and you can ask of him where you are to seek the Singing Tree and the Golden Water
+29,6,6,That is all I have to say
+30,6,6,You know what you have to do
+31,6,6,and what to avoid
+32,6,6,but if you are wise you will think of it no more
+33,6,6,but return whence you have come .  "
+804 11
+ (4, 4),
+1,6,6,When
+2,6,6,however
+3,6,6,the same thing happened a second time
+4,4,4,they feared that the Sultan might be angry with them for their carelessness
+5,6,6,But he took it in good part
+6,6,6,and
+7,6,6,drawing three little golden balls from his purse
+8,6,6,he held them out to Prince Bahman
+9,6,6,saying
+10,6,6,"  Put these in your bosom and you will not forget a third time
+11,6,6,for when you remove your girdle to-night the noise they will make in falling will remind you of my wishes .  "
+805 18
+ (15, 14),
+1,6,6,The Princess Parizade was much disturbed at the news
+2,6,6,and did not conceal her feelings
+3,6,6,"  Your meeting with the Sultan is very honourable to you
+4,6,6,"   she said
+5,6,6,"  and will
+6,6,6,I dare say
+7,6,6,be of service to you
+8,6,6,but it places me in a very awkward position
+9,6,6,It is on my account
+10,6,6,I know
+11,6,6,that you have resisted the Sultan 's wishes
+12,6,6,and I am very grateful to you for it
+13,6,6,But kings do not like to have their offers refused
+14,6,1,and in time he would bear a grudge against you
+15,1,unhappy,which would render me very unhappy
+16,6,6,Consult the Talking Bird
+17,6,6,who is wise and far seeing
+18,6,6,and let me hear what he says .  "
+806 3
+ (3, 3),
+1,6,6,"  With the utmost pleasure
+2,6,6,"   replied the Sultan
+3,4,4,"  and as I am all impatience to see the sister of such accomplished young men you may expect me the day after to-morrow
+830 11
+ (5, 5),
+1,6,6,Next day I joined Grant once more
+2,6,6,and found he had collected a few Sorombo men
+3,6,6,hoping to follow after me
+4,6,6,I then told him all my mishaps in Sorombo
+5,4,4,as well as of the  "  blue devil "   frights that had seized all my men
+6,6,6,I felt greatly alarmed about the prospects of the expedition
+7,6,6,scarcely knowing what I should do
+8,6,6,I resolved at last
+9,6,6,if everything else failed
+10,6,6,to make up a raft at the southern end of the N'yanza
+11,6,6,and try to go up to the Nile in that way .
+831 11
+ (6, 6),
+1,6,6,These separations from Grant were most annoying
+2,6,6,but they could not be helped
+3,6,6,so
+4,6,6,when all was settled here
+5,6,6,I bade him adieu  both of us saying we would do our best and set out on my journey
+6,4,4,thinking what a terrible thing it was I could not prevail on my men to view things as I did
+7,6,6,Neither my experience with native chiefs
+8,6,6,nor my money and guns
+9,6,6,were of any use to me
+10,6,6,simply because my men were such incomprehensible fools
+11,6,6,though many of them who had travelled before ought to have known better .
+832 7
+ (6, 6),
+1,6,6,When within a few miles of the palace we were ordered to stop and wait for Kachuchu 's return
+2,6,6,but no sooner put up in a plaintain grove
+3,6,6,where pombe was brewing
+4,6,6,and our men were all taking a suck at it
+5,6,6,than the worthy arrived to call us on the same instant
+6,4,4,as the king was most anxious to see us
+7,6,6,The love of good beer of course made our men all too tired to march again
+833 18
+ (10, 10),
+1,6,6,More reports came to us about Suwarora
+2,6,6,all of the most inviting nature
+3,6,6,but nothing else worth mentioning occurred until we reached the border of Msalala
+4,6,6,where an officer of M'yonga 's
+5,6,6,who said he was a bigger man than his chief
+6,6,6,demanded a tax
+7,6,6,which I refused
+8,6,6,and the dispute ended in his snatching Nasib 's gun out of his hands
+9,6,6,I thought little of this affair myself
+10,1,1,beyond regretting the delay which it might occasion
+11,6,6,as M'yonga
+12,6,6,I knew
+13,6,6,would not permit such usage
+14,6,6,if I chose to go round by his palace and make a complaint
+15,6,6,Both Bui and Nasib
+16,6,6,however
+17,6,6,were so greatly alarmed
+18,6,6,that before I could say a word they got the gun back again by paying four yards merikani .
+834 14
+ (4, 5),
+1,6,6,Lumeresi
+2,6,6,on hearing this
+3,6,6,first consulted me
+4,2,displeased,saying his chief was displeased with him
+5,6,2,accusing him of being too proud
+6,6,6,in having at once two such distinguished guests
+7,6,6,and meant by these acts only to humble him
+8,6,6,I replied
+9,6,6,if that was the case
+10,6,6,the sooner he allowed us to go
+11,6,6,the better it would be for him
+12,6,6,and
+13,6,6,reminding him of his original promise to give me assistance on to Usui
+14,6,6,said he could do so now with a very good grace .
+837 8
+ (2, 3),
+1,6,6,Nasib then returned to inform us that the king had heard our complaint
+2,1,sorry,and was sorry for it
+3,6,1,but said he could not interfere with the rights of his officers
+4,6,6,He did not wish himself to take anything from us
+5,6,6,and hoped we would come on to him as soon as we had satisfied his officers with the trifle they wanted
+6,6,6,Virembo then sent us some pombe by his officers
+7,6,6,and begged us to have patience
+8,6,6,for he was then fleecing Masudi at the encamping ground near the palace .
+839 3
+ (3, 3),
+1,6,6,Whilst Baraka 's arguments all rested the other way
+2,6,6,that no one could tell what was ahead of him Bana had sold himself to luck and the devil but though he did not care for his own safety
+3,2,2,he ought not to sacrifice the lives of others Bombay and his lot were fools for their pains in trusting to him .
+840 10
+ (3, 4),(3, 5),
+1,6,6,At his invitation we now crossed over the spur to the Ingezi Kagera side
+2,6,6,when
+3,3,3,to surprise me
+4,6,3,the canoes I had come up the lake in appeared before us
+5,6,3,They had gone out of the lake at its northern end
+6,6,6,paddled into
+7,6,6,and then up the Kagera to where we stood
+8,6,6,showing
+9,6,6,by actual navigation
+10,6,6,the connection of these highland lakes with the rivers which drain the various spurs of the Mountains of the Moon .
+841 5
+ (4, 3),
+1,6,6,A man from Ruanda then told us of the Wilyanwantu ( men eaters )
+2,6,6,who disdained all food but human flesh
+3,6,2,and Rumanika confirmed the statement
+4,2,sceptical,Though I felt very sceptical about it
+5,6,6,I could not help thinking it a curious coincidence that the position they were said to occupy agreed with Petherick 's Nyam Nyams ( men eaters ) .
+843 14
+ (4, 5),
+1,6,6,Next day
+2,6,6,after crossing more of those abominable rush drains
+3,6,6,whilst in sight of the Victoria N'yanza
+4,0,beautiful,we ascended the most beautiful hills
+5,6,0,covered with verdure of all descriptions
+6,6,6,At Meruka
+7,6,6,where I put up
+8,6,6,there resided some grandees
+9,6,6,the chief of whom was the king 's aunt
+10,6,6,She sent me a goat
+11,6,6,a hen
+12,6,6,a basket of eggs
+13,6,6,and some plantains
+14,6,6,in return for which I sent her a wire and some beads .
+844 13
+ (8, 7),
+1,6,6,No one knew of a lake to supply the waters
+2,6,6,nor where they came from
+3,6,6,That they flowed into the lake there was no doubt as I could see by the trickling waters in some few places and they lay exactly on the equator
+4,6,6,Rising out of the valley
+5,6,6,I found all the country just as hilly as before
+6,6,6,but many of the rush drains going to northward
+7,6,3,and in the dells were such magnificent trees
+8,3,3,they quite took me by surprise
+9,6,6,clean trunked
+10,6,6,they towered up just as so many great pillars
+11,6,6,and then spread out their high branches like a canopy over us
+12,6,6,I thought of the blue gums of Australia
+13,6,6,and believed these would beat them .
+845 13
+ (2, 3),(2, 4),
+1,6,6,I then ( 16th ) very much wished to go and see the escape of the Mwerango river
+2,2,sceptical,as I still felt a little sceptical as to its origin
+3,6,2,whether or not it came off those smaller lakes I had seen on the road the day before I crossed the river
+4,6,2,but no one would listen to my project
+5,6,6,They all said I must have the king 's sanction first
+6,6,6,else people
+7,6,6,from not knowing my object
+8,6,6,would accuse me of practising witchcraft
+9,6,6,and would tell their king so
+10,6,6,They still all maintained that the river did come out of the lake
+11,6,6,and said
+12,6,6,if I liked to ask the king 's leave to visit the spot
+13,6,6,then they would go and show it me .
+846 15
+ (5, 5),
+1,6,6,The day was now gone
+2,6,6,so torches were lit
+3,6,6,and we were ordered to go
+4,6,6,though as yet I had not been able to speak one word I wished to impart about Petherick and Grant
+5,4,4,for my interpreters were so afraid of the king they dared not open their mouths until they were spoken to
+6,6,6,The king was now rising to go
+7,6,6,when
+8,6,6,in great fear and anxiety that the day would be lost
+9,6,6,I said
+10,6,6,in Kisuahili
+11,6,6,"  I wish you would send a letter by post to Grant
+12,6,6,and also send a boat up the Kitangule
+13,6,6,as far as Rumanika 's palace
+14,6,6,for him
+15,6,6,for he is totally unable to walk .  "
+848 7
+ (5, 5),
+1,6,6,I then sent Bombay to see the queen
+2,6,6,to ask after her health
+3,6,6,beg for a hut in the palace enclosures
+4,6,6,and say I should have gone myself
+5,4,4,only I feared her gate might be shut
+6,6,6,and I cannot go backwards and forwards so far in the sun without a horse or an elephant to ride upon
+7,6,6,She begged I would come next morning .
+849 16
+ (9, 11),
+1,6,6,5th
+2,6,6,Alarmed at having got involved in something that looked like court intrigues
+3,6,6,I called up N'yamgundu
+4,6,6,told him all that happened yesterday
+5,6,6,both at the two courts and with Maula at home
+6,6,6,and begged him to apply to the king for a meeting of five elders
+7,6,6,that a proper understanding might be arrived at
+8,6,6,but instead of doing as I desired
+9,1,terrible,he got into a terrible fright
+10,6,6,calling Maula
+11,6,1,and told me if I pressed the matter in this way men would lose their lives
+12,6,6,Meanwhile the cunning blackguard Maula begged for pardon
+13,6,6,said I quite misunderstood his meaning
+14,6,6,all he had said was that I was very fortunate
+15,6,6,being in such favour at court
+16,6,6,for the king and queen both equally loved me .
+850 19
+ (12, 11),
+1,6,6,These Wakungu
+2,6,6,having only just then returned from plundering Unyoro
+3,6,6,had never before seen their king in a chair
+4,6,6,or anybody sitting
+5,6,6,as I was
+6,6,6,by his side
+7,6,6,and it being foreign to their notions
+8,6,6,as well as
+9,6,6,perhaps
+10,6,6,unpleasant to their feelings
+11,6,1,to find a stranger sitting higher than themselves
+12,1,complained,they complained against this outrage to custom
+13,6,6,and induced the king to order my dethronement
+14,6,6,The result was
+15,6,6,as my iron stool was objectionable
+16,6,6,I stood for a moment to see that I thoroughly understood their meaning
+17,6,6,and then showing them my back
+18,6,6,walked straightway home to make a grass throne
+19,6,6,and dodge them that way .
+851 8
+ (5, 1),(5, 4),
+1,6,1,This double failure was a more serious affair then a mere slight
+2,6,6,for my cows were eaten up
+3,6,6,and my men clamouring incessantly for food
+4,6,1,and though they might by orders help themselves  "  ku n'yangania "   by seizing from the Waganda
+5,1,hurt,it hurt my feelings so much to witness this
+6,6,6,that I tried from the first to dispense with it
+7,6,6,telling the king I had always flogged my men for stealing
+8,6,6,and now he turned them into a pack of thieves .
+1118 11
+ (1, 1),
+1,1,1,It may well be believed that the prince felt in despair at this fresh misfortune
+2,6,6,which obliged him to spend another year in a strange and distasteful country
+3,6,6,Moreover
+4,6,6,he had once more lost the Princess Badoura 's talisman
+5,6,6,which he feared he might never see again
+6,6,6,There was nothing left for him but to hire the garden as the old man had done
+7,6,6,and to live on in the cottage
+8,6,6,As he could not well cultivate the garden by himself
+9,6,6,he engaged a lad to help him
+10,6,6,and to secure the rest of the treasure he put the remaining gold dust into fifty more jars
+11,6,6,filling them up with olives so as to have them ready for transport .
+1119 8
+ (4, 4),
+1,6,6,She at once concluded that her husband had taken it and would shortly bring it back
+2,6,6,She waited for him till evening rather impatiently
+3,6,6,and wondering what could have kept him from her so long
+4,3,3,When night came without him she felt in despair and abused the talisman and its maker roundly
+5,6,6,In spite of her grief and anxiety however
+6,6,6,she did not lose her presence of mind
+7,6,6,but decided on a courageous
+8,6,6,though very unusual step .
+1120 9
+ (2, 2),
+1,6,6,"  My son
+2,4,4,the great thing now is to arrange how you can best carry off this treasure as secretly as possible for fear of losing it
+3,6,6,There are no olives in the Ebony Island
+4,6,6,and those imported from here fetch a high price
+5,6,6,As you know
+6,6,6,I have a good stock of the olives which grew in this garden
+7,6,6,Now you must take fifty jars
+8,6,6,fill each half full of gold dust and fill them up with the olives
+9,6,6,We will then have them taken on board ship when you embark .  "
+1121 7
+ (3, 3),
+1,6,6,The prince took this advice
+2,6,6,and spent the rest of the day filling the fifty jars
+3,4,4,and fearing lest the precious talisman might slip from his arm and be lost again
+4,6,6,he took the precaution of putting it in one of the jars
+5,6,6,on which he made a mark so as to be able to recognise it
+6,6,6,When night came the jars were all ready
+7,6,6,and the prince and his host went to bed .
+1122 7
+ (4, 4),
+1,6,6,"  Sire
+2,6,6,"   replied the prince
+3,6,6,"  pray do not increase my distress in this matter
+4,0,0,but rather make me happy by giving her to me in marriage
+5,6,6,However much I may have objected to matrimony formerly
+6,6,6,the sight of this lovely girl has overcome all my prejudices
+7,6,6,and I will gratefully receive her from your hands .  "
+1123 4
+ (1, 1),
+1,3,3,The queen was much surprised by these words
+2,6,6,but when she declared that she knew nothing whatever of the matter the princess lost all respect
+3,6,6,and answered that if she were not allowed to marry as she wished she should kill herself
+4,6,6,and it was in vain that the queen tried to pacify her and bring her to reason .
+1126 22
+ (22, 22),
+1,6,6,"  The king
+2,6,6,her father
+3,6,6,has carefully shielded this treasure from the vulgar gaze
+4,6,6,and has taken every precaution to keep her from the sight of everyone except the happy mortal he may choose to be her husband
+5,6,6,But in order to give her variety in her confinement he has built her seven palaces such as have never been seen before
+6,6,6,The first palace is entirely composed of rock crystal
+7,6,6,the second of bronze
+8,6,6,the third of fine steel
+9,6,6,the fourth of another and more precious species of bronze
+10,6,6,the fifth of touchstone
+11,6,6,the sixth of silver
+12,6,6,and the seventh of solid gold
+13,6,6,They are all most sumptuously furnished
+14,6,6,whilst the gardens surrounding them are laid out with exquisite taste
+15,6,6,In fact
+16,6,6,neither trouble nor cost has been spared to make this retreat agreeable to the princess
+17,6,6,The report of her wonderful beauty has spread far and wide
+18,6,6,and many powerful kings have sent embassies to ask her hand in marriage
+19,6,6,The king has always received these embassies graciously
+20,6,6,but says that he will never oblige the princess to marry against her will
+21,6,6,and as she regularly declines each fresh proposal
+22,1,1,the envoys have had to leave as disappointed in the result of their missions as they were gratified by their magnificent receptions .
+1133 7
+ (1, 1),
+1,1,1,TSo saying he stamped upon the ground like one beside himself with misery and despair
+2,6,6,Just at this moment a servant came out of the palace
+3,6,6,and taking him by the arm said
+4,6,6,"  Come with me
+5,6,6,the noble Sindbad
+6,6,6,my master
+7,6,6,wishes to speak to you .  "
+1134 5
+ (2, 2),
+1,6,6,As will be imagined
+2,3,3,these words took the Sultan by surprise
+3,6,6,and he looked at me to see how I should take the statement of the princess
+4,6,6,As I was unable to speak
+5,6,6,I placed my hand on my head to show that it was true .
+1141 11
+ (1, 1),
+1,3,3,King Armanos heard the princess with surprise and admiration
+2,6,6,then
+3,6,6,turning to Camaralzaman
+4,6,6,he said
+5,6,6,"  My son
+6,6,6,as your wife
+7,6,6,the Princess Badoura ( whom I have hitherto looked on as my son-in-law )
+8,6,6,consents to share your hand and affections with my daughter
+9,6,6,I have only to ask if this marriage is agreeable to you
+10,6,6,and if you will consent to accept the crown which the Princess Badoura deserves to wear all her life
+11,6,6,but which she prefers to resign for love of you .  "
+1142 6
+ (2, 2),
+1,6,6,Khacan
+2,0,0,overjoyed at this news
+3,6,6,gave orders that the slave should be brought for his inspection on his return from the palace
+4,6,6,The dealer appearing at the appointed hour
+5,6,6,Khacan found the slave beautiful beyond his expectations
+6,6,6,and immediately gave her the name of  "  The Fair Persian .  "
+1143 11
+ (11, 11),
+1,6,6,Noureddin for so the vizir 's son was named went freely in and out of his mother 's apartments
+2,6,6,He was young
+3,6,6,well-made and agreeable
+4,6,6,and had the gift of charming all with whom he came in contact
+5,6,6,As soon as he saw the beautiful Persian
+6,6,6,though aware that she was destined for the king
+7,6,6,he let himself be carried away by her charms
+8,6,6,and determined at once to use every means in his power to retain her for himself
+9,6,6,The Persian was equally captivated by Noureddin
+10,6,6,and said to herself :    "  The vizir does me too great honour in buying me for the king
+11,0,0,I should esteem myself very happy if he would give me to his son .  "
+1144 28
+ (11, 11),
+1,6,6,One day Aladdin heard an order from the Sultan proclaimed that everyone was to stay at home and close his shutters while the princess
+2,6,6,his daughter
+3,6,6,went to and from the bath
+4,6,6,Aladdin was seized by a desire to see her face
+5,6,6,which was very difficult
+6,6,6,as she always went veiled
+7,6,6,He hid himself behind the door of the bath
+8,6,6,and peeped through a chink
+9,6,6,The princess lifted her veil as she went in
+10,6,6,and looked so beautiful that Aladdin fell in love with her at first sight
+11,4,4,He went home so changed that his mother was frightened
+12,6,6,He told her he loved the princess so deeply that he could not live without her
+13,6,6,and meant to ask her in marriage of her father
+14,6,6,His mother
+15,6,6,on hearing this
+16,6,6,burst out laughing
+17,6,6,but Aladdin at last prevailed upon her to go before the Sultan and carry his request
+18,6,6,She fetched a napkin and laid in it the magic fruits from the enchanted garden
+19,6,6,which sparkled and shone like the most beautiful jewels
+20,6,6,She took these with her to please the Sultan
+21,6,6,and set out
+22,6,6,trusting in the lamp
+23,6,6,The grand vizir and the lords of council had just gone in as she entered the hall and placed herself in front of the Sultan
+24,6,6,He
+25,6,6,however
+26,6,6,took no notice of her
+27,6,6,She went every day for a week
+28,6,6,and stood in the same place .
+1145 6
+ (1, 1),
+1,4,4,The princess was too frightened to speak
+2,6,6,and passed the most miserable night of her life
+3,6,6,while Aladdin lay down beside her and slept soundly
+4,6,6,At the appointed hour the genie fetched in the shivering bridegroom
+5,6,6,laid him in his place
+6,6,6,and transported the bed back to the palace .
+1148 6
+ (2, 2),
+1,6,6,The Caliph
+2,3,3,much surprised at this request
+3,6,6,replied gently :    "  My good man
+4,6,6,that which you ask is impossible
+5,6,6,Of what use would my alms be if I treated you so ill
+6,6,6,"    And as he spoke he tried to loosen the grasp of the blind beggar .
+1149 7
+ (1, 1),
+1,0,0,His words excited my curiosity to the highest pitch
+2,6,6,"  Make trial on me
+3,6,6,I implore you
+4,6,6,"   I cried
+5,6,6,holding out the box to the dervish
+6,6,6,"  You will know how to do it better than I
+7,6,6,I am burning with impatience to test its charms .  "
+1152 8
+ (7, 7),
+1,6,6,The Princess of Bengal was too reasonable not ta accept the explanation offered by Prince Firouz Schah
+2,6,6,but she was much disturbed at his intention of departing at once
+3,6,6,for she feared that
+4,6,6,no sooner had he left her
+5,6,6,than the impression she had made on him would fade away
+6,6,6,So she made one more effort to keep him
+7,4,4,and after assuring him that she entirely approved of his anxiety to see his father
+8,6,6,begged him to give her a day or two more of his company .
+1153 33
+ (11, 11),
+1,6,6,When the dervish saw that the prince 's mind was made up
+2,6,6,he drew a ball from a bag that lay near him
+3,6,6,and held it out
+4,6,6,"  If it must be so
+5,6,6,"   he said
+6,6,6,with a sigh
+7,6,6,"  take this
+8,6,6,and when you have mounted your horse throw the ball in front of you
+9,6,6,It will roll on till it reaches the foot of a mountain
+10,6,6,and when it stops you will stop also
+11,4,4,You will then throw the bridle on your horse 's neck without any fear of his straying
+12,6,6,and will dismount
+13,6,6,On each side you will see vast heaps of big black stones
+14,6,6,and will hear a multitude of insulting voices
+15,6,6,but pay no heed to them
+16,6,6,and
+17,6,6,above all
+18,6,6,beware of ever turning your head
+19,6,6,If you do
+20,6,6,you will instantly become a black stone like the rest
+21,6,6,For those stones are in reality men like yourself
+22,6,6,who have been on the same quest
+23,6,6,and have failed
+24,6,6,as I fear that you may fail also
+25,6,6,If you manage to avoid this pitfall
+26,6,6,and to reach the top of the mountain
+27,6,6,you will find there the Talking Bird in a splendid cage
+28,6,6,and you can ask of him where you are to seek the Singing Tree and the Golden Water
+29,6,6,That is all I have to say
+30,6,6,You know what you have to do
+31,6,6,and what to avoid
+32,6,6,but if you are wise you will think of it no more
+33,6,6,but return whence you have come .  "
+1154 9
+ (4, 4),
+1,6,6,"  Sire
+2,6,6,"   replied the bird
+3,6,6,before either the princes or the princess could speak
+4,3,3,"  surely your Highness cannot be so surprised at beholding a cucumber stuffed with pearls
+5,6,6,when you believed without any difficulty that the Sultana had presented you
+6,6,6,instead of children
+7,6,6,with a dog
+8,6,6,a cat
+9,6,6,and a log of wood .  "
+1568 3
+ (2, 2),
+1,6,6,I will give to him to wife My noble child Hermione
+2,0,0,with gifts Many and goodly for her marriage dower With a glad heart
+3,6,6,trow he shall not scorn Either his bride or high-born sire in law .
+1885 5
+ (2, 2),
+1,6,6,If thou refuse thy daughter
+2,0,0,consent to fight :  thou must needs grant one thing or the other We wish either to die or to have our prayers beard Something   sorrow if not joy   we will get from thee Frode will be better pleased to hear of our slaughter than of our repulse
+3,6,6,Without another word
+4,6,6,he threatened to aim a blow at the king 's throat with his sword The king replied that it was unseemly for the royal majesty to meet an inferior in rank in level combat
+5,6,6,and unfit that those of unequal station should fight as equals .
+1901 11
+ (3, 3),(3, 6),
+1,6,6,He had several times taken caravans to Karague
+2,6,6,and knew all the languages well
+3,1,1,but unfortunately he afterwards proved to be what his name implied
+4,6,6,That
+5,6,6,however
+6,6,1,I could not foresee
+7,6,6,so
+8,6,6,trusting to him and good-luck
+9,6,6,I commenced making fresh enlistments of porters
+10,6,6,but they came and went in the most tantalising manner
+11,6,6,notwithstanding I offered three times the hire that any merchant could afford to give .
+1903 10
+ (3, 4),(3, 5),
+1,6,6,At his invitation we now crossed over the spur to the Ingezi Kagera side
+2,6,6,when
+3,3,3,to surprise me
+4,6,3,the canoes I had come up the lake in appeared before us
+5,6,3,They had gone out of the lake at its northern end
+6,6,6,paddled into
+7,6,6,and then up the Kagera to where we stood
+8,6,6,showing
+9,6,6,by actual navigation
+10,6,6,the connection of these highland lakes with the rivers which drain the various spurs of the Mountains of the Moon .
+1904 5
+ (4, 3),
+1,6,6,A man from Ruanda then told us of the Wilyanwantu ( men eaters )
+2,6,6,who disdained all food but human flesh
+3,6,2,and Rumanika confirmed the statement
+4,2,sceptical,Though I felt very sceptical  about it
+5,6,6,I could not help thinking it a curious coincidence that the position they were said to occupy agreed with Petherick 's Nyam Nyams ( men eaters ) .
+1905 13
+ (8, 7),
+1,6,6,No one knew of a lake to supply the waters
+2,6,6,nor where they came from
+3,6,6,That they flowed into the lake there was no doubt as I could see by the trickling waters in some few places and they lay exactly on the equator
+4,6,6,Rising out of the valley
+5,6,6,I found all the country just as hilly as before
+6,6,6,but many of the rush drains going to northward
+7,6,3,and in the dells were such magnificent trees
+8,3,3,they quite took me by surprise
+9,6,6,clean trunked
+10,6,6,they towered up just as so many great pillars
+11,6,6,and then spread out their high branches like a canopy over us
+12,6,6,I thought of the blue gums of Australia
+13,6,6,and believed these would beat them .
+1906 8
+ (5, 1),(5, 4),
+1,6,1,This double failure was a more serious affair then a mere slight
+2,6,6,for my cows were eaten up
+3,6,6,and my men clamouring incessantly for food
+4,6,1,and though they might by orders help themselves  "  ku n'yangania "   by seizing from the Waganda
+5,1,hurt,it hurt my feelings so much to witness this
+6,6,6,that I tried from the first to dispense with it
+7,6,6,telling the king I had always flogged my men for stealing
+8,6,6,and now he turned them into a pack of thieves .
+1933 13
+ (6, 5),
+1,6,6,the king
+2,6,6,then
+3,6,6,observing my men who had gone to Unyoro together with Kamrasi 's
+4,6,6,questioned them on their mission
+5,6,5,and when told that no white men were there
+6,5,wrathful,he waxed wrathful
+7,6,6,and said it was a falsehood
+8,6,6,for his men had seen them
+9,6,6,and could not be mistaken
+10,6,6,Kamrasi
+11,6,6,he said
+12,6,6,must have hidden them somewhere
+13,6,6,fearful of the number of guns which now surrounded him
+1934 7
+ (2, 3),
+1,6,6,I sent Bombay with the compass
+2,0,delight,much to the delight of the king
+3,6,0,who no sooner saw it than he jumped and woh wohed with intense excitement at the treasure he had gained
+4,6,6,said it was the greatest present Bana had ever given him
+5,6,6,for it was the thing by which he found out all the roads and countries it was
+6,6,6,in fact
+7,6,6,half his knowledge
+1935 16
+ (2, 1),
+1,6,1,I drew a large white and black hornbill and a green pigeon sent by himself
+2,1,not satisfied,but he was not satisfied
+3,6,6,he sent more birds
+4,6,6,and wanted to see my shoes
+5,6,6,The pages who came with the second message
+6,6,6,however
+7,6,6,proving impertinent
+8,6,6,got a book flung at their heads
+9,6,6,and a warning to be off
+10,6,6,as I intended to see the king myself
+11,6,6,and ask for food to keep my ever complaining Wanguana quiet
+12,6,6,Proceeding to the palace
+13,6,6,as I found Mtesa had gone out shooting
+14,6,6,I called on the Kamraviona
+15,6,6,complained that my camp was starving
+16,6,6,and as I had nothing left to give the king said I wished to leave the country .
+1945 7
+ (6, 5),
+1,6,6,The prince could hardly believe his ears
+2,6,6,and rode off as hard as he could
+3,6,6,He found his way
+4,6,6,and arrived safe and sound at his father 's house
+5,6,5,where he told him of the danger he had run because of the grand vizir 's carelessness
+6,5,5,The king was very angry
+7,6,6,and had him strangled immediately .
+1993 4
+ (3, 2),
+1,6,6,Emperor Huizong of Song and Emperor Qianlong of Qing led drastically different lives
+2,6,5,While Huizong 's misfortune permeates his sparse
+3,5,embittered,embittered writing style
+4,6,6,Qianlong 's work overflows with richness and content .
+2215 2
+ (1, 1),
+1,4,4,Mieko is worried and afraid that shes lost her 5th treasure – the  " beauty in her heart
+2,6,6,This treasure is the key to her happiness and her beautiful art .
+2289 3
+ (2, 2),
+1,6,6,And contrary to some critics
+2,4,4,who have voiced concerns at Chinas growing presence in Africa
+3,6,6,residents of Makindu are upbeat on the biggest infrastructure project in Kenya since independence 54 years ago .
+2290 5
+ (4, 4),
+1,6,6,Behind them follow together the Countess Vereberg and General Provno
+2,6,6,and others
+3,6,6,As the company walks slowly down the aisle
+4,0,0,Princess Ann smiles and nods her head to acknowledge the guests who line their path
+5,6,6,They bow as the Princess walks past them .
+2292 6
+ (4, 2),(5, 5),
+1,6,6,Suddenly
+2,6,3,Princess Ann loses her balance as her foot slips over her shoe
+3,6,6,knocking it over
+4,3,in surprise,The Count 's eyeglass pops out in surprise and he smiles back as she regathered herself
+5,3,3,The Ambassador looks down in disappointment at her error
+6,6,6,The Master of Ceremonies introduces the next couple a Senor and Senora .
+2361 3
+ (3, 3),
+1,6,6,It was high for Mingora
+2,6,6,two storeys with a big water tank on the roof
+3,4,4,My mother was terrified it would collapse on top of us so we kept going outside .
+2459 6
+ (6, 6),
+1,6,6,WELL done
+2,6,6,"   said Aslan in a voice that made the earth shake
+3,6,6,Then Digory knew that all the Narnians had heard those words and that the story of them would be handed down from father to son in that new world for hundreds of years and perhaps forever
+4,6,6,But he was in no danger of feeling conceited for he didnt think about it at all now that he was face to face with Aslan
+5,6,6,This time he found he could look straight into the Lion 's eyes
+6,0,0,He had forgotten his troubles and felt absolutely content .
+2460 8
+ (8, 8),
+1,6,6,And he was sure now that her face looked a little different
+2,6,6,He bent down and kissed her very softly and stole out of the room with a beating heart
+3,6,6,taking the core of the apple with him
+4,6,6,For the rest of that day
+5,6,6,whenever he looked at the things about him
+6,6,6,and saw how ordinary and un magical they were
+7,6,6,he hardly dared to hope
+8,0,0,but when he remembered the face of Aslan he did hope .
+2513 5
+ (4, 4),
+1,6,6,"  Oh
+2,6,6,I do wish we had not
+3,6,6,"   said Caspian
+4,0,0,"  And I am glad it was all true
+5,6,6,even if it is all over .  "
+2514 8
+ (6, 6),
+1,6,6,"  Your Highness speaks as you have been taught
+2,6,6,"   said the Doctor
+3,6,6,"  But it is all lies
+4,6,6,There are no ghosts there
+5,6,6,That is a story invented by the Telmarines
+6,4,4,Your Kings are in deadly fear of the sea because they can never quite forget that in all stories Aslan comes from over the sea
+7,6,6,They dont want to go near it and they dont want anyone else to go near it
+8,6,6,So they have let great woods grow up to cut their people off from the coast .
+2522 7
+ (6, 7),
+1,6,6,"  Oh
+2,6,6,Aslan
+3,6,6,"   said King Peter
+4,6,6,dropping on one knee and raising the Lion 's heavy paw to his face
+5,6,6,"  im so glad
+6,1,sorry,And im so sorry
+7,6,1,i 've been leading them wrong ever since we started and especially yesterday morning .  "
+2524 7
+ (1, 1),(1, 3),
+1,1,1,"  I am sorry for Nikabrik
+2,6,6,"   said Caspian
+3,6,1,"  though he hated me from the first moment he saw me
+4,6,6,He had gone sour inside from long suffering and hating
+5,6,6,If we had won quickly he might have become a good Dwarf in the days of peace
+6,6,6,I dont know which of us killed him
+7,6,6,im glad of that .  "
+2528 7
+ (1, 1),(1, 4),
+1,4,4,At the sight of Aslan the cheeks of the Telmarine soldiers became the colour of cold gravy
+2,6,6,their knees knocked together
+3,6,6,and many fell on their faces
+4,6,4,They had not believed in lions and this made their fear greater
+5,6,6,Even the Red Dwarfs
+6,6,6,who knew that he came as a friend
+7,6,6,stood with open mouths and could not speak .
+2530 5
+ (3, 3),
+1,6,6,"  Your royal Highness
+2,6,6,"   he said
+3,1,1,"  I am most truly sorry that things have come to this extremity
+4,6,6,Your Highness will bear witness that it was none of our doing
+5,6,6,And of course we shall be delighted to provide your Highness with shipping back to Tashbaan for the - er - treatment which Aslan has prescribed .
+2532 10
+ (9, 10),
+1,6,6,"  Let the skies fall
+2,6,6,"   shrieked Rabadash
+3,6,6,"  Let the earth gape
+4,6,6,Let blood and fire obliterate the world
+5,6,6,But be sure I will never desist till I have dragged to my palace by her hair the barbarian queen
+6,6,6,the daughter of dogs
+7,6,6,the - "    "  The hour has struck
+8,6,6,"   said Aslan :  and Rabadash saw
+9,4,to his supreme horror,to his supreme horror
+10,6,4,that everyone had begun to laugh .
+2534 15
+ (5, 5),(5, 6),
+1,6,6,"  Well
+2,6,6,well
+3,6,6,"   grumbled the King
+4,6,6,"  we 'll pass it over for this time
+5,3,3,And now - "   What came next surprised Shasta as much as anything that had ever happened to him in his life
+6,6,3,He found himself suddenly embraced inn bear-like hug by King Lune and kissed on both cheeks
+7,6,6,Then the King set him down again and said
+8,6,6,"  Stand here together
+9,6,6,boys
+10,6,6,and let all the court see you
+11,6,6,Hold up your heads
+12,6,6,Now
+13,6,6,gentlemen
+14,6,6,look on them both
+15,6,6,Has any man any doubts
+2548 1
+ (1, 1),
+1,4,4,The gentlemen ran to the farms along the way for provisions 
+2653 1
+ (1, 1),
+1,0,0,After some time  we saw lights on the Illinois side of the river and Jim got very excited .  He thought it was Cairo

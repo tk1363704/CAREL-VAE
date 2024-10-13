@@ -1,0 +1,969 @@
+161 5
+(3, 3),
+1, 6, -1, Theflattererssaid
+2, 6, -1, "Itisasclearaspossible
+3, 0, -1, GodgavethethunderbolttoDagaroasasignhewaspleasedwithhimandhisrule
+4, 6, -1, butwhenhefoundtwobrotherscontending
+5, 6, -1, hewithdrewittoshowtheirconductwaswicked."
+194 8
+(5, 6),
+1, 6, -1, Sothefoursang
+2, 6, -1, eachinturn
+3, 6, -1, anddiedinthesightofsomewhopitied
+4, 4, -1, andsomewhofeared
+5, 6, -1, andsomewhohated
+6, 6, -1, forthesakeoflandandwomen
+7, 6, -1, Sothefourwentbeyondthepowerofgoldandgewgaw
+8, 6, -1, andweredraggedinthemirearoundthewallsandflungintotheyellowwatersoftheriver.
+222 8
+(4, 4),
+1, 6, -1, Toseethestrangeplacesoftheworld
+2, 6, -1, andthestrangerpeople
+3, 6, -1, tobecomeamanofwealthandinfluencesuchasMonsieurVigo
+4, 6, -1, and(IfearIloveditbest)tomatchmybrainswithothersatabargain
+5, 6, -1, Iturneditalloverslowly
+6, 6, -1, gravely
+7, 6, -1, inmyboyishmind
+8, 6, -1, rubbingtheharddirtonthefloorwiththetoeofmymoccasin.
+238 10
+(3, 9),
+1, 6, -1, Fortunat'saddressmustbethere
+2, 6, -1, sosheaskedandobtainedpermissiontoexaminethisnotebook
+3, 0, -1, andtohergreatjoy
+4, 6, -1, undertheletter"F
+5, 6, -1, "shefoundtheentry:"Fortunat(Isidore)
+6, 6, -1, No
+7, 6, -1, 28PlacedelaBourse
+8, 6, -1, "Ah
+9, 6, -1, imsurethatIshallfindPascalnow
+10, 6, -1, "sheexclaimed.
+240 4
+(1, 1),
+1, 4, -1, ItwaseasytoseebyMadamedeFondege'searnestnessthatshefearedMademoiselleMargueritewouldavailherselfofthisopportunityofrecoveringherliberty
+2, 6, -1, "WhatshallIdo
+3, 6, -1, then
+4, 6, -1, "askedthegirl.
+247 6
+(3, 3),
+1, 6, -1, HewasinallthegreaterhasteasitwasSunday
+2, 6, -1, Fortunatwasinthehabitofpassingthesedaysinthecountry
+3, 4, -1, andChupinfearedhemightfailtoseehimifhewasnotexpeditiousinhismovements
+4, 6, -1, AndwhilerunningtothePlacedelaBourse
+5, 6, -1, hecarefullypreparedthestoryhemeanttorelate
+6, 6, -1, deeplyimpressedbythewisdomofthepopularmaximwhichsays:"Itisnotalwayswelltotellthewholetruth."
+250 3
+(2, 2),
+1, 6, -1, Whatifheknewthatthere'safortunewaitingforaclaimant
+2, 3, -1, Ishouldn'tatallbesurprisedifIfoundthathewantedtocookhisbreadinouroven
+3, 0, -1, ButfatherFortunatwouldn'tbepleasedwiththenews.
+255 6
+(2, 2),
+1, 6, -1, Havingcomewiththeintentionofofferinghisagentahandsomesum
+2, 3, -1, hewasagreeablysurprisedtofindthatChupin'sscrupleswouldenablehimtosavehismoney
+3, 6, -1, "IfIhadnotfoundyouengagedinstudy
+4, 6, -1, Victor
+5, 6, -1, "hesaid
+6, 6, -1, "Ishouldhavethoughtyouhadbeendrinking.
+256 6
+(2, 3),
+1, 6, -1, Fortunatwasamazed
+2, 6, -1, andatthesametimemuchannoyed
+3, 6, -1, tofindhimselfforsakenonaccountofsuchatrifle
+4, 4, -1, Hefeared
+5, 6, -1, too
+6, 6, -1, thatChupinmightlethistonguewagifhelefthisemployment.
+257 9
+(4, 6),
+1, 6, -1, Fortunatwasamazed
+2, 6, -1, andatthesametimemuchannoyed
+3, 6, -1, tofindhimselfforsakenonaccountofsuchatrifle
+4, 4, -1, Hefeared
+5, 6, -1, too
+6, 6, -1, thatChupinmightlethistonguewagifhelefthisemployment
+7, 6, -1, So
+8, 6, -1, sincehehadconfidedthisprojecttoChupin
+9, 6, -1, hewasdeterminedthatChupinaloneshouldcarryitintoexecution.
+258 6
+(4, 4),
+1, 6, -1, Ifanyoneheardthem
+2, 6, -1, noonecame
+3, 6, -1, stilltheyrecalledPascaltoasenseofthesituation
+4, 1, -1, andhewasashamedofhisviolence
+5, 6, -1, HereleasedMadameLeon
+6, 1, -1, andhismannersuddenlybecameashumbleasithadbeenthreatening.
+265 4
+(2, 2),
+1, 6, -1, "Crazyinthefullestsenseoftheword
+2, 4, -1, Sherefusesthecount'smillionsfromasillyfearoftellingpeoplethatshebelongstotheChalussefamily
+3, 6, -1, Shethreatenedherbrother
+4, 6, -1, butshewouldneverhavecarriedherthreatsintoexecution.
+267 6
+(6, 6),
+1, 6, -1, Therewasbutonecertainandpositivething
+2, 6, -1, andthiswasthatthemoneyhehadcounteduponhadescapedhim
+3, 6, -1, andheexperiencedasacuteapangasifhehadlostfortythousandfrancsasecondtime
+4, 6, -1, Perhaps
+5, 6, -1, atthatmoment
+6, 1, -1, hewassorrythathehadseveredhisconnectionwiththemarquis.
+312 7
+(2, 3),
+1, 6, -1, Monsieur
+2, 6, -1, youmakemydaughterveryhappy
+3, 6, -1, ShewantthosebirdeversenceCaptainLopezhedie
+4, 6, -1, Monsieur
+5, 6, -1, IamJeanBaptisteLenoir
+6, 6, -1, ColonelChouteau'smiller
+7, 0, -1, andweveryhappytoseeyouatthepon'
+318 9
+(7, 7),
+1, 6, -1, Likeadutifulson
+2, 6, -1, ''saidMonsieurdeSt
+3, 6, -1, Gre
+4, 6, -1, youheardIwasintown
+5, 6, -1, andcalledtopayyourrespects
+6, 6, -1, Iamsure
+7, 0, -1, Iamdelightedtofindyou
+8, 6, -1, Infact
+9, 6, -1, Icametotownforthatpurpose
+389 10
+(4, 4),
+1, 6, -1, Theirfaceswerepaleandsad
+2, 6, -1, andthereweretearsintheeyesofsomeofthem
+3, 6, -1, Whatwaspassingintheirminds
+4, 4, -1, Perhapstheywereovercomebythatunconquerablefearwhichsuddenandunexpecteddeathalwaysprovokes
+5, 6, -1, Perhapstheyunconsciouslylovedthismaster
+6, 6, -1, whosebreadtheyate
+7, 6, -1, Perhapstheirgriefwasonlyselfishness
+8, 6, -1, andtheyweremerelywonderingwhatwouldbecomeofthem
+9, 6, -1, wheretheyshouldfindanothersituation
+10, 6, -1, andifitwouldproveagoodone.
+393 11
+(6, 7),
+1, 6, -1, butIwaswrong
+2, 6, -1, forintheafternoonhesentamessage
+3, 6, -1, throughMadameLeon
+4, 6, -1, requestingmetojoinhiminthegarden
+5, 6, -1, Ihastenedthere
+6, 3, -1, verymuchsurprised
+7, 6, -1, fortheweatherwasextremelydisagreeable
+8, 6, -1, 'dearMarguerite
+9, 6, -1, 'hesaid
+10, 6, -1, onseeingme
+11, 6, -1, 'helpmetofindthefragmentsofthatletterwhichIflungfromthewindowthismorning.
+394 5
+(4, 5),
+1, 6, -1, "Iwasmuchgrievedatthecount'sdisappointment
+2, 6, -1, "continuedMademoiselleMarguerite
+3, 6, -1, "butsuddenlyheexclaimed
+4, 0, -1, joyfully:'thataddresswhy
+5, 6, -1, suchapersonwillgiveittomewhatafoolIam
+399 7
+(3, 3),
+1, 6, -1, Asarule
+2, 6, -1, Chupinwasnoteasilyimpressed
+3, 4, -1, buthefeltalmostfrightenedbyhisemployer'sagitation
+4, 6, -1, "IonlyrepeatedwhatM
+5, 6, -1, Casimirtoldme
+6, 6, -1, monsieur
+7, 6, -1, "washisreply.
+403 11
+(7, 10),
+1, 6, -1, Fortunat'scountenanceworeanexpressionofprofoundcommiseration
+2, 6, -1, Alookeronwouldhavesupposedhiminterestedandsympathetictothelastdegree
+3, 6, -1, butinreality
+4, 6, -1, hewasfurious
+5, 6, -1, Timewaspassing
+6, 6, -1, andtheconversationwaswanderingfartherandfartherfromtheobjectofhisvisit
+7, 3, -1, "Iamsurprised
+8, 6, -1, madame
+9, 6, -1, "saidhe
+10, 6, -1, "thatyouneverappliedtoyourformeremployer
+11, 6, -1, theCountdeChalusse."
+404 10
+(5, 5),
+1, 6, -1, IsidoreFortunatwasliterallyupontherack
+2, 6, -1, andtomakehissufferingsstillmorehorrible
+3, 6, -1, hedarednotaskanydirectquestion
+4, 6, -1, norallowhiscuriositytobecomemanifest
+5, 4, -1, forfearofalarmingthewoman
+6, 6, -1, "Letmesee
+7, 6, -1, "saidhe
+8, 6, -1, "IthinkIamsurethatIhaveheardorthatIhavereadIcannotsaywhichsomestoryaboutaMademoiselledeChalusse
+9, 6, -1, Itwassomethingterrible
+10, 6, -1, wasntit
+407 13
+(7, 7),
+1, 6, -1, Itwastheold
+2, 6, -1, sadstoryofaruinedgirlpayingforamoment'smadnesswithherhappinessandallherafterlife
+3, 6, -1, Aterribledrama
+4, 6, -1, nodoubt
+5, 6, -1, butonethatisofsuchfrequentoccurrencethatitseemsascommonplaceaslifeitself
+6, 6, -1, ThusanyonewhowasacquaintedwithM
+7, 3, -1, IsidoreFortunatwouldhavebeensurprisedtoseehowgreatlyhewasmovedbysuchatrifle
+8, 6, -1, "Poorgirl
+9, 6, -1, "saidhe
+10, 6, -1, inviewofsayingsomething
+11, 6, -1, Andthen
+12, 6, -1, inatoneofassumedcarelessness
+13, 6, -1, heinquired:"DidtheyneverdiscoverwhatscoundrelcarriedMademoiselledeChalusseaway
+408 16
+(11, 11),
+1, 6, -1, YoucouldnotsaythatM
+2, 5, -1, Fortunatwasangry
+3, 6, -1, Suchaman
+4, 6, -1, ascoldandassmoothasahundredfrancpiece
+5, 6, -1, hasnouselesspassions
+6, 6, -1, Buthewasintenselyirritatedtohearhisclientfoolishlychantingthepaeonsofvictory
+7, 6, -1, whilehewascompelledtoconcealhisgriefatthelossofhisfortythousandfrancs
+8, 6, -1, deepintherecessesofhisheart
+9, 6, -1, So
+10, 6, -1, farfrombeingtouchedbythemarquis'sevidentalarm
+11, 6, -1, itpleasedhimtobeabletoturnthedaggerinthewoundhehadjustinflicted
+12, 6, -1, "Youmustexcusemyincredulity
+13, 6, -1, "saidhe
+14, 6, -1, "Itcomesentirelyfromsomethingyou
+15, 6, -1, yourself
+16, 6, -1, toldmeaboutaweekago."
+409 12
+(3, 2),
+1, 6, -1, deValorsaypacedthefloorinastateofintenseagitation
+2, 6, -1, Hadhecaughtaglimpseofhisownfaceinthelooking-glass
+3, 4, -1, itwouldhavefrightenedhim
+4, 6, -1, "Agentleman
+5, 6, -1, "herepeated
+6, 6, -1, inatoneofsuppressedrage
+7, 6, -1, "agentleman
+8, 6, -1, Thatwordisineverybody'smouth
+9, 6, -1, nowadays
+10, 6, -1, Pray
+11, 6, -1, whatdoyouunderstandbyagentleman
+12, 6, -1, Mons.
+410 9
+(5, 5),
+1, 6, -1, Fortunatwouldcertainlyhavepreferredtoloseagoodpoundoffleshratherthanthesumofmoneymentioned
+2, 6, -1, but
+3, 6, -1, ontheotherhand
+4, 6, -1, hefeltthatitwouldnotdoforhimtoseverhisconnectionwithhisclientuntilthedeathoftheCountdeChalussewascertain
+5, 4, -1, andbeinganxioustosavehismoneyandtokeephisclient
+6, 6, -1, hisembarrassmentwasextreme
+7, 6, -1, "Itwasthemostunfortunatethingintheworld
+8, 6, -1, "hestammered
+9, 6, -1, "Iapprehendednodifficultywhatever"
+412 8
+(8, 6),(8, 7),
+1, 6, -1, Fortunat'sembarrassmentwasreallypainfultowitness
+2, 6, -1, Hewasnotusuallywantingincourage
+3, 6, -1, buttheeventsoftheeveninghadshakenhisconfidenceandhiscomposure
+4, 4, -1, Thehopeofgainandthefearoflosshaddeprivedhimofhiswantedclearnessofmind
+5, 6, -1, Feelingthathehadjustcommittedaterribleblunder
+6, 6, -1, herackedhisbraintofindsomewayofrepairingit
+7, 6, -1, andfindingnone
+8, 6, -1, hisconfusionincreased.
+413 14
+(8, 8),
+1, 6, -1, Hetookthem
+2, 6, -1, withoutevenaskingthemotherifshehadenoughlefttopurchaseherdinnerthatevening
+3, 6, -1, andthefinegentleman
+4, 6, -1, whohadwonandpocketedJulesChazel'sstolengold
+5, 6, -1, thoughtthebanker'sconductperfectlynaturalandjust
+6, 6, -1, ItistruethatMadamed'argeleswasindespairduringforty-eighthoursorso
+7, 6, -1, forthepolicehadbegunasortofinvestigation
+8, 4, -1, andshefearedthismightfrightenhervisitorsandemptyherdrawing-room
+9, 6, -1, Notatall
+10, 6, -1, however
+11, 6, -1, onthecontrary
+12, 6, -1, shehadgoodcausetocongratulateherselfuponthenotorietyshegainedthroughthissuicide
+13, 6, -1, ForfivedaysshewasthetalkofParis
+14, 6, -1, andAlfredd'aunayevenpublishedherportraitintheIllustratedChronicle.
+415 15
+(11, 11),
+1, 6, -1, Thetableitselfwasadornedwitharichtapestrycover
+2, 6, -1, butthiswasvisibleonlyatthecorners
+3, 6, -1, foritwascovered
+4, 6, -1, inturn
+5, 6, -1, withagreenbaizeclothconsiderablytheworseforwear
+6, 6, -1, Madamed'argeles'sguestswereprobablynotoverfiftyinnumber
+7, 6, -1, buttheyallseemedtobelongtotheverybestsociety
+8, 6, -1, Themajorityofthemweremenoffortyorthereabouts
+9, 6, -1, severalworedecorations
+10, 6, -1, andtwoorthreeoftheeldestweretreatedwithmarkeddeference
+11, 3, -1, Certainwell-knownnameswhichPascaloverheardsurprisedhimgreatly
+12, 6, -1, "What
+13, 6, -1, thesemenhere
+14, 6, -1, "hesaidtohimself
+15, 6, -1, "andIIregardedmyvisitasasortofclandestinefrolic."
+416 8
+(4, 4),
+1, 6, -1, Ascoreofpersonswereseatedatthecardtable
+2, 6, -1, andtheguestswhohadretiredintotheadjoiningsalonweresilentlywatchingtheprogressofthegame
+3, 6, -1, orquietlychattinginthecornersoftheroom
+4, 3, -1, Itsurprisedhimtonotethateveryonespokeinverylowtones
+5, 6, -1, therewassomethingverylikerespect
+6, 6, -1, evenawe
+7, 6, -1, inthissubduedmurmur
+8, 0, -1, Onemighthavesupposedthatthosepresentwerecelebratingtheritesofsomemysteriousworship.
+417 12
+(7, 7),
+1, 6, -1, Thewisestcounsels
+2, 6, -1, giveninacertainfashion
+3, 6, -1, neverfailtoproduceaneffectdiametricallyopposedtothatwhichtheyseeminglyaimat
+4, 6, -1, deCoralth'spersistence
+5, 6, -1, andtheimportanceheattachedtoameretrifle
+6, 6, -1, couldnotfailtoannoythemostpatientmanintheworld
+7, 5, -1, andinfacthispatronizingtonereallyirritatedPascal
+8, 6, -1, "Youarefree
+9, 6, -1, myfriend
+10, 6, -1, todoasyouplease
+11, 6, -1, "saidhe
+12, 6, -1, "butI"
+418 13
+(7, 5),
+1, 6, -1, Howeverthegameproceeded
+2, 6, -1, butnoonepaidanyattentiontoit
+3, 6, -1, Thestakeswereinsignificant
+4, 6, -1, andlossorgaindrewnoexclamationfromanyone
+5, 6, -1, TheattentionoftheentirepartywasconcentratedonPascal
+6, 6, -1, andhe
+7, 6, -1, withdespairinhisheart
+8, 6, -1, followedthemovementsofthecards
+9, 6, -1, whichwerepassingfromhandtohand
+10, 6, -1, andfastapproachinghimagain
+11, 6, -1, Whentheyreachedhimthesilencebecamebreathless
+12, 6, -1, menacing
+13, 6, -1, evensinister.
+421 7
+(3, 3),
+1, 6, -1, Naturallyofafloridcomplexion
+2, 6, -1, thebaron'sfacenowbecamescarlet
+3, 4, -1, "Soit'sfearofscandalthatdetersyou
+4, 6, -1, Zounds
+5, 6, -1, sir
+6, 6, -1, aman'scourageshouldequalhisvices
+7, 6, -1, Lookatme."
+426 14
+(5, 5),
+1, 6, -1, 'dearSIR
+2, 6, -1, 'youwrotetoyourLondoncorrespondent'isendyouthreethousandfrancs
+3, 6, -1, inadditiontothefivethousandfortheregularquarterlypayment
+4, 6, -1, Forwardthemoneywithoutdelay
+5, 6, -1, Ifearthepoorboyisgreatlyannoyedbyhiscreditors
+6, 0, -1, YesterdayIhadthehappinessofseeinghimintheRuedeHelder
+7, 6, -1, andIfoundhimlookingpaleandcareworn
+8, 6, -1, Whenyousendhimthismoney
+9, 6, -1, forwardatthesametimealetteroffatherlyadvice
+10, 6, -1, Itistrue
+11, 6, -1, heoughttoworkandwinanhonorablepositionforhimself
+12, 6, -1, butthinkofthedangersandtemptationthatbesethim
+13, 6, -1, aloneandfriendless
+14, 6, -1, inthiscorruptcity.'
+427 19
+(3, 3),
+1, 6, -1, Forwardthemoneywithoutdelay
+2, 6, -1, Ifearthepoorboyisgreatlyannoyedbyhiscreditors
+3, 0, -1, YesterdayIhadthehappinessofseeinghimintheRuedeHelder
+4, 6, -1, andIfoundhimlookingpaleandcareworn
+5, 6, -1, Whenyousendhimthismoney
+6, 6, -1, forwardatthesametimealetteroffatherlyadvice
+7, 6, -1, Itistrue
+8, 6, -1, heoughttoworkandwinanhonorablepositionforhimself
+9, 6, -1, butthinkofthedangersandtemptationthatbesethim
+10, 6, -1, aloneandfriendless
+11, 6, -1, inthiscorruptcity
+12, 6, -1, There
+13, 6, -1, mydearlady
+14, 6, -1, yourletterended
+15, 6, -1, butthenameandaddressweregiven
+16, 6, -1, anditwaseasyenoughtounderstandit
+17, 6, -1, Youremember
+18, 6, -1, perhaps
+19, 6, -1, alittleincidentthatoccurredafteryourreturn.
+680 2
+(2, 2),
+1, 6, -1, AllheartsstoodstillIndumbamazement
+2, 6, -1, ButthetirelesswindsSighingsetheroMemnon'sgiantcorpseDownbythedeepflowofaesopus'stream.
+681 3
+(2, 2),
+1, 6, -1, AndfromhimsprangthesteedofSthenelus
+2, 0, -1, Whichtydeus'sonhadgivenuntohisfriendInhallowedTroylandFilledwithconfidenceInthoseswiftfeethisriderledhimforthUntothecontestofthesteedsthatday
+3, 6, -1, LookinghishorsemanshipshouldsurelywinRenown.
+683 3
+(1, 1),(1, 2),
+1, 0, -1, ThereonwereseentwoserpentsflickeringBlacktonguesfromgrimlyjaws:theyseemedinactTodart
+2, 6, -1, buthercules'handstorightandleftAlbeitababe'shandsnowwerethrottlingthem
+3, 6, -1, Forawelesswashisspirit.
+971 9
+(2, 2),
+1, 6, -1, asinnerliketherestofyou
+2, 4, -1, liveneverthelessinthefearofhellfire
+3, 6, -1, Hellfirehasbecome
+4, 6, -1, Ithink
+5, 6, -1, tomanyofthepresentgenerationamockeryandaderision
+6, 6, -1, Icometotellyouthatitisnomockery
+7, 6, -1, thatitassurelyliesthere
+8, 6, -1, ablazingfurnace
+9, 6, -1, infrontofusasthoughwesawitwithourowneyes
+1488 7
+(5, 6),
+1, 6, -1, SopeerlessamidalltheAmazonsUntotroytownPenthesileiacame
+2, 6, -1, Toright
+3, 6, -1, toleft
+4, 6, -1, fromallsideshurryingthrongedTheTrojans
+5, 6, -1, greatlymarvelling
+6, 6, -1, whentheysawThetirelessWar-god'schildliketotheBlessedGods
+7, 6, -1, forinherfaceGlowedbeautygloriousandterrible.
+1495 4
+(1, 1),
+1, 0, -1, TheglorioustritobornwithcouragethrilledtobringtoallhisfoesthedayofdoomAndPolypoetes
+2, 6, -1, deartoAres
+3, 6, -1, slewDresaeus
+4, 6, -1, whomtheNymphNeaerabareTopassingwiseTheiodamasfortheseSpreadwasthebedoflove.
+1496 6
+(6, 6),
+1, 6, -1, Andlo
+2, 6, -1, asteepbrowedrock
+3, 6, -1, afragmentrentFromSipylusyetNiobeisthere
+4, 6, -1, Dreeingherweird
+5, 6, -1, thedebtofwrathdivine
+6, 6, -1, Abrokenheartinguiseofshatteredstone.
+1501 7
+(2, 3),
+1, 6, -1, TheArgivesthrongedaround
+2, 6, -1, Andalltheysawandmarvelled
+3, 6, -1, forsheseemedLikeanImmortal
+4, 6, -1, InherarmourthereUpontheearthshelay
+5, 6, -1, andseemedtheChildOfZeus
+6, 6, -1, thetirelessHuntressArtemisSleeping
+7, 4, -1, whattimeherfeetforweariedareWithfollowinglionswithherflyingshaftsOverthehillsfarstretching.
+1502 4
+(2, 2),
+1, 6, -1, Thewarriorsgazed
+2, 1, -1, andintheirheartstheyprayedThatfairandsweetlikehertheirwivesmightseem
+3, 6, -1, Laidonthebedoflove
+4, 6, -1, whenhometheywon.
+1503 5
+(2, 2),
+1, 6, -1, Yea
+2, 1, -1, andachilles'veryheartwaswrungWithlove'sremorsetohaveslainathingsosweet
+3, 6, -1, Whomighthaveborneherhome
+4, 6, -1, hisqueenlybride
+5, 6, -1, TochariotgloriousPhthia.
+1504 6
+(1, 1),
+1, 1, -1, Thenares'heartwasthrilledwithgriefandrageForhischildslain
+2, 6, -1, raightfromOlympusdownHedarted
+3, 6, -1, swiftandbrightasthunderboltTerriblyflashingfromthemightyhandOfZeus
+4, 6, -1, farleapingoverthetracklesssea
+5, 6, -1, Orflamingovertheland
+6, 6, -1, whileshudderethAllwideOlympusasitpassethby.
+1505 4
+(2, 2),
+1, 6, -1, YetstillManyawildthoughtsurgedthroughares'soul
+2, 4, -1, UrginghimnowtodreadtheterriblethreatOfcronos'wrathfulSon
+3, 6, -1, andtoreturnHeavenward
+4, 6, -1, andnowtorecknotofhisSire.
+1508 2
+(2, 2),
+1, 6, -1, ForaheraldcameAskingthisboonforPriam
+2, 1, -1, forthekingLongedwithdeepyearningofthehearttolayThatbattleeagermaidenwithherarmsAndwithherwarhorseinthegreatearthmoundOfoldLaomedon.
+1513 3
+(1, 1),
+1, 1, -1, Thenathiscrythatbrother'sheartwasstungWithbittergrief
+2, 6, -1, SwiftforhishelpdrewnighPhereus
+3, 6, -1, onwhomforhisgreatprince'sfallCameanguish.
+1515 2
+(1, 1),
+1, 0, -1, TheeagerringofbeatersclosinginPressesthehuddledthrongintothesnaresOfdeath:thedogsarewildwithjoyofthechaseCeaselesslygivingtongue
+2, 6, -1, thewhilehisdartsLeapwingedwithdeathonbrocketandonhind.
+1516 2
+(1, 1),
+1, 0, -1, TheeagerringofbeatersclosinginPressesthehuddledthrongintothesnaresOfdeath:thedogsarewildwithjoyofthechaseCeaselesslygivingtongue
+2, 6, -1, thewhilehisdartsLeapwingedwithdeathonbrocketandonhind.
+1517 5
+(4, 4),
+1, 6, -1, ForthrightheturnedawayFromwheretheriftedranksofTroyfellfastBeforehishands
+2, 6, -1, and
+3, 6, -1, thirstingforthefight
+4, 1, -1, WrothforAntilochusandtheothersslain
+5, 6, -1, CamefacetofacewithMemnon.
+1519 2
+(1, 1),
+1, 4, -1, AndquakedProudnereus'daughtersallroundThetisthrongedIngrievousfearformightyachilles'sake
+2, 6, -1, AndtrembledforhersontheChildoftheMistAsinherchariotthroughtheskysherode.
+1521 5
+(1, 1),
+1, 6, -1, ThouhadstsaidthatinthestrifeofthatdreaddayHugetirelessGiantsorstrongTitanswarred
+2, 6, -1, Sofiercelyblazedthewildfireoftheirstrife
+3, 6, -1, Now
+4, 6, -1, whentheyclashedwithswords
+5, 6, -1, nowwhentheyleaptHurlinghugestones.
+1522 4
+(3, 4),
+1, 6, -1, Withmultitudinousmoaning
+2, 6, -1, veiledinmistUnearthly
+3, 0, -1, TrojansoveralltheplainAndDanaansmarvelled
+4, 6, -1, seeingthatgreathostVanishingwiththeirKing.
+1523 3
+(1, 1),
+1, 0, -1, AndmournedwiththesethePleiads
+2, 6, -1, Echoedroundfarstretchingmountains
+3, 6, -1, andaesopus'stream.
+1524 2
+(2, 2),
+1, 6, -1, MeanwhilewithintheirwallstheTrojanfolkForMemnonsorrowedsore
+2, 1, -1, withvainregretYearningforthatlostkingandallhishost.
+1529 7
+(4, 4),
+1, 6, -1, HeuntohighOlympusswiftlycame
+2, 6, -1, TothegreatgatheringofimmortalGods
+3, 6, -1, Whereallassembledwatchedthewarofmen
+4, 6, -1, Theselongingforthetrojans'triumph
+5, 6, -1, thoseForDanaanvictory
+6, 6, -1, sowithdiversewillsWatchedtheythestrife
+7, 6, -1, theslayersandtheslain.
+1531 4
+(2, 2),
+1, 6, -1, AndnowTroy'sdaughterswithexultantheartsFromallthecitystreetsshallgatherround
+2, 6, -1, Aspantheresseswrothforstolencubs
+3, 6, -1, Orlionesses
+4, 1, -1, mightstandaroundamanWhosecraftinhuntingvexedthemwhilehelived.
+1535 7
+(7, 7),
+1, 6, -1, ThenbythosedarkshipstheythoughtOfwhitehairedfathersleftinhallsafar
+2, 6, -1, Ofwivesnewwedded
+3, 6, -1, whobycouchescoldMourned
+4, 6, -1, waiting
+5, 6, -1, waiting
+6, 6, -1, withtheirtenderbabesForhusbandsunreturning
+7, 1, -1, andtheygroanedInbitternessofsoulApassionofgriefCameovertheirhearts.
+1536 6
+(1, 1),
+1, 6, -1, MostpiteousgriefWetwainforthysakeshallinheritaye
+2, 6, -1, ThysireandI
+3, 6, -1, who
+4, 6, -1, ereourdayofdoom
+5, 6, -1, MourningshallgodowntothegravefortheeAy
+6, 6, -1, betterthisthanlifeunholpenofthee
+1540 1
+(1, 1),
+1, 0, -1, WithsoreanguishalltheirheartsWeresmitten:piteouslytheymoaned:theircryShiveredalongthewavesofHellespont.
+1542 5
+(5, 5),
+1, 6, -1, Foroutofdepthsofsorrowrosetheirmoan
+2, 6, -1, Andallthearmour
+3, 6, -1, yea
+4, 6, -1, thetents
+5, 1, -1, theshipsOfthatgreatsorrowingmultitudewerewetWithtearsfromeverwellingspringsofgrief.
+1544 3
+(3, 3),
+1, 6, -1, Aroundthemmoanedfarstretchingbeachesofthesea
+2, 6, -1, andmournedGreatNereusforhisdaughterthetis'sake
+3, 1, -1, AndmournedwithhimtheotherseagodsallfordeadAchilles.
+1548 4
+(2, 2),
+1, 6, -1, Andsome
+2, 0, -1, tojoyinseeingthemightystrive
+3, 6, -1, AmidstthatgatheringThetissablestoledSetdownherprizes
+4, 6, -1, andshesummonedforthAchaea'schampions:atherbesttheycame.
+1551 3
+(2, 2),
+1, 6, -1, AndfromhimsprangthesteedofSthenelus
+2, 0, -1, Whichtydeus'sonhadgivenuntohisfriendInhallowedTroylandFilledwithconfidenceInthoseswiftfeethisriderledhimforthUntothecontestofthesteedsthatday
+3, 6, -1, LookinghishorsemanshipshouldsurelywinRenown.
+1552 7
+(6, 7),
+1, 0, -1, YetvictorygladdenednothisheartInthatgreatstruggleforachilles'prizes
+2, 6, -1, Nay
+3, 6, -1, swiftalbeithewas
+4, 6, -1, theKingofMenByskilloutracedhimShoutedallthefolk
+5, 6, -1, "GlorytoAgamemnon
+6, 6, -1, "YettheyacclaimedThesteedofvaliantSthenelusandhislord
+7, 6, -1, forthatthefieryflyingofhisfeetStillwonhimsecondplace.
+1553 4
+(1, 1),
+1, 6, -1, InthatintothislamentablestrifeAiasthemightyhathbeenthrustbythemAgainstOdysseuspassingwise
+2, 6, -1, Forhe
+3, 6, -1, TowhichsoeverGodgivesthevictor'sgloryOyea
+4, 6, -1, heshallrejoice
+1555 4
+(3, 3),
+1, 6, -1, Itmaybehewillsettheshipsaflame
+2, 6, -1, Andslayusallamidstourtents
+3, 6, -1, inwrathforthoselostarms
+4, 6, -1, WouldGodthatThetisneverHadsetthemfortheprizeofrivalry
+1557 3
+(2, 3),
+1, 6, -1, ThenAiassawthosesheepupontheearthGaspingindeath
+2, 6, -1, andsoreamazedhestood
+3, 1, -1, forhedivinedthatbytheBlessedOnesHissenseshadbeencheated.
+1566 5
+(2, 2),
+1, 6, -1, Whattimehedaredthatawfuldeed
+2, 6, -1, whengroanedAllOetaasheburnedalive
+3, 6, -1, andpassedHissoulintotheair
+4, 6, -1, leavingthemanfarfamous
+5, 6, -1, tobenumberedwiththeGods.
+1570 5
+(1, 2),
+1, 6, -1, FromfarawayTheArgivesgazedandmarvelled
+2, 6, -1, seeingtheplainAglarewithmanyfires
+3, 6, -1, andhearingnotesOfflutesandlyres
+4, 6, -1, neighingofchariotsteedsAndpipes
+5, 0, -1, theshepherd'sandthebanquet'sjoy.
+1573 3
+(2, 2),
+1, 6, -1, ThereweretheGoldenAppleswrought
+2, 4, -1, thatgleamedInthehesperides'gardenundefiled:AllroundthefearfulSerpent'sdeadcoilslay
+3, 6, -1, AndshranktheMaidsaghastfromzeus'boldson.
+1577 3
+(3, 3),
+1, 6, -1, BesidetheshipshesatMinisteringtothehurtsofmenwithspearsStrickenInwrathforhisbrother'ssakeherose
+2, 6, -1, Hecladhiminhisarmour
+3, 1, -1, inhisbreastDreadbattleprowessswelledforconflictgrimHepanted.
+1578 1
+(1, 1),
+1, 1, -1, ThistracktheBlestGodsmayalonebehold.SodiedahostoneithersidethatwarredOverMachaonandAglaia'sson.ButatthelastthroughdesperatewrestleoffightTheDanaansrescuedthem:yet
+1579 11
+(10, 11),
+1, 6, -1, YethadtheirmightAvailednotfordefence
+2, 6, -1, foralltheirwill
+3, 6, -1, HadTeucerandIdomeneusstrongofheartComenottohelp
+4, 6, -1, withThoas
+5, 6, -1, Meriones
+6, 6, -1, AndgodlikeThrasymedes
+7, 6, -1, theywhichshrankErewhilebeforeEurypylusyea
+8, 6, -1, hadfledUntotheshipsto'scapethecrushingdoom
+9, 6, -1, Butthat
+10, 1, -1, infearforatreus'sons
+11, 6, -1, theyralliedAgainstEurypylus:deadlywaxedthefight.
+1581 6
+(1, 1),
+1, 1, -1, ThengriefthrilledPammon:hardnecessityMadehimbothchariotlordandcharioteer
+2, 6, -1, Nowtohisdoomanddeathdayhadhebowed
+3, 6, -1, HadnotaTrojanthroughthatgorystrifeLeapt
+4, 6, -1, graspedthereins
+5, 6, -1, andsavedtheprince
+6, 6, -1, whennowHisstrengthfailed'neaththemurderoushandsoffoes.
+1583 2
+(1, 1),
+1, 1, -1, ButamidsttheshipsFlungdownuponthesandstheArgiveswailedheartanguishedfortheslain
+2, 6, -1, somanyofwhomDarkfatehadovertakenandlaidindust.
+1590 6
+(4, 4),
+1, 6, -1, Andthosetwainfoundbeforehispalacegateachilles'son
+2, 6, -1, nowhurlingdartandlance
+3, 6, -1, Nowinhischariotdrivingfleetfootsteeds
+4, 6, -1, GladweretheytobeholdhimpractisingThedeedsofwar
+5, 6, -1, albeithisheartwassadForhisslainsire
+6, 6, -1, ofwhomhadtidingscomeErethis.
+1592 9
+(1, 2),
+1, 6, -1, WithreverenteyesofawetheywentTomeethim
+2, 6, -1, forthatgoodlyformandfaceSeemedevenasveryAchillesuntothem
+3, 6, -1, Buthe
+4, 6, -1, orevertheyhadspoken
+5, 6, -1, cried:"Allhail
+6, 6, -1, yestrangers
+7, 6, -1, untothisminehomeSaywhenceyeare
+8, 6, -1, andwho
+9, 6, -1, andwhattheneedThathitherbringsyouoverbarrenseas."
+1596 5
+(3, 3),
+1, 6, -1, Bewarethetimeofequaldaysandnights
+2, 6, -1, Whenblaststhatoverthesea'sabyssesrush
+3, 6, -1, Noneknowethwhenceinfuryofbattleclash
+4, 6, -1, Bewarethepleiads'setting
+5, 6, -1, whentheseaMaddensbeneaththeirpowernorthesealone.
+1597 3
+(3, 3),
+1, 6, -1, Thenkissedhehim
+2, 6, -1, norsoughttostaythefeetOfhimwhopantedfortheclamourofwar
+3, 0, -1, WhosmiledforpleasureandforeagernessTohastetotheship.
+1599 2
+(1, 1),
+1, 6, -1, AndhisfeeteagerforthecoursearestillNever
+2, 6, -1, hisrestlesshoovesareclatteringaye.
+1601 2
+(2, 2),
+1, 6, -1, Allasonemandownfromtheshiptheyleapt
+2, 0, -1, FortremblingseizedonallforthatgrimsightOnallsaveawelessNeoptolemusWhosemightwaslikehisfather's:lustofwarSweptoverhim.
+1602 4
+(4, 4),
+1, 0, -1, SojoyedtheAchaeanhost
+2, 6, -1, whichtheretoforeWereheavyofheart
+3, 6, -1, whenNeoptolemuscame
+4, 0, -1, Joyedinthehopeofbreathingspacefromtoil.Thenliketheawelesslion'sflashedhiseyes.
+1605 2
+(1, 1),
+1, 4, -1, FromthatdeathleapingfromabovetheyquailedIntumultroundEurypylus:deadlyfearGrippedalltheirhearts
+2, 6, -1, littlechildrencowerAboutafather'skneeswhenthunderofZeusCrashesfromcloudtocloud.
+1606 3
+(2, 2),
+1, 6, -1, FordeathRodeuponallhecast
+2, 6, -1, andbarehiswrathStraightrushingdownupontheheadsoffoes
+3, 6, -1, NowintheirheartsthosewilderedTrojanssaidThatoncemoretheybeheldachilles'selfGiganticinhisarmour.
+1608 5
+(3, 3),
+1, 6, -1, VerilyallTheArgiveshadbesidetheirshipsbeenslain
+2, 6, -1, Hadnotachilles'strongsononthatdayWithstoodthehostoffoesandtheirgreatchiefEurypylusCametothatyounghero'ssidePhoenixtheold
+3, 6, -1, andmarvellinggazedononeTheimageofPeleidesTidesofjoyAndgriefsweptoverhimgrief
+4, 6, -1, formemoriesOfthatswiftfootedfatherjoy
+5, 1, -1, forsightOfsuchasonHeforsheergladnesswept.
+1609 5
+(4, 5),
+1, 6, -1, VerilyallTheArgiveshadbesidetheirshipsbeenslain
+2, 6, -1, Hadnotachilles'strongsononthatdayWithstoodthehostoffoesandtheirgreatchiefEurypylusCametothatyounghero'ssidePhoenixtheold
+3, 6, -1, andmarvellinggazedononeTheimageofPeleidesTidesofjoyAndgriefsweptoverhimgrief
+4, 6, -1, formemoriesOfthatswiftfootedfatherjoy
+5, 1, -1, forsightOfsuchasonHeforsheergladnesswept.
+1612 3
+(2, 2),
+1, 6, -1, Hail
+2, 0, -1, goodlysonofthatAchilleswhomInursedalittleoneinmineownarmsWithagladheartByHeaven'shighprovidenceLikeastrongsaplingwaxedheinstaturefast
+3, 6, -1, AnddailyIrejoicedtoseehisformAndprowess.
+1616 6
+(4, 4),
+1, 0, -1, Withjoythatpairborebattlewardtheirlord
+2, 6, -1, Soliketoaeacus'son
+3, 6, -1, theirdeathlessheartsHeldhimnoworserthanachilles'self
+4, 6, -1, LaughingforgleetheArgivesgatheredroundThemightresistlessofNeoptolemus
+5, 6, -1, EagerforfightaswaspswhosewoodlandbowerTheaxehathshaken
+6, 6, -1, whodartswarmingforthFurioustostingthewoodman.
+1617 7
+(5, 5),
+1, 6, -1, AndpiercedMeilanionbattlestaunch
+2, 6, -1, thesonOfCleitelovelyfaced
+3, 6, -1, erylaus'bride
+4, 6, -1, WhobarehimwhereCaicusmeetsthesea
+5, 1, -1, Wrothforhiscomradeslain
+6, 6, -1, EurypylusRusheduponAntiphus
+7, 6, -1, butterrorwingedHeplungedamidhiscomrades.
+1618 3
+(2, 2),
+1, 6, -1, SothespearOftheavengerslewhimnot
+2, 0, -1, whosedoomWasonedaywretchedlytobedevouredBythemanslayingCyclops:soitpleasedSternFate
+3, 6, -1, Iknownotwhy.
+1622 3
+(1, 1),
+1, 6, -1, Evenasinagonyheleaptfullheight
+2, 6, -1, Yetonceagainthearcher'sarrowhissed:Itpiercedhisthroat
+3, 6, -1, throughthenecksinewscleftUnswerving
+1623 3
+(2, 2),
+1, 6, -1, QuakedtheearthAndxanthus'murmuringstreams
+2, 1, -1, somightilySheshookthem:terrorstrickenwerethesoulsOfalltheNymphsadreadforPriam'stown
+3, 6, -1, FromherimmortalarmourflashedaroundThehoveringlightnings.
+1625 7
+(3, 3),
+1, 6, -1, ButGanymedessawfromheaven
+2, 6, -1, andcried
+3, 4, -1, Anguishedwithfearforhisownfatherland:"OFatherZeus
+4, 6, -1, ifofthyseedIam
+5, 6, -1, IfatthinebestIleftfarfamousTroyForimmortalitywithdeathlessGods
+6, 6, -1, Ohearmenow
+7, 0, -1, whosesoulisanguishthrilled
+1627 1
+(1, 1),
+1, 1, -1, FornowinheavendescendedPriam'sburgBythousandsareherpeopleperishing:Norespitecomethfromcalamity:Murderandhavocevermoreincrease.
+1628 5
+(4, 5),
+1, 6, -1, TheTrojansheardthatshout
+2, 6, -1, andsawthathost
+3, 6, -1, Andmarvelled
+4, 4, -1, ushedwithfearwerealltheirheartsForebodingdoom
+5, 6, -1, forlikeahugecloudseemedThatthrongoffoes:withclashingarmstheycame:Volumedandvastthedustrose'neaththeirfeet.
+1631 8
+(3, 3),
+1, 6, -1, Then
+2, 6, -1, overawedbythebrotherofhissire
+3, 4, -1, AndfearingforTroy'sfateandforherfolk
+4, 6, -1, ToheavenwentbackApollo
+5, 6, -1, totheseaPoseidon
+6, 6, -1, Butthesonsofmenfoughton
+7, 6, -1, Andslew
+8, 6, -1, andStrifeincarnategloatingwatched.
+1633 3
+(2, 2),
+1, 6, -1, HearkeninghesatToOdysseusandtogodlikeDiomede
+2, 6, -1, AndallthehoardedwrathforoldenwrongsAndallthetorturingrage
+3, 6, -1, meltedaway.
+1635 2
+(1, 1),
+1, 0, -1, Andalltheirsoulswerethrilledwithlustofwar:TheregatheredtootheLordsofthewideSea.TheseintheirwrathwereeagertodestroyTheHorseofGuileandalltheships
+2, 6, -1, andthoseFairIlium.
+1640 3
+(2, 2),
+1, 6, -1, Themotherforgatherchild
+2, 4, -1, fearfrenziedasshefled:allTroybecameOneshriekoffleers
+3, 6, -1, onehuddleofjostlinglimbs:Thestreetswerechokedwithcoweringfugitives.
+1641 4
+(1, 1),
+1, 0, -1, TheirheartsbeathighwithhopeToescapethewearystressofwoefulwar
+2, 6, -1, Howbeitthevictimsburnednot
+3, 6, -1, andtheflamesDiedout
+4, 6, -1, asthough'neathheavyhissingrain.
+1642 5
+(4, 4),
+1, 6, -1, ButstraightwayfromherhandstheypluckedandflungAfarthefireandsteel
+2, 6, -1, andcarelessturnedTothefeast
+3, 6, -1, fordarkenedoverthemtheirlastnight
+4, 0, -1, WithinthehorsetheArgivesjoyedtohearTheuproarofTroy'sfeasterssettingatnaughtCassandra
+5, 6, -1, buttheymarvelledthatsheknewSowelltheachaeans'purposeanddevice.
+1645 7
+(2, 2),
+1, 6, -1, Manaftermanheslewlikesomefiercebeast
+2, 6, -1, AndfoesshrankfromtheterribleragethatburnedOnhislife'sverge
+3, 6, -1, norreekedofimminentdoom
+4, 6, -1, Yea
+5, 6, -1, peerlessdeedsinthatfighthadhedone
+6, 6, -1, Hadnothishandsgrownweary
+7, 6, -1, hisspearheadBentutterly.
+1646 3
+(2, 2),
+1, 6, -1, IntoOenone'spresencethushecame
+2, 3, -1, AmazedherthronginghandmaidslookedonhimAsattheNymph'sfeetthatpalesuppliantfellFaintwiththeanguishofhiswound
+3, 6, -1, whosepangsStabbedhimthroughbrainandheart.
+1653 6
+(3, 3),
+1, 6, -1, FarfromhisbrawnyhandEuryalushurledAmassystone
+2, 6, -1, andshooktheranksofTroy
+3, 6, -1, AswheninangeragainstlongscreamingcranesAwatcherofthefieldleapsfromtheground
+4, 6, -1, Inswifthandwhirlingroundhisheadthesling
+5, 6, -1, Andspeedsthestoneagainstthem
+6, 6, -1, scatteringBeforeitshumtheirranksfardownthewindOutspread.
+1656 6
+(2, 2),
+1, 6, -1, SofiercelyleaptthesesonsofTroytomeetwarhardenedGreeks
+2, 0, -1, TheblackFatesjoyedtoseeTheirconflict
+3, 6, -1, Areslaughed
+4, 6, -1, EnyoyelledHorribly
+5, 6, -1, Loudtheirglancingarmourclanged:Theystabbed
+6, 6, -1, theyheweddownhostsoffoesuntoldWithirresistiblehands.
+1702 4
+(2, 4),(3, 4),
+1, 6, -1, WhilelongandloudSquealingtheyflee
+2, 0, -1, andjoystheharvest'slord
+3, 6, -1, SorejoicedPhoebus
+4, 6, -1, seeingfromthewarFleeingthemightyArgivehost.
+1705 4
+(1, 1),
+1, 6, -1, TheyareinfrenzyofpainStartfromthefurrow
+2, 6, -1, andsoredisquietedThehindisformarredwork
+3, 6, -1, andfortheirsake
+4, 6, -1, LestperhapstherecoilingploughsharelightOntheirlegsinews.
+1707 4
+(3, 3),
+1, 6, -1, FateforbadeThatheroanylongertocontendWithArgivefoeswithoutthehighbuiltwall
+2, 6, -1, Yea
+3, 4, -1, andhismothersorelyfearedthewrathOfPallaspassingwise
+4, 6, -1, whoseheartwaskeenTohelptheDanaansnow.
+1708 3
+(1, 1),
+1, 1, -1, HefearedlestsheMightslayhimevenbeyondhisdoom
+2, 6, -1, whosparedNotares'self
+3, 6, -1, amightierfarthanhe.
+1709 4
+(4, 4),
+1, 6, -1, NomoretheTrojansnowabodetheedgeOffight
+2, 1, -1, butalldisheartenedbackwarddrew
+3, 6, -1, ForlikefierceraveningbeaststheArgivemenLeaptonthem
+4, 6, -1, madwithmurderousrageofwar.
+1712 2
+(1, 1),
+1, 1, -1, AndwingedtheflightOfwhatbaredowntotheArgivesdoomordreadHefoughtaswhenOlympianZeushimselfFromheaveninwrathsmotedowntheinsolentbandsOfgiantsgrim
+2, 6, -1, andshooktheboundlessearth.
+1714 8
+(3, 7),
+1, 6, -1, Sonervelessflunghefell
+2, 6, -1, Andfledawayfromhimthepreciouslife
+3, 1, -1, Wrothforhisfriend
+4, 6, -1, astoneAeneashurled
+5, 6, -1, Andphiloctetes'stalwartcomradeslew
+6, 6, -1, Toxaechmes
+7, 6, -1, forheshatteredhisheadandcrushedHelmetandskullbones
+8, 6, -1, andhisnobleheartWasstilled.
+1715 12
+(4, 4),
+1, 6, -1, Achaea'slordsofmight
+2, 6, -1, exceedingfainSafetowinhome
+3, 6, -1, madethistheirofferingForsafereturn
+4, 6, -1, animagetoappeaseThewrathofPallasforherimagestolenFromTroy
+5, 6, -1, Andtothisstoryshallhestand
+6, 6, -1, Howlongwhatsoevertheyquestionhim
+7, 6, -1, until
+8, 6, -1, Thoughneversorelentless
+9, 6, -1, theybelieve
+10, 6, -1, Anddragit
+11, 6, -1, theirowndoom
+12, 6, -1, withinthetown.
+1716 4
+(2, 2),
+1, 6, -1, FortheseStillwereinsatiateforthebitterfray
+2, 6, -1, Stilllongedforturmoilofthefight
+3, 6, -1, TheybadeTheirownfolkbearagainstthatgiantwallWhatthingswhatsoeverforwar'sassaultsavail
+4, 6, -1, Inhopetolaythatstatelyfortresslow.
+1719 4
+(3, 3),
+1, 6, -1, SomeWhosewaiststhelancehadpierced
+2, 6, -1, impalingthemWheresharpeststingstheanguishladensteel.AndallaboutthecitydoloroushowlsOfdogsuprose
+3, 1, -1, andmiserablemoansOfstrongmenstrickentodeath
+4, 6, -1, andeveryhomeWithawfulcrieswasechoingRangtheshrieksOfwomen.
+1881 7
+(6, 6),
+1, 6, -1, FrodewasthusforcedtoquitthewarsoftheEastandfoughtagreatbattleinSwedenwithhissisterSwanhwid
+2, 6, -1, inwhichhewasbeaten
+3, 6, -1, Sohegotonboardaskiff
+4, 6, -1, andsailedstealthilyinacircuit
+5, 6, -1, seekingsomewayofboringthroughtheenemy'sfleet
+6, 3, -1, Whensurprisedbyhissisterandaskedwhyhewasrowingsilentlyandfollowingdiversmeanderingcourses
+7, 6, -1, hecutshortherinquirybyasimilarquestion
+1893 5
+(4, 4),
+1, 6, -1, ThusSIWARD
+2, 6, -1, bythesovereignvoteofthewholeDanishassembly
+3, 6, -1, receivedtheempireofhisfather
+4, 0, -1, Butafterthedefeatshehadinflictedeverywherehewassatisfiedwiththehonourhereceivedathome
+5, 6, -1, andlikedbettertobefamouswiththegownthanwiththesword.
+1894 7
+(3, 3),
+1, 6, -1, Straightwayhesoughtmedicineforhisgriefinloneliness
+2, 6, -1, andpatientlyconfinedthegriefofhissicksoulwithinthewallsofhishouse
+3, 1, -1, ButthisbittersorrowwasdrivenoutofhimbythesuddenarrivalofIwar
+4, 6, -1, whohadbeenexpelledfromthekingdom
+5, 6, -1, FortheGaulshadmadehimfly
+6, 6, -1, andhadwrongfullybestowedroyalpoweronacertainElla
+7, 6, -1, thesonofHame.
+1900 7
+(4, 4),(4, 5),
+1, 6, -1, Drawinghimbythoseappeals
+2, 6, -1, andwarilynotingtherightspottoplanthisblow
+3, 6, -1, heturnedtheotheredgeofhisswordtothefront
+4, 4, -1, fearingthatthethinsideofhisbladewastoofrailforhisstrength
+5, 6, -1, andsmotewithapiercingstrokethroughtheprince'sbody
+6, 6, -1, WhenWermundheardit
+7, 6, -1, hesaidthatthesoundofhissword"Skrep"hadreachedhisearforthesecondtime.
+2041 2
+(2, 2),
+1, 6, -1, AsfortheRomans
+2, 0, -1, theyweregratefultoHoratiusforhavingsavedtheircity.
+2519 7
+(7, 7),
+1, 6, -1, Itwasheart-breakingwork-alluphillagain
+2, 6, -1, backoverthegroundtheyhadalreadytravelled
+3, 6, -1, Whentheyfeltthattheyreallycouldn'trunanymore
+4, 6, -1, eventosavetheirlives
+5, 6, -1, theyalldroppeddowninthedampmossbesideawaterfallandbehindabigboulder
+6, 6, -1, panting
+7, 3, -1, Theyweresurprisedtoseehowhightheyhadalreadygot.
+2531 5
+(1, 1),(1, 2),
+1, 0, -1, MeanwhileatAnvardeveryonewasverygladthathehadbeendisposedofbeforetherealfunbegan
+2, 6, -1, whichwasagrandfeastheldthateveningonthelawnbeforethecastle
+3, 6, -1, withdozensoflanternstohelpthemoonlight
+4, 6, -1, Andthewineflowedandtalesweretoldandjokeswerecracked
+5, 6, -1, andthensilencewasmadeandtheKing'spoetwithtwofiddlerssteppedoutintothemiddleofthecircle.
+2542 1
+(1, 1),
+1, 6, -1, tremblinglesttheirroastingspitsorkitchenknivesbeconsideredarms.
+2549 1
+(1, 1),
+1, 0, -1, onecanbutbepleasedtofindpeoplewhoareobliging.

@@ -1,0 +1,1821 @@
+28 2
+(2, 1),
+1, 6, -1, Thinkaboutsurfingonthefrontedgeofawave
+2, 0, -1, It'sreallyexhilarating.
+118 13
+(4, 4),
+1, 6, -1, Wehadabravecrewofyoungnegroestopullus
+2, 6, -1, but
+3, 6, -1, pullastheywould
+4, 4, -1, thecurrentwassostrongthatwefeared
+5, 6, -1, ifwepersisted
+6, 6, -1, weshouldbedrawnintothebroadIndianOcean
+7, 6, -1, so
+8, 6, -1, changingourline
+9, 6, -1, weboreintothelittlecorallineisland
+10, 6, -1, Maziwa
+11, 6, -1, where
+12, 6, -1, afterridingoversomeuglycoralsurfs
+13, 6, -1, weputinforthenight.
+164 16
+(5, 5),(5, 6),
+1, 6, -1, naminuteortwoafterwards
+2, 6, -1, thegoodyoungprinces
+3, 6, -1, attractedbythesoundofthegun
+4, 6, -1, cametoseewhatwasdone
+5, 3, -1, Theirsurpriseknewnobounds
+6, 6, -1, theycouldscarcelybelievewhattheysaw
+7, 6, -1, andthen
+8, 6, -1, onrecovering
+9, 6, -1, withthespiritoftruegentlemen
+10, 6, -1, theyseizedbothmyhands
+11, 6, -1, congratulatingmeonthemagnitudeofmysuccess
+12, 6, -1, andpointedout
+13, 6, -1, asanexampleofit
+14, 4, -1, abystanderwhoshowedfearfulscars
+15, 6, -1, bothonhisabdomenandatthebladeofhisshoulder
+16, 6, -1, whotheydeclaredhadbeenrunthroughbyoneoftheseanimals.
+196 4
+(4, 3),
+1, 6, -1, Thesunslidacrosstheheavensandshotnarrowbladesoflight
+2, 6, -1, nowthroughoneloopholeandnowthroughanother
+3, 1, -1, untilarayslantedfromthewesternwallandresteduponthered-and-blackpaintoftwodeadbodiesinthecorner
+4, 6, -1, Istaredwithhorror.
+204 5
+(1, 1),
+1, 4, -1, Ifearthatwearelosingourheads
+2, 6, -1, gentlemen
+3, 6, -1, ''hesaid
+4, 6, -1, andIproposetoyouthehealthofthefirstcitizenofKentucky
+5, 6, -1, ColonelGeorgeRogersClark.
+215 15
+(8, 8),
+1, 6, -1, Thencamethesugaring
+2, 6, -1, thewarmdaysandthefreezingnightswhentheearthstirsinhersleepandthetapsdripfromredsunrisetoredsunset
+3, 6, -1, Oldandyoungwenttothecamps
+4, 6, -1, thewomenandchildrenboilingandgraining
+5, 6, -1, thesquadsofmenpostedinguardsroundabout
+6, 6, -1, Andafterthatthedaysflewsoquicklythatitseemedasifthewoodshadburstsuddenlyintowhiteflower
+7, 6, -1, anditwasspringagain
+8, 6, -1, AndthenajoytobelongrememberedIwentonahuntingtripwithTomandCowanandthreeotherswheretheKentuckytumblesbetweenitsdarklywoodedcliffs
+9, 6, -1, AndotherwondersofthatstrangelandIsawthenforthefirsttime:greatlicks
+10, 6, -1, trampleddownforacresbythewildherds
+11, 6, -1, wherethesaltwateroozesoutofthehoofprints
+12, 6, -1, Ontheedgeofoneoftheselickswepausedandstaredbreathlessatgiantbonesstickinghereandthereintheblackmud
+13, 4, -1, andgreatskullsoffearfulbeastshalfembedded
+14, 6, -1, ThiswascalledtheBigBoneLick
+15, 6, -1, andsometravellersthatwentbeforeushadmadetheirtentswiththethighsofthesemonstersofapastage.
+217 15
+(13, 13),
+1, 6, -1, TheIndianshadshotatapartyshellingcornatCaptainBowman'splantation
+2, 6, -1, andkilledtwo
+3, 6, -1, whiletheothershadtakenrefugeinthecrib
+4, 6, -1, Firedatfromeverybrake
+5, 6, -1, JamesRayhadriddentoHarrodstownforsuccor
+6, 6, -1, andthesavageshadbeenbeatenoff
+7, 6, -1, Butonlythefoolhardyreturnedtotheirclearingsnow
+8, 6, -1, Wewereontheedgeofanotherdreadedsummerofsiege
+9, 6, -1, theprospectofbanishmentfromthehomeswecouldalmostsee
+10, 6, -1, staringusintheface
+11, 6, -1, andthelaborsofthespringlostagain
+12, 6, -1, Therewasbittertalkwithinthegatesthatnight
+13, 6, -1, andmanydeclaredangrilythatColonelClarkhadabandonedus
+14, 6, -1, ButIrememberedwhathehadsaid
+15, 6, -1, andhadfaithinhim.
+218 8
+(2, 2),
+1, 6, -1, Theyturned
+2, 6, -1, andinanecstasyofjoyquitepitifultoseewenttroopingoutofthegate
+3, 1, -1, Butscarcecouldtheyhavereachedthestreetandwehavebrokenranks
+4, 6, -1, whenwesawthemcomingbackagain
+5, 6, -1, thepriestleadingthemasbefore
+6, 6, -1, TheydrewneartothespotwhereClarkstood
+7, 6, -1, talkingtothecaptains
+8, 6, -1, andhaltedexpectantly.
+220 6
+(4, 4),(4, 5),
+1, 6, -1, Atlengththecockscrowingfordayproclaimedthemorning
+2, 6, -1, andwhileyettheblueshadowofthebluffwasonthetown
+3, 6, -1, ColonelClarksalliedoutofthegateandwalkedabroad
+4, 6, -1, Strangeitseemedthatwarhadcometothisvillage
+5, 6, -1, sopeacefulandremote
+6, 6, -1, AndevenstrangeritseemedtometoseetheseArcadianhomesinthemidstofthefiercewilderness.
+221 17
+(10, 11),(10, 12),
+1, 6, -1, Excitementkeyedushigh
+2, 6, -1, wereachedtheshade
+3, 6, -1, plungedintoit
+4, 6, -1, andpresentlycameoutstaringatthebastionedcornersofafortwhichrosefromthecentreofaclearing
+5, 6, -1, Ithadoncedefendedtheplace
+6, 6, -1, butnowstoodabandonedanddismantled
+7, 6, -1, Beyondit
+8, 6, -1, attheedgeofthebluff
+9, 6, -1, wehalted
+10, 3, -1, astonished
+11, 6, -1, Thesunwasfallinginthewest
+12, 6, -1, andbelowuswasthegoalforthesightofwhichwehadsufferedsomuch
+13, 6, -1, Atourfeet
+14, 6, -1, acrossthewoodedbottom
+15, 6, -1, wastheKaskaskiaRiver
+16, 6, -1, andbeyond
+17, 6, -1, thepeacefullittleFrenchvillagewithitslowhousesandorchardsandgardenscoloredbythetouchoftheeveninglight.
+225 11
+(2, 8),(7, 8),
+1, 6, -1, Heturnedfromthemoncemore
+2, 6, -1, theywentawayinadejectiontowringourcompassion
+3, 6, -1, andwethoughtthematterendedatlast
+4, 6, -1, Thesunwasfallinglow
+5, 6, -1, thepeoplebeginningtomoveaway
+6, 6, -1, when
+7, 6, -1, totheastonishmentofall
+8, 6, -1, theculpritswereseencomingbackagain
+9, 6, -1, Withthemweretwoyoungmenoftheirownnation
+10, 6, -1, TheIndiansopenedupapathforthemtopassthrough
+11, 6, -1, andtheycameasmengotothegrave.
+227 8
+(4, 4),(4, 5),
+1, 6, -1, Thekettleslongdisusedwerefetched
+2, 6, -1, andbrothmadeandfedinsipstotheweakest
+3, 6, -1, whilethestrongestlookedonandsmiledinanagonyofself-restraint
+4, 4, -1, Itwasafearfulthingtoseemenwhoselegshadrefusedservicestruggletotheirfeetwhentheyhaddrunkthesteaming
+5, 6, -1, greasymixture
+6, 6, -1, AndtheColonel
+7, 6, -1, standingbytheriver'sedge
+8, 6, -1, turnedhisfaceawaydownstream.
+228 8
+(4, 5),(5, 5),
+1, 6, -1, HetoldusthatamannamedMaisonville
+2, 6, -1, withapartyofIndians
+3, 6, -1, wasinpursuitofhim
+4, 6, -1, andthenextpieceofnewshehadwasinthewayofraisingourdespairalittle
+5, 3, -1, GovernorHamilton'sastonishmentatseeingthisforcehereandnowwouldbeasgreatashisown
+6, 6, -1, GovernorHamiltonhadsaid
+7, 6, -1, indeed
+8, 6, -1, thatonlyanavycouldtakeVincennesthisyear.
+280 4
+(2, 2),
+1, 6, -1, Itwasnohardshiptoaladbroughtupinwoodcraft
+2, 6, -1, FearoftheIndians
+3, 6, -1, likeadogshiveringwiththecold
+4, 6, -1, wasadeadenedpainontheborder.
+285 4
+(2, 2),
+1, 6, -1, ByJob
+2, 4, -1, there'snodevilifi'llstandbackfrommyclearingandwastetherestofthesummerforthefearsofapackofcowards
+3, 6, -1, i'lltakeaposseandmarchtoShawaneeSpringsthisday
+4, 6, -1, andseeanymanafairfightthattriestostopme
+293 2
+(1, 1),
+1, 3, -1, Tomysurprisehesnatchedmefromthethwartandheldmeupwithashout
+2, 6, -1, andIsawColonelClarkturnandlookback.
+320 3
+(2, 2),
+1, 6, -1, ButNickwasonetocarrybystormapositionwhichanothermightwaittoreconnoitre
+2, 3, -1, Thefirstsensationofourhostwasnodoubtastonishment
+3, 6, -1, buthewassoonlaughingoveravividaccountofouradventuresonthekeelboat.
+322 7
+(3, 3),
+1, 6, -1, Fourdaysandnightsweroweddownthegreatriver
+2, 6, -1, ouroarsdoublemanned
+3, 4, -1, forfearthatourcomingmightbeheraldedtotheFrenchtowns
+4, 6, -1, WemadeourfirstcamponagreenlittleislandatthemouthoftheCherokee
+5, 6, -1, aswethencalledtheTennessee
+6, 6, -1, andthereIsetaboutcookingaturkeyforColonelClark
+7, 6, -1, whichRayhadshot.
+372 12
+(3, 4),
+1, 6, -1, Ihavenowinmyhands
+2, 6, -1, mycompanionsaid
+3, 6, -1, confidently
+4, 6, -1, allthethreadswhichhaveformedsuchatangle
+5, 6, -1, Thereare
+6, 6, -1, ofcourse
+7, 6, -1, detailstobefilledin
+8, 6, -1, butIamascertainofallthemainfacts
+9, 6, -1, fromthetimethatDrebberpartedfromStangersonatthestation
+10, 6, -1, uptothediscoveryofthebodyofthelatter
+11, 6, -1, asifIhadseenthemwithmyowneyes
+12, 6, -1, Iwillgiveyouaproofofmyknowledge.
+673 7
+(2, 2),
+1, 6, -1, AsIbenttomyoar
+2, 1, -1, Ifeltverysorryforwhathadhappened
+3, 6, -1, Herewerehalfthecrewguiltyofanactofviolenceuponanofficer
+4, 6, -1, which
+5, 6, -1, accordingtotheseverecodeunderwhichwelived
+6, 6, -1, meritedpunishmentaspainfulascouldbeinflicted
+7, 6, -1, andlastingfortherestofthevoyage.
+760 5
+(1, 2),
+1, 3, -1, AtthisIwasgreatlysurprised
+2, 6, -1, butlookingcarefullyathimIrecognisedhimtobethecaptainoftheshipuponwhichIhadmademysecondvoyage
+3, 6, -1, thoughhehadalteredmuchsincethattime
+4, 6, -1, Asforhim
+5, 6, -1, believingmetobedeaditwasnowonderthathehadnotrecognisedme.
+763 28
+(24, 24),
+1, 6, -1, Fromtimetotimewelandedatvariousislands
+2, 6, -1, wherewesoldorexchangedourmerchandise
+3, 6, -1, andoneday
+4, 6, -1, whenthewinddroppedsuddenly
+5, 6, -1, wefoundourselvesbecalmedclosetoasmallislandlikeagreenmeadow
+6, 6, -1, whichonlyroseslightlyabovethesurfaceofthewater
+7, 6, -1, Oursailswerefurled
+8, 6, -1, andthecaptaingavepermissiontoallwhowishedtolandforawhileandamusethemselves
+9, 6, -1, Iwasamongthenumber
+10, 6, -1, butwhenafterstrollingaboutforsometimewelightedafireandsatdowntoenjoytherepastwhichwehadbroughtwithus
+11, 6, -1, wewerestartledbyasuddenandviolenttremblingoftheisland
+12, 6, -1, whileatthesamemomentthoseleftupontheshipsetupanoutcrybiddinguscomeonboardforourlives
+13, 6, -1, sincewhatwehadtakenforanislandwasnothingbutthebackofasleepingwhale
+14, 6, -1, Thosewhowerenearesttotheboatthrewthemselvesintoit
+15, 6, -1, otherssprangintothesea
+16, 6, -1, butbeforeIcouldsavemyselfthewhaleplungedsuddenlyintothedepthsoftheocean
+17, 6, -1, leavingmeclingingtoapieceofthewoodwhichwehadbroughttomakeourfire
+18, 6, -1, Meanwhileabreezehadsprungup
+19, 6, -1, andintheconfusionthatensuedonboardourvesselinhoistingthesailsandtakingupthosewhowereintheboatandclingingtoitssides
+20, 6, -1, noonemissedmeandIwasleftatthemercyofthewaves
+21, 6, -1, AllthatdayIfloatedupanddown
+22, 6, -1, nowbeatenthisway
+23, 6, -1, nowthat
+24, 6, -1, andwhennightfellIdespairedformylife
+25, 6, -1, but
+26, 6, -1, wearyandspentasIwas
+27, 6, -1, Iclungtomyfrailsupport
+28, 0, -1, andgreatwasmyjoywhenthemorninglightshowedmethatIhaddriftedagainstanisland.
+764 14
+(4, 2),
+1, 6, -1, HowlongIsleptIknownot
+2, 6, -1, butwhenIopenedmyeyesandstartedtomyfeetIperceivedwithhorrorthatIwasaloneandthattheshipwasgone
+3, 6, -1, Irushedtoandfrolikeonedistracted
+4, 4, -1, utteringcriesofdespair
+5, 6, -1, andwhenfromtheshoreIsawthevesselunderfullsailjustdisappearinguponthehorizon
+6, 6, -1, IwishedbitterlyenoughthatIhadbeencontenttostayathomeinsafety
+7, 6, -1, Butsincewishescoulddomenogood
+8, 6, -1, Ipresentlytookcourageandlookedaboutmeforameansofescape
+9, 6, -1, WhenIhadclimbedatalltreeIfirstofalldirectedmyanxiousglancestowardsthesea
+10, 6, -1, but
+11, 6, -1, findingnothinghopefulthere
+12, 6, -1, Iturnedlandward
+13, 0, -1, andmycuriositywasexcitedbyahugedazzlingwhiteobject
+14, 6, -1, sofaroffthatIcouldnotmakeoutwhatitmightbe.
+838 7
+(2, 2),
+1, 6, -1, Earlyinthemorningwewereonfootagain
+2, 6, -1, onlytoothankfultohavegotoffsocheaply
+3, 1, -1, Thenmenwereappointedasguidesandprotectors
+4, 6, -1, tolookafterusasfarastheborder
+5, 6, -1, Whatanhonour
+6, 6, -1, Wehadcomeintothecountrydrawntherebyacombinationofprideandavariceandnowwewereleavingitinhothasteundertheguidanceofanescortofofficers
+7, 6, -1, whowereinrealityappointedtowatchusasdangerouswizardsandobjectsofterror.
+898 9
+(4, 1),(4, 2),(4, 3),
+1, 6, -1, Whenatlastshefoundherself
+2, 6, -1, atinyfigure
+3, 6, -1, standinguponthevastplatformunderthehighblackdome
+4, 0, -1, thenoiseandconfusionexcitedanddelightedher
+5, 6, -1, Sherosetothewavesofsoundasaswimmerrisesinthesea
+6, 6, -1, herheartbeatfast
+7, 6, -1, andshewassoeagerlyengagedinlookingabouther
+8, 6, -1, instaringatthehurryingpeople
+9, 6, -1, inlocatingtheshrillscreamsoftheengines
+1127 7
+(2, 2),
+1, 6, -1, "Mybrother
+2, 3, -1, benotsurprisedtoseeus
+3, 6, -1, thisisourland
+4, 6, -1, andaswecametogetwaterfromtheriverwenoticedyourraftfloatingdownit
+5, 6, -1, andoneofusswamoutandbroughtyoutotheshore
+6, 6, -1, Wehavewaitedforyourawakening
+7, 6, -1, tellusnowwhenceyoucomeandwhereyouweregoingbythatdangerousway
+1130 18
+(1, 1),
+1, 6, -1, RichandhappyasIwasaftermythirdvoyage
+2, 6, -1, Icouldnotmakeupmymindtostayathomealtogether
+3, 6, -1, Myloveoftrading
+4, 0, -1, andthepleasureItookinanythingthatwasnewandstrange
+5, 6, -1, mademesetmyaffairsinorder
+6, 6, -1, andbeginmyjourneythroughsomeofthePersianprovinces
+7, 6, -1, havingfirstsentoffstoresofgoodstoawaitmycominginthedifferentplacesIintendedtovisit
+8, 6, -1, Itookshipatadistantseaport
+9, 6, -1, andforsometimeallwentwell
+10, 6, -1, butatlast
+11, 6, -1, beingcaughtinaviolenthurricane
+12, 6, -1, ourvesselbecameatotalwreckinspiteofallourworthycaptaincoulddotosaveher
+13, 6, -1, andmanyofourcompanyperishedinthewaves
+14, 6, -1, withafewothers
+15, 6, -1, hadthegoodfortunetobewashedashoreclingingtopiecesofthewreck
+16, 6, -1, forthestormhaddrivenusnearanisland
+17, 1, -1, andscramblingupbeyondthereachofthewaveswethrewourselvesdownquiteexhausted
+18, 6, -1, towaitformorning.
+1421 2
+(2, 2),
+1, 6, -1, Manytimes
+2, 6, -1, co-workersfeelburdenedwiththetaskofcoveringthemistakesoftheirirresponsiblecolleagues.
+1499 8
+(5, 5),
+1, 6, -1, Aswhenonthewidesea
+2, 6, -1, 'neathbuffetingsOfstormblasts
+3, 6, -1, castawayswhoseshipiswreckedEscape
+4, 6, -1, aremnantofacrew
+5, 1, -1, forspentWithdesperateconflictwiththecruelsea:Lateandatlastappearsthelandhardby
+6, 1, -1, Appearsacity:faintandwearylimbedWiththatgrimstruggle
+7, 6, -1, throughthesurftheystrainToland
+8, 6, -1, soregrievingforthegoodshiplost.
+1607 6
+(3, 3),
+1, 6, -1, HisbreathKindlesittoaflame
+2, 6, -1, tillroundtheboatGlarethitssplendour
+3, 6, -1, andfromtheblackseaDartupthefishalleagertobeholdTheradianceforthelasttime
+4, 6, -1, forthebarbsOfhisthreepointedspear
+5, 6, -1, asuptheyleap
+6, 6, -1, Slaythem.
+1694 4
+(1, 1),
+1, 6, -1, Thegreatestpainswereafterwardstakentopreservethefortress
+2, 6, -1, andafineMolewasconstructed
+3, 6, -1, atavastexpense
+4, 6, -1, toimprovetheharbour.
+1720 9
+(5, 5),(5, 6),
+1, 6, -1, Ihadhardlydonereckoningthemupwhentwoorthreebustlingmencameoutandshepherdedusallenergeticallyintoalong
+2, 6, -1, lowroom
+3, 6, -1, wheresomeformofagreementwasreadouttous
+4, 6, -1, Sailorsarenaturallyandusuallycarelessaboutthenatureofthe"articles"theysign
+5, 4, -1, theirchiefanxietybeingtogettosea
+6, 6, -1, andundersomebody'scharge
+7, 4, -1, ButhadIbeeneversoanxioustoknowwhatIwasgoingtosignthistime
+8, 6, -1, Icouldnot
+9, 6, -1, forthelanguagemightaswellhavebeenChineseforallIunderstoodofit.
+1721 14
+(4, 6),
+1, 6, -1, Sailorsarenaturallyandusuallycarelessaboutthenatureofthe"articles"theysign
+2, 4, -1, theirchiefanxietybeingtogettosea
+3, 6, -1, andundersomebody'scharge
+4, 4, -1, ButhadIbeeneversoanxioustoknowwhatIwasgoingtosignthistime
+5, 6, -1, Icouldnot
+6, 6, -1, forthelanguagemightaswellhavebeenChineseforallIunderstoodofit
+7, 6, -1, wever
+8, 6, -1, Isignedandpassedon
+9, 6, -1, engagedtogoIknewnotwhere
+10, 6, -1, insomeshipIdidnotknoweventhenameof
+11, 6, -1, inwhichIwastoreceiveIdidnotknowhowmuch
+12, 6, -1, orhowlittle
+13, 6, -1, formylabour
+14, 6, -1, norhowlongIwasgoingtobeaway.
+1722 10
+(8, 5),(8, 6),(8, 7),
+1, 6, -1, Asnightfell
+2, 6, -1, theconditionofthe"greenies
+3, 6, -1, "ornonsailorportionofthecrew
+4, 6, -1, waspitiable
+5, 6, -1, Helplessfromseasickness
+6, 6, -1, notknowingwheretogoorwhattodo
+7, 6, -1, bulliedrelentlesslybytheruthlesspettyofficerswell
+8, 1, -1, Ineverfeltsosorryforalotofmeninmylife
+9, 6, -1, GladenoughIwastogetbelowintothefolk'sleforsupper
+10, 6, -1, andabriefrestandrespitefromthatcrueltyondeck.
+1723 9
+(8, 8),
+1, 6, -1, Forthefirstquarterofanhour
+2, 6, -1, inspiteoftheSeptemberchill
+3, 6, -1, thesweatpouredoffmeinstreams
+4, 6, -1, Andthecoursewell
+5, 6, -1, ifwasnotsteering
+6, 6, -1, itwassculling
+7, 6, -1, theoldbumboatwaswobblingallaroundlikeadrunkentailorwithtwoleftlegs
+8, 6, -1, Ifairlyshookwithapprehensionlestthemateshouldcomeandlookinthecompass
+9, 6, -1, IhadbeenaccustomedtohardwordsifIdidnotsteerwithinhalfapointeachway.
+1724 6
+(3, 2),
+1, 6, -1, SuchbrutalityIneverwitnessedbefore
+2, 6, -1, OnboardofEnglishships(exceptmen-of-war)thereispracticallynodiscipline
+3, 6, -1, whichisbad
+4, 6, -1, butthissortofthingwasmaddening
+5, 6, -1, knewhowdesperatelyillallthosepoorwretcheswere
+6, 1, -1, howhelplessandawkwardtheywouldbeifquitehaleandhearty.
+1725 9
+(4, 4),
+1, 6, -1, Thethirdmatewasnothingmuchbutbadtempernotmuchsailor
+2, 6, -1, normuchwhaler
+3, 6, -1, generallyinhotwaterwiththeskipper
+4, 6, -1, whohatedhimbecausehewasan"owner'sman
+5, 6, -1, "Andefourfmate
+6, 6, -1, "woundupthenarrator
+7, 6, -1, straighteninghishugebulk
+8, 6, -1, "amdebestmanindeship
+9, 6, -1, anddebiggest.
+1727 10
+(5, 6),(5, 7),(5, 8),
+1, 6, -1, Wewereallgatheredaboutthefolk'slescuttleoneevening
+2, 6, -1, afewdaysafterthegalereferredtointhepreviouschapter
+3, 6, -1, andthequestionofwhalefishingcameupfordiscussion
+4, 6, -1, Untilthattime
+5, 6, -1, strangeasitmayseem
+6, 6, -1, nowordofthis
+7, 6, -1, thecentralideaofallourminds
+8, 6, -1, hadbeenmooted
+9, 6, -1, erymanseemedtoshunthesubject
+10, 6, -1, althoughwewereindailyexpectationofbeingcalledupontotakeanactivepartinwhalefighting.
+1728 8
+(8, 8),
+1, 6, -1, Sowetoiledwatchandwatch
+2, 6, -1, sixhoursonandsixoff
+3, 6, -1, theworkneverceasingforaninstantnightordayThoughtheworkwashardanddirty
+4, 6, -1, andthediscomfortofbeingsocontinuallywetthroughwithoilgreat
+5, 6, -1, therewasonlyonethingdangerousaboutthewholebusinessThatwasthejoboffillingandshiftingthehugecasksofoil
+6, 6, -1, Someofthesewereofenormoussize
+7, 6, -1, containing350gallonswhenfull
+8, 6, -1, andtheworkofmovingthemaboutthegreasydeckofarollingshipwasattendedwithaterribleamountofrisk.
+1729 9
+(2, 3),(2, 4),
+1, 6, -1, However
+2, 6, -1, thefactthatthetheftwasdiscoveredsoonbecamepainfullyevident
+3, 6, -1, forwehadavisitfromtheafterguardinforceoneafternoon
+4, 6, -1, andAbnerwithhisbrewagewashaledtothequarterdeck
+5, 6, -1, There
+6, 6, -1, inthepresenceofallhands
+7, 6, -1, hewasarraigned
+8, 6, -1, foundguiltyofstealingtheship'sstores
+9, 6, -1, andsentencepasseduponhim.
+1730 12
+(8, 9),
+1, 6, -1, Suddenlyoneofthemen
+2, 6, -1, inliftinghisnet
+3, 6, -1, slippedonthesmoothbottomoftheboat
+4, 6, -1, joltingoneoftheoars
+5, 6, -1, Therewasagleamoflightbelowastheschoolturnedtheyhadalldisappearedinstantly
+6, 6, -1, Wehadbeensobusythatwehadnotnoticedthedimensionsofourcatch
+7, 6, -1, butnow
+8, 0, -1, toourgreatjoy
+9, 6, -1, wefoundthatwehadatleasteighthundredfishnearlyaslargeasherrings
+10, 6, -1, Weatoncereturnedtotheship
+11, 6, -1, havingbeenabsentonlytwohours
+12, 6, -1, duringwhichwehadcaughtsufficienttoprovideallhandswiththreegoodmeals.
+1731 7
+(5, 4),
+1, 6, -1, Weatoncereturnedtotheship
+2, 6, -1, havingbeenabsentonlytwohours
+3, 6, -1, duringwhichwehadcaughtsufficienttoprovideallhandswiththreegoodmeals
+4, 6, -1, Notoneofthecrewhadeverseenorheardofsuchfishingbefore
+5, 6, -1, somyprideandpleasuremayheimagined
+6, 6, -1, Alittlelearningmaybeadangerousthingattimes
+7, 6, -1, butitcertainlyisoftenhandytohaveaboutyou.
+1732 11
+(8, 8),
+1, 6, -1, Now
+2, 6, -1, withus
+3, 6, -1, whenevertheweatherwasdoubtfulorsquallylooking
+4, 6, -1, weshortenedsail
+5, 6, -1, andkeptitfasttillbetterweathercamealong
+6, 6, -1, beingquitecarelesswhetherwemadeonemileadayoronehundred
+7, 6, -1, Butjustbecausenobodytookanynoticeofourprogressasthedayspassed
+8, 3, -1, wewereoccasionallystartledtofindhowfarwehadreallygot
+9, 6, -1, Thiswascertainlythecasewithallofusforward
+10, 6, -1, eventomewhohadsomeexperience
+11, 6, -1, sowellusedhadInowbecometotheleisurelywayofgettingalong.
+1733 7
+(2, 2),
+1, 6, -1, Thereweremeninthatforecastleasgoodcitizensandasbravefellowsasyouwouldwishtomeetmenwhointheirownspherewouldhavecommandedandobtainedrespect
+2, 6, -1, Butunderthepainfulandabnormalcircumstancesinwhichtheyfoundthemselvesbeatenanddrivenlikedogswhileinthethroesofseasickness
+3, 6, -1, Halfstarvedandhopeless
+4, 6, -1, theirspirithadbeensobroken
+5, 6, -1, andtheyweresokeptdowntothatsadlevelbythedisplayofforce
+6, 6, -1, aidedbydeadlyweaponsaft
+7, 1, -1, thatnootherconditioncouldbeexpectedforthembutthatofbroken-heartedslaves.
+1734 12
+(8, 8),
+1, 6, -1, Wesawnone
+2, 6, -1, however
+3, 6, -1, andatdaylightweweighedandtowedtheshipouttoseawiththeboats
+4, 6, -1, therebeingnowind
+5, 6, -1, Whilebusyatthisuninterestingpastime
+6, 6, -1, oneoftheboatsslippedaway
+7, 6, -1, returningpresentlywithafineturtle
+8, 3, -1, whichtheyhadsurprisedduringhismorning'snap
+9, 6, -1, eoftheamphibiousPortugueseslippedovertheboat'ssideasshenearedthesleepingSPHARGA
+10, 6, -1, and
+11, 6, -1, divingdeep
+12, 6, -1, cameupunderneathhim.
+1736 5
+(1, 3),
+1, 1, -1, Whenwegotonboardwefeltquitehappy
+2, 6, -1, and
+3, 6, -1, forthefirsttimesinceleavingAmerica
+4, 6, -1, wehadalittlesinging
+5, 6, -1, allIbelaughedatwhenIconfessthatourmusicaleffortswereconfinedtoSankey'shymns
+1737 6
+(5, 6),
+1, 6, -1, butaswesecuredfiveofthem
+2, 6, -1, averagingsevenbarrelseach
+3, 6, -1, withscarcelyanytrouble
+4, 6, -1, Ifeltquitepleasedwithmyself
+5, 0, -1, Wehadquiteanexcitingbitofsportwiththem
+6, 6, -1, theyweresolively.
+1738 4
+(1, 1),
+1, 4, -1, Thechiefanxietywasforthesafetyoftheboats
+2, 6, -1, tasfordangerwell
+3, 6, -1, theyonlyseemedlikebig"blackfish"tousnow
+4, 0, -1, andwequiteenjoyedthefun.
+1739 7
+(2, 2),(2, 3),
+1, 6, -1, norwouldanysanemanfallingacrossthemruntheriskofcloserexaminationintodetailsthanwehaddone
+2, 6, -1, Itwasagreatpitythatwewerenotabletosinktheprahuwithherghastlycargo
+3, 6, -1, andsofreetheairfromthatpoisonousfoetorthatwasadeadlydangertoanyvesselgettingunderherlee
+4, 6, -1, Nextday
+5, 6, -1, andforawholeweekafter
+6, 6, -1, wehadastarkcalmsuchacalmasonerealizeswhoreadssympatheticallythatmagicalpieceofwork
+7, 6, -1, the"AncientMariner."
+1740 1
+(1, 1),
+1, 1, -1, ForColeridgecertainlyneverwitnessedsuchasceneashetheredescribeswithanaccuracyofdetailthatisastounding.
+1742 11
+(4, 4),
+1, 6, -1, Thinkingthatsuchasightoughtnottobemissedbythecaptain
+2, 6, -1, Iovercamemydreadofhimsufficientlytocallhim
+3, 6, -1, andtellhimofwhatwastakingplace
+4, 6, -1, Hemetmyremarkswithsuchafuriousburstofangeratmydaringtodisturbhimforsuchacause
+5, 6, -1, thatIfledprecipitatelyondeckagain
+6, 6, -1, havingtheremainderofthevisiontomyself
+7, 6, -1, fornoneoftheotherscaredsufficientlyforsuchthingstolosefiveminutessleepinwitnessingthem
+8, 6, -1, Theconflictceased
+9, 6, -1, thesearesumeditsplacidcalm
+10, 6, -1, andnothingremainedtotellofthefightbutastrongodouroffish
+11, 6, -1, asofabankofseaweedleftbythetideintheblazingsun.
+1743 8
+(4, 6),
+1, 6, -1, thethreehundredfathomsofline
+2, 6, -1, inaperfectmazeofentanglement
+3, 6, -1, appearedtobewrappedaboutthewrithingtrunkofthewhale
+4, 0, -1, Happily
+5, 6, -1, thereweretwoboatsdisengaged
+6, 6, -1, sothattheywereableverypromptlytorescuethesufferersfromtheirperilouspositionintheboilingvortexoffoambywhichtheyweresurrounded
+7, 6, -1, Meanwhile
+8, 6, -1, theremainingboathadaneasytask.
+1744 8
+(5, 6),
+1, 6, -1, Sinceleavingportwehadnotfeltsocomfortable
+2, 6, -1, thework
+3, 6, -1, withallitsdisagreeables
+4, 6, -1, seemingasnothingnowthatwecoulddoitwithoutfearandtrembling
+5, 6, -1, AlasforpoorJemmy
+6, 6, -1, aswealwayspersistedincallinghimfrominabilitytopronouncehispropernamehiscasewasevidentlyhopeless
+7, 6, -1, Hisfellowsdidtheirpoorbesttocomforthisfastfleetinghours
+8, 6, -1, oneafteranothermurmuringtohimtheprayersoftheChurch.
+1745 8
+(5, 5),
+1, 6, -1, OnceclearofthesouthernendofFormosawehadquitearapidruntotheBonins
+2, 6, -1, carryingapressofsaildayandnight
+3, 6, -1, astheskipperwasanxioustoarrivethereonaccountofhisrecentinjuries
+4, 6, -1, Hewasstillverylame
+5, 4, -1, andhefearedthatsomedamagemighthavebeendonetohimofwhichhewasignorant
+6, 6, -1, Besides
+7, 6, -1, itwaseasytoseethathedidnotaltogetherlikeanybodyelsebeinginchargeofhisship
+8, 6, -1, nomatterhowgoodtheywere.
+1746 12
+(7, 6),
+1, 6, -1, Thechiefwaslookingasternatsomefinbacks
+2, 6, -1, thelook-outmenforwardwerebothstaringtoleeward
+3, 6, -1, thusforaminuteorsoIhadasmallarcofthehorizontomyself
+4, 6, -1, Thetimewasshort
+5, 6, -1, butitsufficed
+6, 6, -1, andforthefirsttimethatvoyageIhadtheprivilegeof"raising"aspermwhale
+7, 0, -1, MyvoicequiveredwithexcitementasIutteredthewarwhoop
+8, 6, -1, "Ahbloooow
+9, 6, -1, "Roundspunthemateonhisheel
+10, 6, -1, whilethehandsclusteredlikebeesrousedfromtheirhive
+11, 6, -1, "Whereawaywhere
+12, 6, -1, "gaspedthemate.
+1747 11
+(8, 8),
+1, 6, -1, Theshipkeptnear
+2, 6, -1, andMr
+3, 6, -1, Count
+4, 6, -1, seeinghowmattersweregoing
+5, 6, -1, hadhastilypatchedhisboat
+6, 6, -1, returningatoncewithanothertubofline
+7, 6, -1, Hewasbutjustintimetobendon
+8, 6, -1, whentoourgreatdelightwesawtheendslipfromourrival'sboat
+9, 6, -1, Thisinnowiseterminatedhislienonthewhale
+10, 6, -1, supposinghecouldprovethathestruckfirst
+11, 6, -1, butitgothimoutofthewayforthetime.
+1748 7
+(5, 5),
+1, 6, -1, Consequentlythestateoftheshipwasfilthy
+2, 6, -1, norcouldalloureffortskeepherclean
+3, 6, -1, Thisfarmyardconditionofthingswaspermittedtocontinueforaboutaweek
+4, 6, -1, whentheofficersgotsotiredofit
+5, 4, -1, andthecaptainsoannoyedatthefrequentlossoffowlsbytheirflyingoverboard
+6, 6, -1, thattheedictwentforthtofeedtheforemasthandsonpoultrytillfurtherorders
+7, 6, -1, Greatwasourdelightatthenews.
+1751 7
+(2, 3),(2, 4),
+1, 6, -1, AsfarasIcouldjudge
+2, 6, -1, theywerethehappiestofpeople
+3, 6, -1, literallytakingnothoughtforthemorrowandcontentwiththebarestnecessariesoflife
+4, 6, -1, solongastheywerefreeandthesunshonebrightly
+5, 6, -1, Wehadmanyopportunitiesofcultivatingtheiracquaintance
+6, 6, -1, forthecaptainallowedusmuchliberty
+7, 6, -1, quiteonehalfofthecrewandofficersbeingashoremostofthetime.
+1752 10
+(5, 4),
+1, 6, -1, however
+2, 6, -1, resultedintheirgettingaseveredressingdownintheforecastle
+3, 6, -1, wheregoodorderwasnowkept
+4, 6, -1, Therehadbeennoneedforinterferenceonthepartoftheofficers
+5, 0, -1, whichIwasgladtosee
+6, 6, -1, rememberingwhatwouldhavehappenedundersuchcircumstancesnotlongago
+7, 6, -1, Beingshort-handed
+8, 6, -1, thecaptainengagedanumberoffriendlyislandersforalimitedperiod
+9, 6, -1, ontheunderstandingthattheyweretobedischargedattheirnativeplace
+10, 6, -1, VauVau.
+1753 9
+(5, 5),
+1, 6, -1, Ifeltsure
+2, 6, -1, however
+3, 6, -1, thatweshouldhavebutlittlemoretroublewithourfish
+4, 6, -1, Infact
+5, 4, -1, Iwashalfafraidthathewoulddiebeforegettingtothesurface
+6, 6, -1, inwhichcasehemightsinkandbelost
+7, 6, -1, Wehauledsteadilyaway
+8, 6, -1, thelinenotcominginveryeasily
+9, 6, -1, untilIjudgedtherewasonlyaboutanotherhundredfathomsout.
+1754 9
+(3, 3),(3, 4),
+1, 6, -1, Thefinehaulwehadobtainedjustprevioustothatdayseemedtohaveexhaustedourluckforthetimebeing
+2, 6, -1, forneveraspoutdidwesee
+3, 6, -1, Anditwaswithnoordinarydelightthatwehailedtheadventofanimmenseschoolofblackfish
+4, 6, -1, thefirstwehadrunacrossforalongtime
+5, 6, -1, Determinedtohaveabigcatch
+6, 6, -1, ifpossible
+7, 6, -1, weloweredallfiveboats
+8, 6, -1, asitwasabeautifullycalmday
+9, 6, -1, andtheshipmightalmostsafelyhavebeenlefttolookafterherself.
+1755 8
+(4, 5),(4, 6),
+1, 6, -1, Theaccidentwasthefruitofgrosscarelessness
+2, 6, -1, andshouldneverhaveoccurred
+3, 6, -1, Butthen
+4, 6, -1, strangetosay
+5, 6, -1, disasterstowhaleboatsarenearlyalwaysduetowantofcare
+6, 6, -1, thepercentageofunavoidablecasualtiesbeingverysmallascomparedwiththoseliketheonejustrelated
+7, 6, -1, Whenthehighlydangerousnatureoftheworkisremembered
+8, 6, -1, thisstatementmayseemsomewhatoverdrawn
+1756 7
+(4, 4),(4, 5),
+1, 6, -1, Atthatlasttitaniceffortofhishehadrusheddownwardwithsuchterrificforcethat
+2, 6, -1, strikinghisheadonthebottom
+3, 6, -1, hehadbrokenhisneck
+4, 1, -1, Ifeltverygrievedthatwehadlostthechanceofsecuringhim
+5, 6, -1, butitwasperfectlycertainthatbeforewecouldgethelptoraisehim
+6, 6, -1, allthatwouldbeleftofhisskeletonwouldbequitevaluelesstous
+7, 6, -1, Sowithsuchpatienceaswecouldcommandwewaitedneartheentranceuntiltherecedingebbmadeitpossibleforustoemergeoncemoreintotheblessedlightofday.
+1757 6
+(3, 3),(3, 4),(3, 5),(3, 6),
+1, 6, -1, Letitbeso
+2, 6, -1, Formypart
+3, 6, -1, IrejoicethatIhavenotaleofweeksofdrunkenness
+4, 6, -1, ofbrutalrape
+5, 6, -1, treacherousmurder
+6, 6, -1, andalmostunthinkabletorturetotell.
+1758 9
+(3, 3),(3, 4),
+1, 6, -1, Whyaregoodfolksashoresystematicallymisledintothebeliefthatthesailorisanobjectofcharity
+2, 6, -1, andthatitisnecessarytosubscribecontinuallyandliberallytoprovidehimwithfoodandshelterwhenashore
+3, 3, -1, Mostofthecontributorswouldbesurprisedtoknowthatthecostofboardandlodgingatthe"home"ispreciselythesameasitisoutside
+4, 6, -1, andmuchhigherthanalandsmanofthesamegradecanliveforinbetterstyle
+5, 6, -1, Withtheexceptionofthesleepingaccommodation
+6, 6, -1, mostmenprefertheboarding-house
+7, 6, -1, where
+8, 6, -1, iftheypreservethesamecommercialstatuswhichisaSINEQUANONatthe"home
+9, 6, -1, "theyaretreatedlikegentlemen
+1759 10
+(8, 6),
+1, 6, -1, Whilethefinaltouchwasbeinggiventoourtaski
+2, 6, -1, theholeboringthroughthetailfinallhandslayaroundinvariouspicturesqueattitudes
+3, 0, -1, enjoyingarefreshingsmoke
+4, 6, -1, careforgetting
+5, 6, -1, Whilethuspleasantlyemployed
+6, 6, -1, suddendeath
+7, 6, -1, likeaboltfromtheblue
+8, 6, -1, leaptintoourmidstinaterribleform
+9, 6, -1, Theskipperwaslabouringhardathistaskofcuttingtheholeforthetowline
+10, 6, -1, whenwithoutwarningthegreatfinswungbackasifsuddenlyreleasedfromtremendoustension.
+1761 5
+(2, 2),
+1, 6, -1, ThiswasanovelexperienceforusintheCACHALOT
+2, 6, -1, andIwascurioustoseehowshewouldbehave
+3, 6, -1, Tomymind
+4, 6, -1, thesupremetestofaship'sseakindlinessisthelengthoftimeshewillscudbeforeagalewithout"pooping"asea
+5, 6, -1, ortakingsuchheavywateronboardoverhersidesastodoseriousdamage.
+1763 9
+(6, 9),
+1, 6, -1, Nothingofadvantagetoourcargowasseenforalongtime
+2, 6, -1, which
+3, 6, -1, althoughapparentlywhatwastobeexpected
+4, 6, -1, didnotimproveCaptainSlocum'stemper
+5, 6, -1, But
+6, 3, -1, tothesurpriseofall
+7, 6, -1, whenwehadarrivedoffthebeautifulislandofHongKong
+8, 6, -1, towhichweapproachedclosely
+9, 6, -1, we"raised"agrandspermwhale.
+1764 9
+(5, 6),
+1, 1, -1, Fortheboatwascrumbledintoinnumerablefragments
+2, 6, -1, andthethreehundredfathomsofline
+3, 6, -1, inaperfectmazeofentanglement
+4, 6, -1, appearedtobewrappedaboutthewrithingtrunkofthewhale
+5, 0, -1, Happily
+6, 6, -1, thereweretwoboatsdisengaged
+7, 6, -1, sothattheywereableverypromptlytorescuethesufferersfromtheirperilouspositionintheboilingvortexoffoambywhichtheyweresurrounded
+8, 6, -1, Meanwhile
+9, 6, -1, theremainingboathadaneasytask.
+1765 10
+(5, 5),(5, 6),
+1, 6, -1, Whenmorningdawnedwehoveto
+2, 6, -1, thelandbeingonlydimlyvisibleastern
+3, 6, -1, andfinishedtakingonboardour"headmatter"withoutfurtherincident
+4, 6, -1, Thedangerpast
+5, 0, -1, wewereallwellpleasedthatthecaptainwasbelow
+6, 6, -1, fortheworkproceededquitepleasantlyunderthegenialruleofthemate
+7, 6, -1, Sinceleavingportwehadnotfeltsocomfortable
+8, 6, -1, thework
+9, 6, -1, withallitsdisagreeables
+10, 6, -1, seemingasnothingnowthatwecoulddoitwithoutfearandtrembling.
+1767 18
+(11, 12),
+1, 6, -1, Noneofyourhigharthere
+2, 6, -1, buthaulinhandoverhand
+3, 6, -1, thelinebeingstrongenoughtolanda250poundfish
+4, 6, -1, Uphecame
+5, 6, -1, thebeauty
+6, 6, -1, allsilverandscarletandblue
+7, 6, -1, fivefeetlongifaninch
+8, 6, -1, andweighing35pounds
+9, 6, -1, Well
+10, 3, -1, suchalotofastonishedmenIneversaw
+11, 6, -1, Theycouldhardlybelievetheireyes
+12, 6, -1, Thatsuchadaringinnovationshouldbesuccessfulwashardlytobebelieved
+13, 6, -1, evenwiththevigorousevidencebeforethem
+14, 6, -1, EvengrimCaptainSlocumcametolookandturneduponmeasIthoughtalessloweringbrowthanusual
+15, 6, -1, whileMr
+16, 6, -1, Count
+17, 6, -1, themate
+18, 6, -1, fairlychuckledagainatthethoughtofhowthelittleBritisherhadwipedtheeyesoftheseveteranfishermen.
+1768 9
+(6, 6),
+1, 6, -1, Howdidawhaleact
+2, 6, -1, whatwerethefirststepstaken
+3, 6, -1, whatchancewasthereofbeingsavedifyourboatgotsmashed
+4, 6, -1, andsoonuntoinfinity
+5, 6, -1, Atlast
+6, 6, -1, gettingverytiredofthis"PortugueseParliament"ofalltalkersandnolisteners
+7, 6, -1, Iwentafttogetadrinkofwaterbeforeturningin
+8, 6, -1, Theharpoonersandotherpettyofficersweregroupedinthewaist
+9, 6, -1, earnestlydiscussingtheprosandconsofattackuponwhales.
+1769 12
+(7, 7),
+1, 6, -1, IsaidascheerfullyasIcould
+2, 6, -1, "Allright
+3, 6, -1, sir
+4, 6, -1, "tryingtolookunconcerned
+5, 6, -1, tellingmyselfnottobeacoward
+6, 6, -1, andallsortsofthings
+7, 6, -1, butthecoldtruthisthatIwasscaredalmosttodeathbecauseIdidntknowwhatwascoming.However
+8, 6, -1, Ididthebestthingunderthecircumstances
+9, 6, -1, obeyedordersandlookedsteadilyastern
+10, 6, -1, orupintothebronzedimpassivefaceofmychief
+11, 6, -1, whotoweredaboveme
+12, 6, -1, scanningwitheagleeyestheseaahead.
+1770 10
+(4, 4),
+1, 6, -1, Heraisedagigantictailonhigh
+2, 6, -1, threshingthewaterwithdeafeningblows
+3, 6, -1, rollingatthesametimefromsidetosideuntilthesurroundingseawaswhitewithfroth
+4, 4, -1, Ifeltinanagonylestweshouldbecrushedunderoneofthosefearfulstrokes
+5, 6, -1, forMr
+6, 6, -1, Countappearedtobeobliviousofpossibledanger
+7, 6, -1, althoughweseemedtobenowdriftingbackontothewrithingleviathan
+8, 6, -1, Intheagitatedconditionofthesea
+9, 6, -1, itwasataskofnoordinarydifficultytounshipthetallmast
+10, 6, -1, whichwasofcoursethefirstthingtobedone.
+1771 9
+(5, 6),
+1, 6, -1, Sowetoiledwatchandwatch
+2, 6, -1, sixhoursonandsixoff
+3, 6, -1, theworkneverceasingforaninstantnightordayThoughtheworkwashardanddirty
+4, 6, -1, andthediscomfortofbeingsocontinuallywetthroughwithoilgreat
+5, 6, -1, therewasonlyonethingdangerousaboutthewholebusiness
+6, 6, -1, Thatwasthejoboffillingandshiftingthehugecasksofoil
+7, 6, -1, Someofthesewereofenormoussize
+8, 6, -1, containing350gallonswhenfull
+9, 6, -1, andtheworkofmovingthemaboutthegreasydeckofarollingshipwasattendedwithaterribleamountofrisk.
+1772 8
+(7, 7),
+1, 6, -1, Itwillnot
+2, 6, -1, ofcourse
+3, 6, -1, haveescapedthereader'snoticethatIhavenothithertoattemptedtogiveanydetailsconcerningthestructureofthewhalejustdealtwith
+4, 6, -1, Theomissionisintentional
+5, 6, -1, Duringthis
+6, 6, -1, ourfirstattemptatrealwhaling
+7, 6, -1, mymindwasfartoodisturbedbythenoveltyanddangerofthepositioninwhichIfoundmyselfforthefirsttime
+8, 6, -1, formetopayanyintelligentattentiontothepartyofthesecondpart.
+1773 7
+(3, 4),
+1, 6, -1, Wehadbeensobusythatwehadnotnoticedthedimensionsofourcatch
+2, 6, -1, butnow
+3, 0, -1, toourgreatjoy
+4, 6, -1, wefoundthatwehadatleasteighthundredfishnearlyaslargeasherrings
+5, 6, -1, Weatoncereturnedtotheship
+6, 6, -1, havingbeenabsentonlytwohours
+7, 6, -1, duringwhichwehadcaughtsufficienttoprovideallhandswiththreegoodmeals.
+1774 7
+(5, 4),
+1, 6, -1, Weatoncereturnedtotheship
+2, 6, -1, havingbeenabsentonlytwohours
+3, 6, -1, duringwhichwehadcaughtsufficienttoprovideallhandswiththreegoodmeals
+4, 6, -1, Notoneofthecrewhadeverseenorheardofsuchfishingbefore
+5, 6, -1, somyprideandpleasuremayheimagined
+6, 6, -1, Alittlelearningmaybeadangerousthingattimes
+7, 6, -1, butitcertainlyisoftenhandytohaveaboutyou.
+1775 7
+(5, 7),
+1, 6, -1, Hemadeafearfulto-dooverit
+2, 6, -1, rollingcompletelyoverseveraltimesbackwardandforward
+3, 6, -1, atthesametimesmitingtheseawithhismightytail
+4, 6, -1, makinganalmostdeafeningnoiseandpother
+5, 6, -1, Butwewerecomfortableenough
+6, 6, -1, whileweunshippedthemastandmadereadyforaction
+7, 0, -1, beingsufficientlyfarawayfromhimtoescapethefulleffectofhisgambols.
+1776 17
+(4, 6),
+1, 6, -1, DuringtheconflictIhadnotnoticedwhatnowclaimedattentionseveralgreatmassesofwhite
+2, 6, -1, semi-transparentlookingsubstancefloatingabout
+3, 6, -1, ofhugesizeandirregularshape
+4, 6, -1, Butoneofthesecuriouslumpscamefloatingbyaswelay
+5, 6, -1, tuggedatbyseveralfish
+6, 6, -1, andIimmediatelyaskedthemateifhecouldtellmewhatitwasandwhereitcamefrom
+7, 6, -1, Hetoldmethat
+8, 6, -1, whendying
+9, 6, -1, thecachalotalwaysejectedthecontentsofhisstomach
+10, 6, -1, whichwereinvariablycomposedofsuchmassesaswesawbeforeus
+11, 6, -1, thathebelievedthestufftobeportionsofbigcuttlefish
+12, 6, -1, bittenoffbythewhaleforthepurposeofswallowing
+13, 6, -1, buthewasntsure
+14, 6, -1, Anyhow
+15, 6, -1, Icouldhaulthispiecealongsidenow
+16, 6, -1, ifIliked
+17, 6, -1, andsee.
+1777 9
+(5, 5),
+1, 6, -1, Anyhow
+2, 6, -1, Icouldhaulthispiecealongsidenow
+3, 6, -1, ifIliked
+4, 6, -1, andsee
+5, 6, -1, Secretlywonderingattheindifferenceshownbythisofficeroffortyyearswhalingexperiencetosuchawonderfulfactasappearedtobeherepresented
+6, 6, -1, Ithankedhim
+7, 6, -1, and
+8, 6, -1, stickingtheboathookintothelump
+9, 6, -1, drewitalongside.
+1778 11
+(7, 7),
+1, 6, -1, Atsevenbells(7
+2, 6, -1, )itwas"turnto"allhandsagain
+3, 6, -1, The"junk"washookedontobothcuttingtackles
+4, 6, -1, andthewindlassmannedbyeverybodywhocouldgethold
+5, 6, -1, Slowlytheenormousmassrose
+6, 6, -1, cantingtheshipheavilyasitcame
+7, 1, -1, whileeverystickandropealoftcomplainedofthegreatstrainuponthem
+8, 6, -1, Whenatlastitwassafelyshipped
+9, 6, -1, andthetacklescastoff
+10, 6, -1, thesizeofthissmallportionofafull-growncachalot'sbodycouldberealized
+11, 6, -1, notbefore.
+1779 13
+(4, 4),
+1, 6, -1, Here
+2, 6, -1, however
+3, 6, -1, wewerebetteroffthaninanordinarymerchantman
+4, 6, -1, wheredoldrumsareenoughtodriveyoumad
+5, 6, -1, Theoneobjectbeingtogetalong
+6, 6, -1, itisincessant"pullyhauly
+7, 6, -1, "settingandtakinginsail
+8, 6, -1, inorder
+9, 6, -1, ontheonehand
+10, 6, -1, tolosenotime
+11, 6, -1, and
+12, 6, -1, ontheother
+13, 1, -1, tolosenosails.
+1780 11
+(8, 8),
+1, 6, -1, Now
+2, 6, -1, withus
+3, 6, -1, whenevertheweatherwasdoubtfulorsquallylooking
+4, 6, -1, weshortenedsail
+5, 6, -1, andkeptitfasttillbetterweathercamealong
+6, 6, -1, beingquitecarelesswhetherwemadeonemileadayoronehundred
+7, 6, -1, Butjustbecausenobodytookanynoticeofourprogressasthedayspassed
+8, 3, -1, wewereoccasionallystartledtofindhowfarwehadreallygot
+9, 6, -1, Thiswascertainlythecasewithallofusforward
+10, 6, -1, eventomewhohadsomeexperience
+11, 6, -1, sowellusedhadInowbecometotheleisurelywayofgettingalong.
+1781 5
+(1, 1),
+1, 6, -1, Withheartycheersfromthewholepopulation
+2, 6, -1, weshovedoffandploughedthroughthekelpseaweedagain
+3, 6, -1, Whenwegotclearofit
+4, 6, -1, wefoundtheswellheavierthanwhenwehadcome
+5, 6, -1, andaroughjourneybacktotheshipwastheresult.
+1783 8
+(3, 1),(3, 2),
+1, 6, -1, Butunderthepainfulandabnormalcircumstancesinwhichtheyfoundthemselvesbeatenanddrivenlikedogswhileinthethroesofseasickness
+2, 6, -1, halfstarvedandhopeless
+3, 6, -1, theirspirithadbeensobroken
+4, 6, -1, andtheyweresokeptdowntothatsadlevelbythedisplayofforce
+5, 6, -1, aidedbydeadlyweaponsaft
+6, 1, -1, thatnootherconditioncouldbeexpectedforthembutthatofbroken-heartedslaves
+7, 6, -1, Myowncasewasmanydegreesbetterthanthatoftheotherwhites
+8, 6, -1, asIhavebeforenoted
+1784 6
+(3, 3),(3, 6),
+1, 6, -1, Myowncasewasmanydegreesbetterthanthatoftheotherwhites
+2, 6, -1, asIhavebeforenoted
+3, 6, -1, butIwasperfectlywellawarethattheslightestattemptonmyparttoshowthatIresentedourcommontreatmentwouldmeetwiththemostbrutalrepression
+4, 6, -1, and
+5, 6, -1, inaddition
+6, 6, -1, Imightlookforadreadfultimeofitfortherestofthevoyage.
+1785 14
+(10, 10),
+1, 6, -1, Theshareofprofitswassosmall
+2, 6, -1, andthetimetakentoearnitsolong
+3, 6, -1, suchanumberofclotheswerewornoutanddestroyedbyus
+4, 6, -1, onlytobereplacedfromtheship'sslopchestathighprices
+5, 6, -1, thatIhadquiteresignedmyselftotheprospectofleavingthevesselindebt
+6, 6, -1, wheneverthatdesirableeventmighthappen
+7, 6, -1, Since
+8, 6, -1, therefore
+9, 6, -1, Ihadnevermadeitapracticetorepineattheinevitable
+10, 1, -1, andmakemyselfunhappybythecontemplationofmisfortunesIwaspowerlesstoprevent
+11, 6, -1, Itriedtointerestmyselfasfaraswaspossibleingatheringinformation
+12, 6, -1, althoughatthattimeIhadnoidea
+13, 6, -1, beyondageneralthirstforknowledge
+14, 6, -1, thatwhatIwasnowlearningwouldeverheofanyservicetome.
+1786 12
+(1, 1),
+1, 6, -1, TheweatheroftheMozambiqueChannelwasfairlygood
+2, 6, -1, althoughsubjecttoelectricstormsofthemostterribleaspect
+3, 6, -1, butperfectlyharmless
+4, 6, -1, OnthesecondeveningafterroundingCapeSt
+5, 6, -1, Mary
+6, 6, -1, wewereproceeding
+7, 6, -1, asusual
+8, 6, -1, underveryscantysail
+9, 0, -1, ratherenjoyingthemild
+10, 6, -1, balmyair
+11, 6, -1, scentladen
+12, 6, -1, fromMadagascar.
+1787 12
+(2, 2),
+1, 6, -1, TheweatheroftheMozambiqueChannelwasfairlygood
+2, 6, -1, althoughsubjecttoelectricstormsofthemostterribleaspect
+3, 6, -1, butperfectlyharmless
+4, 6, -1, OnthesecondeveningafterroundingCapeSt
+5, 6, -1, Mary
+6, 6, -1, wewereproceeding
+7, 6, -1, asusual
+8, 6, -1, underveryscantysail
+9, 0, -1, ratherenjoyingthemild
+10, 6, -1, balmyair
+11, 6, -1, scentladen
+12, 6, -1, fromMadagascar.
+1789 13
+(8, 6),(8, 7),
+1, 6, -1, Wesawnone
+2, 6, -1, however
+3, 6, -1, andatdaylightweweighedandtowedtheshipouttoseawiththeboats
+4, 6, -1, therebeingnowind
+5, 6, -1, Whilebusyatthisuninterestingpastime
+6, 6, -1, oneoftheboatsslippedaway
+7, 6, -1, returningpresentlywithafineturtle
+8, 3, -1, whichtheyhadsurprisedduringhismorning'snap
+9, 6, -1, OneoftheamphibiousPortugueseslippedovertheboat'ssideasshenearedthesleepingSPHARGA
+10, 6, -1, and
+11, 6, -1, divingdeep
+12, 6, -1, cameupunderneathhim
+13, 6, -1, seizingwithcrossedhandsthetwohindflippers.
+1790 6
+(3, 3),
+1, 6, -1, Withtheexceptionofthenumerousnativedhowsthatcreptlazilyabout
+2, 6, -1, wesawnovesselsaswegraduallydrewoutoftheMozambiqueChannelandstoodawaytowardstheLine
+3, 6, -1, ThepartoftheIndianOceaninwhichwenowfoundourselvesismuchdreadedbymerchantmen
+4, 6, -1, whogiveitawideberthonaccountofthenumerousbanks
+5, 6, -1, islets
+6, 6, -1, anddangerouscurrentswithwhichitabounds.
+1791 6
+(4, 4),
+1, 6, -1, Doubtlessbecausehehimselfwasmuchfatigued
+2, 6, -1, themateallowedhimtorunathiswill
+3, 6, -1, withoutforthetimeattemptingtohaulanyclosertohim
+4, 0, -1, andverygratefultheshortrestwastous
+5, 6, -1, Buthehadnotgoneacoupleofmilesbeforeheturnedacompletesomersaultinthewater
+6, 6, -1, comingupBEHINDustorushoffagainintheoppositedirectionatundiminishedspeed.
+1793 5
+(2, 2),
+1, 6, -1, Wegotthewhalecutinasusualwithoutanyincidentworthmentioning
+2, 6, -1, exceptthatthepeculiarshapeofthejawmadeitanobjectofgreatcuriositytoallofuswhowerenewtothewhalefishing
+3, 6, -1, Suchmalformationsarenotveryrare
+4, 6, -1, Theyaregenerallythoughttooccurwhentheanimalisyoung
+5, 6, -1, anditsbonessoft
+1794 13
+(9, 9),
+1, 6, -1, Assoonastheyhadgotfarenoughawayfromtheirnativeelement
+2, 6, -1, werusheduponthem
+3, 6, -1, andcapturedthemboth
+4, 6, -1, sothatwhentheboatarrivedwewerenotempty-handed
+5, 6, -1, Wehadalsoa"jumper
+6, 6, -1, "orblouse
+7, 6, -1, fullofeggs
+8, 6, -1, andacoupleofimmensebunchesofcocoanuts
+9, 1, -1, Whenwegotonboardwefeltquitehappy
+10, 6, -1, and
+11, 6, -1, forthefirsttimesinceleavingAmerica
+12, 6, -1, wehadalittlesinging
+13, 6, -1, ShallIbelaughedatwhenIconfessthatourmusicaleffortswereconfinedtoSankey'shymns
+1795 11
+(7, 7),(7, 8),
+1, 6, -1, Itwasbutaschoolofkogia
+2, 6, -1, or"shortheaded"cachalots
+3, 6, -1, butaswesecuredfiveofthem
+4, 6, -1, averagingsevenbarrelseach
+5, 6, -1, withscarcelyanytrouble
+6, 6, -1, Ifeltquitepleasedwithmyself
+7, 0, -1, Wehadquiteanexcitingbitofsportwiththem
+8, 6, -1, theyweresolively
+9, 6, -1, butasfordangerwell
+10, 6, -1, theyonlyseemedlikebig"blackfish"tousnow
+11, 0, -1, andwequiteenjoyedthefun.
+1796 3
+(1, 1),
+1, 4, -1, Thechiefanxietywasforthesafetyoftheboats
+2, 6, -1, Earlyontheseconddayofwarningtheyhadbeenhoistedtothetopmostnotchofthecranes
+3, 6, -1, andsecuredasthoroughlyasexperiencecouldsuggest
+1797 9
+(1, 4),
+1, 6, -1, Theterribledayworeon
+2, 6, -1, withoutanylighteningofthetempest
+3, 6, -1, tillnoon
+4, 6, -1, whenthewindsuddenlyfelltoacalm
+5, 6, -1, Untilthattime
+6, 6, -1, thesea
+7, 6, -1, althoughheavy
+8, 6, -1, wasnotviciousorirregular
+9, 6, -1, andwehadnotshippedanyheavywateratall.
+1798 9
+(5, 5),
+1, 6, -1, Intwominuteswewerespeedingawaytowardsher
+2, 6, -1, and
+3, 6, -1, makingasweeproundherstern
+4, 6, -1, preparedtoboardher
+5, 6, -1, ButweweremetbyastenchsoawfulthatMr
+6, 6, -1, Countwouldnotproceed
+7, 6, -1, andatoncereturnedtotheship
+8, 6, -1, Theboatwasquicklyhoistedagain
+9, 6, -1, andtheshipmanoeuvredtopassclosetowindwardofthederelict.
+1799 10
+(5, 6),
+1, 6, -1, Itis
+2, 6, -1, perhaps
+3, 6, -1, hardlynecessarytosaythatwepromptlyhauledourwind
+4, 6, -1, andplacedagooddistancebetweenusandthatawfulloadofdeathassoonaspossible
+5, 6, -1, Poorwretches
+6, 6, -1, Whatterriblecalamityhadbefallenthem
+7, 6, -1, wecouldnotguess
+8, 6, -1, whateveritwas
+9, 6, -1, ithadbeencomplete
+10, 6, -1, norwouldanysanemanfallingacrossthemruntheriskofcloserexaminationintodetailsthanwehaddone.
+1800 5
+(4, 4),
+1, 6, -1, whateveritwas
+2, 6, -1, ithadbeencomplete
+3, 6, -1, norwouldanysanemanfallingacrossthemruntheriskofcloserexaminationintodetailsthanwehaddone
+4, 6, -1, Itwasagreatpitythatwewerenotabletosinktheprahuwithherghastlycargo
+5, 6, -1, andsofreetheairfromthatpoisonousfoetorthatwasadeadlydangertoanyvesselgettingunderherlee.
+1801 5
+(5, 4),
+1, 6, -1, Nextday
+2, 6, -1, andforawholeweekafter
+3, 6, -1, wehadastarkcalmsuchacalmasonerealizeswhoreadssympatheticallythatmagicalpieceofwork
+4, 6, -1, the"AncientMariner"
+5, 6, -1, Whatanamazinginstanceofthetriumphofthehumanimagination
+1802 6
+(2, 2),
+1, 6, -1, Whatanamazinginstanceofthetriumphofthehumanimagination
+2, 1, -1, ForColeridgecertainlyneverwitnessedsuchasceneashetheredescribeswithanaccuracyofdetailthatisastounding
+3, 1, -1, Veryfewsailorshavenoticedthesickeningconditionoftheoceanwhenthelife-givingbreezetotallyfailsforanylengthoftime
+4, 6, -1, or
+5, 6, -1, iftheyhave
+6, 6, -1, theyhavesaidbutlittleaboutit.
+1804 6
+(2, 2),
+1, 6, -1, Therefore
+2, 6, -1, wehadallaroughtimeofitwhilehisangryfitlasted
+3, 6, -1, whichwasawholeweek
+4, 6, -1, oruntilallwasshipshapeagain
+5, 6, -1, MeanwhilewewereedginggraduallythroughtheMalaccaStraitsandaroundthebigislandofBorneo
+6, 6, -1, nevergoingverynearthelandonaccountofthegreatandnumerousdangersattendantuponcoastinginthoselocalitiestoanybutthosecontinuallyengagedinsuchabusiness.
+1805 13
+(10, 1),(10, 2),(10, 3),(10, 4),
+1, 6, -1, Thesorelywoundedmonster
+2, 6, -1, withonetremendousexpiration
+3, 6, -1, rolledoverandoverswiftasthoughttowardshisaggressor
+4, 6, -1, literallyburyingtheboatbeneathhisvastbulk
+5, 6, -1, Now
+6, 6, -1, onewouldhavethoughtsurely
+7, 6, -1, uponseeingthis
+8, 6, -1, thatnoneofthatboat'screwwouldeverhavebeenseenagain
+9, 6, -1, Nevertheless
+10, 6, -1, strangeasitmayappear
+11, 6, -1, outofthatseethinglatheroffoam
+12, 6, -1, allsixheadsemergedagaininaninstant
+13, 6, -1, butontheOTHERsideofthegreatcreature.
+1806 11
+(9, 9),
+1, 6, -1, ThetruthofMr
+2, 6, -1, Count'sforecastwasverifiedtothehilt
+3, 6, -1, forwefoundthatthecaptainwassobadlybruisedabout
+4, 6, -1, thebodythathewasunabletomove
+5, 6, -1, whileoneofthehands
+6, 6, -1, aPortuguese
+7, 6, -1, wasinjuredinternally
+8, 6, -1, andseemedverybadindeed
+9, 1, -1, HadanyonetoldusthatmorningthatweshouldbesorrytoseeCaptainSlocumwithsorebones
+10, 6, -1, weshouldhavescoffedatthenotion
+11, 6, -1, andsomeofuswouldprobablyhavesaidthatweshouldliketohavetheopportunityofmakinghimsmart.
+1807 5
+(3, 3),
+1, 6, -1, OnceclearofthesouthernendofFormosawehadquitearapidruntotheBonins
+2, 6, -1, carryingapressofsaildayandnight
+3, 6, -1, astheskipperwasanxioustoarrivethereonaccountofhisrecentinjuries
+4, 6, -1, Hewasstillverylame
+5, 4, -1, andhefearedthatsomedamagemighthavebeendonetohimofwhichhewasignorant.
+1808 8
+(5, 5),
+1, 6, -1, OnceclearofthesouthernendofFormosawehadquitearapidruntotheBonins
+2, 6, -1, carryingapressofsaildayandnight
+3, 6, -1, astheskipperwasanxioustoarrivethereonaccountofhisrecentinjuries
+4, 6, -1, Hewasstillverylame
+5, 4, -1, andhefearedthatsomedamagemighthavebeendonetohimofwhichhewasignorant
+6, 6, -1, Besides
+7, 6, -1, itwaseasytoseethathedidnotaltogetherlikeanybodyelsebeinginchargeofhisship
+8, 6, -1, nomatterhowgoodtheywere.
+1811 7
+(2, 2),
+1, 6, -1, AsIbenttomyoar
+2, 1, -1, Ifeltverysorryforwhathadhappened
+3, 6, -1, Herewerehalfthecrewguiltyofanactofviolenceuponanofficer
+4, 6, -1, which
+5, 6, -1, accordingtotheseverecodeunderwhichwelived
+6, 6, -1, meritedpunishmentaspainfulascouldbeinflicted
+7, 6, -1, andlastingfortherestofthevoyage.
+1814 12
+(7, 7),
+1, 6, -1, Meanwhileanothershipwasworkingupfromtoleeward
+2, 6, -1, havingevidentlynotedourmovements
+3, 6, -1, orelse
+4, 6, -1, likethealbatross
+5, 6, -1, "smeltwhale
+6, 6, -1, "nogreatdistancetowindwardofhim
+7, 0, -1, Waitingforthatwhaletorisewasoneofthemostexcitingexperienceswehadgonethroughasyet
+8, 6, -1, withtwoothershipssonear
+9, 6, -1, Everybody'snervesseemedstrunguptoconcertpitch
+10, 6, -1, anditwasquiteareliefwhenfromhalfadozenthroatsatonceburstthecry
+11, 6, -1, "Thereshewhitewaters
+12, 6, -1, Ahbloooow
+1815 9
+(6, 6),
+1, 6, -1, Notseeingwhathadhappenedtohisiron
+2, 6, -1, orknowingthatwewerefast
+3, 6, -1, theotherharpoonerpromptlyhurledhissecondiron
+4, 6, -1, whichstrucksolidly
+5, 6, -1, Itwasaveryprettytangle
+6, 6, -1, butourpositionwasratherbad
+7, 4, -1, Thewhalebetweenuswastearingthebowelsofthedeepupinhisrageandfear
+8, 6, -1, wewerestrugglingfranticallytogetoursaildown
+9, 6, -1, andatanymomentthatwretchedironthroughourupperstrakemighttearaplankoutofus.
+1816 5
+(3, 2),(3, 3),
+1, 6, -1, Itwasaveryprettytangle
+2, 6, -1, butourpositionwasratherbad
+3, 4, -1, Thewhalebetweenuswastearingthebowelsofthedeepupinhisrageandfear
+4, 6, -1, wewerestrugglingfranticallytogetoursaildown
+5, 6, -1, andatanymomentthatwretchedironthroughourupperstrakemighttearaplankoutofus.
+1817 13
+(7, 7),
+1, 6, -1, Ourchief
+2, 6, -1, foamingatthemouthwithrageandexcitement
+3, 6, -1, wasscreechinginarticulateblasphemyattheothermate
+4, 6, -1, who
+5, 6, -1, notknowingwhatwasthematter
+6, 6, -1, wasyellingbackallhiscopiousvocabularyofabuse
+7, 6, -1, Ifeltverygladthewhalewasbetweenus
+8, 6, -1, ortherewouldsurelyhavebeenmurderdone
+9, 6, -1, Atlast
+10, 6, -1, outdropstheiron
+11, 6, -1, leavingajaggedholeyoucouldputyourarmthrough
+12, 6, -1, wasntMr
+13, 6, -1, Countmad
+1818 6
+(3, 4),
+1, 6, -1, wasntMr
+2, 6, -1, Countmad
+3, 6, -1, Ireallythoughthewouldsplitwithrage
+4, 6, -1, foritwasimpossibleforustogoonwiththatholeinourbilge
+5, 6, -1, Thesecondmatecamealongsideandtookourlineasthewhalewasjustcommencingtosound
+6, 6, -1, thussettingusfree.
+1819 14
+(8, 7),
+1, 6, -1, Andstillthewhalekeptgoingsteadilydown
+2, 6, -1, down
+3, 6, -1, down
+4, 6, -1, Alreadyhewasonthesecondboat'slines
+5, 6, -1, andtakingthemoutfasterthanever
+6, 6, -1, Hadwebeenalone
+7, 6, -1, thispersistenceonhispart
+8, 6, -1, thoughannoying
+9, 6, -1, wouldnothavematteredmuch
+10, 6, -1, but
+11, 6, -1, withsomanyothersincompany
+12, 6, -1, thepossibilitiesofcomplication
+13, 6, -1, shouldweneedtoslipourend
+14, 6, -1, werenumerous.
+1820 12
+(5, 5),
+1, 6, -1, Inthisoptimisticmood
+2, 6, -1, then
+3, 6, -1, Igailyflungmyselfintomyplaceinthemate'sboatonemorning
+4, 6, -1, asweweredepartinginchaseofamagnificentcachalotthathadbeenraisedjustafterbreakfast
+5, 6, -1, Therewerenoothervesselsinsightmuchtooursatisfactionthewindwaslight
+6, 6, -1, withacloudlesssky
+7, 6, -1, andthewhalewasdeadtoleewardofus
+8, 6, -1, Wespedalongatagoodratetowardsourprospectivevictim
+9, 6, -1, whowas
+10, 6, -1, inhisleisurelyenjoymentoflife
+11, 6, -1, calmlylollingonthesurface
+12, 6, -1, occasionallyliftinghisenormoustailoutofwaterandlettingitfallflatuponthesurfacewithaboomaudibleformiles.
+1821 8
+(6, 6),
+1, 6, -1, WhenIrecovered
+2, 6, -1, Iwassnuginmybunkaboard
+3, 6, -1, butachingineveryjoint
+4, 6, -1, andassoreasifIhadbeenpoundedwithaclubuntilIwasbruisedallover
+5, 6, -1, DuringthedayMr
+6, 6, -1, Countwaskindenoughtopaymeavisit
+7, 6, -1, Withhisusualluck
+8, 6, -1, hehadescapedwithouttheslightestinjury
+1822 6
+(5, 5),
+1, 6, -1, Consequentlythestateoftheshipwasfilthy
+2, 6, -1, norcouldalloureffortskeepherclean
+3, 6, -1, Thisfarmyardconditionofthingswaspermittedtocontinueforaboutaweek
+4, 6, -1, whentheofficersgotsotiredofit
+5, 4, -1, andthecaptainsoannoyedatthefrequentlossoffowlsbytheirflyingoverboard
+6, 6, -1, thattheedictwentforthtofeedtheforemasthandsonpoultrytillfurtherorders.
+1824 10
+(3, 4),
+1, 6, -1, Twoandahalfhoursofenergeticworkwasrequiredofusbeforewegotontermswiththefleeingmonsters
+2, 6, -1, butatlast
+3, 0, -1, toourgreatjoy
+4, 6, -1, theybrokewaterfromsoundingrightamongus
+5, 3, -1, Itwasaconsiderablesurprise
+6, 6, -1, butwewereallready
+7, 6, -1, andbeforetheyhadspoutedtwice
+8, 6, -1, threeboatswerefast
+9, 6, -1, onlymyselfkeepingout
+10, 6, -1, inaccordancewithmyinstructions.
+1825 10
+(5, 4),
+1, 6, -1, Twoandahalfhoursofenergeticworkwasrequiredofusbeforewegotontermswiththefleeingmonsters
+2, 6, -1, butatlast
+3, 0, -1, toourgreatjoy
+4, 6, -1, theybrokewaterfromsoundingrightamongus
+5, 3, -1, Itwasaconsiderablesurprise
+6, 6, -1, butwewereallready
+7, 6, -1, andbeforetheyhadspoutedtwice
+8, 6, -1, threeboatswerefast
+9, 6, -1, onlymyselfkeepingout
+10, 6, -1, inaccordancewithmyinstructions.
+1826 9
+(7, 7),
+1, 3, -1, Itwasaconsiderablesurprise
+2, 6, -1, butwewereallready
+3, 6, -1, andbeforetheyhadspoutedtwice
+4, 6, -1, threeboatswerefast
+5, 6, -1, onlymyselfkeepingout
+6, 6, -1, inaccordancewithmyinstructions
+7, 6, -1, Samuelawasalmostdistraughtwithrageandgriefattheconditionofthings
+8, 6, -1, Iquitepitiedhim
+9, 6, -1, althoughIwasanythingbutpleasedmyself.
+1828 12
+(8, 8),
+1, 6, -1, Wetookthemonboard
+2, 6, -1, andtheboatreturnedagain
+3, 6, -1, Bythetimetheslackcamewehadaboutfourhundredandfiftyfathomsoutagoodlyheaptopileuplooseinoursternsheets
+4, 6, -1, Ifeltsure
+5, 6, -1, however
+6, 6, -1, thatweshouldhavebutlittlemoretroublewithourfish
+7, 6, -1, infact
+8, 4, -1, Iwashalfafraidthathewoulddiebeforegettingtothesurface
+9, 6, -1, inwhichcasehemightsinkandbelost
+10, 6, -1, Wehauledsteadilyaway
+11, 6, -1, thelinenotcominginveryeasily
+12, 6, -1, untilIjudgedtherewasonlyaboutanotherhundredfathomsout.
+1829 9
+(8, 8),(8, 9),
+1, 6, -1, Theceaselessmotionofthevesselrockingatthecentreofacircularspaceofblue
+2, 6, -1, withaperfectlysymmetricaldomeofazureenclosingherabove
+3, 6, -1, unfleckedbyasinglecloud
+4, 6, -1, becomesatlastalmostunbearablefromitschangelesssamenessofenvironment
+5, 6, -1, Wereitnotforthetrivialroundandcommontaskofeverydayshipduty
+6, 6, -1, someofthecrewmustbecomeidiotic
+7, 6, -1, or
+8, 6, -1, insheerrageatthewantofinterestintheirlives
+9, 6, -1, commitmutiny.
+1830 5
+(2, 2),
+1, 6, -1, SuchawearytimewasoursforfullfourweeksaftersightingChristmasIsland
+2, 6, -1, Thefinehaulwehadobtainedjustprevioustothatdayseemedtohaveexhaustedourluckforthetimebeing
+3, 6, -1, forneveraspoutdidwesee
+4, 6, -1, Anditwaswithnoordinarydelightthatwehailedtheadventofanimmenseschoolofblackfish
+5, 6, -1, thefirstwehadrunacrossforalongtime.
+1831 6
+(4, 5),(4, 6),
+1, 6, -1, Theaccidentwasthefruitofgrosscarelessness
+2, 6, -1, andshouldneverhaveoccurred
+3, 6, -1, butthen
+4, 6, -1, strangetosay
+5, 6, -1, disasterstowhaleboatsarenearlyalwaysduetowantofcare
+6, 6, -1, thepercentageofunavoidablecasualtiesbeingverysmallascomparedwiththoseliketheonejustrelated.
+1834 12
+(8, 7),
+1, 6, -1, WhenIreturnedtoaconsciousnessofexternalthings
+2, 6, -1, Iwasforsometimeperfectlystill
+3, 6, -1, lookingatthesky
+4, 6, -1, totallyunabletorealizewhathadhappenedorwhereIwas
+5, 6, -1, Presentlythesmiling
+6, 6, -1, pleasantfaceofSamuelbentoverme
+7, 6, -1, Meetingmygratifiedlookofrecognition
+8, 6, -1, hesetupaperfectyellofdelight
+9, 0, -1, "Soglad
+10, 6, -1, sogladyoublongalife
+11, 6, -1, NogoDavyJonesydistime
+12, 6, -1, hay
+1837 7
+(3, 3),
+1, 6, -1, Thecaptainshookhandswithmecordially
+2, 6, -1, poohpoohingthelossoftheboatasanunavoidableincidentofthetrade
+3, 1, -1, butexpressinghisheart-feltdelightatgettingusallbacksafe
+4, 6, -1, Thewhalewehadkilledwasamplecompensationforthelossofseveralboats
+5, 6, -1, thoughsuchwasthevigourwithwhichthesharksweregoingforhim
+6, 6, -1, thatitwasdeemedadvisabletocutinatonce
+7, 6, -1, workingallnight.
+1838 9
+(5, 5),
+1, 6, -1, Wewhohadbeenrescued
+2, 6, -1, however
+3, 6, -1, weresummarilyorderedbelowbytheskipper
+4, 6, -1, andforbidden
+5, 6, -1, onpainofhisseveredispleasure
+6, 6, -1, toreappearuntilthefollowingmorning
+7, 6, -1, Thisgreatprivilegewegladlyavailedourselvesof
+8, 6, -1, awakingatdaylightquitewellandfit
+9, 6, -1, notabittheworseforourqueerexperienceofthepreviousday.
+1840 6
+(1, 1),(1, 2),
+1, 6, -1, Ihavenodoubtwhateverthatsomeofthegentrywhoswearatlargeabouttheevilsofmissionarieswouldhavebeenloudintheirdisgustattheentireabsenceofdrinkanddebauchery
+2, 6, -1, andtheprevalenceofwhattheywoulddoubtlesscharacterizeasadjectivehypocrisyonthepartofthenatives
+3, 6, -1, butnodecentmancouldhelprejoicingatthepeace
+4, 6, -1, thesecurity
+5, 6, -1, andfriendlinessmanifestedoneveryhand
+6, 6, -1, norhelpawardingunstintedpraisetowhoeverhadbeenthemeansofbringingaboutsodesirableastateofthings.
+1841 6
+(2, 2),
+1, 6, -1, buttenthousandtimesbetterthusthansuchscenesoflustletlooseandabandonedanimalismaswewitnessedatHonolulu
+2, 0, -1, Whatpleasedmemightilywastheabsenceofthewhitemanwithhisairofsuperiorityandsleekoverlordship
+3, 6, -1, Alltheworship
+4, 6, -1, allthemanagementofaffairs
+5, 6, -1, wasentirelyinthehandsofthenativesthemselves
+6, 6, -1, andexcellentlywelldidtheymanageeverything.
+1842 7
+(3, 3),
+1, 6, -1, Whatasigh
+2, 0, -1, Onelookedattheotherinquiringly
+3, 6, -1, buttherepetitionofthatlongexpirationsatisfiedusallthatitwastheplacidbreathingofthewhalewesoughtsomewherecloseathand
+4, 6, -1, Thelightgrewrapidlybetter
+5, 6, -1, andwestrainedoureyesineverydirectiontodiscoverthewhereaboutsofourfriend
+6, 6, -1, but
+7, 6, -1, forsomeminuteswithoutresult.
+1843 7
+(4, 4),
+1, 6, -1, Newsofourcominghadprecededus
+2, 6, -1, andthewholenativepopulationappearedtobeafloattomakeuswelcome
+3, 6, -1, Theairrangagainwiththeirshoutsofrejoicing
+4, 6, -1, forourcatchrepresentedtothemagorgeousfeast
+5, 6, -1, suchastheyhadnotindulgedinformanyaday
+6, 6, -1, Thefleshofthehumpbackedwhaleisnotatallbad
+7, 6, -1, beingbutlittleinferiortothatoftheporpoise
+1844 8
+(5, 5),
+1, 6, -1, Thatbeingsettled
+2, 6, -1, weanchoredtheboat
+3, 6, -1, andlitpipes
+4, 6, -1, preparatorytopassingascomfortableanightasmightbeunderthecircumstances
+5, 4, -1, theonlythingtroublingmebeingtheanxietyoftheskipperonourbehalf
+6, 6, -1, Presentlytheblacknessbeneathwaslitupbyawidebandofphosphoriclight
+7, 6, -1, shedinthewakeofnoordinarysizedfish
+8, 6, -1, probablyanimmenseshark.
+1845 9
+(6, 6),
+1, 6, -1, Butwelostnotimeingettingbacktotheship
+2, 6, -1, whereIfullyexpectedaseverewiggingforthescrapemylucklesscuriosityhadledmeinto
+3, 6, -1, Thecaptain
+4, 6, -1, however
+5, 6, -1, wasverykind
+6, 0, -1, expressinghispleasureatseeingusallsafebackagain
+7, 6, -1, althoughhewarnedmesolemnlyagainstsimilarinvestigationsinfuture
+8, 6, -1, Aheartymealandagoodrestdidwondersinremovingthesevereeffectsofouradventure
+9, 6, -1, sothatbynextmorningwewereallfitandreadyforthedaysworkagain.
+1846 12
+(6, 6),
+1, 6, -1, But
+2, 6, -1, alasforthefruitofourlabours
+3, 6, -1, Thosehungrymonstershadcollectedinthousands
+4, 6, -1, and
+5, 6, -1, tojudgefromwhatwewereabletoseeofthebody
+6, 6, -1, theyhadreduceditsvaluealarmingly
+7, 6, -1, However
+8, 6, -1, wecommencedtowing
+9, 6, -1, andweregettingalongfairlywell
+10, 6, -1, whenalongspurofreeftoleewardofus
+11, 5, -1, overwhichtheseawasbreakingfrightfully
+12, 6, -1, seemedtobestretchingfartherouttointerceptusbeforewecouldgetintosmoothwater.
+1847 8
+(5, 5),
+1, 6, -1, Takingstockofhimquietlyduringourday-longleisurelycruisesintheboat
+2, 6, -1, Ioftenwonderedwhetherhismindstillkeptitsgloomyforebodings
+3, 6, -1, andbroodedoverhistragicallife-history
+4, 6, -1, Ineverdaredtospeaktohimonthesubject
+5, 4, -1, forfearofarousingwhatIhopedwasgrowingtoofaintforremembrance
+6, 6, -1, ButattimesIsawhiminthemoonliteveningssittingontherailalone
+7, 6, -1, steadfastlygazingdownintothestarbesprentwatersbeneathhim
+8, 6, -1, asifcovetingtheirunruffledpeace.
+1849 11
+(7, 6),
+1, 6, -1, islands
+2, 6, -1, air
+3, 6, -1, andseaallshimmeringinanenchantedhaze
+4, 1, -1, andsilencescarcelybrokenbythetenderrippleofthegentlypartedwatersbeforetheboat'ssteadykeelthoughthesejoyshaveallbeenlosttome
+5, 6, -1, andIin"populouscitypent"endurethefadingyears
+6, 6, -1, IwouldnotbarterthememoryofthemformorethanIcansay
+7, 6, -1, sosweetitistome
+8, 6, -1, And
+9, 6, -1, then
+10, 6, -1, ourrelationswiththenativeshadbeensoperfectlyamicable
+11, 6, -1, sofreefromanythingtoregret.
+1850 8
+(5, 5),
+1, 6, -1, And
+2, 6, -1, then
+3, 6, -1, ourrelationswiththenativeshadbeensoperfectlyamicable
+4, 6, -1, sofreefromanythingtoregret
+5, 6, -1, PerhapsthissimplestatementwillraiseacynicalsmileuponthelipsofthosewhoknowTahati
+6, 6, -1, theNewHebrides
+7, 6, -1, andkindredspotswithalltheirsavage
+8, 6, -1, bestialorgiesofalternateunbridledlustandunnamablecruelty.
+1851 10
+(7, 7),(7, 8),(7, 9),(7, 10),
+1, 6, -1, PerhapsthissimplestatementwillraiseacynicalsmileuponthelipsofthosewhoknowTahati
+2, 6, -1, theNewHebrides
+3, 6, -1, andkindredspotswithalltheirsavage
+4, 6, -1, bestialorgiesofalternateunbridledlustandunnamablecruelty
+5, 6, -1, Letitbeso
+6, 6, -1, Formypart
+7, 6, -1, IrejoicethatIhavenotaleofweeksofdrunkenness
+8, 6, -1, ofbrutalrape
+9, 6, -1, treacherousmurder
+10, 6, -1, andalmostunthinkabletorturetotell.
+1852 5
+(3, 3),(3, 4),(3, 5),
+1, 6, -1, Whyaregoodfolksashoresystematicallymisledintothebeliefthatthesailorisanobjectofcharity
+2, 6, -1, andthatitisnecessarytosubscribecontinuallyandliberallytoprovidehimwithfoodandshelterwhenashore
+3, 3, -1, Mostofthecontributorswouldbesurprisedtoknowthatthecostofboardandlodgingatthe"home"ispreciselythesameasitisoutside
+4, 6, -1, andmuchhigherthanalandsmanofthesamegradecanliveforinbetterstyleWiththeexceptionofthesleepingaccommodation
+5, 6, -1, mostmenprefertheboarding-house.
+1853 4
+(1, 1),
+1, 6, -1, Itseffectuponhimwasstartlingandimmediate
+2, 6, -1, Herushedoffatsofuriousaratedeadtowindwardthatforagreatwhilewehadallourworkcutouttokeepherfreebybaling
+3, 6, -1, Theseahadrisenalittle
+4, 6, -1, andasweleaptfromonewavetoanotherthesprayflewoverusinanalmostcontinuouscloud.
+1854 6
+(4, 4),
+1, 6, -1, BeforeweleftfinallyforNewZealand
+2, 6, -1, everyoneofthoseKanakaswasasmuchathomeinthewhaleboatsashewouldhavebeeninacanoe
+3, 6, -1, Ofcoursetheyweregreatlyhelpedbytheirentirefamiliaritywiththewater
+4, 6, -1, whichtookfromthemallthatdreadofbeingdrownedwhichhampersthewhite"greenie"sosorely
+5, 6, -1, besideswhich
+6, 4, -1, theabsoluteconfidencetheyhadinourprowessamongstthewhalesfreedthemfromanyfearonthathead.
+1859 8
+(8, 8),
+1, 6, -1, OurKanakas
+2, 6, -1, too
+3, 0, -1, wereoverjoyedtofindcompatriotsamongthevisitors
+4, 6, -1, andsettleddowntoasteadystreamoftalkwhichlasted
+5, 6, -1, withoutintermission
+6, 6, -1, thewholenightthrough
+7, 6, -1, Itwasawonderfulexhibitionoftonguewagging
+8, 6, -1, thoughwhatitwasallaboutpuzzledmegreatly.
+1862 12
+(9, 9),
+1, 6, -1, ThereweresixteenwhitemenonboardtheCHANCE
+2, 6, -1, includingtheskipper
+3, 6, -1, drawnasusualfromvariousEuropeanandAmericansources
+4, 6, -1, therestofherlargecrewofoverfortyalltoldbeingmadeupofMaoriesandhalf-breeds
+5, 6, -1, Onecommoninterestunitedthem
+6, 6, -1, makingthemthemostjollycrowdIeversawtheirdevotiontotheircommander
+7, 0, -1, TherewasheretobefoundnojealousyoftheMaoriesbeingofficersandharpooners
+8, 6, -1, noblacklooksordiscontentedmurmuring
+9, 0, -1, allhandsseemedparticularlywellsatisfiedwiththeirlotinallitsbearings
+10, 6, -1, sothat
+11, 6, -1, althoughtheoldtubwasmalodorousenoughtoturnevenaprettystrongstomach
+12, 6, -1, itwasaleasuretovisithercheerfulcrowdforthesakeoftheirenliveningsociety.
+1863 9
+(4, 4),
+1, 6, -1, Noonecouldgainsaythattheyhadgoodreason
+2, 4, -1, butIreallyfearedforatimethatweshouldhave"ructions
+3, 6, -1, "AsPaddysaid
+4, 6, -1, itwasnotwiseordignifiedforthoseofficerstobesoangrywithhimonaccountofhissuccess
+5, 6, -1, whichhefranklyownedwasduealmostentirelytothelocalknowledgehepossessed
+6, 6, -1, gainedinmanyyearsstudyoftheimmediateneighbourhood
+7, 6, -1, Hedeclaredthat
+8, 6, -1, asfarasthetechnicaldutiesofwhalefishingwent
+9, 6, -1, alltheAmericanscouldbeathimhollow
+1864 9
+(5, 7),
+1, 6, -1, Hiscrew
+2, 6, -1, ontheimpulseofthemoment
+3, 6, -1, sprangtotherailandcheeredwithmightandmain
+4, 6, -1, Noonecouldgainsaythattheyhadgoodreason
+5, 4, -1, butIreallyfearedforatimethatweshouldhave"ructions
+6, 6, -1, "AsPaddysaid
+7, 6, -1, itwasnotwiseordignifiedforthoseofficerstobesoangrywithhimonaccountofhissuccess
+8, 6, -1, whichhefranklyownedwasduealmostentirelytothelocalknowledgehepossessed
+9, 6, -1, gainedinmanyyearsstudyoftheimmediateneighbourhood.
+1865 10
+(7, 5),
+1, 6, -1, Atthecloseofouroperationsthewelcomenewswasmadepublicthatfourmorefishlikethepresentonewouldfillusbungup
+2, 6, -1, andthatweshouldthen
+3, 6, -1, afterabriefvisittotheBluff
+4, 6, -1, startdirectforhome
+5, 6, -1, Thisannouncement
+6, 6, -1, thoughexpectedforsometimepast
+7, 6, -1, gaveanamazingfilliptoeverybody'sinterestinthework
+8, 4, -1, Thestrangespectaclewaswitnessedofallhandsbeinganxioustoquitasnugharbourforthesea
+9, 6, -1, wherestern
+10, 6, -1, hardwrestlingwiththeelementswastherule.
+1866 11
+(4, 4),
+1, 6, -1, Thisannouncement
+2, 6, -1, thoughexpectedforsometimepast
+3, 6, -1, gaveanamazingfilliptoeverybody'sinterestinthework
+4, 4, -1, Thestrangespectaclewaswitnessedofallhandsbeinganxioustoquitasnugharbourforthesea
+5, 6, -1, wherestern
+6, 6, -1, hardwrestlingwiththeelementswastherule
+7, 6, -1, Thecaptain
+8, 0, -1, wellpleasedwiththeeagernessmanifested
+9, 6, -1, hadhisboatmannedforatriptotheentranceoftheharbour
+10, 6, -1, toseewhattheweatherwaslikeoutside
+11, 6, -1, sinceitwasnotpossibletojudgefromwheretheshiplay.
+1867 5
+(3, 3),
+1, 0, -1, Satisfiedthatourdaysinthesouthernhemispherewerenumbered
+2, 6, -1, andallanxietytopointherheadforhome
+3, 6, -1, thisnewswasmostpleasing
+4, 6, -1, puttingallofusinthebestofhumours
+5, 6, -1, andprovokingquiteanentertainmentofsonganddanceuntilnearlyfourbells.
+1868 11
+(9, 9),
+1, 6, -1, notfarenoughtogetanywherethatananchormighthold
+2, 6, -1, andtheretoleeward
+3, 6, -1, withinlessthanadozenmiles
+4, 6, -1, loomedgrimandgloomyoneofthemostterrificrockboundcoastsintheworld
+5, 6, -1, TheshiftofwindhadplacedtheCHANCEfarthertoleewardthanalltherest
+6, 6, -1, agoodmileandahalfnearertheshore
+7, 4, -1, andwecouldwellimaginehowanxiouslyhermovementswerebeingwatchedbytheothers
+8, 6, -1, who
+9, 6, -1, inspiteoftheirjealousyofhisgoodluck
+10, 0, -1, knewwellandappreciatedfullyPaddy'smarvellousseamanship
+11, 6, -1, aswellashisunparalleledknowledgeofthecoast.
+1869 15
+(9, 9),
+1, 6, -1, however
+2, 6, -1, showednosignofdoingso
+3, 6, -1, althoughtheyallneared
+4, 6, -1, withanaccelerateddrift
+5, 6, -1, thatpointfromwhencenoseamanshipcoulddeliverthem
+6, 6, -1, andwheredeathinevitable
+7, 6, -1, cruel
+8, 6, -1, awaitedthemwithouthopeofescape
+9, 6, -1, Thepartofthecoastuponwhichtheywereapparentlydrivingwasaboutasdangerousandimpracticableasanyintheworld
+10, 6, -1, Agiganticbarrierofblack
+11, 6, -1, nakedrock
+12, 6, -1, extendingforseveralhundredyards
+13, 6, -1, rosesheerfromtheseabeneath
+14, 6, -1, likethesideofanironclad
+15, 6, -1, uptoaheightofsevenoreighthundredfeet.
+1870 11
+(10, 10),
+1, 6, -1, Forthenextfourdaysandnights
+2, 6, -1, duringwhichthewindpreventedtheCHANCEfromleavingus
+3, 6, -1, ouroldshipwasasceneofwildrevelry
+4, 6, -1, thatceasednotthroughthetwenty-fourhoursrevelryentirelyunassistedbystrongwaters
+5, 6, -1, too
+6, 6, -1, thenaturalebullientgaietyofmenwhowerefreefromanxietyonanyaccountwhatever
+7, 6, -1, rejoicingoverthegladconsummationofmorethantwoyearstoil
+8, 6, -1, ontheonehand
+9, 6, -1, ontheother
+10, 0, -1, asplendidsympathyinjoymanifestedbythesatisfiedcrewunderthegenialcommandofCaptainGilroy
+11, 6, -1, Withtheircheerfulhelpwemadewonderfulprogress
+1871 11
+(8, 8),
+1, 6, -1, dirtier
+2, 6, -1, gloomier
+3, 6, -1, andcoldergrewtheweather
+4, 6, -1, until
+5, 6, -1, reducedtotwotopsailsandareefedforesail
+6, 6, -1, wewerescuddingdeadbeforethegaleforallwewereworth
+7, 6, -1, ThiswasanovelexperienceforusintheCACHALOT
+8, 6, -1, andIwascurioustoseehowshewouldbehave
+9, 6, -1, Tomymind
+10, 6, -1, thesupremetestofaship'sseakindlinessisthelengthoftimeshewillscudbeforeagalewithout"pooping"asea
+11, 6, -1, ortakingsuchheavywateronboardoverhersidesastodoseriousdamage.
+1875 6
+(4, 4),
+1, 6, -1, IleftheronlyamomentagosheandherhusbandwantedmetotakesupperwiththematRiley'sthenewrestaurantonUniversityPlace
+2, 6, -1, youknow
+3, 6, -1, famousforitsdevilledcrabs
+4, 6, -1, ButIalwaysliketocomehereformyclams
+5, 6, -1, Allowmeamoment"andhebentoverthesteamingtub
+6, 6, -1, andskeweringthecontentsofapairofshellswithhisironforkhelditouttowardOliver.
+1895 13
+(8, 7),
+1, 6, -1, WespenttenhappydaysinHonolulu
+2, 6, -1, marredonlybyoneortwodrunkenrowsamongthechapsforward
+3, 6, -1, which
+4, 6, -1, however
+5, 6, -1, resultedintheirgettingaseveredressingdownintheforecastle
+6, 6, -1, wheregoodorderwasnowkept
+7, 6, -1, Therehadbeennoneedforinterferenceonthepartoftheofficers
+8, 0, -1, whichIwasgladtosee
+9, 6, -1, rememberingwhatwouldhavehappenedundersuchcircumstancesnotlongago
+10, 6, -1, Beingshort-handed
+11, 6, -1, thecaptainengagedanumberoffriendlyislandersforalimitedperiod
+12, 6, -1, ontheunderstandingthattheyweretobedischargedattheirnativeplace
+13, 6, -1, VauVau.
+1923 6
+(6, 6),
+1, 6, -1, WhileHuberthadbeeninthe"Trap
+2, 6, -1, "hisfatherandunclehadbeenwalkingalongthebeach
+3, 6, -1, andtheformerheardforthefirsttimethenatureanddangerofthe"Smuggler'sTrap
+4, 4, -1, Hewasatoncefilledwithanxietyabouthisson
+5, 6, -1, andhadhurriedtotheplacetocallhimback
+6, 6, -1, whentohishorrorhefoundthatthetidehadalreadycoveredtheonlywaybywhichthedangerousplacemightbeapproached.
+1927 7
+(4, 5),
+1, 6, -1, AsIdrewnearerandnearertothelight
+2, 6, -1, thechasmbecamewider
+3, 6, -1, andatlastIsaw
+4, 6, -1, tomyunspeakableamaze
+5, 6, -1, abroadlevelroadatthebottomoftheabyssandilluminedasfarastheeyecouldreachbywhatseemedartificialgaslampsplacedatregularintervals
+6, 6, -1, asinthethoroughfareofagreatcity
+7, 1, -1, andIheardconfusedlyatadistanceahumasofhumanvoices.
+1928 13
+(9, 10),
+1, 6, -1, Whenthecagestopped
+2, 6, -1, Ifoundmyselfonaridgeofrock
+3, 6, -1, andbelowme
+4, 6, -1, thechasm
+5, 6, -1, takingaslantingdirection
+6, 6, -1, shotdowntoaconsiderabledepth
+7, 6, -1, thedarknessofwhichmylampcouldnothavepenetrated
+8, 6, -1, Butthroughit
+9, 3, -1, tomyinfinitesurprise
+10, 6, -1, streamedupwardasteadybrilliantlight
+11, 6, -1, Coulditbeanyvolcanicfire
+12, 6, -1, Inthatcase
+13, 6, -1, surelyIshouldhavefelttheheat.
+1938 7
+(3, 6),
+1, 6, -1, Itwasntthattheycouldshowhimanything
+2, 6, -1, itwasonlythattheycouldburnclear
+3, 3, -1, Tohissurprise
+4, 6, -1, however
+5, 6, -1, afterawhile
+6, 6, -1, theydidshowhimsomething:thearchofahighdoorwayapproachedbyalowterraceofsteps
+7, 6, -1, inthedepthofwhich-itformedadimvestibule-theraisingofacurtainatthemomenthepassedgavehimaglimpseofanavenueofgloomwithaglowoftapersattheend.
+1944 15
+(11, 11),
+1, 6, -1, Thosewhowerenearesttotheboatthrewthemselvesintoit
+2, 6, -1, otherssprangintothesea
+3, 6, -1, butbeforeIcouldsavemyselfthewhaleplungedsuddenlyintothedepthsoftheocean
+4, 6, -1, leavingmeclingingtoapieceofthewoodwhichwehadbroughttomakeourfire
+5, 6, -1, Meanwhileabreezehadsprungup
+6, 6, -1, andintheconfusionthatensuedonboardourvesselinhoistingthesailsandtakingupthosewhowereintheboatandclingingtoitssides
+7, 6, -1, noonemissedmeandIwasleftatthemercyofthewaves
+8, 6, -1, AllthatdayIfloatedupanddown
+9, 6, -1, nowbeatenthisway
+10, 6, -1, nowthat
+11, 6, -1, andwhennightfellIdespairedformylife
+12, 6, -1, but
+13, 6, -1, wearyandspentasIwas
+14, 6, -1, Iclungtomyfrailsupport
+15, 0, -1, andgreatwasmyjoywhenthemorninglightshowedmethatIhaddriftedagainstanisland.
+1985 4
+(4, 3),
+1, 6, -1, Atthe108thstroke
+2, 6, -1, itwouldbe0
+3, 6, -1, onthedotonNewYear'sDay
+4, 0, -1, InstantlytheJapanesetouristswouldburstoutcheeringandhurrahingindelight.
+2473 17
+(14, 14),
+1, 6, -1, Youmustnotthinkthatshe'snotagoodperson
+2, 6, -1, orthatsheandthekidsdonthonestlyneedyourhelp
+3, 6, -1, Butyoucannotlethertakeadvantageofyou
+4, 6, -1, Darling
+5, 6, -1, i'veseenitrepeatedsomanytimes
+6, 6, -1, WhathappenswithWesternerswholivehereforalongtimeisthattheyusuallyendupfallingintooneoftwocamps
+7, 6, -1, Halfofthemkeepplayingthetourist
+8, 6, -1, saying
+9, 6, -1, Oh
+10, 6, -1, thoselovelyBalinese
+11, 6, -1, sosweet
+12, 6, -1, sogracious
+13, 6, -1, "andgettingrippedofflikecrazy
+14, 5, -1, Theotherhalfgetsofrustratedwithbeingrippedoffallthetime
+15, 6, -1, theystarttohatetheBalinese
+16, 6, -1, Andthat'sashame
+17, 6, -1, becausethenyou'velostallthesewonderfulfriends."
+2474 17
+(16, 17),
+1, 6, -1, Youmustnotthinkthatshe'snotagoodperson
+2, 6, -1, orthatsheandthekidsdonthonestlyneedyourhelp
+3, 6, -1, Butyoucannotlethertakeadvantageofyou
+4, 6, -1, Darling
+5, 6, -1, i'veseenitrepeatedsomanytimes
+6, 6, -1, WhathappenswithWesternerswholivehereforalongtimeisthattheyusuallyendupfallingintooneoftwocamps
+7, 6, -1, Halfofthemkeepplayingthetourist
+8, 6, -1, saying
+9, 6, -1, Oh
+10, 6, -1, thoselovelyBalinese
+11, 6, -1, sosweet
+12, 6, -1, sogracious
+13, 6, -1, "andgettingrippedofflikecrazy
+14, 5, -1, Theotherhalfgetsofrustratedwithbeingrippedoffallthetime
+15, 6, -1, theystarttohatetheBalinese
+16, 6, -1, Andthat'sashame
+17, 6, -1, becausethenyou'velostallthesewonderfulfriends."
+2475 11
+(4, 3),
+1, 6, -1, Whichmaysoundfirmandconfident
+2, 6, -1, butImustadmitthis
+3, 6, -1, aswellthatsailingovertothatquietislandallalone
+4, 4, -1, Iwasnevermoreterrifiedinmylife
+5, 6, -1, Ihadnotevenbroughtanybookstoread
+6, 6, -1, nothingtodistractme
+7, 6, -1, Justmeandmymind
+8, 6, -1, abouttofaceeachotheronanemptyfield
+9, 4, -1, Irememberthatmylegswerevisiblyshakingwithfear
+10, 6, -1, ThenIquotedtomyselfoneofmyfavoritelineseverfrommyGuru:"Fearwhocares
+11, 6, -1, "andIdisembarkedalone.
+2537 4
+(3, 2),
+1, 6, -1, "AssoonasIhadgoneinatthedoor
+2, 6, -1, thefirstwonderwasthatIfoundmyselfinthisgreatsunlight(asweallarenow)thoughtheinsideofthehovelhadlookeddarkfromoutside
+3, 6, -1, ButIhadnotimetomarvelatthis
+4, 1, -1, forimmediatelyIwasforcedtofightformyheadagainstoneofourownmen.
+2566 1
+(1, 1),
+1, 6, -1, shesaid:"Whatdoeshewant?Youreallywanttoknowwhathewants?Hewantstosleepwithme."
+2570 1
+(1, 1),
+1, 5, -1, herexasperationstrangledher.
+2571 1
+(1, 1),
+1, 5, -1, herexasperationstrangledher.
+2580 1
+(1, 1),
+1, 6, -1, whichwasmovingveryfastthroughthewater.i'vebeenkidnapped!Ithoughtangrily.Itwasclearthatmyuncleandthecaptainhadplannedittogether.
+2584 1
+(1, 1),
+1, 6, -1, becauseIthoughtthattheyhadleftmetodiealoneinthatterribleplace.
+2588 1
+(1, 1),
+1, 6, -1, Alanstraightenedhisbackandshowedhimselftothesoldierswhowerechasingus.

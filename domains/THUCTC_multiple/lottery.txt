@@ -1,0 +1,327 @@
+1027 12
+ (6,5)
+1,null,null,庭审 中
+2,null,null,面对 被 指控 的 盗窃罪 和 抢劫罪 两项 罪名
+3,null,null,以及 谋害 和 抛 尸 的 犯罪事实
+4,null,null,周强 供认不讳
+5,null,sadness,我 知道 自己 犯 了 很大 的 错误
+6,sadness,愧疚,很 愧疚
+7,null,null,对不起 被害人 和 她 的 家属
+8,null,null,希望 能 给 我 一次 重新做人 的 机会
+9,null,null,他 说
+10,null,null,经过 2 个 小时 的 庭审
+11,null,null,审判长 宣布 因 案情 重大 复杂
+12,null,null,将 择期 再 进行 宣判
+1167 15
+ (7,6)
+1,null,null,黄某 怕 声音 传出去 被 发现
+2,null,null,便 打开 电脑
+3,null,null,将 音乐 放 得 很大
+4,null,null,小玲 趁 黄某 不 注意 用 舌头 顶开 止痛 膏
+5,null,null,大 喊救命
+6,null,fear,看到 孩子 这样 喊叫
+7,fear,害怕,一 开始 感到 挺 刺激 的 黄某 开始 感到 害怕 和 心软
+8,null,null,他 一边 恐吓 小玲 不要 哭喊
+9,null,null,一边 安抚 孩子
+10,null,null,十几分钟 后
+11,null,null,黄某 解开 小玲 绳索 后 还 帮 她 把 眼泪 擦干
+12,null,null,送 孩子 回去
+13,null,null,到 学校 门口
+14,null,null,他 还 百般 嘱咐 小玲 你 千万别 跟 其他人 说
+15,null,null,叔叔 是 跟 你 开玩笑 的
+1244 15
+ (9,9)
+1,null,null,据 王磊 介绍
+2,null,null,妻子 于 13 日 6 : 12 在 县城 妇幼保健 院生 下 孩子
+3,null,null,当时 我 在 办理 缴费 手续
+4,null,null,父母 也 在 手术室 门口
+5,null,null,都 没能 立即 见到 孩子
+6,null,null,王磊 说
+7,null,null,等 孩子 出生 一个多 小时 后
+8,null,null,王磊 和 妻子 才 看到
+9,happiness,happiness,降生 的 女婴 让 王磊 和 妻子 都 很 兴奋
+10,null,null,但 16 日
+11,null,null,王磊称 自己 拿到 的 出院 小结 上
+12,null,null,写 的 出生 婴儿 是 男孩
+13,null,null,我 当时 以为 医院 笔误 写错 了
+14,null,null,但是 妻子 意外 看到 了 院方 当时 在 孩子 出生 时 的 原始记录
+15,null,null,上面 写 的 也 是 男孩
+1391 11
+ (3,3)
+1,null,null,这 不是 最后 的 结局
+2,null,null,我 的 律师 已经 建议 我 不要 再 与 卡 梅洛 特 公司 扯皮 此事
+3,anger,anger,我 对 他们 的 疏忽 与 态度 感到 愤怒
+4,null,null,麦克 多纳 说
+5,null,null,卡 梅洛 特 公司 的 一名 发言人 则 表示
+6,null,null,公司 非常 同情 麦克 多纳
+7,null,null,但是 在 兑奖 的 时候
+8,null,null,公司 没有 理由 怀疑 个人 兑奖 者 的 身份
+9,null,null,也 没有 理由 怀疑 中奖 彩票 是 丢失 或者 被 偷 的
+10,null,null,这名 发言人 还 提醒 彩民 们 一定 要 在 彩票 后面 提供 的 位置 写下 自己 的 姓名 和 地址
+11,null,null,以 确保 中奖 时 彩票 公司 能 很快 确定 中奖者 身份
+1397 17
+ (8,7)
+1,null,null,买菜 时 看见 金 果园 的 福彩 投注站
+2,null,null,就 照着 自己 的 旧 彩票 打 了 一张
+3,null,null,没想到
+4,null,null,正是 这 张守 了 五年 的 彩票
+5,null,null,为 她 赢得 了 2009074 期 515 万 大奖
+6,null,null,据 陪同 杨 女士 领奖 的 兄姐 和 妹夫 介绍
+7,null,happiness,杨 女士 星期一 得知 自己 中奖 后
+8,happiness,激动,激动 得 语无伦次
+9,null,null,为 把 自己 中奖 的 事情 说 清楚
+10,null,null,竟 给 他们 兄妹 三人 打电话 打 了 近 一个 小时
+11,null,null,杨 女士 的 哥哥 说
+12,null,null,1992 年 她 丈夫 工作 的 厂 倒闭
+13,null,null,儿子 当时 还 在 读书
+14,null,null,最苦 的 时候 一家人 靠 她 一个 人 的 收入 过日子
+15,null,null,杨 女士 的 姐姐 告诉 记者
+16,null,null,杨 女士 全家人 商量 过
+17,null,null,第一件 事 就是 买 一套 住房
+1422 10
+ (3,3)
+1,null,null,面对 公诉人 故意杀人罪 的 指控
+2,null,null,张某 辩解 前期 的 杀人 供述
+3,sadness,sadness,是 因 失去 女儿 伤心 过度 才 做出 的
+4,null,null,他称 自己 与 女儿 关系 很 好
+5,null,null,两人 相依为命
+6,null,null,因 自己 酒量 不好
+7,null,null,当天 又 喝 了 三两 杨梅 酒
+8,null,null,张某 说 自己 当时 意识 不清
+9,null,null,他称 右手 在 其 女儿 太阳穴 位置 上 用力 击打 的 两三下 是 致命 点
+10,null,null,自己 左手 并 没有 用力 掐 女儿 脖子
+1575 7
+ (3,3), (5,4)
+1,null,null,关微 透露
+2,null,null,他 一直 关注 陈思 的 博客
+3,happiness,happiness,每当 看到 又 一人 获救 就 会 高兴
+4,null,fear,而 当 陈思 的 心灵 驿站 遇到困难 时
+5,fear,着急,也 会 一同 着急
+6,null,null,关微 知道 陈思 身体 不好
+7,null,null,因此 一再 叮嘱 要 保重
+1853 21
+ (16,11)
+1,null,null,11 月 3 日 下午 3 点多钟
+2,null,null,她 把 小孩 送回 了 学校
+3,null,null,晚上 七 八点钟
+4,null,null,她 接到 学校 老师 的 电话
+5,null,null,说 小孩 没有 参加 晚自习
+6,null,null,她 和 家人 赶到 学校
+7,null,null,在 附近 网吧 等 场所 找 了 很 久 也 没有 找到
+8,null,null,随即 向 淮安 当地 警方 报警
+9,null,null,11 月 4 日 早上
+10,null,null,我 接到 姐姐 的 电话
+11,null,fear,才 知道 外甥 失踪 了
+12,null,null,该 学生 的 姨妈 卞 女士 表示
+13,null,null,她 随后 通过 手机短信 和 QQ 与 外甥 联系
+14,null,null,并 一直 不停 地 劝说 外甥 不要 做 傻事
+15,null,null,早点 回来
+16,fear,担心,全家人 都 很 担心 他
+17,null,null,联系 过程 中
+18,null,null,卞 女士 收到 外甥 发来 的 一张 大海 的 照片
+19,null,null,以及 一张 淮安 涟水 到 连云港 车票 的 照片
+20,null,null,这时候
+21,null,null,她 才 知道 外甥 去 了 连云港
+1866 18
+ (11,10)
+1,null,null,10 月 17 日
+2,null,null,阿绿 终于 向 丈夫 老谢 说 了 这件 事
+3,null,null,哪有 领奖 要 等 一年 还 不能 领 的
+4,null,null,你 肯定 被 骗 了
+5,null,null,丈夫 当头一棒 打醒 了 阿绿
+6,null,null,夫妻俩 立即 向望 里 派出所 报 了 警
+7,null,null,10 月 18 日
+8,null,null,黄某 被 带到 了 派出所
+9,null,null,事实上
+10,null,sadness,骗 了 阿绿 那么 多次
+11,sadness,内疚,黄某 也 开始 感到 内疚 她 也 挺 可怜 的
+12,null,null,被 我 骗 了 那么 多次
+13,null,null,黄某 是 这样 计划 的 继续 让 阿绿 投资 自己 买 彩票
+14,null,null,如果 真中 了 百万 大奖
+15,null,null,就 能 将 欠 阿绿 的 钱 一笔 还清
+16,null,null,减少 她 的 损失
+17,null,null,而 自己 还 能 赚 一笔
+18,null,null,一举两得
+1949 14
+ (10,9)
+1,null,null,起初 车上 的 乘客 很 配合
+2,null,null,可是 后来 由于 雪后 道路 拥堵
+3,null,null,我们 抵达 派出所 耗 了 不少 时间
+4,null,null,很多 人 开始 对 丢 手机 的 乘客 发起 牢骚
+5,null,null,埋怨 她 自己 不 小心 却 让 大家 陪 着 耗时间 无法 按时 上班 上学
+6,null,null,乘客 刘女士 说
+7,null,null,乘客 王先生 说 对 这事 我 能 理解
+8,null,null,将心比心
+9,null,fear,如果 丢 手机 的 是 我
+10,fear,着急,我 也 着急
+11,null,null,更何况 社会 需要 正 能量
+12,null,null,一名 20 多岁 的 小伙子 说 有人 手机 被 偷 了 值得 同情
+13,null,null,可 让 全车 人 一起 等 这么久
+14,null,null,合情理 吗
+2029 16
+ (12,11)
+1,null,null,去年 4 月
+2,null,null,小罗 60 岁 的 母亲 病发 住院
+3,null,null,经查
+4,null,null,胆囊 已 癌变
+5,null,null,经 治疗
+6,null,null,去年 9 月 1 日 母亲 还是 离开 了 人世
+7,null,null,而 她 生前 最大 的 遗憾 就是 没有 看着 儿媳 进门
+8,null,null,张罗 完 母亲 的 丧事
+9,null,null,小罗 回到 了 公司
+10,null,null,但 每当 夜深人静
+11,null,sadness,母亲 的 音容笑貌 就 会 出现 在 他 脑海中
+12,sadness,思念,思念 就 像 潮水 一般
+13,null,null,一 波一波 向 他 袭 来
+14,null,null,每当 难以承受 的 时候
+15,null,null,他 就 悄悄 拿出 自己 的 手机
+16,null,null,拨打 母亲 生前 所用 的 手机号码
+2052 14
+ (6,4)
+1,null,null,我 在 沿海 打拼 7 年
+2,null,null,下岗 回家 一无所获
+3,null,null,没想到
+4,null,happiness,回到 重庆 就 中 了 大奖
+5,null,null,昨日
+6,happiness,喜不自禁,第 09007 期 足球彩票 大 奖得主 小张 手握 价值 535 万元 的 彩票 喜不自禁
+7,null,null,只有 24 岁 的 小张 一脸 沧桑
+8,null,null,他 说
+9,null,null,因 家庭 困难
+10,null,null,2001 年
+11,null,null,职高 毕业 后
+12,null,null,他 便 远离 家乡 到 广东 顺德 一 电子设备 制造厂 打工
+13,null,null,枯燥 的 打工 生活 中
+14,null,null,他 最大 的 乐趣 就是 和 工友 一起 看 体育频道 的 足球比赛
+2082 10
+ (5,4)
+1,null,null,出家 后 的 林后 领本应 洗心革面
+2,null,null,然而 来自 老家 的 一则 喜讯 却 再次 点燃 了 他 心中 的 欲火
+3,null,null,2011 年 6 月
+4,null,happiness,林后 领 的 表哥 孙某 买 彩票 中 了 500 万元 大奖
+5,happiness,羡慕,亲戚朋友 都 非常 羡慕
+6,null,null,这一 喜讯 很快 传到 了 已 出家 的 林后 领耳中
+7,null,null,他 瞬间 不淡定 了
+8,null,null,一 心想 从 表哥 那里 拿点 钱
+9,null,null,接下来 的 一年
+10,null,null,已 没 心思 出家 的 林后 领 多次 向 自己 的 舅舅 和 表哥 孙某 提出 借钱
+504 9
+ (1,1)
+1,happiness,happiness,痴汉 邓广台 的 故事 感动 了 许多 人
+2,null,null,很多 人 都 说
+3,null,null,他
+4,null,null,让 人 深切 地 感受 到 了 亲情 的 含义
+5,null,null,今天 或许 我们 已经 离开 家 在 社会 奋斗
+6,null,null,或 正要 离开 家
+7,null,null,但是 我们 之所以 这么 勇敢 地面 对 有时 显得 残忍 社会
+8,null,null,就是 因为 我们 相信
+9,null,null,家人 永远 是 自己 的 陪伴
+592 7
+ (3,2)
+1,null,null,薛青法 说
+2,null,surprise,对于 父母 这么 多年 攒 下来 的 这笔 钱
+3,surprise,吃惊,他们 都 感到 很 吃惊
+4,null,null,也 不会 舍得 去 花 这笔 钱
+5,null,null,风风雨雨 这么 多年
+6,null,null,可 在 薛青法 的 记忆里
+7,null,null,两位 老人 做 任何 事情 几乎 都 是 形影不离
+651 8
+ (4,3)
+1,null,null,关于 刘亚娟 和 她 学生 们 的 故事 还有 很多
+2,null,null,1992 年嘎查 给 教学点 建 教室
+3,null,fear,因 缺少 资金 中途 停工
+4,fear,心急如焚,刘亚娟 心急如焚
+5,null,null,为了 不 耽误 孩子 们 按时 上学
+6,null,null,她 把 家里 的 10 多头 猪卖 了 4000 多元 钱
+7,null,null,用于 建 教室
+8,null,null,使 教室 如期 完工
+78 10
+ (5,4), (10,8)
+1,null,null,当 奶奶 和 摊主 讨价还价 时
+2,null,null,突然 发现 孙子 不见 了
+3,null,null,奶奶 急忙 在 周围 寻找
+4,null,fear,可 哪里 也 看不到 孙子 的 影子
+5,fear,心急火燎,她 心急火燎 地 给 儿子 李世铭 打电话
+6,null,null,李世铭 立即 放下 手里 的 工作 赶到 火车站
+7,null,null,两人 找遍 了 火车站 附近 的 角落
+8,null,sadness,可是 再也 没有 看到 小鑫鑫 的 身影
+9,null,null,奶奶 当即 瘫坐 在 地上
+10,sadness,失声痛哭,失声痛哭
+781 17
+ (3,2)
+1,null,null,2006 年
+2,null,sadness,这个 苦难 的 家庭 又 一次 面临 灾难 — — — 大儿子 罗振成 出 了 车祸
+3,sadness,心如刀割,赵凤琴 心如刀割
+4,null,null,这个 孩子
+5,null,null,她 亏欠 太 多
+6,null,null,孩子 13 岁 就 辍学 了
+7,null,null,提起 大儿子
+8,null,null,赵凤琴 使劲儿 把 泪水 往回 憋 孩子 该 上 初中 了
+9,null,null,老师 说 一个月 20 块钱 饭费
+10,null,null,罗振成 从小 成绩 就 好
+11,null,null,考上 了 县里 的 重点 初中
+12,null,null,听说 要 辍学
+13,null,null,老师 几次三番 找 赵凤琴
+14,null,null,20 块钱
+15,null,null,家里 拿不出
+16,null,null,丈夫 要 治病
+17,null,null,小儿子 罗振宇 刚 上 小学
+783 18
+ (12,12)
+1,null,null,当天 晚上
+2,null,null,第 12102 期 大乐透 开奖
+3,null,null,中奖号码 为 前区 0204061335
+4,null,null,后区 0408
+5,null,null,朱先生 选中 的 号码 竟然 击中 了 该期 全国 唯一 1 注 1000 万元 一等奖
+6,null,null,徐辉 第一 时间 从 网上 了解 到 了 开奖 情况
+7,null,null,他 核对 朱先生 的 彩票 后 发现 正是 这张 彩票 中 出 千万 大奖
+8,null,null,当时 他 立刻 拿 起 手机 拨通 了 朱先生 的 电话
+9,null,null,告诉 他 这 一 喜讯
+10,null,null,朱先生 坦言
+11,null,null,在 他 前往 网点 取票 之前
+12,fear,fear,其 妻子 还 在 担心 — — 这张 千万元 巨奖 彩票 究竟 能否 顺利 取回
+13,null,null,事实证明 朱先生 家人 的 担心 是 多余 的
+14,null,null,9 月 2 日 上午
+15,null,null,徐辉 早早 赶到 销售点
+16,null,null,将 中奖 票递 到 了 朱先生 手中
+17,null,null,他 笑呵呵 向 朱先生 道喜
+18,null,null,还 提醒 朱先生 领奖 时 的 注意事项
+890 9
+ (5,4)
+1,null,null,案发后
+2,null,null,法院 也 同 孩子 的 生母 取得联系
+3,null,null,告知 其 作为 被害人 的 近亲属 在 法院 审理 期间 的 诉讼 权利
+4,null,sadness,得知 事情 经过 后
+5,sadness,伤心,孩子 生母 十分 伤心
+6,null,null,不过 表示 没 必要 再 搭 上 程亮 的 命
+7,null,null,同时 表示 不向 程亮 提起 附带 民事诉讼
+8,null,null,并 提交 书面 意见
+9,null,null,请求 法院 对程亮 从轻 处罚
+899 13
+ (8,7), (8,8)
+1,null,null,经 讯问
+2,null,null,嫌疑人 张某 19 岁
+3,null,null,北京 人 对 盗窃 李先生 名牌 手表 的 犯罪事实 供认不讳
+4,null,null,据 张 某 供述
+5,null,null,其 与 李先生 3 月初 在 网上 相识
+6,null,null,一直 聊 的 得 很 投机
+7,null,anger,不想 见面 后 李先生 突然 反悔
+8,anger,anger,感觉 没有 面子 的 张 某 当晚 在 李先生 家 借宿 时 内心 窝火
+9,null,null,便 趁机 将 床头柜 上 的 手表 盗走
+10,null,null,不辞而别 后 去 典当行 将 名表 变卖
+11,null,null,获得 赃款 2 万余元
+12,null,null,已经 挥霍 数千元
+13,null,null,剩下 的 还 没 来得及 花 就 被 民警 抓获
+908 12
+ (4,4), (8,7)
+1,null,null,2014 年 1 月 2 日 上午
+2,null,null,被告人 袁 某权 的 父亲 告诉 袁 某权
+3,null,null,他 被 孙子 阿宝 化名 偷 了 21 元 钱
+4,anger,anger,袁 某权 听 后 对 儿子 阿宝 的 行为 非常 恼火
+5,null,null,当天 阿宝放 晚学 回到 家里
+6,null,null,袁 某权 质问 阿宝 将 爷爷 的 钱 藏 在 哪里
+7,null,anger,阿宝 拒不回答
+8,anger,恼火,袁 某权 更加 恼火
+9,null,null,用 木条 抽打 阿宝
+10,null,null,并 从 阿宝 身上 搜走 3 元 钱
+11,null,null,袁 某权 继续 追问 阿宝 余下 的 钱 藏 在 何处
+12,null,null,阿宝 只是 哭泣 仍 拒不回答

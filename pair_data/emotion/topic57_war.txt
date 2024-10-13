@@ -1,0 +1,1528 @@
+222 8
+(4, 4),
+1, 6, -1, Toseethestrangeplacesoftheworld
+2, 6, -1, andthestrangerpeople
+3, 6, -1, tobecomeamanofwealthandinfluencesuchasMonsieurVigo
+4, 4, -1, and(IfearIloveditbest)tomatchmybrainswithothersatabargain
+5, 6, -1, Iturneditalloverslowly
+6, 6, -1, gravely
+7, 6, -1, inmyboyishmind
+8, 6, -1, rubbingtheharddirtonthefloorwiththetoeofmymoccasin.
+237 5
+(4, 4),
+1, 6, -1, ThisfurnishedMadamedeFondegewithanotherexcuseforprofferingheradvice
+2, 6, -1, ButMademoiselleMargueritewouldnotallowherselftobeconvincedatonce
+3, 6, -1, Sheraisedagreatmanyobjections
+4, 6, -1, andparleyedforalongtimebeforetellingMadamedeFondegethatshewouldbehappytoacceptthehospitalitywhichhadbeenofferedher
+5, 6, -1, Andherconsentwasbynomeansunconditional.
+238 10
+(3, 9),
+1, 6, -1, Fortunat'saddressmustbethere
+2, 6, -1, sosheaskedandobtainedpermissiontoexaminethisnotebook
+3, 0, -1, andtohergreatjoy
+4, 6, -1, undertheletter"F
+5, 6, -1, "shefoundtheentry:"Fortunat(Isidore)
+6, 6, -1, No
+7, 6, -1, 28PlacedelaBourse
+8, 6, -1, "Ah
+9, 6, -1, imsurethatIshallfindPascalnow
+10, 6, -1, "sheexclaimed.
+240 4
+(1, 1),
+1, 4, -1, ItwaseasytoseebyMadamedeFondege'searnestnessthatshefearedMademoiselleMargueritewouldavailherselfofthisopportunityofrecoveringherliberty
+2, 6, -1, "WhatshallIdo
+3, 6, -1, then
+4, 6, -1, "askedthegirl.
+247 6
+(3, 3),
+1, 6, -1, HewasinallthegreaterhasteasitwasSunday
+2, 6, -1, Fortunatwasinthehabitofpassingthesedaysinthecountry
+3, 4, -1, andChupinfearedhemightfailtoseehimifhewasnotexpeditiousinhismovements
+4, 6, -1, AndwhilerunningtothePlacedelaBourse
+5, 6, -1, hecarefullypreparedthestoryhemeanttorelate
+6, 6, -1, deeplyimpressedbythewisdomofthepopularmaximwhichsays:"Itisnotalwayswelltotellthewholetruth."
+249 16
+(11, 9),
+1, 6, -1, However
+2, 6, -1, theeffectofthisdiscoverywastodispelhisanger
+3, 6, -1, orrathertorestorehiscalmness
+4, 6, -1, and
+5, 6, -1, addressingM
+6, 6, -1, deCoralth
+7, 6, -1, heexclaimed:"dontbeangryatwhati'vesaid
+8, 6, -1, m'sieur
+9, 6, -1, itwasonlyajestIknowthatthere'sawidedifferencebetweenapoordevillikemeandaviscountlikeyouIhaven'tasou
+10, 6, -1, yousee
+11, 6, -1, andthatmaddensme
+12, 6, -1, Butimnotsoverybadlooking
+13, 6, -1, fortunately
+14, 6, -1, andimalwayshopingthatthedaughterofsomerichbankerwillfallinlovewithmeandmarryme
+15, 6, -1, Somepeoplehavesuchluck
+16, 6, -1, youknow.
+250 3
+(2, 2),
+1, 6, -1, Whatifheknewthatthere'safortunewaitingforaclaimant
+2, 3, -1, Ishouldn'tatallbesurprisedifIfoundthathewantedtocookhisbreadinouroven
+3, 6, -1, ButfatherFortunatwouldn'tbepleasedwiththenews.
+255 6
+(2, 2),
+1, 6, -1, Havingcomewiththeintentionofofferinghisagentahandsomesum
+2, 3, -1, hewasagreeablysurprisedtofindthatChupin'sscrupleswouldenablehimtosavehismoney
+3, 6, -1, "IfIhadnotfoundyouengagedinstudy
+4, 6, -1, Victor
+5, 6, -1, "hesaid
+6, 6, -1, "Ishouldhavethoughtyouhadbeendrinking.
+256 6
+(2, 3),
+1, 6, -1, Fortunatwasamazed
+2, 6, -1, andatthesametimemuchannoyed
+3, 6, -1, tofindhimselfforsakenonaccountofsuchatrifle
+4, 4, -1, Hefeared
+5, 6, -1, too
+6, 6, -1, thatChupinmightlethistonguewagifhelefthisemployment.
+257 9
+(4, 6),
+1, 6, -1, Fortunatwasamazed
+2, 6, -1, andatthesametimemuchannoyed
+3, 6, -1, tofindhimselfforsakenonaccountofsuchatrifle
+4, 4, -1, Hefeared
+5, 6, -1, too
+6, 6, -1, thatChupinmightlethistonguewagifhelefthisemployment
+7, 6, -1, So
+8, 6, -1, sincehehadconfidedthisprojecttoChupin
+9, 6, -1, hewasdeterminedthatChupinaloneshouldcarryitintoexecution.
+258 6
+(4, 4),
+1, 6, -1, Ifanyoneheardthem
+2, 6, -1, noonecame
+3, 6, -1, stilltheyrecalledPascaltoasenseofthesituation
+4, 1, -1, andhewasashamedofhisviolence
+5, 6, -1, HereleasedMadameLeon
+6, 6, -1, andhismannersuddenlybecameashumbleasithadbeenthreatening.
+265 4
+(2, 2),
+1, 6, -1, "Crazyinthefullestsenseoftheword
+2, 4, -1, Sherefusesthecount'smillionsfromasillyfearoftellingpeoplethatshebelongstotheChalussefamily
+3, 6, -1, Shethreatenedherbrother
+4, 6, -1, butshewouldneverhavecarriedherthreatsintoexecution.
+267 6
+(6, 6),
+1, 6, -1, Therewasbutonecertainandpositivething
+2, 6, -1, andthiswasthatthemoneyhehadcounteduponhadescapedhim
+3, 6, -1, andheexperiencedasacuteapangasifhehadlostfortythousandfrancsasecondtime
+4, 6, -1, Perhaps
+5, 6, -1, atthatmoment
+6, 1, -1, hewassorrythathehadseveredhisconnectionwiththemarquis.
+294 7
+(4, 4),
+1, 6, -1, ButM
+2, 6, -1, Fortunathadresolvedtolistentonothing
+3, 6, -1, Hewishedfornoexplanations
+4, 6, -1, sodistrustfulwasheofhimselfsomuchdidhefearthathisadventurousnaturewouldurgehimtoincurfurtherrisk
+5, 4, -1, HewaspositivelyafraidoftheMarquisdeValorsay'seloquence
+6, 6, -1, besides
+7, 6, -1, heknewwellenoughthatthepersonwhoconsentstolistenisatleasthalfconvinced.
+312 7
+(2, 3),
+1, 6, -1, Monsieur
+2, 6, -1, youmakemydaughterveryhappy
+3, 6, -1, ShewantthosebirdeversenceCaptainLopezhedie
+4, 6, -1, Monsieur
+5, 6, -1, IamJeanBaptisteLenoir
+6, 6, -1, ColonelChouteau'smiller
+7, 0, -1, andweveryhappytoseeyouatthepon'
+318 9
+(7, 7),
+1, 6, -1, Likeadutifulson
+2, 6, -1, ''saidMonsieurdeSt
+3, 6, -1, Gre
+4, 6, -1, youheardIwasintown
+5, 6, -1, andcalledtopayyourrespects
+6, 6, -1, Iamsure
+7, 0, -1, Iamdelightedtofindyou
+8, 6, -1, Infact
+9, 6, -1, Icametotownforthatpurpose
+393 11
+(6, 7),
+1, 6, -1, butIwaswrong
+2, 6, -1, forintheafternoonhesentamessage
+3, 6, -1, throughMadameLeon
+4, 6, -1, requestingmetojoinhiminthegarden
+5, 6, -1, Ihastenedthere
+6, 3, -1, verymuchsurprised
+7, 6, -1, fortheweatherwasextremelydisagreeable
+8, 6, -1, 'dearMarguerite
+9, 6, -1, 'hesaid
+10, 6, -1, onseeingme
+11, 6, -1, 'helpmetofindthefragmentsofthatletterwhichIflungfromthewindowthismorning.
+394 5
+(4, 5),
+1, 6, -1, "Iwasmuchgrievedatthecount'sdisappointment
+2, 6, -1, "continuedMademoiselleMarguerite
+3, 6, -1, "butsuddenlyheexclaimed
+4, 0, -1, joyfully:'thataddresswhy
+5, 6, -1, suchapersonwillgiveittomewhatafoolIam
+399 7
+(3, 3),
+1, 6, -1, Asarule
+2, 6, -1, Chupinwasnoteasilyimpressed
+3, 4, -1, buthefeltalmostfrightenedbyhisemployer'sagitation
+4, 6, -1, "IonlyrepeatedwhatM
+5, 6, -1, Casimirtoldme
+6, 6, -1, monsieur
+7, 6, -1, "washisreply.
+401 12
+(7, 4),(7, 6),
+1, 6, -1, Thewomanlookedathim
+2, 6, -1, Mostjobmastersareinthehabitofgivingfivesoustoanyservantwhocomesinsearchofacabforhismaster
+3, 6, -1, andthiswasthecustomhere
+4, 6, -1, Butthekeeperoftheoffice
+5, 6, -1, whofeltsurethatChupinwasnotaservant
+6, 6, -1, hesitated
+7, 6, -1, andthismadetheyoungfellowangry
+8, 6, -1, "Makehaste
+9, 6, -1, "hecried
+10, 6, -1, imperiously
+11, 6, -1, "Ifyoudont
+12, 6, -1, Ishallruntotheneareststand."
+403 11
+(7, 10),
+1, 6, -1, Fortunat'scountenanceworeanexpressionofprofoundcommiseration
+2, 6, -1, Alookeronwouldhavesupposedhiminterestedandsympathetictothelastdegree
+3, 6, -1, butinreality
+4, 6, -1, hewasfurious
+5, 6, -1, Timewaspassing
+6, 6, -1, andtheconversationwaswanderingfartherandfartherfromtheobjectofhisvisit
+7, 3, -1, "Iamsurprised
+8, 6, -1, madame
+9, 6, -1, "saidhe
+10, 6, -1, "thatyouneverappliedtoyourformeremployer
+11, 6, -1, theCountdeChalusse."
+404 10
+(5, 5),
+1, 6, -1, IsidoreFortunatwasliterallyupontherack
+2, 6, -1, andtomakehissufferingsstillmorehorrible
+3, 6, -1, hedarednotaskanydirectquestion
+4, 6, -1, norallowhiscuriositytobecomemanifest
+5, 4, -1, forfearofalarmingthewoman
+6, 6, -1, "Letmesee
+7, 6, -1, "saidhe
+8, 6, -1, "IthinkIamsurethatIhaveheardorthatIhavereadIcannotsaywhichsomestoryaboutaMademoiselledeChalusse
+9, 6, -1, Itwassomethingterrible
+10, 6, -1, wasntit
+406 8
+(4, 5),
+1, 6, -1, AtthispointinhernarrativeMadameVantrassonevincedadesiretopauseanddrawabreath
+2, 6, -1, andperhapspartakeofsomeslightrefreshment
+3, 6, -1, butM
+4, 6, -1, Fortunatwasimpatient
+5, 6, -1, Thewoman'shusbandmightreturnatanymoment
+6, 6, -1, "And
+7, 6, -1, afterthat
+8, 6, -1, "heinquired.
+407 13
+(7, 7),
+1, 6, -1, Itwastheold
+2, 6, -1, sadstoryofaruinedgirlpayingforamoment'smadnesswithherhappinessandallherafterlife
+3, 6, -1, Aterribledrama
+4, 6, -1, nodoubt
+5, 6, -1, butonethatisofsuchfrequentoccurrencethatitseemsascommonplaceaslifeitself
+6, 6, -1, ThusanyonewhowasacquaintedwithM
+7, 3, -1, IsidoreFortunatwouldhavebeensurprisedtoseehowgreatlyhewasmovedbysuchatrifle
+8, 6, -1, "Poorgirl
+9, 6, -1, "saidhe
+10, 6, -1, inviewofsayingsomething
+11, 6, -1, Andthen
+12, 6, -1, inatoneofassumedcarelessness
+13, 6, -1, heinquired:"DidtheyneverdiscoverwhatscoundrelcarriedMademoiselledeChalusseaway
+408 16
+(11, 11),
+1, 6, -1, YoucouldnotsaythatM
+2, 6, -1, Fortunatwasangry
+3, 6, -1, Suchaman
+4, 6, -1, ascoldandassmoothasahundredfrancpiece
+5, 6, -1, hasnouselesspassions
+6, 6, -1, Buthewasintenselyirritatedtohearhisclientfoolishlychantingthepaeonsofvictory
+7, 6, -1, whilehewascompelledtoconcealhisgriefatthelossofhisfortythousandfrancs
+8, 6, -1, deepintherecessesofhisheart
+9, 6, -1, So
+10, 6, -1, farfrombeingtouchedbythemarquis'sevidentalarm
+11, 0, -1, itpleasedhimtobeabletoturnthedaggerinthewoundhehadjustinflicted
+12, 6, -1, "Youmustexcusemyincredulity
+13, 6, -1, "saidhe
+14, 6, -1, "Itcomesentirelyfromsomethingyou
+15, 6, -1, yourself
+16, 6, -1, toldmeaboutaweekago."
+409 12
+(3, 2),
+1, 6, -1, deValorsaypacedthefloorinastateofintenseagitation
+2, 6, -1, Hadhecaughtaglimpseofhisownfaceinthelooking-glass
+3, 4, -1, itwouldhavefrightenedhim
+4, 6, -1, "Agentleman
+5, 6, -1, "herepeated
+6, 6, -1, inatoneofsuppressedrage
+7, 6, -1, "agentleman
+8, 6, -1, Thatwordisineverybody'smouth
+9, 6, -1, nowadays
+10, 6, -1, Pray
+11, 6, -1, whatdoyouunderstandbyagentleman
+12, 6, -1, Mons.
+410 9
+(5, 5),
+1, 6, -1, Fortunatwouldcertainlyhavepreferredtoloseagoodpoundoffleshratherthanthesumofmoneymentioned
+2, 6, -1, but
+3, 6, -1, ontheotherhand
+4, 6, -1, hefeltthatitwouldnotdoforhimtoseverhisconnectionwithhisclientuntilthedeathoftheCountdeChalussewascertain
+5, 4, -1, andbeinganxioustosavehismoneyandtokeephisclient
+6, 6, -1, hisembarrassmentwasextreme
+7, 6, -1, "Itwasthemostunfortunatethingintheworld
+8, 6, -1, "hestammered
+9, 6, -1, "Iapprehendednodifficultywhatever"
+411 9
+(6, 9),
+1, 6, -1, Fortunatwouldcertainlyhavepreferredtoloseagoodpoundoffleshratherthanthesumofmoneymentioned
+2, 6, -1, but
+3, 6, -1, ontheotherhand
+4, 6, -1, hefeltthatitwouldnotdoforhimtoseverhisconnectionwithhisclientuntilthedeathoftheCountdeChalussewascertain
+5, 4, -1, andbeinganxioustosavehismoneyandtokeephisclient
+6, 6, -1, hisembarrassmentwasextreme
+7, 6, -1, "Itwasthemostunfortunatethingintheworld
+8, 6, -1, "hestammered
+9, 6, -1, "Iapprehendednodifficultywhatever"
+412 8
+(8, 6),(8, 7),
+1, 6, -1, Fortunat'sembarrassmentwasreallypainfultowitness
+2, 6, -1, Hewasnotusuallywantingincourage
+3, 6, -1, buttheeventsoftheeveninghadshakenhisconfidenceandhiscomposure
+4, 4, -1, Thehopeofgainandthefearoflosshaddeprivedhimofhiswantedclearnessofmind
+5, 6, -1, Feelingthathehadjustcommittedaterribleblunder
+6, 6, -1, herackedhisbraintofindsomewayofrepairingit
+7, 6, -1, andfindingnone
+8, 6, -1, hisconfusionincreased.
+413 14
+(8, 8),
+1, 6, -1, Hetookthem
+2, 6, -1, withoutevenaskingthemotherifshehadenoughlefttopurchaseherdinnerthatevening
+3, 6, -1, andthefinegentleman
+4, 6, -1, whohadwonandpocketedJulesChazel'sstolengold
+5, 6, -1, thoughtthebanker'sconductperfectlynaturalandjust
+6, 6, -1, ItistruethatMadamed'argeleswasindespairduringforty-eighthoursorso
+7, 6, -1, forthepolicehadbegunasortofinvestigation
+8, 4, -1, andshefearedthismightfrightenhervisitorsandemptyherdrawing-room
+9, 6, -1, Notatall
+10, 6, -1, however
+11, 6, -1, onthecontrary
+12, 6, -1, shehadgoodcausetocongratulateherselfuponthenotorietyshegainedthroughthissuicide
+13, 6, -1, ForfivedaysshewasthetalkofParis
+14, 6, -1, andAlfredd'aunayevenpublishedherportraitintheIllustratedChronicle.
+414 13
+(9, 3),(9, 4),(9, 5),
+1, 6, -1, Thepoorwomanshewasawidowsoldallshepossessed
+2, 6, -1, eventhebedonwhichsheslept
+3, 6, -1, andwhenshehadsucceededingatheringtogethertwentythousandfrancstheransomofherson'shonorshecarriedthemtothebankerbywhomherboyhadbeenemployed
+4, 6, -1, Hetookthem
+5, 6, -1, withoutevenaskingthemotherifshehadenoughlefttopurchaseherdinnerthatevening
+6, 6, -1, andthefinegentleman
+7, 6, -1, whohadwonandpocketedJulesChazel'sstolengold
+8, 6, -1, thoughtthebanker'sconductperfectlynaturalandjust
+9, 6, -1, ItistruethatMadamed'argeleswasindespairduringforty-eighthoursorso
+10, 6, -1, forthepolicehadbegunasortofinvestigation
+11, 4, -1, andshefearedthismightfrightenhervisitorsandemptyherdrawing-room
+12, 6, -1, Notatall
+13, 6, -1, however
+415 15
+(11, 11),
+1, 6, -1, Thetableitselfwasadornedwitharichtapestrycover
+2, 6, -1, butthiswasvisibleonlyatthecorners
+3, 6, -1, foritwascovered
+4, 6, -1, inturn
+5, 6, -1, withagreenbaizeclothconsiderablytheworseforwear
+6, 6, -1, Madamed'argeles'sguestswereprobablynotoverfiftyinnumber
+7, 6, -1, buttheyallseemedtobelongtotheverybestsociety
+8, 6, -1, Themajorityofthemweremenoffortyorthereabouts
+9, 6, -1, severalworedecorations
+10, 6, -1, andtwoorthreeoftheeldestweretreatedwithmarkeddeference
+11, 3, -1, Certainwell-knownnameswhichPascaloverheardsurprisedhimgreatly
+12, 6, -1, "What
+13, 6, -1, thesemenhere
+14, 6, -1, "hesaidtohimself
+15, 6, -1, "andIIregardedmyvisitasasortofclandestinefrolic."
+416 8
+(4, 4),
+1, 6, -1, Ascoreofpersonswereseatedatthecardtable
+2, 6, -1, andtheguestswhohadretiredintotheadjoiningsalonweresilentlywatchingtheprogressofthegame
+3, 6, -1, orquietlychattinginthecornersoftheroom
+4, 3, -1, Itsurprisedhimtonotethateveryonespokeinverylowtones
+5, 6, -1, therewassomethingverylikerespect
+6, 6, -1, evenawe
+7, 6, -1, inthissubduedmurmur
+8, 6, -1, Onemighthavesupposedthatthosepresentwerecelebratingtheritesofsomemysteriousworship.
+417 12
+(7, 7),
+1, 6, -1, Thewisestcounsels
+2, 6, -1, giveninacertainfashion
+3, 6, -1, neverfailtoproduceaneffectdiametricallyopposedtothatwhichtheyseeminglyaimat
+4, 6, -1, deCoralth'spersistence
+5, 6, -1, andtheimportanceheattachedtoameretrifle
+6, 6, -1, couldnotfailtoannoythemostpatientmanintheworld
+7, 5, -1, andinfacthispatronizingtonereallyirritatedPascal
+8, 6, -1, "Youarefree
+9, 6, -1, myfriend
+10, 6, -1, todoasyouplease
+11, 6, -1, "saidhe
+12, 6, -1, "butI"
+418 13
+(7, 5),
+1, 6, -1, Howeverthegameproceeded
+2, 6, -1, butnoonepaidanyattentiontoit
+3, 6, -1, Thestakeswereinsignificant
+4, 6, -1, andlossorgaindrewnoexclamationfromanyone
+5, 6, -1, TheattentionoftheentirepartywasconcentratedonPascal
+6, 6, -1, andhe
+7, 1, -1, withdespairinhisheart
+8, 6, -1, followedthemovementsofthecards
+9, 6, -1, whichwerepassingfromhandtohand
+10, 6, -1, andfastapproachinghimagain
+11, 6, -1, Whentheyreachedhimthesilencebecamebreathless
+12, 6, -1, menacing
+13, 6, -1, evensinister.
+421 7
+(3, 3),
+1, 6, -1, Naturallyofafloridcomplexion
+2, 6, -1, thebaron'sfacenowbecamescarlet
+3, 4, -1, "Soit'sfearofscandalthatdetersyou
+4, 6, -1, Zounds
+5, 6, -1, sir
+6, 6, -1, aman'scourageshouldequalhisvices
+7, 6, -1, Lookatme."
+422 7
+(7, 7),
+1, 5, -1, Thissuperboutburstofoutragedhonor
+2, 6, -1, thismarvellousenergysucceeding
+3, 6, -1, asitdid
+4, 6, -1, themostcompletementalprostrationandtheseterriblethreats
+5, 6, -1, hadprovedsopromptandawe-inspiringthatnoonehadthoughtofcuttingoffPascal'sretreat
+6, 6, -1, Theguestshadnotrecoveredfromtheirstupor
+7, 6, -1, butwerestillstandingsilentandintimidatedwhentheyheardtheouterdoorcloseafterhim.
+424 15
+(1, 1),(1, 2),
+1, 6, -1, Withtheimpatientgestureofamanwhofindshimselfcompelledtoansweranidlequestion
+2, 6, -1, andassuminganairofhypocriticalcommiseration
+3, 6, -1, hereplied:"Well
+4, 6, -1, sinceyouinsistuponit
+5, 6, -1, Iknow
+6, 6, -1, inParisintheRuedeHelder
+7, 6, -1, tobemoreexactaniceyoungfellow
+8, 6, -1, whoselotIhaveoftenenvied
+9, 6, -1, Hehaswantedfornothingsincethedayhecameintotheworld
+10, 6, -1, Atschool
+11, 6, -1, hehadthreetimesasmuchmoneyashisrichestplayfellow
+12, 6, -1, Whenhisstudieswerefinished
+13, 6, -1, atutorwasprovidedwithhispocketsfullofgoldtoconductthisfavoredyouthtoItaly
+14, 6, -1, Egypt
+15, 6, -1, andGreece.
+426 14
+(5, 5),
+1, 6, -1, 'dearSIR
+2, 6, -1, 'youwrotetoyourLondoncorrespondent'isendyouthreethousandfrancs
+3, 6, -1, inadditiontothefivethousandfortheregularquarterlypayment
+4, 6, -1, Forwardthemoneywithoutdelay
+5, 6, -1, Ifearthepoorboyisgreatlyannoyedbyhiscreditors
+6, 0, -1, YesterdayIhadthehappinessofseeinghimintheRuedeHelder
+7, 6, -1, andIfoundhimlookingpaleandcareworn
+8, 6, -1, Whenyousendhimthismoney
+9, 6, -1, forwardatthesametimealetteroffatherlyadvice
+10, 6, -1, Itistrue
+11, 6, -1, heoughttoworkandwinanhonorablepositionforhimself
+12, 6, -1, butthinkofthedangersandtemptationthatbesethim
+13, 6, -1, aloneandfriendless
+14, 6, -1, inthiscorruptcity.'
+427 19
+(3, 3),
+1, 6, -1, Forwardthemoneywithoutdelay
+2, 6, -1, Ifearthepoorboyisgreatlyannoyedbyhiscreditors
+3, 0, -1, YesterdayIhadthehappinessofseeinghimintheRuedeHelder
+4, 6, -1, andIfoundhimlookingpaleandcareworn
+5, 6, -1, Whenyousendhimthismoney
+6, 6, -1, forwardatthesametimealetteroffatherlyadvice
+7, 6, -1, Itistrue
+8, 6, -1, heoughttoworkandwinanhonorablepositionforhimself
+9, 6, -1, butthinkofthedangersandtemptationthatbesethim
+10, 6, -1, aloneandfriendless
+11, 6, -1, inthiscorruptcity
+12, 6, -1, There
+13, 6, -1, mydearlady
+14, 6, -1, yourletterended
+15, 6, -1, butthenameandaddressweregiven
+16, 6, -1, anditwaseasyenoughtounderstandit
+17, 6, -1, Youremember
+18, 6, -1, perhaps
+19, 6, -1, alittleincidentthatoccurredafteryourreturn.
+431 9
+(9, 9),
+1, 6, -1, ClientsbecamesonumerousthatPascalfounditnecessarytodrawnearerthebusinesscentre
+2, 6, -1, andhisrentwasconsequentlydoubled
+3, 6, -1, buttheincomehederivedfromhisprofessionincreasedsorapidlythathesoonhadtwelvethousandfrancssafelyinvestedasaresourceagainstanyemergency
+4, 6, -1, MadameFerailleurnowlaidasidethemourningshehadwornsinceherhusband'sdeath
+5, 6, -1, ShefeltthatsheowedittoPascal
+6, 6, -1, and
+7, 6, -1, besides
+8, 6, -1, afterbelievingtherewasnomorehappinessleftforheronearth
+9, 0, -1, herheartrejoicedatherson'ssuccess.
+434 13
+(8, 7),
+1, 6, -1, Hehadbarelystrengthenoughtothrowhimselfontothebed
+2, 6, -1, andinamomenthewassleepingwiththatheavyslumberwhichsooftenseizesholdofoneontheoccasionofagreatcrisis
+3, 6, -1, andwhichhassofrequentlybeenobservedamongpersonscondemnedtodeath
+4, 6, -1, onthenightprecedingtheirexecution
+5, 6, -1, Fourorfivetimeshismothercametolistenatthedoor
+6, 6, -1, Oncesheentered
+7, 6, -1, andseeinghersonsleepingsoundly
+8, 6, -1, shecouldnotrepressasmileofsatisfaction
+9, 6, -1, "PoorPascal
+10, 6, -1, "shethought
+11, 6, -1, "hecanbearnoexcessbutexcessofwork
+12, 6, -1, Heavens
+13, 3, -1, howsurprisedandmortifiedhewillbewhenheawakes
+435 13
+(13, 11),
+1, 6, -1, Hehadbarelystrengthenoughtothrowhimselfontothebed
+2, 6, -1, andinamomenthewassleepingwiththatheavyslumberwhichsooftenseizesholdofoneontheoccasionofagreatcrisis
+3, 6, -1, andwhichhassofrequentlybeenobservedamongpersonscondemnedtodeath
+4, 6, -1, onthenightprecedingtheirexecution
+5, 6, -1, Fourorfivetimeshismothercametolistenatthedoor
+6, 6, -1, Oncesheentered
+7, 6, -1, andseeinghersonsleepingsoundly
+8, 6, -1, shecouldnotrepressasmileofsatisfaction
+9, 6, -1, "PoorPascal
+10, 6, -1, "shethought
+11, 6, -1, "hecanbearnoexcessbutexcessofwork
+12, 6, -1, Heavens
+13, 3, -1, howsurprisedandmortifiedhewillbewhenheawakes
+436 13
+(11, 9),
+1, 6, -1, Contrarytohisusualcustom
+2, 6, -1, hetookthelittlestaircaseontheright
+3, 6, -1, leadingtothegrandvestibule
+4, 6, -1, whereseverallawyerswereassembled
+5, 6, -1, earnestlyengagedinconversation
+6, 3, -1, TheywereevidentlyastonishedtoseePascal
+7, 6, -1, andtheirconversationabruptlyceasedonhisapproach
+8, 6, -1, Theyassumedagravelookandturnedawaytheirheadsindisgust
+9, 6, -1, Theunfortunatemanatoncerealizedthetruth
+10, 6, -1, andpressedhishandtohisforehead
+11, 6, -1, withadespairinggesture
+12, 6, -1, ashemurmured:"Already
+13, 6, -1, already
+437 6
+(3, 3),
+1, 6, -1, Pascalreadasfollows:"TherewasgreatsensationandaterriblescandallastnightattheresidenceofMadamed'a
+2, 6, -1, awell-knownstarofthefirstmagnitude
+3, 0, -1, Ascoreofgentlemenofhighrankandimmensewealthwereenjoyingaquietgameofbaccarat
+4, 6, -1, whenitwasobservedthatM
+5, 6, -1, Fwaswinninginamostextraordinarymanner
+6, 6, -1, Hewaswatchedanddetectedintheveryactofdexterouslyslippingsomecardsintothepackheheld.
+442 20
+(15, 15),
+1, 6, -1, Pascalwasabsorbedinthought
+2, 6, -1, "Andwhatastrangecoincidence
+3, 6, -1, "heeventuallyremarked
+4, 6, -1, "Doyouknow
+5, 6, -1, thelasttimeIsawMarguerite
+6, 6, -1, aweekago
+7, 4, -1, sheseemedsosadandanxiousthatIfeltalarmed
+8, 6, -1, Iquestionedher
+9, 6, -1, butatfirstshewouldnotanswer
+10, 6, -1, Afteralittlewhile
+11, 6, -1, however
+12, 6, -1, asIinsisted
+13, 6, -1, shesaid:'ah
+14, 6, -1, well
+15, 6, -1, Ifearthecountisplanningamarriageforme
+16, 6, -1, deChalussehasnotsaidawordtomeonthesubject
+17, 6, -1, buthehasrecentlyhadseverallongconferencesinprivatewithayoungmanwhosefatherrenderedhimagreatserviceinformeryears
+18, 6, -1, Andthisyoungman
+19, 6, -1, wheneverImeethim
+20, 6, -1, looksatmeinsuchapeculiarmanner
+445 14
+(7, 4),(7, 5),
+1, 6, -1, MeanwhileMadameFerailleurandhersonhadexchangedsignificantglances
+2, 6, -1, Theirimpressionswerethesame
+3, 6, -1, Thismancouldnotbeanenemy
+4, 6, -1, Whenthebaronhadfinishedhisletter
+5, 6, -1, andhadreaditaloud
+6, 6, -1, Pascal
+7, 6, -1, whowasdeeplymoved
+8, 6, -1, exclaimed:"Idonotknowhowtoexpressmygratitudetoyou
+9, 6, -1, monsieur
+10, 6, -1, butifyoureallywishtoserveme
+11, 6, -1, praydontsendthatnote
+12, 6, -1, Itwouldcauseyouagreatdealoftroubleandannoyance
+13, 6, -1, andIshouldnonethelessbeobligedtorelinquishthepracticeofmyprofessionbesides
+14, 4, -1, Iamespeciallyanxioustobeforgottenforatime."
+446 14
+(12, 11),
+1, 6, -1, MeanwhileMadameFerailleurandhersonhadexchangedsignificantglances
+2, 6, -1, Theirimpressionswerethesame
+3, 6, -1, Thismancouldnotbeanenemy
+4, 6, -1, Whenthebaronhadfinishedhisletter
+5, 6, -1, andhadreaditaloud
+6, 6, -1, Pascal
+7, 6, -1, whowasdeeplymoved
+8, 6, -1, exclaimed:"Idonotknowhowtoexpressmygratitudetoyou
+9, 6, -1, monsieur
+10, 6, -1, butifyoureallywishtoserveme
+11, 6, -1, praydontsendthatnote
+12, 6, -1, Itwouldcauseyouagreatdealoftroubleandannoyance
+13, 6, -1, andIshouldnonethelessbeobligedtorelinquishthepracticeofmyprofessionbesides
+14, 4, -1, Iamespeciallyanxioustobeforgottenforatime."
+450 22
+(9, 4),
+1, 6, -1, Thatwas
+2, 6, -1, indeed
+3, 6, -1, whathedesired
+4, 6, -1, Withthehandthatwascomparativelyfree
+5, 6, -1, withthehoarserattlethatwashisonlyvoice
+6, 6, -1, deChalusseanswered
+7, 6, -1, "Yes
+8, 6, -1, yes
+9, 6, -1, "andhiseyeseventurnedtoMadameLeonwithanexpressionofjoyandgratitude
+10, 6, -1, Theyraisedhimonhispillows
+11, 6, -1, andbroughthimasmallwriting-desk
+12, 6, -1, withsomepaper
+13, 6, -1, andapenthathadbeendippedinink
+14, 6, -1, Butlikethosearoundhim
+15, 6, -1, hehadhimselfoverestimatedhisstrength
+16, 6, -1, ifhecouldmovehishand
+17, 6, -1, hecouldnotCONTROLitsmovements
+18, 6, -1, Afteraterribleeffortandintensesuffering
+19, 6, -1, however
+20, 6, -1, hesucceededintracingafewwords
+21, 6, -1, themeaningofwhichitwasimpossibletounderstand
+22, 6, -1, Itwasonlywiththegreatestdifficultythatthesewordscouldbedeciphered"Myentirefortunegivefriendsagainst"Thissignifiednothing.
+451 6
+(6, 6),
+1, 6, -1, "MyGod
+2, 6, -1, "exclaimedMademoiselleMarguerite
+3, 6, -1, withagestureofdespair
+4, 6, -1, "whathaveIdone
+5, 6, -1, Ihavebrokenthekey
+6, 6, -1, Ifearedtheresponsibilitywhichwouldfalluponusall."
+455 19
+(8, 7),
+1, 6, -1, Indeed
+2, 6, -1, hewaspersuadedhewassurehewould
+3, 6, -1, infact
+4, 6, -1, haveswornthattheCountdeChalussehadtakenalltheprecautionsnaturalinchildlessmen
+5, 6, -1, whohavenonearrelativestoinherittheirfortune
+6, 6, -1, orwhohaveplacedtheirinterestandaffectionsbeyondtheirfamilycircle
+7, 6, -1, Andwhenhewasobligedtoabandonhissearch
+8, 6, -1, hisgestureindicatedangerratherthandiscouragement
+9, 6, -1, forapparentevidencehadnotshakenhisconvictionintheleast
+10, 6, -1, Sohestoodmotionless
+11, 6, -1, withhiseyesrivetedonhisring
+12, 6, -1, asifwaitingsomemiraculousinspirationfromit
+13, 6, -1, "Forthecount'sonlyfault
+14, 6, -1, Iamsure
+15, 6, -1, wasinbeingtoocautious
+16, 6, -1, "hemuttered
+17, 6, -1, "Thisisfrequentlythecase
+18, 6, -1, anditwouldbequiteinkeepingwiththecharacterofthisman
+19, 6, -1, judgingfromwhatIknowofhim."
+463 17
+(6, 4),
+1, 6, -1, Whatachangeindeed
+2, 6, -1, Atlastthecountmademeretiretooneofthecompartments
+3, 6, -1, whereIsoonfellasleep
+4, 6, -1, abandoningmyeffortstodistinguishwhatwasdreamlikeinmysituationfromreality
+5, 6, -1, However
+6, 4, -1, whenIwokeupIbecameterriblyanxious
+7, 6, -1, Iaskedmyselfwhatwasawaitingmeattheendofthislongjourney
+8, 6, -1, deChalusse'smannercontinuedkind
+9, 6, -1, andevenaffectionate
+10, 6, -1, buthehadregainedhisaccustomedreserveandself-control
+11, 6, -1, andIrealizedthatitwouldbeuselessonmyparttoquestionhim
+12, 6, -1, Atlast
+13, 6, -1, afterathirtyhours'journeybyrail
+14, 6, -1, weagainenteredthecount'sberline
+15, 6, -1, drawnbyposthorses
+16, 6, -1, andeventuallyM
+17, 6, -1, deChalussesaidtome:'hereisCannesweareatourjourney'send.'
+464 27
+(12, 9),
+1, 6, -1, Hetoldmethatheproposedspendingafewmonthshereinseclusion
+2, 6, -1, soastogivemetimetoaccustommyselftomynewpositionandtheluxurythatsurroundedme
+3, 6, -1, Iwas
+4, 6, -1, indeed
+5, 6, -1, extremelyawkward
+6, 6, -1, andmyexcessivetimiditywasincreasedbymypride
+7, 6, -1, Ididnotknowwhattosay
+8, 6, -1, orwhattodo
+9, 6, -1, Ididnotknowhowtousemyhands
+10, 6, -1, norhowtowalk
+11, 6, -1, norhowtocarrymyself
+12, 4, -1, Everythingembarrassedandfrightenedme
+13, 6, -1, andIwasconsciousofmyawkwardness
+14, 6, -1, withoutbeingabletoremedyit
+15, 6, -1, Isawmyblunders
+16, 6, -1, andknewthatIspokeadifferentlanguagetothatwhichwasspokenaroundme
+17, 6, -1, AndyetthememoryofCanneswilleverbedeartome
+18, 6, -1, ForthereIfirstmettheonlyfriendIhavenowleftinthisworld
+19, 6, -1, Ididnotexchangeawordwithhim
+20, 6, -1, butbythequickenedthrobbingsofmyheart
+21, 6, -1, whenoureyesmet
+22, 6, -1, Ifeltthathewouldexertapowerfulinfluenceovermylife
+23, 6, -1, andeventshavesinceprovedthatIwasnotdeceived
+24, 6, -1, Atthattime
+25, 6, -1, however
+26, 6, -1, hewasastrangertome
+27, 6, -1, andnothingonearthwouldhaveinducedmetomakeinquiriesconcerninghim.
+465 22
+(11, 8),
+1, 6, -1, "Byasinglewordthecountcouldhaveinsuredthehappinessofmylifeandhisown
+2, 6, -1, buthedidnotspeakit
+3, 6, -1, Hewasthekindestandmostindulgentofguardians
+4, 6, -1, andIwasoftenaffectedtotearsbyhistenderness
+5, 6, -1, But
+6, 6, -1, althoughmyslightestwishwaslaw
+7, 6, -1, hedidnotgrantmehisconfidence
+8, 6, -1, themysterythatstoodbetweenuswaslikeawalloficeStill
+9, 6, -1, Iwasgraduallybecomingaccustomedtomynewlife
+10, 6, -1, andmymindwasregainingitsequilibrium
+11, 0, -1, whenoneeveningthecountreturnedhomemoreagitatedandexcited
+12, 6, -1, ifpossible
+13, 6, -1, thanonthedayofmydeparturefromtheasylum
+14, 6, -1, Hesummonedhisvalet
+15, 6, -1, and
+16, 6, -1, inatonethatadmittednoreply
+17, 6, -1, heexclaimed
+18, 6, -1, 'iwishtoleaveCannesatonceImuststartinlessthananhoursoprocuresomeposthorsesinstantly
+19, 6, -1, Andinanswertomyinquiringglance
+20, 6, -1, hesaid:'itmustbe
+21, 6, -1, Itwouldbefollytohesitate
+22, 6, -1, Eachmomentincreasestheperilthatthreatensus.'
+466 18
+(7, 7),
+1, 6, -1, Whatmysteriousfreakoffatehadcausedhimtopausethereatthatparticularmoment
+2, 6, -1, Thismuchiscertain
+3, 6, -1, herecognizedmeasIhadrecognizedhim
+4, 6, -1, Hebowed
+5, 6, -1, smilingsomewhat
+6, 6, -1, andIfledindoorsagain
+7, 6, -1, indignantwithmyselffornotbeingangryathisaudacity
+8, 6, -1, Imademanyplansthatday
+9, 6, -1, butthenextmorning
+10, 6, -1, atthesamehour
+11, 6, -1, IhidmyselfbehindaVenetianblind
+12, 6, -1, andsawhimpauseatthegate
+13, 4, -1, andgazeatthegardenwithevidentanxiety
+14, 6, -1, Isoonlearnedthathelivednearby
+15, 6, -1, withhiswidowedmother
+16, 6, -1, andtwiceaday
+17, 6, -1, whenhewenttothePalaisdeJusticeandreturned
+18, 6, -1, hepassedmyhome."
+467 11
+(5, 5),
+1, 6, -1, WhenthatdaycomesIwillgotoyourguardianandaskhimforyourhand
+2, 6, -1, butinHeaven'snamedontspeaknow
+3, 6, -1, IunderstoodPascal'smotiveswellenough
+4, 6, -1, Thecount'simmensefortunefrightenedhim
+5, 6, -1, andhefearedthathewouldbeaccusedofbeingafortunehunter
+6, 6, -1, SoIwaited
+7, 0, -1, withthatsecretanguishwhichstillhauntsthosewhohavebeenunhappyevenwhentheirpresentispeaceful
+8, 6, -1, andtheirfutureseemsbright
+9, 6, -1, Ikeptmysecret
+10, 6, -1, sayingtomyselfthatsuchhappinesswasnotmeantforme
+11, 6, -1, thatitwouldsoontakeflight.
+469 21
+(11, 11),
+1, 6, -1, Afewmoments'conversationnowandthen
+2, 6, -1, theexchangeofafewletters
+3, 6, -1, thepressureofahandthroughthegardengate
+4, 6, -1, andthatisall
+5, 6, -1, Still
+6, 6, -1, Ihavebeenguiltyofagraveandirreparablefault:Ihavedisobeyedtheoneruleofmylifefrankness
+7, 6, -1, andIamcruellypunishedfordoingso
+8, 6, -1, IdidnottellallthistoM
+9, 6, -1, deChalusseinfact
+10, 6, -1, Idarednot
+11, 1, -1, Iwasashamedofmycowardice
+12, 6, -1, fromdaytodayIvowedthatIwouldconfesseverything
+13, 6, -1, andyetIprocrastinated
+14, 6, -1, Isaidtomyselfeverynight
+15, 6, -1, 'itshallbedoneto-morrow
+16, 6, -1, butwhenthemorrowcameIsaid
+17, 6, -1, 'iwillgivemyselfanotherdayjustonemoreday
+18, 6, -1, Indeed
+19, 6, -1, mycouragefailedmewhenIthoughtofthecount'saristocraticprejudices
+20, 6, -1, andbesides
+21, 6, -1, Iknewhowambitioushewasformyfuture.
+470 11
+(4, 4),
+1, 6, -1, WhenthatdaycomesIwillgotoyourguardianandaskhimforyourhand
+2, 6, -1, butinHeaven'snamedontspeaknow
+3, 6, -1, IunderstoodPascal'smotiveswellenough
+4, 6, -1, Thecount'simmensefortunefrightenedhim
+5, 6, -1, andhefearedthathewouldbeaccusedofbeingafortunehunter
+6, 6, -1, SoIwaited
+7, 0, -1, withthatsecretanguishwhichstillhauntsthosewhohavebeenunhappyevenwhentheirpresentispeaceful
+8, 6, -1, andtheirfutureseemsbright
+9, 6, -1, Ikeptmysecret
+10, 6, -1, sayingtomyselfthatsuchhappinesswasnotmeantforme
+11, 6, -1, thatitwouldsoontakeflight.
+471 7
+(5, 5),
+1, 6, -1, Ididnotwishtobindhimbytheadvicewhichhewouldcertainlyhavegivenme
+2, 6, -1, Ihadhistroth
+3, 6, -1, andthatsufficed
+4, 6, -1, AnditwaswithathrillofjoythatIsaidtomyself:'whatdoesitmatterifM
+5, 4, -1, deChalusseshouldbesoangeredbymyrefusaltoobeyhimastodrivemefromhishouse
+6, 6, -1, Itwillratherbesomuchthebetter
+7, 6, -1, Pascalwillprotectme.'
+476 7
+(3, 4),(3, 7),
+1, 6, -1, MademoiselleMarguerite'sweaknessvanished
+2, 6, -1, Shesprangfromherchair
+3, 6, -1, andindignantlyfacedthemagistrate
+4, 6, -1, "Itisfalse
+5, 6, -1, "shecried
+6, 6, -1, vehemently
+7, 6, -1, "andwhatthatpapersaysisfalseaswell
+477 11
+(5, 5),
+1, 6, -1, andherfaithimpartedanalmostsublimeexpressiontoherface
+2, 6, -1, "IfIwasovercome
+3, 6, -1, monsieur
+4, 6, -1, "shecontinued
+5, 6, -1, "itwasonlybecauseIwasappalledbytheaudacityoftheaccusation
+6, 6, -1, HowwasitpossibletomakePascalevenSEEMtobeguiltyofadishonorableact
+7, 6, -1, Thisisbeyondmypowersofcomprehension
+8, 6, -1, Iamonlycertainofonethingthatheisinnocent
+9, 6, -1, Ifthewholeworldrosetotestifyagainsthim
+10, 6, -1, itwouldnotshakemyfaithinhim
+11, 4, -1, andevenifheconfessedthathewasguiltyIshouldbemorelikelytobelievethathewascrazedthanculpable
+478 14
+(5, 4),
+1, 6, -1, Shespokethesewordswithasortofsatisfaction
+2, 6, -1, expectingthatthemarquiswouldbetrayhisdisappointedcovetousnessbysomesignificantgestureorexclamation
+3, 6, -1, andshewasalreadypreparedtorejoiceathisconfusion
+4, 6, -1, Butherexpectationswerenotrealized
+5, 1, -1, Insteadofevincingtheslightestdismayorevenregret
+6, 6, -1, deValorsaydrewalongbreath
+7, 6, -1, asifagreatburdenhadbeenliftedfromhisheart
+8, 6, -1, andhiseyessparkledwithapparentdelight
+9, 6, -1, "ThenImayventuretospeak
+10, 6, -1, "heexclaimed
+11, 6, -1, withunconcealedsatisfaction
+12, 6, -1, "Iwillspeak
+13, 6, -1, mademoiselle
+14, 6, -1, ifyouwilldeigntoallowme."
+480 5
+(1, 5),
+1, 1, -1, MademoiselleMargueritesadlyshookherhead
+2, 6, -1, "Youaremistaken
+3, 6, -1, General
+4, 6, -1, thecountleftnowill
+5, 6, -1, andhasmadenoprovisionwhateverforme."
+483 13
+(2, 2),
+1, 6, -1, Sosayingheclosedthedooragain
+2, 1, -1, andMargueritewassooverwhelmedbythislastandunexpectedmisfortune
+3, 6, -1, thatshecouldhardlystaggerbacktothevehicle
+4, 6, -1, "Gone
+5, 6, -1, "shemurmured
+6, 6, -1, "gone
+7, 6, -1, withoutathoughtofme
+8, 6, -1, Ordoeshebelievemetobelikealltherest
+9, 6, -1, ButIwillfindhimagain
+10, 6, -1, ThatmanFortunat
+11, 6, -1, whoascertainedaddressesforM
+12, 6, -1, deChalusse
+13, 6, -1, willfindPascalforme."
+484 4
+(1, 1),
+1, 6, -1, Fortunattookcompassionontheman'sembarrassment
+2, 6, -1, "Inshort
+3, 6, -1, "heinterrupted
+4, 6, -1, "youwishtoconcealapartofyourcapitalfromyourcreditors
+485 19
+(13, 13),
+1, 6, -1, "Yes
+2, 6, -1, indeed
+3, 6, -1, m'sieur
+4, 6, -1, Andwhynot
+5, 6, -1, Mypoor
+6, 6, -1, goodmotherhasn'tbeenabletoworkforayear
+7, 6, -1, andwhowouldcareforherifIdidnt
+8, 6, -1, Certainlynotmyfather
+9, 6, -1, thegood-for-nothingscamp
+10, 6, -1, whosquanderedalltheDukedeSairmeuse'smoneywithoutgivingusasouofit
+11, 6, -1, Besides
+12, 6, -1, imlikeothermen
+13, 4, -1, imanxioustoberich
+14, 6, -1, andenjoymyself
+15, 6, -1, Ishouldliketorideinmycarriagelikeotherpeopledo
+16, 6, -1, Andwheneveragamin
+17, 6, -1, suchasIwasonce
+18, 6, -1, openedthedoorforME
+19, 6, -1, Ishouldputafivefrancpieceinhishand"
+487 19
+(4, 4),
+1, 6, -1, ButM
+2, 6, -1, Fortunathadresolvedtolistentonothing
+3, 6, -1, Hewishedfornoexplanations
+4, 6, -1, sodistrustfulwasheofhimselfsomuchdidhefearthathisadventurousnaturewouldurgehimtoincurfurtherrisk
+5, 4, -1, HewaspositivelyafraidoftheMarquisdeValorsay'seloquence
+6, 6, -1, besides
+7, 6, -1, heknewwellenoughthatthepersonwhoconsentstolistenisatleasthalfconvinced
+8, 6, -1, "Tellmenothing
+9, 6, -1, monsieur
+10, 6, -1, "hehastilyanswered
+11, 6, -1, "itwouldbeuseless
+12, 6, -1, Ihaven'tthemoney
+13, 6, -1, IfIhadgivenyoutenthousandfrancslastnight
+14, 6, -1, IshouldhavebeencompelledtoborrowthemofM
+15, 6, -1, ProsperBertomy
+16, 6, -1, AndevenifIhadthemoney
+17, 6, -1, Ishouldstillsay'Impossible
+18, 6, -1, Everymanhashissystemhistheory
+19, 6, -1, youknow.
+488 8
+(2, 2),
+1, 6, -1, Victoryperchedupontheagent'sbanner
+2, 0, -1, anditwaswithafeelingofpridethathesawhisnobleclientdepart
+3, 6, -1, whiteandspeechlesswithrage
+4, 6, -1, "Whatarascalthatmarquisis
+5, 6, -1, "hemuttered
+6, 6, -1, "IwouldcertainlywarnMademoiselleMarguerite
+7, 6, -1, poorgirl
+8, 6, -1, ifIwerenotsomuchafraidofhim."
+489 9
+(5, 5),
+1, 6, -1, Ashereceivedhighwages
+2, 6, -1, heservedpassablywell
+3, 6, -1, butheemployedthebestpartofhisenergyinwatchingthecount
+4, 6, -1, Hescentedsomegreatfamilysecretinthehousehold
+5, 5, -1, andhefeltangryandhumiliatedthatthissecrethadnotbeenentrustedtohisdiscretion
+6, 6, -1, Andifhehaddiscoverednothing
+7, 6, -1, itwasbecauseM
+8, 6, -1, deChalussehadbeencautionpersonified
+9, 6, -1, asMadameLeonhaddeclared.
+490 18
+(8, 9),
+1, 6, -1, Withtotaldisregardofprudence
+2, 6, -1, hetalkedwithinexcusablefreedomoftheCountdeChalusse
+3, 6, -1, andM
+4, 6, -1, deValorsay
+5, 6, -1, andespeciallyofhisenemy
+6, 6, -1, MademoiselleMarguerite
+7, 6, -1, "Foritisshe
+8, 6, -1, "heexclaimed
+9, 6, -1, rappingonthetablewithhisknife"itisshewhohastakenthemissingmillions
+10, 6, -1, Howshedidit
+11, 6, -1, noonewilleverknow
+12, 6, -1, forshehasnotanequalincraftiness
+13, 6, -1, butit'sshewhohasstolenthem
+14, 6, -1, imsureofit
+15, 6, -1, Iwouldhavetakenmyoathtothateffectbeforethemagistrate
+16, 6, -1, andIwouldhaveprovedit
+17, 6, -1, too
+18, 6, -1, ifhehadnottakenherpartbecauseshe'sprettyforsheisdevilishlypretty."
+491 23
+(20, 20),
+1, 6, -1, Oncemorethevaletpausedinhisperusalofthelettertoremark:"Thereitisagainsufficienttoliveupon
+2, 6, -1, andIexpecttoreceiveitfromyou
+3, 6, -1, Excellent
+4, 6, -1, Womenareremarkablecreatures
+5, 6, -1, uponmyword
+6, 6, -1, Butlistentotherest
+7, 6, -1, 'itisabsolutelynecessarythatIshouldseeyouassoonaspossible
+8, 6, -1, Obligeme
+9, 6, -1, therefore
+10, 6, -1, bycallingto-morrow
+11, 6, -1, October15th
+12, 6, -1, attheHoteldeHomburg
+13, 6, -1, intheRueduHelder
+14, 6, -1, YouwillaskforMadameLucyHuntley
+15, 6, -1, andtheywillconductyoutome
+16, 6, -1, Ishallexpectyoufromthreeo'clocktosix
+17, 6, -1, Come
+18, 6, -1, Iimploreyou
+19, 6, -1, come
+20, 6, -1, ItispainfultometoaddthatifIdonothearfromyou
+21, 6, -1, IamresolvedtodemandandOBTAINnomatterwhatmaybetheconsequencesthemeanswhichIhave
+22, 6, -1, sofar
+23, 6, -1, askedofyouonmybendedkneesandwithclaspedhands
+492 22
+(11, 11),
+1, 6, -1, Havingfinishedtheletter
+2, 6, -1, Casimirlaiditonthetable
+3, 6, -1, andpouredoutaglassfullofbrandy
+4, 6, -1, whichhedrainedatasingledraught
+5, 6, -1, "Andthat'sall
+6, 6, -1, "heremarked
+7, 6, -1, "Nosignaturenotevenaninitial
+8, 6, -1, Itwasaso-calledrespectablewomanwhowrotethat
+9, 6, -1, Theyneversigntheirnotes
+10, 6, -1, thehussies
+11, 4, -1, forfearofcompromisingthemselves
+12, 6, -1, asi'vereasontoknow
+13, 6, -1, Andsosaying
+14, 6, -1, helaughedtheidioticlaughofamanwhohasbeendrinkingimmoderately
+15, 6, -1, "IfIhadtime
+16, 6, -1, "heresumed
+17, 6, -1, "IshouldmakesomeinquiriesaboutthisMadameLucyHuntleyafeignedname
+18, 6, -1, evidently
+19, 6, -1, IshouldliketoknowButwhat'sthematterwithyou
+20, 6, -1, MonsieurFortunat
+21, 6, -1, Youareaspaleasdeath
+22, 6, -1, Areyouill
+493 14
+(3, 3),(3, 4),
+1, 6, -1, Fortunatsprangnimblyontothepavement
+2, 6, -1, andhandedfivefrancstothecoachman
+3, 6, -1, whowentoffgrowlingandswearingforhethoughttherewardacontemptiblesmallone
+4, 6, -1, comingasitdidfromamanwhoselifehadbeensaved
+5, 6, -1, accordingtohisownconfession
+6, 6, -1, However
+7, 6, -1, thepersontheJehuanathematizedcertainlydidnothearhim
+8, 6, -1, Standingmotionlesswherehehadalighted
+9, 6, -1, Fortunatscrutinizedthehouseinfrontofhimwithcloseattention
+10, 6, -1, "Sosheliveshere
+11, 6, -1, "hemuttered
+12, 6, -1, "Thisistheplace
+13, 6, -1, butIcantpresentmyselfwithoutknowinghername
+14, 0, -1, Imustmakesomeinquiries."
+494 9
+(2, 3),
+1, 6, -1, ItisneedlesstosaythatM
+2, 6, -1, Fortunatwasmovedwithsympathy
+3, 6, -1, healwaysevincedarespectfulsympathyforthewoesofothers
+4, 6, -1, butinthepresentinstance
+5, 6, -1, hisemotionwasgreatlymitigatedbythesatisfactionhefeltathavingsucceededsoquicklyandsocompletely
+6, 1, -1, Madamed'argeleshadconfessedeverything
+7, 6, -1, Thiswasindeedavictory
+8, 6, -1, foritmustbeadmittedthathehadtrembledlestsheshoulddenyall
+9, 6, -1, andbidhimleavethehouse.
+495 4
+(2, 2),
+1, 6, -1, Fortunatdidnotknowwhattoreply
+2, 3, -1, Thequestiontookhimcompletelybysurprise
+3, 6, -1, andfeelingthathisanswerwouldhaveaveryconsiderableinfluenceuponwhatmightfollow
+4, 6, -1, hehesitated.
+496 17
+(7, 7),
+1, 6, -1, ThedismissalwassoimperiousthatM
+2, 6, -1, Fortunatbowedandwentoff
+3, 6, -1, completelybewilderedbythisdenouement
+4, 6, -1, "She'scrazy
+5, 6, -1, "hesaidtohimself
+6, 6, -1, "Crazyinthefullestsenseoftheword
+7, 4, -1, Sherefusesthecount'smillionsfromasillyfearoftellingpeoplethatshebelongstotheChalussefamily
+8, 6, -1, Shethreatenedherbrother
+9, 6, -1, butshewouldneverhavecarriedherthreatsintoexecution
+10, 6, -1, Andsheprefersherpresentpositiontosuchafortune
+11, 6, -1, Whatlunacy
+12, 6, -1, "But
+13, 6, -1, althoughhewasdisappointedandangry
+14, 6, -1, hedidnotbyanymeansdespair
+15, 6, -1, "Fortunatelyforme
+16, 6, -1, "hethought
+17, 6, -1, "thisproudandhaughtyladyhasasonsomewhereintheworld.
+708 10
+(6, 3),
+1, 6, -1, MargueriteatonceunderstoodthatasMadameLeonknewthatthemarquiswasamongthefuneralguests
+2, 6, -1, shehadgonetowarnhimofMadamedeFondege'spresence
+3, 6, -1, ThistrivialcircumstanceprovedthatMdeFondege'sinterestswereopposedtothoseofMdeValorsay
+4, 6, -1, thattheymust
+5, 6, -1, therefore
+6, 6, -1, hateeachother
+7, 6, -1, andthat
+8, 6, -1, withalittlepatienceandskill
+9, 6, -1, shemightutilizethem
+10, 6, -1, oneagainsttheother.
+709 6
+(4, 4),
+1, 6, -1, Hesprangout
+2, 6, -1, assistedhisemployerintothecab
+3, 6, -1, andbadethedriverreturntothePlacedelaBourse
+4, 0, -1, ItwasreallypitifultoseethedespairwhichhadsucceededFortunat'sjoyfulconfidence
+5, 6, -1, "Thisistheendofeverything
+6, 6, -1, "hegroaned.
+710 9
+(3, 3),
+1, 6, -1, Fortunatlefttherestaurant
+2, 6, -1, almostontherun
+3, 4, -1, forhefearedthathemightbepursuedandovertakenbyMCasimir
+4, 6, -1, Butafterhehadgoneacoupleofhundredpaces
+5, 6, -1, hepaused
+6, 6, -1, notsomuchtotakebreath
+7, 6, -1, astocollecthisscatteredwits
+8, 6, -1, andthoughtheweatherwascold
+9, 6, -1, heseatedhimselfonabenchtoreflect.
+781 10
+(7, 7),
+1, 6, -1, Hiswifethrewupherhandsindespair"But
+2, 6, -1, mydear
+3, 6, -1, "saidFL
+4, 6, -1, "he'sascholarwhohasfallenonevildays
+5, 6, -1, "Ah
+6, 6, -1, "sheanswered
+7, 4, -1, "Ifearitwillbeanevildayforuswhenyoutookhimhome
+8, 6, -1, "Shehadagoodchancetosay
+9, 6, -1, "Itoldyouso
+10, 6, -1, "whentherogueelopedwiththebestoftheirsilver.NotonlyisFL
+852 10
+(4, 8),
+1, 6, -1, Fortunatmadenoreply
+2, 6, -1, deValorsay'sgayety
+3, 6, -1, insteadofcheering
+4, 6, -1, saddenedhim
+5, 6, -1, "Ah
+6, 6, -1, myfinefellow
+7, 6, -1, "hethought
+8, 6, -1, "youwouldsingadifferentsongifyouknewthatbythistimeMdeChalusseisprobablydead
+9, 6, -1, andthatmostlikelyMademoiselleMargueritehasonlyherbeautifuleyeslefther
+10, 6, -1, andwilldimtheminweepingforhervanishedmillions."
+853 5
+(5, 1),
+1, 6, -1, MFortunat'sgazewassointentthatitbecameunbearable
+2, 6, -1, "Yousee
+3, 6, -1, then
+4, 6, -1, "hebegan
+5, 6, -1, "thatIhadgoodcausetofear"
+854 5
+(2, 2),
+1, 6, -1, PossiblyitwasbecauseshedidnotknowwherePascalwasgoing
+2, 6, -1, PossiblyMdeCoralthwasthecauseofherstrangedisquietude
+3, 6, -1, forsheutterlydislikedtheviscount
+4, 6, -1, Herwoman'sinstinctwarnedherthattherewassomethingunwholesomeaboutthisyoungman'speculiarhandsomeness
+5, 6, -1, andthatitwasnotsafetotrusttohisprofessionsoffriendship.
+855 10
+(1, 1),
+1, 4, -1, "IwasstupefiedandalarmedbythesuddenterrorwhichMdeChalussehaddisplayedandcouldnotcontrol
+2, 6, -1, Whatcoulditallmean
+3, 6, -1, Whatsorrowfulrecollections
+4, 6, -1, whatmysteriousapprehensions
+5, 6, -1, hadmywordsarousedinthecount'smind
+6, 6, -1, Icouldnotunderstandorimaginewhyheshouldregardmyquestionasstrangeorunnatural
+7, 6, -1, Onthecontrary
+8, 6, -1, Ithoughtitperfectlynatural
+9, 6, -1, dictatedasithadbeenbycircumstances
+10, 6, -1, andbythecount'sownwordsandmanner.
+856 9
+(3, 3),
+1, 6, -1, Fortunatlefttherestaurant
+2, 6, -1, almostontherun
+3, 4, -1, forhefearedthathemightbepursuedandovertakenbyMCasimir
+4, 6, -1, Butafterhehadgoneacoupleofhundredpaces
+5, 6, -1, hepaused
+6, 6, -1, notsomuchtotakebreath
+7, 6, -1, astocollecthisscatteredwits
+8, 6, -1, andthoughtheweatherwascold
+9, 6, -1, heseatedhimselfonabenchtoreflect.
+2211 8
+(7, 2),(7, 6),
+1, 6, -1, Contemplatingthisrequest
+2, 6, -1, Monsieurl'abbayeshookhishead
+3, 6, -1, "imreadytoretire
+4, 6, -1, soimnotavailableforhire
+5, 6, -1, imsorry
+6, 6, -1, Isimplycantpaintyourportrait
+7, 6, -1, ButseeingthedisappointmentinSeniorBartoli'seyes
+8, 6, -1, hecontinued.
+2268 6
+(5, 1),
+1, 6, -1, MaximeHamoupulledEurosportjournalistMalyThomasclosetohimandkissedherrepeatedlywhileholdingheraroundherneckandshouldersMonday
+2, 6, -1, Tuesday
+3, 6, -1, theFTTrevokedHamou'saccreditationfortheprestigiousFrenchOpen
+4, 6, -1, whiletheorganization'sPresidentBernardGiudicellihasaskedthedisputescommitteetoinvestigateforimproperconduct
+5, 3, -1, wanttooffermydeepestapologiestoMalyThomasifshefelthurtorshockedbymyattitudeduringherinterview
+6, 6, -1, "HamouwroteonhisInstagramaccount.
+2269 6
+(5, 1),
+1, 6, -1, MaximeHamoupulledEurosportjournalistMalyThomasclosetohimandkissedherrepeatedlywhileholdingheraroundherneckandshouldersMonday
+2, 6, -1, Tuesday
+3, 6, -1, theFTTrevokedHamou'saccreditationfortheprestigiousFrenchOpen
+4, 6, -1, whiletheorganization'sPresidentBernardGiudicellihasaskedthedisputescommitteetoinvestigateforimproperconduct
+5, 3, -1, wanttooffermydeepestapologiestoMalyThomasifshefelthurtorshockedbymyattitudeduringherinterview
+6, 6, -1, "HamouwroteonhisInstagramaccount.
+2562 1
+(1, 1),
+1, 6, -1, afterthePrussianshadgone.
+2564 1
+(1, 1),
+1, 6, -1, preferredtoshuthimselfupintheinn.Loiseauhadajokefortheoccasion:"Theywillrepeopletheland."
+1378 1
+(1, 1),
+1, 6, -1, i'vegotablindingheadacheandIfeelterrible.
+1401 3
+(3, 2),
+1, 6, -1, Ugh
+2, 6, -1, Idonthaveanythingtodo
+3, 6, -1, imsobored
+2348 2
+(1, 1),
+1, 0, -1, Itwasthrillingtoseemywordsonthewebsite
+2, 6, -1, IwasabitshytostartwithbutafterawhileIgottoknowthekindofthingsHaiKakarwantedmetotalkaboutandbecamemoreconfident.
+2354 3
+(3, 3),
+1, 6, -1, Monibahadthemostbeautifulwritingandpresentationofthethreeofus
+2, 6, -1, butIalwaystoldhershedidnottrustherselfenough
+3, 4, -1, eworkedhardassheworriedthatifshegotlowmarkshermalerelativesmightuseitasanexcusetostophereducation.
+2366 7
+(4, 2),
+1, 6, -1, Onthedayonlyeightornineboysandgirlsturnedup
+2, 6, -1, Monibaspokewell–shewasverycomposedandherspeechwasmoreemotionalandpoeticthanmine
+3, 6, -1, thoughminemighthavehadthebettermessage
+4, 6, -1, Iwassonervousbeforethespeech
+5, 6, -1, Iwastremblingwithfear
+6, 6, -1, MygrandfatherhadcometowatchandIknewhereallywantedmetowinthecompetition
+7, 4, -1, whichmademeevenmorenervous.
+2367 7
+(7, 6),
+1, 6, -1, Onthedayonlyeightornineboysandgirlsturnedup
+2, 6, -1, Monibaspokewell–shewasverycomposedandherspeechwasmoreemotionalandpoeticthanmine
+3, 6, -1, thoughminemighthavehadthebettermessage
+4, 6, -1, Iwassonervousbeforethespeech
+5, 6, -1, Iwastremblingwithfear
+6, 6, -1, MygrandfatherhadcometowatchandIknewhereallywantedmetowinthecompetition
+7, 4, -1, whichmademeevenmorenervous.
+2755 6
+(2, 2),
+1, 6, -1, Thespacegetstighter
+2, 6, -1, moreclaustrophobicaspeoplearrive
+3, 6, -1, Thesquare'squitelarge
+4, 6, -1, butnotenoughtoholdDistrict12'spopulationofabouteightthousand
+5, 6, -1, Latecomersaredirectedtotheadjacentstreets
+6, 6, -1, wheretheycanwatchtheeventonscreensasit'stelevisedlivebythestate.
+2757 11
+(8, 1),
+1, 6, -1, It'stimeforthedrawing
+2, 6, -1, EffieTrinketsaysasshealwaysdoes
+3, 6, -1, "Ladiesfirst
+4, 6, -1, "andcrossestotheglassballwiththegirls'names
+5, 6, -1, Shereachesin
+6, 6, -1, digsherhanddeepintotheball
+7, 6, -1, andpullsoutaslipofpaper
+8, 6, -1, Thecrowddrawsinacollectivebreathandthenyoucanhearapindrop
+9, 0, -1, andimfeelingnauseousandsodesperatelyhopingthatit'snotme
+10, 6, -1, thatit'snotme
+11, 6, -1, thatit'snotme.
+2760 12
+(2, 2),
+1, 6, -1, Somewherefaraway
+2, 6, -1, Icanhearthecrowdmurmuringunhappilyastheyalwaysdowhenatwelve-year-oldgetschosenbecausenoonethinksthisisfair
+3, 6, -1, AndthenIseeher
+4, 6, -1, theblooddrainedfromherface
+5, 6, -1, handsclenchedinfistsathersides
+6, 6, -1, walkingwithstiff
+7, 6, -1, smallstepsuptowardthestage
+8, 6, -1, passingme
+9, 6, -1, andIseethebackofherblousehasbecomeuntuckedandhangsoutoverherskirt
+10, 6, -1, It'sthisdetail
+11, 6, -1, theuntuckedblouseformingaducktail
+12, 6, -1, thatbringsmebacktomyself.
+2761 12
+(4, 2),
+1, 6, -1, Somewherefaraway
+2, 6, -1, Icanhearthecrowdmurmuringunhappilyastheyalwaysdowhenatwelve-year-oldgetschosenbecausenoonethinksthisisfair
+3, 6, -1, AndthenIseeher
+4, 6, -1, theblooddrainedfromherface
+5, 6, -1, handsclenchedinfistsathersides
+6, 6, -1, walkingwithstiff
+7, 6, -1, smallstepsuptowardthestage
+8, 6, -1, passingme
+9, 6, -1, andIseethebackofherblousehasbecomeuntuckedandhangsoutoverherskirt
+10, 6, -1, It'sthisdetail
+11, 6, -1, theuntuckedblouseformingaducktail
+12, 6, -1, thatbringsmebacktomyself.
+2762 7
+(1, 3),
+1, 6, -1, "Lovely
+2, 6, -1, "saysEffieTrinket
+3, 6, -1, "ButIbelievethere'sasmallmatterofintroducingthereapingwinnerandthenaskingforvolunteers
+4, 6, -1, andifonedoescomeforththenwe
+5, 6, -1, um
+6, 6, -1, shetrailsoff
+7, 6, -1, unsureherself.
+2763 9
+(5, 5),
+1, 6, -1, "Well
+2, 6, -1, bravo
+3, 6, -1, "gushesEffieTrinket
+4, 6, -1, "That'sthespiritoftheGames
+5, 0, -1, "She'spleasedtofinallyhaveadistrictwithalittleactiongoingoninit
+6, 6, -1, "What'syourname
+7, 6, -1, "Iswallowhard
+8, 6, -1, "KatnissEverdeen
+9, 6, -1, "Isay.
+2764 21
+(20, 7),
+1, 6, -1, "Lookather
+2, 6, -1, Lookatthisone
+3, 6, -1, "hehollers
+4, 6, -1, throwinganarmaroundmyshoulders
+5, 6, -1, He'ssurprisinglystrongforsuchawreck
+6, 6, -1, "Ilikeher
+7, 6, -1, "Hisbreathreeksofliquorandit'sbeenalongtimesincehe'sbathed
+8, 6, -1, "Lotsof
+9, 6, -1, "Hecantthinkofthewordforawhile
+10, 6, -1, "Spunk
+11, 6, -1, "hesaystriumphantly
+12, 6, -1, "Morethanyou
+13, 6, -1, "hereleasesmeandstartsforthefrontofthestage
+14, 6, -1, "Morethanyou
+15, 6, -1, "heshouts
+16, 6, -1, pointingdirectlyintoacamera
+17, 6, -1, headdressingtheaudienceorishesodrunkhemightactuallybetauntingtheCapitol
+18, 6, -1, i'llneverknowbecausejustashe'sopeninghismouthtocontinue
+19, 6, -1, Haymitchplummetsoffthestageandknockshimselfunconscious
+20, 6, -1, 'sdisgusting
+21, 0, -1, butimgrateful.
+2765 13
+(6, 7),
+1, 6, -1, Haymitchiswhiskedawayonastretcher
+2, 6, -1, andEffieTrinketistryingtogettheballrollingagain
+3, 0, -1, "Whatanexcitingday
+4, 6, -1, "shewarblesassheattemptstostraightenherwig
+5, 6, -1, whichhaslistedseverelytotheright
+6, 6, -1, "Butmoreexcitementtocome
+7, 6, -1, It'stimetochooseourboytribute
+8, 6, -1, "Clearlyhopingtocontainhertenuoushairsituation
+9, 6, -1, sheplantsonehandonherheadasshecrossestotheballthatcontainstheboys'namesandgrabsthefirstslipsheencounters
+10, 6, -1, Shezipsbacktothepodium
+11, 6, -1, andIdontevenhavetimetowishforGale'ssafetywhenshe'sreadingthename
+12, 6, -1, "PeetaMellark
+13, 6, -1, PeetaMellark
+2780 7
+(3, 1),
+1, 6, -1, Someoneelseenterstheroom
+2, 6, -1, andwhenIlookup
+3, 3, -1, imsurprisedtoseeit'sthebaker
+4, 6, -1, PeetaMellark'sfather
+5, 6, -1, Icantbelievehe'scometovisitme
+6, 6, -1, Afterall
+7, 6, -1, i'llbetryingtokillhissonsoon.
+2781 14
+(5, 5),
+1, 6, -1, Someoneelseenterstheroom
+2, 6, -1, andwhenIlookup
+3, 3, -1, imsurprisedtoseeit'sthebaker
+4, 6, -1, PeetaMellark'sfather
+5, 6, -1, Icantbelievehe'scometovisitme
+6, 6, -1, Afterall
+7, 6, -1, i'llbetryingtokillhissonsoon
+8, 6, -1, Butwedoknoweachotherabit
+9, 6, -1, andheknowsPrimevenbetter
+10, 6, -1, WhenshesellshergoatcheesesattheHob
+11, 6, -1, sheputstwoofthemasideforhimandhegivesheragenerousamountofbreadinreturn
+12, 6, -1, Wealwayswaittotradewithhimwhenhiswitchofawifeisn'taroundbecausehe'ssomuchnicer
+13, 6, -1, Ifeelcertainhewouldneverhavehithissonthewayshedidovertheburnedbread
+14, 6, -1, Butwhyhashecometoseeme
+2785 4
+(4, 4),
+1, 6, -1, i'vebeenrightnottocry
+2, 6, -1, Thestationisswarmingwithreporterswiththeirinsectlikecamerastraineddirectlyonmyface
+3, 6, -1, Buti'vehadalotofpracticeatwipingmyfacecleanofemotionsandIdothisnow
+4, 0, -1, Icatchaglimpseofmyselfonthetelevisionscreenonthewallthat'sairingmyarrivalliveandfeelgratifiedthatIappearalmostbored.
+2787 11
+(6, 5),
+1, 6, -1, Thecommentatorsarenotsurewhattosayaboutthecrowd'srefusaltoapplaud
+2, 6, -1, Thesilentsalute
+3, 6, -1, OnesaysthatDistrict12hasalwaysbeenabitbackwardbutthatlocalcustomscanbecharming
+4, 6, -1, Asifoncue
+5, 6, -1, Haymitchfallsoffthestage
+6, 6, -1, andtheygroancomically
+7, 6, -1, Peeta'snameisdrawn
+8, 6, -1, andhequietlytakeshisplace
+9, 6, -1, Weshakehands
+10, 6, -1, Theycuttotheanthemagain
+11, 6, -1, andtheprogramends.
+2788 6
+(1, 1),
+1, 1, -1, EffieTrinketisdisgruntledaboutthestateherwigwasin
+2, 6, -1, "Yourmentorhasalottolearnaboutpresentation
+3, 6, -1, Alotabouttelevisedbehavior
+4, 6, -1, Peetaunexpectedlylaughs
+5, 6, -1, hewasdrunk
+6, 6, -1, "saysPeeta.
+2789 8
+(2, 3),
+1, 6, -1, Theideapullsmeupshort
+2, 6, -1, AkindPeetaMellarkisfarmoredangeroustomethananunkindone
+3, 6, -1, Kindpeoplehaveawayofworkingtheirwayinsidemeandrootingthere
+4, 6, -1, AndIcantletPeetadothis
+5, 6, -1, Notwherewe'regoing
+6, 6, -1, SoIdecide
+7, 6, -1, fromthismomenton
+8, 6, -1, tohaveaslittleaspossibletodowiththebaker'sson.
+2795 7
+(6, 6),
+1, 6, -1, "Here'ssomeadvice
+2, 6, -1, Stayalive
+3, 6, -1, "saysHaymitch
+4, 6, -1, andthenburstsoutlaughing
+5, 6, -1, IexchangealookwithPeetabeforeIrememberimhavingnothingmoretodowithhim
+6, 3, -1, imsurprisedtoseethehardnessinhiseyes
+7, 6, -1, Hegenerallyseemssomild.
+2798 6
+(2, 1),
+1, 6, -1, Thetrainfinallybeginstoslowandsuddenlybrightlightfloodsthecompartment
+2, 6, -1, Wecanthelpit
+3, 6, -1, BothPeetaandIruntothewindowtoseewhatwe'veonlyseenontelevision
+4, 6, -1, theCapitol
+5, 6, -1, therulingcityofPanem
+6, 6, -1, Thecamerashaven'tliedaboutitsgrandeur.
+2799 6
+(3, 1),
+1, 6, -1, Thepeoplebegintopointatuseagerlyastheyrecognizeatributetrainrollingintothecity
+2, 6, -1, Istepawayfromthewindow
+3, 0, -1, sickenedbytheirexcitement
+4, 6, -1, knowingtheycantwaittowatchusdie
+5, 6, -1, ButPeetaholdshisground
+6, 6, -1, actuallywavingandsmilingatthegawkingcrowd.
+2802 11
+(2, 3),
+1, 6, -1, Despitethismorning'srevelationaboutPeeta'scharacter
+2, 6, -1, imactuallyrelievedwhenheshowsup
+3, 6, -1, dressedinanidenticalcostume
+4, 6, -1, Heshouldknowaboutfire
+5, 6, -1, beingabaker'ssonandall
+6, 6, -1, Hisstylist
+7, 6, -1, Portia
+8, 6, -1, andherteamaccompanyhimin
+9, 6, -1, andeveryoneisabsolutelygiddywithexcitementoverwhatasplashwe'llmake
+10, 6, -1, ExceptCinna
+11, 4, -1, Hejustseemsabitwearyasheacceptscongratulations.
+2803 11
+(9, 9),
+1, 6, -1, Despitethismorning'srevelationaboutPeeta'scharacter
+2, 6, -1, imactuallyrelievedwhenheshowsup
+3, 6, -1, dressedinanidenticalcostume
+4, 6, -1, Heshouldknowaboutfire
+5, 6, -1, beingabaker'ssonandall
+6, 6, -1, Hisstylist
+7, 6, -1, Portia
+8, 6, -1, andherteamaccompanyhimin
+9, 6, -1, andeveryoneisabsolutelygiddywithexcitementoverwhatasplashwe'llmake
+10, 6, -1, ExceptCinna
+11, 4, -1, Hejustseemsabitwearyasheacceptscongratulations.
+2804 3
+(1, 1),
+1, 4, -1, Thecrowd'sinitialalarmatourappearancequicklychangestocheersandshoutsof"DistrictTwelve
+2, 6, -1, "Everyheadisturnedourway
+3, 6, -1, pullingthefocusfromthethreechariotsaheadofus.
+2805 3
+(1, 1),
+1, 4, -1, Thecrowd'sinitialalarmatourappearancequicklychangestocheersandshoutsof"DistrictTwelve
+2, 6, -1, "Everyheadisturnedourway
+3, 6, -1, pullingthefocusfromthethreechariotsaheadofus.
+2806 18
+(9, 9),
+1, 6, -1, Remember
+2, 6, -1, headshigh
+3, 6, -1, Smiles
+4, 6, -1, theyregoingtoloveyou
+5, 6, -1, IhearCinna'svoiceinmyhead
+6, 6, -1, Iliftmychinabithigher
+7, 6, -1, putonmymostwinningsmile
+8, 6, -1, andwavewithmyfreehand
+9, 6, -1, imgladnowIhavePeetatoclutchforbalance
+10, 6, -1, heissosteady
+11, 6, -1, solidasarock
+12, 6, -1, AsIgainconfidence
+13, 6, -1, Iactuallyblowafewkissestothecrowd
+14, 6, -1, ThepeopleoftheCapitolaregoingnuts
+15, 6, -1, showeringuswithflowers
+16, 6, -1, shoutingournames
+17, 6, -1, ourfirstnames
+18, 6, -1, whichtheyhavebotheredtofindontheprogram.
+2807 7
+(3, 2),
+1, 6, -1, AsIgainconfidence
+2, 6, -1, Iactuallyblowafewkissestothecrowd
+3, 6, -1, ThepeopleoftheCapitolaregoingnuts
+4, 6, -1, showeringuswithflowers
+5, 6, -1, shoutingournames
+6, 6, -1, ourfirstnames
+7, 6, -1, whichtheyhavebotheredtofindontheprogram.
+2811 8
+(1, 2),
+1, 6, -1, "Unfortunately
+2, 6, -1, Icantsealthesponsordealsforyou
+3, 6, -1, OnlyHaymitchcandothat
+4, 6, -1, "saysEffiegrimly
+5, 6, -1, "Butdontworry
+6, 6, -1, i'llgethimtothetableatgunpointifnecessary
+7, 6, -1, althoughlackinginmanydepartments
+8, 6, -1, EffieTrinkethasacertaindeterminationIhavetoadmire.
+2812 5
+(4, 2),
+1, 6, -1, Abouthalfwaythroughmyglassofwine
+2, 6, -1, myheadstartsfeelingfoggy
+3, 6, -1, soIchangetowaterinstead
+4, 6, -1, Idontlikethefeelingandhopeitwearsoffsoon
+5, 6, -1, HowHaymitchcanstandwalkingaroundlikethisfull-timeisamystery.
+2815 5
+(2, 2),
+1, 6, -1, Besides
+2, 4, -1, theideaofthegirlwithhermaimedtonguefrightensme
+3, 6, -1, Shehasremindedmewhyimhere
+4, 6, -1, Nottomodelflashycostumesandeatdelicacies
+5, 6, -1, Buttodieabloodydeathwhilethecrowdsurgeonmykiller.
+2816 6
+(4, 1),
+1, 6, -1, Peetatakesoffhisjacketandwrapsitaroundmyshoulders
+2, 6, -1, Istarttotakeastepback
+3, 6, -1, butthenIlethim
+4, 6, -1, decidingforamomenttoacceptbothhisjacketandhiskindness
+5, 6, -1, Afriendwoulddothat
+6, 6, -1, right
+2817 11
+(3, 4),
+1, 6, -1, "i'dleavehere
+2, 6, -1, "Peetablurtsout
+3, 4, -1, Thenhelooksaroundnervously
+4, 6, -1, Itwasloudenoughtohearabovethechimes
+5, 6, -1, Helaughs
+6, 6, -1, "i'dgohomenowiftheyletme
+7, 6, -1, Butyouhavetoadmit
+8, 6, -1, thefood'sprime
+9, 6, -1, e'scoveredagain
+10, 6, -1, Ifthat'sallyou'dhearditwouldjustsoundlikethewordsofascaredtribute
+11, 6, -1, notsomeonecontemplatingtheunquestionablegoodnessoftheCapitol.
+2818 14
+(5, 2),
+1, 6, -1, "No
+2, 6, -1, we'renotrelated
+3, 6, -1, "Isay
+4, 6, -1, Peetanods
+5, 6, -1, unreadable
+6, 6, -1, "Didhecometosaygoodbyetoyou
+7, 6, -1, ""Yes
+8, 6, -1, "Isay
+9, 6, -1, observinghimcarefully
+10, 6, -1, "Sodidyourfather
+11, 6, -1, Hebroughtmecookies
+12, 6, -1, Peetaraiseshiseyebrowsasifthisisnews
+13, 6, -1, Butafterwatchinghimliesosmoothly
+14, 6, -1, Idontgivethismuchweight.
+2819 9
+(3, 1),
+1, 6, -1, "Heknewyourmotherwhentheywerekids
+2, 6, -1, "saysPeeta
+3, 3, -1, Anothersurprise
+4, 6, -1, Butprobablytrue
+5, 6, -1, "Oh
+6, 6, -1, yes
+7, 6, -1, Shegrewupintown
+8, 6, -1, "Isay
+9, 6, -1, Itseemsimpolitetosayshenevermentionedthebakerexcepttocomplimenthisbread.
+2820 5
+(5, 1),
+1, 6, -1, Myslumbersarefilledwithdisturbingdreams
+2, 6, -1, ThefaceoftheredheadedgirlintertwineswithgoryimagesfromearlierHungerGames
+3, 6, -1, withmymotherwithdrawnandunreachable
+4, 4, -1, withPrimemaciatedandterrified
+5, 6, -1, Iboltupscreamingformyfathertorunasthemineexplodesintoamilliondeadlybitsoflight.

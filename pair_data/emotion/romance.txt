@@ -1,0 +1,2092 @@
+4 2
+(2, 1),
+1, 6, -1, Theydontevenhaveawordforvegetarian
+2, 0, -1, hecomplained(incorrectly)inaphonecalltoAlcorn.
+104 9
+(5, 4),
+1, 6, -1, DuringthisexpeditionSpekereachedthemostsoutherlypointofthelake
+2, 6, -1, andgaveititspresentname
+3, 6, -1, SpekearrivedbackinEnglandinthespringof1859
+4, 6, -1, Burtonbeingleftbehindonaccountofhisillness
+5, 6, -1, Therelationsbetweenthetwohadbecomestrained
+6, 6, -1, andthiswasaccentuatedbySpeke'shasttopublishtheaccountofhisexplorations
+7, 6, -1, HewasgiventhecommandofanotherexpeditionwhichleftEnglandinApril1860
+8, 6, -1, incompanywithCaptainJamesAugustusGrant
+9, 6, -1, toascertainstillfurtheriftheVictoriaNyanzawereindeedthesourceoftheNile.
+105 9
+(6, 6),
+1, 6, -1, Thedistrictchiefisabsolute
+2, 6, -1, thoughguidedingreatmeasurebyhis"greybeards
+3, 6, -1, "whoconstantlyattendhisresidence
+4, 6, -1, andtalkovertheiraffairsofstate
+5, 6, -1, Thesecommonlyconcernpettyinternalmatters
+6, 6, -1, fortheyaretooselfishandtoonarrow-mindedtocareforanythingbuttheirownprivateconcerns
+7, 6, -1, Thegreybeardscirculatetheordersofthechiefamongstthevillagechiefs
+8, 6, -1, whoarefinedwhentheydonotcomplywiththem
+9, 6, -1, andhenceallordersareprettywellobeyed.
+109 9
+(7, 7),
+1, 6, -1, andjudgingfromtheprogressivestateoftheworld
+2, 6, -1, oneisledtosupposethattheAfricanmustsooneitherstepoutfromhisdarkness
+3, 6, -1, orbesupersededbyabeingsuperiortohimself
+4, 6, -1, CouldagovernmentbeformedforthemlikeoursinIndia
+5, 6, -1, theywouldbesaved
+6, 6, -1, butwithoutit
+7, 6, -1, Ifearthereisverylittlechance
+8, 6, -1, foratpresenttheAfricanneithercanhelphimselfnorwillhebehelpedaboutbyothers
+9, 4, -1, becausehiscountryisinsuchaconstantstateofturmoilhehastoomuchanxietyonhandlookingoutforhisfoodtothinkofanythingelse
+110 16
+(6, 6),
+1, 6, -1, CouldagovernmentbeformedforthemlikeoursinIndia
+2, 6, -1, theywouldbesaved
+3, 6, -1, butwithoutit
+4, 6, -1, Ifearthereisverylittlechance
+5, 6, -1, foratpresenttheAfricanneithercanhelphimselfnorwillhebehelpedaboutbyothers
+6, 4, -1, becausehiscountryisinsuchaconstantstateofturmoilhehastoomuchanxietyonhandlookingoutforhisfoodtothinkofanythingelse
+7, 6, -1, Ashisfatherseverdid
+8, 6, -1, sodoeshe
+9, 6, -1, Heworkshiswife
+10, 6, -1, sellshischildren
+11, 6, -1, enslavesallhecanlayhandsupon
+12, 6, -1, and
+13, 6, -1, unlesswhenfightingforthepropertyofothers
+14, 6, -1, contentshimselfwithdrinking
+15, 6, -1, singing
+16, 6, -1, anddancinglikeababoontodrivedullcareaway.
+111 13
+(10, 10),
+1, 6, -1, Theslaveinthisnewpositionfindshimselfmuchbetteroffthanheeverwasinhislifebefore
+2, 6, -1, withthisexception
+3, 6, -1, thatasaslavehefeelshimselfmuchdegradedinthesocialscaleofsociety
+4, 6, -1, andhisfamilytiesareallcutofffromhimprobablyhisrelationshaveallbeenkilledinthewarinwhichhewascaptured
+5, 6, -1, Still
+6, 6, -1, afterthefirstqualmshavewornoff
+7, 6, -1, wefindhimmuchattachedtohismaster
+8, 6, -1, whofeedshimandfindshiminclothesinreturnforthemenialserviceswhichheperforms
+9, 6, -1, Inafewyearsaftercapture
+10, 6, -1, orwhenconfidencehasbeengainedbytheattachmentshownbytheslave
+11, 6, -1, ifthemasterisatraderinivory
+12, 6, -1, hewillintrusthimwiththechargeofhisstores
+13, 6, -1, andsendhimallovertheinteriorofthecontinenttopurchaseforhimbothslavesandivory
+112 13
+(8, 7),
+1, 6, -1, Still
+2, 6, -1, afterthefirstqualmshavewornoff
+3, 6, -1, wefindhimmuchattachedtohismaster
+4, 6, -1, whofeedshimandfindshiminclothesinreturnforthemenialserviceswhichheperforms
+5, 6, -1, Inafewyearsaftercapture
+6, 6, -1, orwhenconfidencehasbeengainedbytheattachmentshownbytheslave
+7, 6, -1, ifthemasterisatraderinivory
+8, 6, -1, hewillintrusthimwiththechargeofhisstores
+9, 6, -1, andsendhimallovertheinteriorofthecontinenttopurchaseforhimbothslavesandivory
+10, 6, -1, butshouldthemasterdie
+11, 6, -1, accordingtotheMohammedancreedtheslavesoughttobefreed
+12, 6, -1, InArabiathiswouldbethecase
+13, 6, -1, butatZanzibaritmoregenerallyhappensthattheslaveiswilledtohissuccessor.
+115 8
+(6, 7),
+1, 6, -1, TocallontheSultan
+2, 6, -1, ofcourse
+3, 6, -1, wasourfirstduty
+4, 6, -1, Hereceivedusinhisusuallyaffablemanner
+5, 6, -1, mademanytriteremarksconcerningourplans
+6, 3, -1, wassurprised
+7, 6, -1, ifmyonlyobjectinviewwastoseethegreatriverrunningoutofthelake
+8, 6, -1, thatIdidnotgobythemoredirectrouteacrosstheMasaicountryandUsoga
+117 12
+(6, 5),
+1, 6, -1, OnmyreturntoZanzibar
+2, 6, -1, theBrisksailedfortheMauritius
+3, 6, -1, butfortunesentGrantandmyselfonadifferentcruise
+4, 6, -1, SultanMajid
+5, 6, -1, havingheardthataslaverwaslyingatPangani
+6, 4, -1, andbeinganxioustoshowhisgoodfaithwiththeEnglish
+7, 6, -1, beggedmetotakecommandofonehisvesselsofwarandrunitdown
+8, 6, -1, Accordingly
+9, 6, -1, embarkingatnoon
+10, 6, -1, assoonasthevesselcouldbegotready
+11, 6, -1, welaytothatnightatTombat
+12, 6, -1, withaviewofsurprisingtheslavernextmorning
+119 8
+(2, 2),
+1, 6, -1, butafewsoftwordswerefoundsufficienttomakethemallwithdrawandsettlethematteratissuebyarbitrationinsomeappointedplace
+2, 6, -1, Afewmenwithoutpropertycancrosstheirlandsfearlessly
+3, 6, -1, thoughasingleindividualwithpropertywouldstandnochance
+4, 6, -1, fortheyareinsatiablethieves
+5, 6, -1, Butlittleisseenofthesepeopleonthejourney
+6, 6, -1, asthechiefstaketheirtaxesbydeputy
+7, 6, -1, partlyoutofpride
+8, 6, -1, andpartlybecausetheythinktheycanextortmorebykeepinginthemysteriousdistance.
+120 7
+(3, 3),
+1, 6, -1, TheybothknewHindustani
+2, 6, -1, butwhileRahan'sservicesatseahadbeenshort
+3, 6, -1, BarakahadservednearlyallhislifewithEnglishmenwasthesmartestandmostintelligentnegroIeversawwasinvaluabletoColonelRigbyasadetectorofslavetraders
+4, 0, -1, andenjoyedhisconfidencecompletelysomuchso
+5, 6, -1, thathesaid
+6, 6, -1, onpartingwithhim
+7, 6, -1, thathedidnotknowwhereheshouldbeabletofindanothermantofillhispost.
+121 7
+(3, 3),
+1, 6, -1, TheybothknewHindustani
+2, 6, -1, butwhileRahan'sservicesatseahadbeenshort
+3, 6, -1, BarakahadservednearlyallhislifewithEnglishmenwasthesmartestandmostintelligentnegroIeversawwasinvaluabletoColonelRigbyasadetectorofslavetraders
+4, 0, -1, andenjoyedhisconfidencecompletelysomuchso
+5, 6, -1, thathesaid
+6, 6, -1, onpartingwithhim
+7, 6, -1, thathedidnotknowwhereheshouldbeabletofindanothermantofillhispost.
+122 9
+(4, 4),
+1, 6, -1, wotaxesinfivemileswasathingunheardof
+2, 6, -1, andIheardnomoreaboutthematter
+3, 6, -1, untilBombayintheeveningtoldmehowSheikhSaid
+4, 4, -1, fearingawkwardconsequences
+5, 6, -1, hadsettledtogivetwodubuani
+6, 6, -1, onebeingtakenfromhisownstore
+7, 6, -1, Lion'sClawalsoturnedupagain
+8, 6, -1, gettinghisclothsofyesterdayonemorebeingaddedfromtheSheikh'sstoresandhewasthenadvisedtogooffquietly
+9, 6, -1, asIwasafireeaterwhomnobodydaredapproachaftermyordershadbeenissued.
+124 7
+(2, 2),
+1, 6, -1, AttheadviceofMusa
+2, 1, -1, IsentMaula'ssonoffatnighttotelltheoldchiefhowsorryIwastofindtheArabssohot-headedIcouldnoteveneffectanarrangementwiththem
+3, 6, -1, Itwasagreatpity
+4, 6, -1, forManuaSerawassomuchlikedbytheWanyamuezi
+5, 6, -1, theywould
+6, 6, -1, hadtheybeenable
+7, 6, -1, havedoneanythingtorestorehim.
+125 7
+(3, 2),
+1, 6, -1, AttheadviceofMusa
+2, 1, -1, IsentMaula'ssonoffatnighttotelltheoldchiefhowsorryIwastofindtheArabssohot-headedIcouldnoteveneffectanarrangementwiththem
+3, 6, -1, Itwasagreatpity
+4, 6, -1, forManuaSerawassomuchlikedbytheWanyamuezi
+5, 6, -1, theywould
+6, 6, -1, hadtheybeenable
+7, 6, -1, havedoneanythingtorestorehim.
+126 16
+(8, 8),
+1, 6, -1, NextdaythenonbelligerentArabsleftinchargeofthestation
+2, 6, -1, headedbymyoldfriendsAbdullaandMohinna
+3, 6, -1, cametopaytheirrespectsagain
+4, 6, -1, recognisinginme
+5, 6, -1, astheysaid
+6, 6, -1, a"personificationoftheirsultan
+7, 6, -1, "andthereforeconsideringwhattheyweredoingonlyduetomyrank
+8, 1, -1, TheyregrettedwithmyselfthatSnaywassohot-headed
+9, 6, -1, fortheythemselvesthoughtatreatyofpeacewouldhavebeenthebestthingforthem
+10, 6, -1, fortheyweremorethanhalfruinedalready
+11, 6, -1, andsawnohopeforthefuture
+12, 6, -1, Then
+13, 6, -1, turningtogeography
+14, 6, -1, ItoldAbdullaallIhadwrittenandlecturedinEnglandconcerninghisstoriesaboutnavigatorsontheN'yanza
+15, 6, -1, whichIexplainedmustbetheNile
+16, 6, -1, andwishedtoknowifIshouldalteritinanyway:
+127 13
+(9, 8),
+1, 6, -1, 27thand28th
+2, 6, -1, Inowgaveallmymenpresentsfortheseveretrialstheyhadexperiencedinthewilderness
+3, 6, -1, forgetting
+4, 6, -1, asItoldthem
+5, 6, -1, themercilessmannerinwhichtheyhadplunderedme
+6, 6, -1, butasIhaveatriflemoreinproportion
+7, 6, -1, tothethreesoleremainingpagazis
+8, 6, -1, becausetheyhadnotfinishedtheirwork
+9, 6, -1, mymenwerealldiscontented
+10, 6, -1, andwishedtothrowbacktheirpresents
+11, 6, -1, sayingIdidnotlovethem
+12, 6, -1, althoughtheywere"permanents
+13, 6, -1, "asmuchasthe"temporaries."
+128 11
+(5, 5),
+1, 6, -1, Daysrolledon
+2, 6, -1, andnothingwasdoneinparticularbeyondincreasingmystockofknowledgeofdistantplacesandpeople
+3, 6, -1, enlargingmyzoologicalcollection
+4, 6, -1, andtakinglongseriesofastronomicalobservationsuntilthe13th
+5, 1, -1, whenthewholeofKazewasdepressedbyasadsceneofmourningandtears
+6, 6, -1, SomeslavescameinthatnighthavingmadetheirwaythroughthewoodsfromUgogo
+7, 6, -1, avoidingthetracktosavethemselvesfromdetectionandgaveinformationthatSnay
+8, 6, -1, Jafu
+9, 6, -1, andfiveotherArabs
+10, 6, -1, hadbeenkilled
+11, 6, -1, aswellasagreatnumberofslaves.
+129 8
+(2, 4),
+1, 6, -1, TheArabs
+2, 6, -1, afterthefirstburstoftheirgriefwasover
+3, 6, -1, cametomeagaininabody
+4, 6, -1, andbeggedmetoassistthem
+5, 6, -1, fortheywereutterlyundone
+6, 6, -1, ManuaSerapreventedtheirdirectcommunicationwiththeirdetachmentatMdaburu
+7, 6, -1, andthatagainwascutofffromtheircaravansatKanyenyebytheMzanzapeople
+8, 6, -1, andinfactalltheWagogo
+130 15
+(15, 15),
+1, 6, -1, Heroldmistress
+2, 6, -1, shesaid
+3, 6, -1, diedwellstrickeninyears
+4, 6, -1, and
+5, 6, -1, asshehadsucceededher
+6, 6, -1, thepeopleofhercountryinvitedSinginyatomarryher
+7, 6, -1, becausefeudshadarisenabouttherightsofsuccession
+8, 6, -1, anditwasbetteraprince
+9, 6, -1, whomtheythoughtbestsuitedbybirthandgoodqualities
+10, 6, -1, shouldheadtheirwarriors
+11, 6, -1, andkeepallinorder
+12, 6, -1, AtthatmomentSinginyawasoutinthefieldfightinghisenemies
+13, 6, -1, andshewassure
+14, 6, -1, whenheheardIwashere
+15, 1, -1, thathewouldbeverysorryhehadmissedseeingme.
+131 11
+(9, 9),
+1, 6, -1, Heusedtotradeinivory
+2, 6, -1, onaccountofsomeArabsatZanzibar
+3, 6, -1, OncrossingUsui
+4, 6, -1, heoncehadafightwithoneofthechiefsofthecountryandkilledhim
+5, 6, -1, buthegotthroughallright
+6, 6, -1, becausethenatives
+7, 6, -1, aftertwoorthreeoftheirnumberhadbeenkilled
+8, 6, -1, dispersed
+9, 4, -1, andfearedtocomenearhismusketagain
+10, 6, -1, HevisitedUgandawhenthelatekingSunnawasliving
+11, 6, -1, andeventradedUsoga
+132 4
+(3, 3),
+1, 6, -1, Addingalittleadviceofhisown
+2, 6, -1, SheikhSaidpressedmetogoonwiththejourneyasfastaspossible
+3, 6, -1, becausealltheArabshadaccusedmeofconspiringwithManuaSera
+4, 6, -1, andwouldturnagainstmeunlessIsoongotaway.
+134 8
+(8, 8),
+1, 6, -1, afterbeinghumbuggedsomanytimesbyhisprocrastination
+2, 6, -1, IgaveSheikhSaidmorelettersandspecimens
+3, 6, -1, withorderstotaketheTotsdowntothecoastassoonaspracticable
+4, 6, -1, andstartedoncemoreforthenorth
+5, 6, -1, expectingveryshortlytohearofMusa'sdeath
+6, 6, -1, thoughhepromisedtofollowmetheverynextdayordieintheattempt
+7, 6, -1, andhealsosaidhewouldbringonthefourmenrequiredbySuwarora
+8, 0, -1, forIwasfullysatisfiedinmymindthathewouldhavemarchedwithmethenhadhehadtheresolutiontodosoatall.
+135 9
+(3, 3),(5, 3),
+1, 6, -1, buttheycameandwentinthemosttantalisingmanner
+2, 6, -1, notwithstandingIofferedthreetimesthehirethatanymerchantcouldaffordtogive
+3, 6, -1, Everydayseemedtobeworseandworse
+4, 6, -1, SomeofMusa'smencametogetpalmtoddyforhim
+5, 6, -1, ashewastooweaktostand
+6, 6, -1, andwassocoldnothingwouldwarmhim
+7, 6, -1, Therewas
+8, 6, -1, however
+9, 6, -1, nomessagebroughtformyself
+136 8
+(1, 2),
+1, 1, -1, Mypatiencewasbeginningtosufferagain
+2, 6, -1, forIcouldnothelpthinkingthatthechiefsoftheplacewerepreventingtheirvillagemengoingwithmeinorderthatmypresenceheremightwardoftheWatuta
+3, 6, -1, soIcalledupthekirangozi
+4, 6, -1, whohadthirteen"Watoto
+5, 6, -1, "astheyarecalled
+6, 6, -1, orchildrenofhisown
+7, 6, -1, wishingtogo
+8, 6, -1, andaskedhimifheknewwhynoothermencouldbegot.
+138 11
+(9, 9),
+1, 6, -1, Thisprovokedfreshsquabbles
+2, 6, -1, Thedrumshadbeatenandthetaxwassettled
+3, 6, -1, Icouldnotpaymore
+4, 6, -1, Thekirangozi
+5, 6, -1, however
+6, 6, -1, saidhewouldnotmoveapegunlessIgavesomethingmore
+7, 6, -1, elsehewouldbeseizedonhiswayback
+8, 6, -1, His"childrenallsaidthesame
+9, 6, -1, andasIthoughtGrantwouldonlybeworstedifIdidnotkeepfriendswiththescoundrel
+10, 6, -1, Igavefouryardsmoremerikani
+11, 6, -1, andthenwentonmyway.
+139 10
+(7, 7),
+1, 6, -1, Atlengthgivingin
+2, 6, -1, IenteredRuhe'sboma
+3, 6, -1, thepolesofwhichweredeckedwiththeskullsofhisenemiesstuckuponthem
+4, 6, -1, Instead
+5, 6, -1, however
+6, 6, -1, ofseeinghimmyself
+7, 4, -1, ashefearedmyevileye
+8, 6, -1, IconductedthearrangementsforthehongothroughBaraka
+9, 6, -1, inthesamewayasIdidatM'yonga's
+10, 6, -1, directingthatitshouldbelimitedtothesmallsumofonebarsatiandfouryardskiniki.
+140 11
+(2, 2),
+1, 6, -1, Thiswastooprovoking
+2, 6, -1, TheperpetualworryhadgivenBarakaafever
+3, 1, -1, andhadmademefeelquitesick
+4, 6, -1, soIsaid
+5, 6, -1, ifheevermentionedagunorlucifersagain
+6, 6, -1, Iwouldfightthematteroutwithhim
+7, 6, -1, forIhadnotcometheretobebullied
+8, 6, -1, Hethengaveway
+9, 6, -1, andbeggedIwouldallowmymentofireavolleyoutsidehisboma
+10, 6, -1, astheWatutawerelivingbehindasmalllineofgranitichillsflankingthewestofhisdistrict
+11, 6, -1, andhewishedtoshowthemwhatapowerfulforcehehadgotwithhim.
+141 13
+(4, 5),
+1, 6, -1, IthentoldthePigandBarakatosettleatonce
+2, 6, -1, Theynosoonerdidsothanthedrumsbeat
+3, 6, -1, andMakaka
+4, 6, -1, inthebesthumourpossible
+5, 6, -1, cameovertosayIhadpermissiontogowhenIliked
+6, 6, -1, buthehopedIwouldgivehimagunandaboxoflucifers
+7, 6, -1, Thiswastooprovoking
+8, 6, -1, TheperpetualworryhadgivenBarakaafever
+9, 1, -1, andhadmademefeelquitesick
+10, 6, -1, soIsaid
+11, 6, -1, ifheevermentionedagunorluciferssagain
+12, 6, -1, Iwouldfightthematteroutwithhim
+13, 6, -1, forIhadnotcometheretobebullied.
+142 11
+(7, 10),
+1, 6, -1, Whilstengagedinthisoperation
+2, 6, -1, Baraka
+3, 6, -1, accompaniedbyWadimoyo(Heart's-stream)
+4, 6, -1, anotherofmyfreeman
+5, 6, -1, approachedmeingreatconsternation
+6, 6, -1, whisperingtothemselves
+7, 4, -1, Theysaidtheyhadsomefearfulnewstocommunicate
+8, 6, -1, which
+9, 6, -1, whenIheardit
+10, 6, -1, theyknewwoulddeterourprogress:itwasofsuchgreatmomentandmagnitude
+11, 6, -1, theythoughttheycouldnotdeliveritthen.
+143 9
+(3, 3),
+1, 6, -1, ThenBarakasaid
+2, 6, -1, "IhavejustheardfromMakaka
+3, 6, -1, thatamanwhoarrivedfromUsuionlyafewminutesagohassaidSuwaroraissoangrywiththeArabsthathehasdetainedonecaravanoftheirsinhiscountry
+4, 6, -1, and
+5, 6, -1, separatingthewholeoftheirmen
+6, 6, -1, hasplacedeachofthemindifferentbomas
+7, 6, -1, withorderstohisvillageofficersthat
+8, 6, -1, incasetheWatutacameintohiscountry
+9, 6, -1, withoutfurtherceremonytheyweretobeallputtodeath."
+144 14
+(14, 14),
+1, 4, -1, Thiswasafearfuldrainonmystore
+2, 6, -1, butthePig
+3, 6, -1, seeingmyconcern
+4, 6, -1, merelylaughedatit
+5, 6, -1, andsaid
+6, 6, -1, "Oh
+7, 6, -1, thesesavagechiefsareallalikehere
+8, 6, -1, youwillhaveoneofthesetaxestopayeverystagetoUyofu
+9, 6, -1, andthentheheavyworkwillbegin
+10, 6, -1, forallthesemen
+11, 6, -1, althoughtheyassumethedignityofchieftothemselves
+12, 6, -1, aremereofficers
+13, 6, -1, whohavetopaytributetoSuwarora
+14, 5, -1, andhewouldbeangryiftheywereshortcoming."
+145 11
+(5, 5),
+1, 6, -1, Thesetwoslaves
+2, 6, -1, bothofwhomknewallthechiefsandlanguagesuptoandincludingUganda
+3, 6, -1, promisedmefaithfullytheywouldgowithBombayontoUsui
+4, 6, -1, andbringbackportersinsufficientnumberforGrantandmyselftogoontogether
+5, 6, -1, TheylaughedatthestoriesItoldthemoftheterrorthathadseizedBarakaandalltheWanguana
+6, 6, -1, andtoldme
+7, 6, -1, asoldMusahadoftendonebefore
+8, 6, -1, thatthosemen
+9, 6, -1, especiallyBaraka
+10, 6, -1, hadfromtheirfirstleavingKazemadeuptheirmindstheywouldnotenterUsui
+11, 6, -1, orgoanywhereveryfarnorth.
+147 8
+(7, 6),
+1, 6, -1, whilstinthevalleytherewerenotonlymagnificenttreesofextraordinaryheight
+2, 6, -1, butalsoasurprisingamountoftherichestcultivation
+3, 6, -1, amongstwhichthebananamaybesaidtoprevail
+4, 6, -1, Notwithstandingthisapparentrichnessintheland
+5, 6, -1, theWanyambo
+6, 6, -1, livingintheirsmallsqualidhuts
+7, 6, -1, seempoor
+8, 6, -1, ThetobaccotheysmokeisimportedfromthecoffeegrowingcountryofUhaiya.
+148 9
+(6, 6),
+1, 6, -1, LeavingthevalleyofUthenga
+2, 6, -1, weroseoverthespurofN'yamwara
+3, 6, -1, wherewefoundwehadattainedthedelightfulaltitudeof5000oddfeet
+4, 6, -1, Oh
+5, 6, -1, howweenjoyedit
+6, 0, -1, everyonefeelingsohappyattheprospectofmeetingsosoonthegoodkingRumanika
+7, 6, -1, Trippingdownthegreensward
+8, 6, -1, wenowworkedourwaytotheRozokavalley
+9, 6, -1, andpitchedourtentsinthevillage.
+149 9
+(5, 6),
+1, 6, -1, LeavingthevalleyofUthenga
+2, 6, -1, weroseoverthespurofN'yamwara
+3, 6, -1, wherewefoundwehadattainedthedelightfulaltitudeof5000oddfeet
+4, 6, -1, Oh
+5, 6, -1, howweenjoyedit
+6, 0, -1, everyonefeelingsohappyattheprospectofmeetingsosoonthegoodkingRumanika
+7, 6, -1, Trippingdownthegreensward
+8, 6, -1, wenowworkedourwaytotheRozokavalley
+9, 6, -1, andpitchedourtentsinthevillage.
+150 10
+(9, 10),
+1, 6, -1, Now
+2, 6, -1, therealfactsofthecasewerethesethoughIdidnotfindthemoutatthetime:Barakahadboughtsomeslaveswithmyeffects
+3, 6, -1, andhehadhadafightwithsomeofmymenbecausetheytamperedwithhistemporarywifeaprincesshehadpickedupinPhunze
+4, 6, -1, ToobtainherhandhehadgiventennecklacesofMYbeadstohermother
+5, 6, -1, andhadagreedtotheconditionthatheshouldkeepthegirlduringthejourney
+6, 6, -1, andafteritwasover
+7, 6, -1, andhetookherhome
+8, 6, -1, hewould
+9, 0, -1, ifhiswifepleasedhim
+10, 6, -1, givehermothertennecklacesmore.
+151 10
+(4, 4),
+1, 4, -1, Everanxioustopushonwiththejourney
+2, 6, -1, asIfelteveryday'sdelayonlytendedtodiminishmymeansthatis
+3, 6, -1, mybeadsandcopperwireIinstructedBombaytotaketheundermentionedarticlestoRumanikaasasmallsampleoftheproductsofmycountry
+4, 6, -1, tosayIfeltquiteashamedoftheirbeingsofewandsopoor
+5, 6, -1, butIhopedhewouldforgivemyshortcomings
+6, 6, -1, asheknewIhadbeensooftenrobbedonthewaytohim
+7, 6, -1, andItrusted
+8, 6, -1, inrecollectionofMusa
+9, 6, -1, hewouldgivemeleavetogoontoUganda
+10, 6, -1, foreveryday'sdelaywasconsumingmysupplies.
+152 9
+(5, 5),
+1, 6, -1, Nextmorning
+2, 6, -1, however
+3, 6, -1, onseeingmeactuallypreparingtostart
+4, 6, -1, LumeresifoundhecouldnotletmegountilIincreasedthetaxbythreemorecloths
+5, 1, -1, assomeofhisfamilycomplainedthattheyhadgotnothing
+6, 6, -1, Aftersomebadgering
+7, 6, -1, Ipaidwhatheaskedfor
+8, 6, -1, andorderedthementocarrymeoutofthepalacebeforeanythingelsewasdone
+9, 6, -1, forIwouldnotsleepanothernightwhereIwas.
+153 8
+(6, 6),
+1, 6, -1, Neitherhisfathernoranyofhisforefathershadhadsuchagreatfavourshownthem
+2, 6, -1, Hewasalarmed
+3, 6, -1, heconfessed
+4, 6, -1, whenheheardwewerecomingtovisithim
+5, 6, -1, thinkingwemightprovesomefearfulmonstersthatwerenotquitehuman
+6, 0, -1, butnowhewasdelightedbeyondallmeasurewithwhathesawofus
+7, 6, -1, AmessengershouldbesentatoncetothekingofUgandatoinformhimofourintentiontovisithim
+8, 6, -1, withhisownfavourablereportofus.
+155 12
+(10, 9),
+1, 6, -1, Heresomeoftheporters
+2, 6, -1, attemptingtobolt
+3, 6, -1, wereinterceptedbymycoastmenandhadafightofit
+4, 6, -1, fortheyfiredarrows
+5, 2, -1, andinreturnthecoastmencuttheirbows
+6, 6, -1, Thewholecamp
+7, 6, -1, ofcourse
+8, 6, -1, wasinablazeatthis
+9, 1, -1, theirtribewasinsulted
+10, 6, -1, andtheywouldnotstandit
+11, 5, -1, untilBombayputdowntheirpridewithafewstringsofbeads
+12, 6, -1, asthebestmeansofrestoringpeaceinthecamp.
+156 11
+(4, 4),
+1, 6, -1, Atthisplacewewerevisitedbythechiefofthedistrict
+2, 6, -1, Pongo(bushboc)
+3, 6, -1, whohadlefthispalacetoseeusandinviteushisway
+4, 4, -1, forhefearedwemightgivehimtheslipbygoingwestintoUyofu
+5, 6, -1, Hesentusacow
+6, 6, -1, andsaidheshouldlikesomereturn
+7, 6, -1, forMasudi
+8, 6, -1, whohadgoneahead
+9, 6, -1, onlygavehimatrifle
+10, 6, -1, professingtobeourvanguard
+11, 0, -1, andtellinghimthatassoonaswecamewiththelargecaravanwewouldsatisfyhimtohisheart'scontent.
+157 12
+(6, 7),
+1, 6, -1, Itwasgiven
+2, 6, -1, aftermanyangrywords
+3, 6, -1, butitwastheoldstoryoveragainhewouldhaveonemorewireandacloth
+4, 6, -1, orelsehewouldnotallowustoproceedonthemorrow
+5, 6, -1, Mymen
+6, 6, -1, thistimereallyprovoked
+7, 6, -1, saidtheywouldfightitout
+8, 6, -1, akingbreakinghiswordinthatway
+9, 6, -1, Butintheendthedemandhadtobepaid
+10, 6, -1, andatlast
+11, 6, -1, at9P
+12, 0, -1, thedrumsbeatthesatisfaction.
+158 10
+(1, 1),
+1, 0, -1, Happilynoonetriedtopillageushere
+2, 6, -1, soonwewenttoVikora's
+3, 6, -1, anotherofficer
+4, 6, -1, livingatN'yakasenye
+5, 6, -1, underasandstonehill
+6, 6, -1, facedwithadykeofwhitequartz
+7, 6, -1, overwhichleapedasmallstreamofwateraseventyfeetdropwhich
+8, 6, -1, itissaid
+9, 6, -1, Suwarorasometimespaidhomagetowhenthelandwasoppressedbydrought
+10, 6, -1, Vikora'sfatheritwaswhomSirbokoofMiningashot.
+159 13
+(1, 1),
+1, 2, -1, JustthenBombayreturnedflushedwiththeexcitementofagreatsuccess
+2, 6, -1, HehadbeeninMasudi'scamp
+3, 6, -1, andhaddeliveredmymessagetoInsangez
+4, 6, -1, Asudi
+5, 6, -1, hesaid
+6, 6, -1, hadbeenthereafortnightunabletosettlehishongo
+7, 6, -1, forthegreatMkamahadnotdeignedtoseehim
+8, 6, -1, thoughtheArabhadbeendailytohispalacerequestinganinterview
+9, 6, -1, "Well
+10, 6, -1, "Isaid
+11, 6, -1, "thatisallveryinteresting
+12, 6, -1, butwhatnext
+13, 6, -1, willthebigkingseeus
+160 12
+(7, 7),
+1, 6, -1, Onleavingthisinterestingplace
+2, 6, -1, withthewidespreadinformationofallthesurroundingcountriesIhadgained
+3, 6, -1, mymindwassoimpressedwiththetopographicalfeaturesofallthispartofAfrica
+4, 6, -1, thatinmyheartIresolvedIwouldmakeRumanikaashappyashehadmademe
+5, 6, -1, andaskedK'yengohisdoctor
+6, 6, -1, ofallthingsIpossessedwhatthekingwouldlikebest
+7, 3, -1, TomysurpriseIthenlearntthatRumanikahadsethisheartontherevolvingrifleIhadbroughtforMtesatheone
+8, 6, -1, infact
+9, 6, -1, whichhehadpreventedmysendingontoUgandainthehandsofKachuchu
+10, 6, -1, andhewouldhavebeggedmeforitbeforehadhishigh-mindeddignity
+11, 6, -1, andtheprinciplehehadestablishedofneverbeggingforanything
+12, 6, -1, notinterfered.
+162 7
+(4, 4),
+1, 6, -1, Beforebreakingup
+2, 6, -1, RumanikawishedtogivemeanynumberofivoriesImightliketomention
+3, 6, -1, eventhreeorfourhundred
+4, 6, -1, asalastingremembrancethatIhaddonehimthehonourofvisitingKaragueinhislifetime
+5, 6, -1, forthoughDagarahadgiventocolouredmerchants
+6, 6, -1, hewouldbethefirstwhohadgiventoawhiteman
+7, 6, -1, Ofcoursethisroyalofferwasdeclinedwithpoliteness
+163 9
+(6, 5),
+1, 6, -1, hemustunderstandthatitwasnotthecustomofbigmeninmycountrytoacceptpresentsofvaluewhenwemadevisitsofpleasure
+2, 0, -1, IhadenjoyedmyresidenceinKarague
+3, 6, -1, hisintellectualconversationsandhiskindhospitality
+4, 6, -1, allofwhichIshouldrecordinmybookstohanddowntoposterity
+5, 6, -1, butifhewouldgivemeacow'shorn
+6, 6, -1, IwouldkeepitasatrophyofthehappydaysIhadspentinhiscountry
+7, 6, -1, Hegavemeone
+8, 6, -1, measuring3feet5inchesinlength
+9, 6, -1, and18.75inchesincircumferenceatthebase.
+166 12
+(1, 1),
+1, 6, -1, IntheeveningwehadanotherrowwithmyheadmenBarakahavingaccusedBombayoftryingtokillhimwithmagic
+2, 6, -1, Bombay
+3, 6, -1, whowassoincessantlybulliedbyBaraka'sofficiousattemptstoformpartycliquesopposedtotheinterestsofthejourney
+4, 6, -1, andgethimturnedoutofthecamp
+5, 6, -1, indiscreetlywenttooneofK'yengo'smen
+6, 6, -1, andaskedhimifheknewofanymedicinethatwouldaffecttheheartsoftheWanguanasoastoinclinethemtowardshim
+7, 6, -1, andonthesubdoctorsayingYes
+8, 6, -1, Bombaygavehimsomebeads
+9, 6, -1, andboughtthemedicinerequired
+10, 6, -1, which
+11, 6, -1, putintoapotofpombe
+12, 6, -1, wasplacedbyBaraka'sside.
+168 7
+(7, 7),
+1, 6, -1, SomeothertravellersfromthenorthagaininformedusthattheyhadheardofWanguanawhoattemptedtotradeinGaniandChopi
+2, 6, -1, butwerekilledbythenatives
+3, 6, -1, InowassuredRumanikathatintwoorthreeyearshewouldhaveagreatertradewithEgyptthanheevercouldhavewithZanzibar
+4, 6, -1, forwhenIopenedtheroad
+5, 6, -1, allthosemenheheardofwouldswarmupheretovisithim
+6, 6, -1, however
+7, 0, -1, onlylaughedatmyfollyinproposingtogotoaplaceofwhichallIheardwasmerelythateverystrangerwhowenttherewaskilled
+169 10
+(6, 6),
+1, 6, -1, Hebegantoshowadisinclinationtoallowmygoingthere
+2, 6, -1, andthoughfromthemostfriendlyintention
+3, 6, -1, thisviewwasalarming
+4, 6, -1, foronewordfromhimcouldhaveruinedmyprojects
+5, 6, -1, Asitwas
+6, 4, -1, Ifearedmyfollowersmighttakefrightandrefusetoadvancewithme
+7, 6, -1, IthoughtitgoodpolicytotalkoftherebeingmanyroadsleadingthroughAfrica
+8, 6, -1, sothatRumanikamightseehehadnotgot
+9, 6, -1, ashethought
+10, 6, -1, thesolekeytotheinterior.
+170 15
+(5, 5),
+1, 6, -1, Although
+2, 6, -1, however
+3, 6, -1, thisveryinterestingpeople
+4, 6, -1, theWahuma
+5, 0, -1, delightinsupposingthemselvestobeofEuropeanorigin
+6, 6, -1, theyareforcedtoconfess
+7, 6, -1, oncloserexamination
+8, 6, -1, thatalthoughtheycameinthefirstinstancefromthedoubtfulnorth
+9, 6, -1, theycamelatterlyfromtheeast
+10, 6, -1, aspartofapowerfulWahumatribe
+11, 6, -1, beyondKidi
+12, 6, -1, whoexcelinarms
+13, 6, -1, andaresofiercenoKidipeople
+14, 6, -1, terribleinwarasthesetooaredescribedtobe
+15, 6, -1, canstandagainstthem.
+171 11
+(8, 8),
+1, 6, -1, afterorderingalltheseizurestobegivenuptoMaulaonbehalfoftheking
+2, 6, -1, andthreateningtodischargeanyofmymenwhodaredretainoneitemoftheproperty
+3, 6, -1, Ishutthedoorofmyhuttodopenancefortwodays
+4, 6, -1, givingordersthatnobodybutmycookIlmas
+5, 6, -1, notevenBombay
+6, 6, -1, shouldcomenearme
+7, 6, -1, forthekinghadcausedmymentosinhaddisgracedtheirredclothandhadinflictedonmeagreaterinsultthanIcouldbear
+8, 1, -1, Iwasashamedtoshowmyface
+9, 6, -1, Justasthedoorwasclosed
+10, 6, -1, otherpagesfromthekingbroughttheWhitworthrifletobecleaned
+11, 6, -1, anddemandedanadmittance
+172 4
+(2, 2),
+1, 6, -1, OnMaula'sreturn
+2, 6, -1, IwastoldthekingwouldnotbelievesogenerousamanasBanacouldhavesenthimsofewbeads
+3, 6, -1, hebelievedmostofmystoremusthavebeenstolenontheroad
+4, 6, -1, andwouldaskmeaboutthatto-morrow.
+173 9
+(6, 6),
+1, 6, -1, HeintimatedthatforthefutureImustfireagunatthewaitinghutwheneverIenteredthepalace
+2, 6, -1, sothathemighthearofmyarrival
+3, 6, -1, forhehadbeenupthatmorning
+4, 6, -1, andwouldhavebeengladtoseeme
+5, 6, -1, onlytheboys
+6, 4, -1, fromfearofenteringhiscabinet
+7, 6, -1, hadforgedalie
+8, 6, -1, anddeprivedhimofanyinterviewwithme
+9, 6, -1, whichhehadlongwishedtoget.
+174 12
+(11, 11),
+1, 6, -1, InalittlewhileIfelttiredofthemonotony
+2, 6, -1, andwishedtohangupacurtain
+3, 6, -1, thatImightliedowninprivacyandsleeptillthekingwasready
+4, 6, -1, buttheofficersinwaitingforbadethis
+5, 6, -1, ascontrarytolaw
+6, 6, -1, andleftmetheonlyalternativeofwalkingupanddownthecourttokilltime
+7, 6, -1, spreadingmyumbrellaagainstthepowerfulraysofthesun
+8, 6, -1, Averylittleofthatmademefidgetyandimpetuous
+9, 6, -1, whichtheWagandanoticed
+10, 6, -1, and
+11, 4, -1, fromfearoftheconsequences
+12, 6, -1, theybegantoclosethegatetopreventmywalkingaway.
+175 11
+(7, 7),
+1, 6, -1, UntilnowIdidnotfeelsurewherethevariousrushdrainsIhadbeencrossingsinceleavingtheKatongavalleyallwentto
+2, 6, -1, butheremymindwasmadeup
+3, 6, -1, forIfoundalargevolumeofwatergoingtothenorthwards
+4, 6, -1, Itookoffmyclothesattheendofthebridgeandjumpedintothestream
+5, 6, -1, whichIfoundwastwelveyardsorsobroad
+6, 6, -1, anddeeperthanmyheight
+7, 0, -1, Iwasdelightedbeyondmeasureatthisverysurprisingfact
+8, 6, -1, thatIwasindeedonthenorthernslopesofthecontinent
+9, 6, -1, andhad
+10, 6, -1, toallappearance
+11, 6, -1, foundoneofthebranchesoftheNile'sexitfromtheN'yanza.
+176 11
+(6, 5),
+1, 6, -1, "Yes
+2, 6, -1, atAnguza
+3, 6, -1, "ThenyouhadtwomothersandtwofathersonesetdiedatAnguja
+4, 6, -1, andtheothersetatAnguza
+5, 6, -1, youareahumbug
+6, 6, -1, Idontbelieveyou
+7, 6, -1, youarenoMguana
+8, 6, -1, butaslavewhohasbeensnatchedfromhisfamily
+9, 6, -1, anddoesnotknowwhereanyofhisfamilyare
+10, 6, -1, ah
+11, 6, -1, ah
+178 12
+(4, 4),
+1, 6, -1, butNtalowontbedone
+2, 6, -1, soretortsbysaying
+3, 6, -1, "Sangizo
+4, 6, -1, youmaylaughatmebecauseIamanorphan
+5, 6, -1, butwhatareyou
+6, 6, -1, youareasavageaMshezi
+7, 6, -1, youcomefromtheMashenzi
+8, 6, -1, andyouwearskins
+9, 6, -1, notcloths
+10, 6, -1, asmendo
+11, 6, -1, soholdyourimpudenttongue"
+12, 0, -1, andthecamppealedwithmerryboisterouslaughteragain.
+179 13
+(1, 1),
+1, 6, -1, AndallthemenofthecamplaughtogetheratthewretchedNtalo'sdefeat
+2, 6, -1, butNtalowontbedone
+3, 6, -1, soretortsbysaying
+4, 6, -1, "Sangizo
+5, 6, -1, youmaylaughatmebecauseIamanorphan
+6, 6, -1, butwhatareyou
+7, 6, -1, youareasavageaMshezi
+8, 6, -1, youcomefromtheMashenzi
+9, 6, -1, andyouwearskins
+10, 6, -1, notcloths
+11, 6, -1, asmendo
+12, 6, -1, soholdyourimpudenttongue"
+13, 0, -1, andthecamppealedwithmerryboisterouslaughteragain.
+180 22
+(5, 6),
+1, 6, -1, Thekingacknowledgedthetruthfulnessoftheirstory
+2, 6, -1, sayinghehadheardthesamehimself
+3, 6, -1, andbothWakungu
+4, 6, -1, asisthecustominUganda
+5, 6, -1, thankedtheirlordinaveryenthusiasticmanner
+6, 6, -1, kneelingonthegroundfornoonecanstandinthepresenceofhismajestyinanattitudeofprayer
+7, 6, -1, andthrowingouttheirhandsastheyrepeatedthewordsN'yanzig
+8, 6, -1, N'yanzig
+9, 6, -1, aiN'yanzigMkahmawangi
+10, 6, -1, etc
+11, 6, -1, etc
+12, 6, -1, foraconsiderabletime
+13, 6, -1, when
+14, 6, -1, thinkingtheyhaddoneenoughofthis
+15, 6, -1, andheatedwiththeexertion
+16, 6, -1, theythrewthemselvesflatupontheirstomachs
+17, 6, -1, and
+18, 6, -1, flounderingaboutlikefishonland
+19, 6, -1, repeatedthesamewordsoveragainandagain
+20, 6, -1, androsedoingthesame
+21, 6, -1, withtheirfacescoveredwithearth
+22, 0, -1, formajestyinUgandaisneversatisfiedtillsubjectshavegroveledbeforeitlikethemostabjectworms.
+182 8
+(7, 7),
+1, 6, -1, 22d
+2, 6, -1, To-daythekingwenttheroundofhisrelations
+3, 6, -1, showingthebeautifulthingsgivenhimbythewhitemanaclearproofthathewasmuchfavouredbythe"spirits
+4, 6, -1, "forneitherhisfathernoranyofhisforefathershadbeensorecognisedanddistinguishedbyany"sign"asarightfulinheritortotheUgandathrone:ananti-Christianinterpretationofomens
+5, 6, -1, asrifeinthesedarkregionsnowasitwasinthetimeofKingNebuchadnezzar
+6, 6, -1, Atmidnightthethreemusketswerereturned
+7, 6, -1, andIwassopleasedwiththeyoungking'spromptattitudeandhonesty
+8, 1, -1, Ibeggedhewouldacceptthem.
+186 12
+(5, 5),
+1, 6, -1, Insteadofadmiringthischildishpastime
+2, 6, -1, whichinUgandaisconsideredroyalsport
+3, 6, -1, Iratherlookeddisdainful
+4, 6, -1, until
+5, 6, -1, apparentlydisappointedatmyindifference
+6, 6, -1, heaskedwhattheboxIhadbroughtcontained
+7, 6, -1, Onbeingtolditwasthemedicinehedesired
+8, 6, -1, heaskedmetodrawnear
+9, 6, -1, andsenthiscourtiersaway
+10, 6, -1, Whenonlytheinterpretersandoneconfidentialofficerwereleft
+11, 6, -1, besidesmyself
+12, 6, -1, hewishedtoknowifIcouldapplythemedicinewithoutitstouchingtheafflictedpart.
+188 17
+(6, 6),(17, 6),
+1, 6, -1, WereachedtheCowesbytorchlightat9p
+2, 6, -1, whenthekinghadapicnicdinnerwithme
+3, 6, -1, turnedinwithhiswomeningreatcomfort
+4, 6, -1, andsentmeofftoadrearyhut
+5, 6, -1, whereIhadtosleepuponagrassstrewfloor
+6, 3, -1, Iwassurprisedwehadtowalksofar
+7, 6, -1, when
+8, 6, -1, byappearance
+9, 6, -1, wemighthaveboateditfromtheheadofthecreekallthewaydown
+10, 6, -1, but
+11, 6, -1, oninquiry
+12, 6, -1, wasinformedoftheswampynatureofthegroundattheheadofthecreekprecludedanyapproachtotheclearwaterthere
+13, 6, -1, andhencethelongoverlandjourney
+14, 6, -1, which
+15, 6, -1, thoughfatiguingtotheunfortunatewomen
+16, 6, -1, whohadtotrotthewholewaybehindMtesa'sfourmileanhourstrides
+17, 6, -1, wasveryamusing.
+190 8
+(5, 5),(7, 5),
+1, 6, -1, Inowaskedpermissiontospeakwithhimonsomeimportantmatters
+2, 6, -1, whenhesenthiswomenawayandlistened
+3, 6, -1, IsaidIfeltanxiousabouttheroadonwhichMabrukiwastravelling
+4, 6, -1, towhichIaddedthatIhadorderedhimtotellPethericktocomehereorelsetosendpropertytothevalueofonethousanddollars
+5, 4, -1, andIfeltanxiousbecausesomeofthequeen'sofficersfeltdoubtfulaboutWagandabeingabletopenetrateKidi
+6, 6, -1, HesaidIneednotconcernmyselfonthatscore
+7, 6, -1, hewasmuchmoreanxiousforthewhitementocomeherethanevenIwas
+8, 6, -1, andhewouldnotsendmymenintoanydanger
+297 6
+(5, 4),
+1, 6, -1, Theyaresomuchwastepaper
+2, 6, -1, Gentlemen
+3, 6, -1, theIndiansarechildren
+4, 6, -1, Ifyougivethempresents
+5, 4, -1, theybelieveyoutobeafraidofthem
+6, 6, -1, Iwilldealwiththemwithoutpresents
+443 12
+(1, 1),
+1, 3, -1, Thebaron'ssurprisefoundventinapositivedistortionofhisfeatures
+2, 6, -1, "Ah
+3, 6, -1, "saidhe
+4, 6, -1, inthreedifferenttones
+5, 6, -1, "ah
+6, 6, -1, ah
+7, 6, -1, "Andasnoonehadofferedhimaseat
+8, 6, -1, heapproachedanarmchairandtookpossessionofit
+9, 6, -1, exclaiming
+10, 6, -1, "Youwillallowme
+11, 6, -1, Itrust
+12, 6, -1, Thosestairshaveputmeinsuchastate
+453 5
+(1, 4),
+1, 6, -1, Theconciergewasindespair
+2, 6, -1, "Heavens
+3, 6, -1, "heexclaimed
+4, 6, -1, "sothemaster'sdead
+5, 6, -1, Whatamisfortune
+714 8
+(8, 7),
+1, 6, -1, OfthesetheysentonetotaketheirlootbacktoKaze
+2, 6, -1, anothertoformareserveforceatMdaburu
+3, 6, -1, ontheeastflankofthewilderness
+4, 6, -1, andathird
+5, 6, -1, headedbySnayandJafu
+6, 6, -1, toattackMzanza
+7, 6, -1, AtthefirstonsetSnayandJafucarriedeverythingbeforethem
+8, 0, -1, andbecamesoexcitedovertheamountoftheirlootthattheylostallfeelingsofcareorprecaution.
+715 9
+(6, 7),
+1, 6, -1, Nextmorning
+2, 6, -1, then
+3, 6, -1, aftergivingtheTotsoverinchargeofsomementoescortthemontoKazequietly
+4, 6, -1, Isetourmyselfwithadozenmen
+5, 6, -1, andthefollowingeveningIputupwithMusa
+6, 4, -1, whotoldmeBarakahadjustleftwithoutonemanallhisslaveshavingbecomeafraidtogo
+7, 6, -1, sincethenewsoftheAraballiancehadreachedKaze
+8, 6, -1, Suwarorahadorderedhissubjectstorunupalineofbomastoprotecthisfrontier
+9, 6, -1, andhadproclaimedhisintentiontokilleverycoastmanwhodaredattempttoenterUsui.
+738 9
+(9, 9),
+1, 6, -1, NextmorningCamaralzamanwokeupbeforethebirdleftitsperch
+2, 6, -1, andnosoonerdidittakeflightthanhefolloweditagainwithaslittlesuccessasthepreviousday
+3, 6, -1, onlystoppingtoeatsomeherbsandfruithefoundbytheway
+4, 6, -1, Inthisfashionhespenttendays
+5, 6, -1, followingthebirdalldayandspendingthenightatthefootofatree
+6, 6, -1, whilstitroostedonthetopmostbough
+7, 6, -1, Ontheeleventhdaythebirdandtheprincereachedalargetown
+8, 6, -1, andassoonastheywereclosetoitswallsthebirdtookasuddenandhigherflightandwasshortlycompletelyoutofsight
+9, 6, -1, whilstCamaralzamanfeltindespairathavingtogiveupallhopesofeverrecoveringthetalismanofthePrincessBadoura.
+739 5
+(1, 1),
+1, 3, -1, Onfirstwakingshewasmuchsurprisednottofindtheprincenearher
+2, 6, -1, Shecalledherwomenandaskediftheyknewwherehewas
+3, 6, -1, andwhilsttheyweretellingherthattheyhadseenhimenterthetent
+4, 6, -1, buthadnotnoticedhisleavingit
+5, 6, -1, shetookupherbeltandperceivedthatthelittlepouchwasopenandthetalismangone.
+740 8
+(5, 4),
+1, 6, -1, Sheatonceconcludedthatherhusbandhadtakenitandwouldshortlybringitback
+2, 3, -1, Shewaitedforhimtilleveningratherimpatiently
+3, 6, -1, andwonderingwhatcouldhavekepthimfromhersolong
+4, 6, -1, Whennightcamewithouthimshefeltindespairandabusedthetalismananditsmakerroundly
+5, 6, -1, Inspiteofhergriefandanxietyhowever
+6, 6, -1, shedidnotloseherpresenceofmind
+7, 6, -1, butdecidedonacourageous
+8, 6, -1, thoughveryunusualstep.
+741 8
+(5, 4),
+1, 6, -1, Sheatonceconcludedthatherhusbandhadtakenitandwouldshortlybringitback
+2, 3, -1, Shewaitedforhimtilleveningratherimpatiently
+3, 6, -1, andwonderingwhatcouldhavekepthimfromhersolong
+4, 6, -1, Whennightcamewithouthimshefeltindespairandabusedthetalismananditsmakerroundly
+5, 6, -1, Inspiteofhergriefandanxietyhowever
+6, 6, -1, shedidnotloseherpresenceofmind
+7, 6, -1, butdecidedonacourageous
+8, 6, -1, thoughveryunusualstep.
+742 12
+(6, 6),
+1, 6, -1, Theprince
+2, 6, -1, whohadwatchedthewholescenewithmuchinterest
+3, 6, -1, nowdrewnearthespotwhereithappened
+4, 6, -1, andglancingatthedeadbirdhenoticedsomethingredlyingnearwhichhadevidentlyfallenoutofitsinside
+5, 6, -1, Hepickeditup
+6, 3, -1, andwhatwashissurprisewhenherecognisedthePrincessBadoura'stalismanwhichhadbeenthecauseofmanymisfortunes
+7, 6, -1, Itwouldbeimpossibletodescribehisjoy
+8, 6, -1, hekissedthetalismanrepeatedly
+9, 6, -1, wrappeditup
+10, 6, -1, andcarefullytieditroundhisarm
+11, 6, -1, Forthefirsttimesincehisseparationfromtheprincesshehadagoodnight
+12, 6, -1, andnextmorninghewasupatdaybreakandwentcheerfullytoaskwhatworkheshoulddo.
+743 3
+(3, 3),
+1, 6, -1, Hethenledthegardenertothecave
+2, 6, -1, andhavingshownhimthetreasurestoredupthere
+3, 0, -1, saidhowhappyitmadehimthatHeavenshouldinthiswayrewardhiskindhost'smanyvirtuesandcompensatehimfortheprivationsofmanyyears.
+744 11
+(5, 5),
+1, 6, -1, Itmaywellbebelievedthattheprincefeltindespairatthisfreshmisfortune
+2, 6, -1, whichobligedhimtospendanotheryearinastrangeanddistastefulcountry
+3, 6, -1, Moreover
+4, 6, -1, hehadoncemorelostthePrincessBadoura'stalisman
+5, 4, -1, whichhefearedhemightneverseeagain
+6, 6, -1, Therewasnothingleftforhimbuttohirethegardenastheoldmanhaddone
+7, 6, -1, andtoliveoninthecottage
+8, 6, -1, Ashecouldnotwellcultivatethegardenbyhimself
+9, 6, -1, heengagedaladtohelphim
+10, 6, -1, andtosecuretherestofthetreasureheputtheremaininggolddustintofiftymorejars
+11, 6, -1, fillingthemupwitholivessoastohavethemreadyfortransport.
+745 7
+(3, 4),
+1, 6, -1, "Alas
+2, 6, -1, Sire
+3, 6, -1, IbringsadnewstoyourMajesty
+4, 6, -1, Therecanbenodoubtthattheprincehascompletelylosthissenses
+5, 6, -1, Hedeclaresthathesawaladysleepingonhiscouchlastnight
+6, 6, -1, andthestateyouseemeinproveshowviolentcontradictionmakeshim
+7, 6, -1, Hethengaveaminuteaccountofalltheprincehadsaidanddone.
+746 1
+(1, 1),
+1, 5, -1, "IfeelreallyveryangrywithyourslaveforalarminghisMajestybythenewshebroughthim."
+747 8
+(6, 8),
+1, 6, -1, Theemiracceptedthecondition
+2, 6, -1, andthekingledhimtotheprincess
+3, 6, -1, who
+4, 6, -1, veilingherface
+5, 6, -1, remarked
+6, 3, -1, "Iamsurprised
+7, 6, -1, sire
+8, 6, -1, thatyoushouldbringanunknownmanintomypresence".
+748 6
+(4, 6),
+1, 0, -1, Nowithappenedthatafterthingshadbeengoingoninthiswayforsometimethenurse'ssonMarzavanreturnedfromhistravels
+2, 6, -1, Hehadbeeninmanycountriesandlearntmanythings
+3, 6, -1, includingastrology
+4, 6, -1, Needlesstosaythatoneofthefirstthingshismothertoldhimwasthesadconditionoftheprincess
+5, 6, -1, hisfostersister
+6, 6, -1, Marzavanaskedifshecouldnotmanagetolethimseetheprincesswithouttheking'sknowledge.
+749 9
+(4, 4),
+1, 6, -1, "Ifwhatyoutellme
+2, 6, -1, Princess
+3, 6, -1, isindeedthecase
+4, 6, -1, Idonotdespairoffindingcomfortforyou
+5, 6, -1, Takepatienceyetalittlelonger
+6, 6, -1, Iwillsetoutatoncetoexploreothercountries
+7, 6, -1, andwhenyouhearofmyreturnbesurethatheforwhomyousighisnotfaroff
+8, 6, -1, Sosaying
+9, 6, -1, hetookhisleaveandstartednextmorningonhistravels.
+750 6
+(2, 2),
+1, 6, -1, "Nowisthetimetoperformyourpromise
+2, 2, -1, IamsoimpatienttoseemybelovedprincessoncemorethatIamsureIshallfallillagainifwedonotstartsoon
+3, 6, -1, Theoneobstacleismyfather'stendercareofme
+4, 6, -1, for
+5, 6, -1, asyoumayhavenoticed
+6, 6, -1, hecannotbearmeoutofhissight."
+752 5
+(5, 5),
+1, 6, -1, InanswertoCamaralzaman'sinquiriesastothereasonforthis
+2, 6, -1, Marzavanrepliedthattheonlychancetheyhadofcontinuingtheirjourneywastodivertattentionbycreatingtheideaoftheprince'sdeath
+3, 6, -1, "Yourfatherwilldoubtlessbeplungedinthedeepestgrief
+4, 6, -1, "hewenton
+5, 0, -1, "buthisjoyatyourreturnwillbeallthegreater."
+753 11
+(1, 1),
+1, 6, -1, Theprinceindespairatallhisuselesstroublebegantothinkwhetherhehadbetterreturntothecamp
+2, 6, -1, "But
+3, 6, -1, "thoughthe
+4, 6, -1, "howshallIfindmywayback
+5, 6, -1, MustIgouphillordown
+6, 6, -1, Ishouldcertainlylosemywayinthedark
+7, 6, -1, evenifmystrengthheldout
+8, 1, -1, Overwhelmedbyhunger
+9, 6, -1, thirst
+10, 6, -1, fatigueandsleep
+11, 6, -1, heendedbyspendingthenightatthefootofthetree.
+761 38
+(30, 30),
+1, 6, -1, Atdaylightwewanderedinland
+2, 6, -1, andsoonsawsomehuts
+3, 6, -1, towhichwedirectedoursteps
+4, 6, -1, Aswedrewneartheirblackinhabitantsswarmedoutingreatnumbersandsurroundedus
+5, 6, -1, andwewereledtotheirhouses
+6, 6, -1, andasitweredividedamongourcaptors
+7, 6, -1, Iwithfiveotherswastakenintoahut
+8, 6, -1, whereweweremadetositupontheground
+9, 6, -1, andcertainherbsweregiventous
+10, 6, -1, whichtheblacksmadesignstoustoeat
+11, 6, -1, Observingthattheythemselvesdidnottouchthem
+12, 6, -1, Iwascarefulonlytopretendtotastemyportion
+13, 6, -1, butmycompanions
+14, 6, -1, beingveryhungry
+15, 6, -1, rashlyateupallthatwassetbeforethem
+16, 6, -1, andverysoonIhadthehorrorofseeingthembecomeperfectlymad
+17, 6, -1, ThoughtheychatteredincessantlyIcouldnotunderstandawordtheysaid
+18, 6, -1, nordidtheyheedwhenIspoketothem
+19, 6, -1, Thesavagesnowproducedlargebowlsfullofricepreparedwithcocoanutoil
+20, 6, -1, ofwhichmycrazycomradesateeagerly
+21, 6, -1, butIonlytastedafewgrains
+22, 6, -1, understandingclearlythattheobjectofourcaptorswastofattenusspeedilyfortheirowneating
+23, 6, -1, andthiswasexactlywhathappened
+24, 6, -1, Myunluckycompanionshavinglosttheirreason
+25, 6, -1, feltneitheranxietynorfear
+26, 6, -1, andategreedilyallthatwasofferedthem
+27, 6, -1, Sotheyweresoonfatandtherewasanendofthem
+28, 6, -1, butIgrewleanerdaybyday
+29, 6, -1, forIatebutlittle
+30, 4, -1, andeventhatlittledidmenogoodbyreasonofmyfearofwhatlaybeforeme
+31, 6, -1, However
+32, 6, -1, asIwassofarfrombeingatemptingmorsel
+33, 6, -1, Iwasallowedtowanderaboutfreely
+34, 6, -1, andoneday
+35, 6, -1, whenalltheblackshadgoneoffuponsomeexpeditionleavingonlyanoldmantoguardme
+36, 6, -1, Imanagedtoescapefromhimandplungedintotheforest
+37, 6, -1, runningfasterthemorehecriedtometocomeback
+38, 6, -1, untilIhadcompletelydistancedhim.
+765 25
+(2, 19),(20, 19),
+1, 6, -1, Persecutedbyillfortune
+2, 6, -1, andstrickenwithgrief
+3, 6, -1, thereseemedtobeonlyonemeansofsafetylefttome
+4, 6, -1, Ishavedmybeardandmyeyebrows
+5, 6, -1, andputonthedressofacalender
+6, 6, -1, inwhichitwaseasyformetotravelwithoutbeingknown
+7, 6, -1, IavoidedthetownstillIreachedthekingdomofthefamousandpowerfulCaliph
+8, 6, -1, harounalraschid
+9, 6, -1, whenIhadnofurtherreasontofearmyenemies
+10, 6, -1, ItwasmyintentiontocometoBagdadandtothrowmyselfatthefeetofhisHighness
+11, 6, -1, whowould
+12, 6, -1, Ifeltcertain
+13, 6, -1, betouchedbymysadstory
+14, 6, -1, andwouldgrantme
+15, 6, -1, besides
+16, 6, -1, hishelpandprotection
+17, 6, -1, hatyouaskisimpossible
+18, 6, -1, "sheanswered
+19, 6, -1, "butstayherewithmeinstead
+20, 6, -1, andwecanbehappy
+21, 6, -1, andallyouwillhavetodoistobetakeyourselftotheforesteverytenthday
+22, 6, -1, whenIamexpectingmymasterthegenius
+23, 6, -1, Heisveryjealous
+24, 6, -1, asyouknow
+25, 6, -1, andwillnotsufferamantocomenearme."
+766 8
+(3, 3),
+1, 6, -1, "Princess
+2, 6, -1, "Ireplied
+3, 4, -1, "Iseeitisonlyfearofthegeniusthatmakesyouactlikethis
+4, 6, -1, Formyself
+5, 6, -1, IdreadhimsolittlethatImeantobreakhistalismaninpieces
+6, 6, -1, Awfulthoughyouthinkhim
+7, 6, -1, heshallfeeltheweightofmyarm
+8, 6, -1, andIherewithtakeasolemnvowtostampoutthewholerace."
+767 8
+(5, 5),
+1, 6, -1, "Princess
+2, 6, -1, "Ireplied
+3, 4, -1, "Iseeitisonlyfearofthegeniusthatmakesyouactlikethis
+4, 6, -1, Formyself
+5, 6, -1, IdreadhimsolittlethatImeantobreakhistalismaninpieces
+6, 6, -1, Awfulthoughyouthinkhim
+7, 6, -1, heshallfeeltheweightofmyarm
+8, 6, -1, andIherewithtakeasolemnvowtostampoutthewholerace."
+769 25
+(20, 20),
+1, 6, -1, Iwasabouttofallonmykneesandthanktheprincessbutshedidnotgivemetime
+2, 6, -1, TurningtotheSultan
+3, 6, -1, herfather
+4, 6, -1, shesaid
+5, 6, -1, "Sire
+6, 6, -1, Ihavegainedthebattle
+7, 6, -1, butithascostmedear
+8, 6, -1, Thefirehaspenetratedtomyheart
+9, 6, -1, andIhaveonlyafewmomentstolive
+10, 6, -1, ThiswouldnothavehappenedifIhadonlynoticedthelastpomegranateseedandeatenitliketherest
+11, 6, -1, Itwasthelaststruggleofthegenius
+12, 6, -1, anduptothattimeIwasquitesafe
+13, 6, -1, ButhavingletthischanceslipIwasforcedtoresorttofire
+14, 6, -1, andinspiteofallhisexperienceIshowedthegeniusthatIknewmorethanhedid
+15, 6, -1, Heisdeadandinashes
+16, 6, -1, butmyowndeathisapproachingfast
+17, 6, -1, "Mydaughter
+18, 6, -1, "criedtheSultan
+19, 6, -1, "howsadismycondition
+20, 3, -1, IamonlysurprisedIamaliveatall
+21, 6, -1, Theeunuchisconsumedbytheflames
+22, 6, -1, andtheprincewhomyouhavedeliveredhaslostthesightofoneeye
+23, 6, -1, Hecouldsaynomore
+24, 6, -1, forsobschokedhisvoice
+25, 6, -1, andweallwepttogether.
+771 7
+(6, 5),
+1, 6, -1, Theprincecouldhardlybelievehisears
+2, 6, -1, androdeoffashardashecould
+3, 6, -1, Hefoundhisway
+4, 6, -1, andarrivedsafeandsoundathisfather'shouse
+5, 6, -1, wherehetoldhimofthedangerhehadrunbecauseofthegrandvizir'scarelessness
+6, 5, -1, Thekingwasveryangry
+7, 5, -1, andhadhimstrangledimmediately.
+772 8
+(3, 2),
+1, 6, -1, Whilstshewascryingthegrandvizircameinandaskedifthefishwereready
+2, 6, -1, Shetoldhimallthathadhappened
+3, 3, -1, andhewasmuchsurprised
+4, 6, -1, Hesentatonceforthefisherman
+5, 6, -1, andwhenhecamesaidtohim
+6, 6, -1, "Fisherman
+7, 6, -1, bringmefourmorefishlikeyouhavebroughtalready
+8, 6, -1, foranaccidenthashappenedtothemsothattheycannotbeserveduptotheSultan."
+786 8
+(2, 2),
+1, 6, -1, Theprincewasnotasleep
+2, 6, -1, andashelayawakemoaningoverallthesadeventswhichhadseparatedhimfromhiswife
+3, 6, -1, hethoughtheheardaknockatthegardendoor
+4, 6, -1, Hewenttoopenit
+5, 6, -1, andwasimmediatelyseizedbythecaptainandsailors
+6, 6, -1, whowithoutawordofexplanationforciblyborehimofftotheboat
+7, 6, -1, whichtookthembacktotheshipwithoutlossoftime
+8, 6, -1, Nosoonerweretheyonboardthantheyweighedanchorandsetsail.
+787 5
+(1, 1),
+1, 3, -1, Camaralzamanwasmuchsurprisedathearingthekingwhomheneversuspectedofbeingawomanindisguiseassertingtheiracquaintance
+2, 6, -1, forhefeltsurehehadneverseenherbefore
+3, 6, -1, Howeverhereceivedallthepraisesbestowedonhimwithbecomingmodesty
+4, 6, -1, andprostratinghimself
+5, 6, -1, said:
+788 9
+(3, 6),
+1, 6, -1, Camaralzamantookthetalismanand
+2, 6, -1, holdingittothelight
+3, 3, -1, criedwithsurprise
+4, 6, -1, "Sire
+5, 6, -1, youaskmetheuseofthistalisman
+6, 6, -1, Alas
+7, 6, -1, hithertoithasbeenonlyasourceofmisfortunetome
+8, 6, -1, beingthecauseofmyseparationfromtheoneIlovebestonearth
+9, 1, -1, ThestoryissosadandstrangethatIamsureyourMajestywillbetouchedbyitifyouwillpermitmetotellityou."
+789 6
+(3, 4),
+1, 6, -1, "Donotexpectevertoseethekingagain
+2, 6, -1, "saidtheprincess
+3, 0, -1, asshewipedthetearsofjoyfromhereyes
+4, 6, -1, "inmeyouseetheking
+5, 6, -1, Letussitdown
+6, 6, -1, andIwilltellyouallaboutit."
+790 2
+(1, 1),
+1, 3, -1, Whenthekingarrivedgreatwashissurpriseatfindingastrangeladyincompanyofthegrandtreasurerwhohadnoactualrighttoentertheprivateapartment
+2, 6, -1, Seatinghimselfheaskedfortheking.
+791 9
+(5, 5),
+1, 6, -1, Thisadviceappearingreasonable
+2, 6, -1, Khacandecidedtofollowit
+3, 6, -1, buthiswrathagainsthissondidnotabate
+4, 6, -1, Noureddindarednotappearallthatday
+5, 4, -1, andfearingtotakerefugewithhisusualassociatesincasehisfathershouldseekhimthere
+6, 6, -1, hespentthedayinasecludedgardenwherehewasnotknown
+7, 6, -1, Hedidnotreturnhometillafterhisfatherhadgonetobed
+8, 6, -1, andwentoutearlynextmorningbeforethevizirawoke
+9, 6, -1, andtheseprecautionshekeptupduringanentiremonth.
+792 6
+(3, 3),
+1, 6, -1, TheCaliphharounalraschid
+2, 6, -1, chancingatthatmomenttoopenawindowinthesaloonofhispalacelookingonthegarden
+3, 3, -1, wassurprisedtoseethepavilionbrilliantlyilluminated
+4, 6, -1, Callingthegrandvizir
+5, 6, -1, Giafar
+6, 6, -1, hesaidtohim:
+793 11
+(11, 11),
+1, 6, -1, ThatmorningtheprincessroseearlierthanshehaddonesinceshehadbeencarriedintoAfricabythemagician
+2, 6, -1, whosecompanyshewasforcedtoendureonceaday
+3, 6, -1, She
+4, 6, -1, however
+5, 6, -1, treatedhimsoharshlythathedarednotlivetherealtogether
+6, 6, -1, Asshewasdressing
+7, 6, -1, oneofherwomenlookedoutandsawAladdin
+8, 6, -1, Theprincessranandopenedthewindow
+9, 6, -1, andatthenoiseshemadeAladdinlookedup
+10, 6, -1, Shecalledtohimtocometoher
+11, 0, -1, andgreatwasthejoyoftheseloversatseeingeachotheragain.
+796 26
+(10, 13),
+1, 6, -1, Meanwhile
+2, 6, -1, PrinceFirouzSchahhadgonegailyupintotheair
+3, 6, -1, andforthespaceofanhourcontinuedtoascendhigherandhigher
+4, 6, -1, tilltheverymountainswerenotdistinguishablefromtheplains
+5, 6, -1, Thenhebegantothinkitwastimetocomedown
+6, 6, -1, andtookforgrantedthat
+7, 6, -1, inordertodothis
+8, 6, -1, itwasonlyneedfultoturnthescrewthereverseway
+9, 6, -1, but
+10, 6, -1, tohissurpriseandhorror
+11, 6, -1, hefoundthat
+12, 6, -1, turnashemight
+13, 6, -1, hedidnotmakethesmallestimpression
+14, 6, -1, Hethenrememberedthathehadneverwaitedtoaskhowhewastogetbacktoearthagain
+15, 6, -1, andunderstoodthedangerinwhichhestood
+16, 6, -1, Luckily
+17, 6, -1, hedidnotlosehishead
+18, 6, -1, andsetaboutexaminingthehorse'sneckwithgreatcare
+19, 6, -1, tillatlast
+20, 0, -1, tohisintensejoy
+21, 6, -1, hediscoveredatinylittlepeg
+22, 6, -1, muchsmallerthantheother
+23, 6, -1, closetotherightear
+24, 6, -1, Thisheturned
+25, 6, -1, andfoundhimselfdroppingtotheearth
+26, 6, -1, thoughmoreslowlythanhehadleftit.
+797 16
+(11, 12),
+1, 6, -1, "Idonotknow
+2, 6, -1, Princess
+3, 6, -1, howtoexpressmygratitudeforyourobligingoffer
+4, 6, -1, whichIwouldacceptatonceifitwerenotfortherecollectionofalltheuneasinesstheKingmyfathermustbesufferingonmyaccount
+5, 6, -1, Ishouldbeunworthyindeedofalltheloveheshowersuponme
+6, 6, -1, ifIdidnotreturntohimatthefirstpossiblemoment
+7, 6, -1, For
+8, 6, -1, whileIamenjoyingthesocietyofthemostamiableofallprincesses
+9, 6, -1, heis
+10, 6, -1, Iamquiteconvinced
+11, 6, -1, plungedinthedeepestgrief
+12, 6, -1, havinglostallhopeofseeingmeagain
+13, 6, -1, Iamsureyouwillunderstandmyposition
+14, 0, -1, andwillfeelthattoremainawayoneinstantlongerthanisnecessarywouldnotonlybeungratefulonmypart
+15, 6, -1, butperhapsevenacrime
+16, 6, -1, forhowdoIknowifmyabsencemaynotbreakhisheart
+798 12
+(6, 6),
+1, 6, -1, "Princess
+2, 6, -1, "headded
+3, 6, -1, "itmaybethatinyourheartyouclassmewiththosefalseloverswhosedevotioncannotstandthetestofabsence
+4, 6, -1, Ifyoudo
+5, 6, -1, youwrongme
+6, 4, -1, andwereitnotforfearofoffendingyou
+7, 6, -1, Iwouldbeseechyoutocomewithme
+8, 0, -1, formylifecanonlybehappywhenpassedwithyou
+9, 6, -1, AsforyourreceptionatthePersianCourt
+10, 6, -1, itwillbeaswarmasyourmeritsdeserve
+11, 6, -1, andasforwhatconcernstheKingofBengal
+12, 6, -1, hemustbemuchmoreindifferenttoyourwelfarethanyouhaveledmetobelieveifhedoesnotgivehisconsenttoourmarriage."
+799 10
+(10, 10),
+1, 6, -1, Theprinceatonceseizedtheopeningthusgivenhim
+2, 6, -1, andtoldthewholestoryofhistreatmentbythePrincessofBengal
+3, 6, -1, notevenconcealingthefactthatshehadfalleninlovewithhim
+4, 6, -1, "And
+5, 6, -1, Sire
+6, 6, -1, "endedtheprince
+7, 6, -1, "havinggivenmyroyalwordthatyouwouldnotrefuseyourconsenttoourmarriage
+8, 6, -1, IpersuadedhertoreturnwithmeontheIndian'shorse
+9, 6, -1, IhaveleftherinoneofyourHighness'scountryhouses
+10, 4, -1, wheresheiswaitinganxiouslytobeassuredthatIhavenotpromisedinvain
+800 9
+(5, 5),
+1, 6, -1, TheSultanwastransportedwithdelightonlearningtheresultoftheinterview
+2, 6, -1, andhisopinionofthedoctor'sskillwasraisedstillhigherwhen
+3, 6, -1, onthefollowingday
+4, 6, -1, theprincessbehavedtowardshiminsuchawayastopersuadehimthathercompletecurewouldnotbelongdelayed
+5, 0, -1, Howeverhecontentedhimselfwithassuringherhowhappyhewastoseeherhealthsomuchimproved
+6, 6, -1, andexhortedhertomakeeveryuseofsocleveraphysician
+7, 6, -1, andtoreposeentireconfidenceinhim
+8, 6, -1, Thenheretired
+9, 6, -1, withoutawaitinganyreplyfromtheprincess.
+801 10
+(10, 10),
+1, 6, -1, TheyobtainedpermissionoftheSultantotakeuptheirabodeinthepalaceforsomeweeks
+2, 6, -1, andneverlefttheirsisternightorday
+3, 6, -1, Whenatlastalittleboy
+4, 6, -1, beautifulasthesun
+5, 6, -1, wasborn
+6, 6, -1, theylaidhiminhiscradleandcarrieditdowntoacanalwhichpassedthroughthegroundsofthepalace
+7, 6, -1, Then
+8, 6, -1, leavingittoitsfate
+9, 6, -1, theyinformedtheSultanthatinsteadofthesonhehadsofondlydesiredtheSultanahadgivenbirthtoapuppy
+10, 1, -1, AtthisdreadfulnewstheSultanwassoovercomewithrageandgriefthatitwaswithgreatdifficultythatthegrandvizirmanagedtosavetheSultanafromhiswrath.
+802 33
+(24, 24),
+1, 6, -1, Whenthedervishsawthattheprince'smindwasmadeup
+2, 6, -1, hedrewaballfromabagthatlaynearhim
+3, 6, -1, andhelditout
+4, 6, -1, "Ifitmustbeso
+5, 6, -1, "hesaid
+6, 6, -1, withasigh
+7, 6, -1, "takethis
+8, 6, -1, andwhenyouhavemountedyourhorsethrowtheballinfrontofyou
+9, 6, -1, Itwillrollontillitreachesthefootofamountain
+10, 6, -1, andwhenitstopsyouwillstopalso
+11, 6, -1, Youwillthenthrowthebridleonyourhorse'sneckwithoutanyfearofhisstraying
+12, 6, -1, andwilldismount
+13, 6, -1, Oneachsideyouwillseevastheapsofbigblackstones
+14, 6, -1, andwillhearamultitudeofinsultingvoices
+15, 6, -1, butpaynoheedtothem
+16, 6, -1, and
+17, 6, -1, aboveall
+18, 6, -1, bewareofeverturningyourhead
+19, 6, -1, Ifyoudo
+20, 6, -1, youwillinstantlybecomeablackstoneliketherest
+21, 6, -1, Forthosestonesareinrealitymenlikeyourself
+22, 6, -1, whohavebeenonthesamequest
+23, 6, -1, andhavefailed
+24, 4, -1, asIfearthatyoumayfailalso
+25, 6, -1, Ifyoumanagetoavoidthispitfall
+26, 6, -1, andtoreachthetopofthemountain
+27, 6, -1, youwillfindtheretheTalkingBirdinasplendidcage
+28, 6, -1, andyoucanaskofhimwhereyouaretoseektheSingingTreeandtheGoldenWater
+29, 6, -1, ThatisallIhavetosay
+30, 6, -1, Youknowwhatyouhavetodo
+31, 6, -1, andwhattoavoid
+32, 6, -1, butifyouarewiseyouwillthinkofitnomore
+33, 6, -1, butreturnwhenceyouhavecome."
+804 11
+(4, 4),
+1, 6, -1, When
+2, 6, -1, however
+3, 6, -1, thesamethinghappenedasecondtime
+4, 4, -1, theyfearedthattheSultanmightbeangrywiththemfortheircarelessness
+5, 6, -1, Buthetookitingoodpart
+6, 6, -1, and
+7, 6, -1, drawingthreelittlegoldenballsfromhispurse
+8, 6, -1, heheldthemouttoPrinceBahman
+9, 6, -1, saying
+10, 6, -1, "Puttheseinyourbosomandyouwillnotforgetathirdtime
+11, 6, -1, forwhenyouremoveyourgirdleto-nightthenoisetheywillmakeinfallingwillremindyouofmywishes."
+805 18
+(15, 14),
+1, 6, -1, ThePrincessParizadewasmuchdisturbedatthenews
+2, 6, -1, anddidnotconcealherfeelings
+3, 6, -1, "YourmeetingwiththeSultanisveryhonourabletoyou
+4, 6, -1, "shesaid
+5, 6, -1, "andwill
+6, 6, -1, Idaresay
+7, 6, -1, beofservicetoyou
+8, 6, -1, butitplacesmeinaveryawkwardposition
+9, 6, -1, Itisonmyaccount
+10, 6, -1, Iknow
+11, 6, -1, thatyouhaveresistedtheSultan'swishes
+12, 0, -1, andIamverygratefultoyouforit
+13, 6, -1, Butkingsdonotliketohavetheiroffersrefused
+14, 6, -1, andintimehewouldbearagrudgeagainstyou
+15, 1, -1, whichwouldrendermeveryunhappy
+16, 6, -1, ConsulttheTalkingBird
+17, 6, -1, whoiswiseandfarseeing
+18, 6, -1, andletmehearwhathesays."
+806 3
+(3, 3),
+1, 0, -1, "Withtheutmostpleasure
+2, 6, -1, "repliedtheSultan
+3, 6, -1, "andasIamallimpatiencetoseethesisterofsuchaccomplishedyoungmenyoumayexpectmethedayafterto-morrow
+830 11
+(5, 5),
+1, 6, -1, NextdayIjoinedGrantoncemore
+2, 6, -1, andfoundhehadcollectedafewSorombomen
+3, 6, -1, hopingtofollowafterme
+4, 6, -1, IthentoldhimallmymishapsinSorombo
+5, 4, -1, aswellasofthe"bluedevil"frightsthathadseizedallmymen
+6, 6, -1, Ifeltgreatlyalarmedabouttheprospectsoftheexpedition
+7, 6, -1, scarcelyknowingwhatIshoulddo
+8, 6, -1, Iresolvedatlast
+9, 6, -1, ifeverythingelsefailed
+10, 6, -1, tomakeuparaftatthesouthernendoftheN'yanza
+11, 6, -1, andtrytogouptotheNileinthatway.
+831 11
+(6, 6),
+1, 5, -1, TheseseparationsfromGrantweremostannoying
+2, 6, -1, buttheycouldnotbehelped
+3, 6, -1, so
+4, 6, -1, whenallwassettledhere
+5, 6, -1, Ibadehimadieubothofussayingwewoulddoourbestandsetoutonmyjourney
+6, 6, -1, thinkingwhataterriblethingitwasIcouldnotprevailonmymentoviewthingsasIdid
+7, 6, -1, Neithermyexperiencewithnativechiefs
+8, 6, -1, normymoneyandguns
+9, 6, -1, wereofanyusetome
+10, 6, -1, simplybecausemymenweresuchincomprehensiblefools
+11, 6, -1, thoughmanyofthemwhohadtravelledbeforeoughttohaveknownbetter.
+832 7
+(6, 6),
+1, 6, -1, WhenwithinafewmilesofthepalacewewereorderedtostopandwaitforKachuchu'sreturn
+2, 6, -1, butnosoonerputupinaplaintaingrove
+3, 6, -1, wherepombewasbrewing
+4, 6, -1, andourmenwerealltakingasuckatit
+5, 6, -1, thantheworthyarrivedtocallusonthesameinstant
+6, 4, -1, asthekingwasmostanxioustoseeus
+7, 6, -1, Theloveofgoodbeerofcoursemadeourmenalltootiredtomarchagain
+833 18
+(10, 10),
+1, 6, -1, MorereportscametousaboutSuwarora
+2, 6, -1, allofthemostinvitingnature
+3, 6, -1, butnothingelseworthmentioningoccurreduntilwereachedtheborderofMsalala
+4, 6, -1, whereanofficerofM'yonga's
+5, 6, -1, whosaidhewasabiggermanthanhischief
+6, 6, -1, demandedatax
+7, 6, -1, whichIrefused
+8, 6, -1, andthedisputeendedinhissnatchingNasib'sgunoutofhishands
+9, 6, -1, Ithoughtlittleofthisaffairmyself
+10, 1, -1, beyondregrettingthedelaywhichitmightoccasion
+11, 6, -1, asM'yonga
+12, 6, -1, Iknew
+13, 6, -1, wouldnotpermitsuchusage
+14, 6, -1, ifIchosetogoroundbyhispalaceandmakeacomplaint
+15, 6, -1, BothBuiandNasib
+16, 6, -1, however
+17, 6, -1, weresogreatlyalarmed
+18, 6, -1, thatbeforeIcouldsayawordtheygotthegunbackagainbypayingfouryardsmerikani.
+834 14
+(4, 5),
+1, 6, -1, Lumeresi
+2, 6, -1, onhearingthis
+3, 6, -1, firstconsultedme
+4, 0, -1, sayinghischiefwasdispleasedwithhim
+5, 6, -1, accusinghimofbeingtooproud
+6, 6, -1, inhavingatoncetwosuchdistinguishedguests
+7, 6, -1, andmeantbytheseactsonlytohumblehim
+8, 6, -1, Ireplied
+9, 6, -1, ifthatwasthecase
+10, 6, -1, thesoonerheallowedustogo
+11, 6, -1, thebetteritwouldbeforhim
+12, 6, -1, and
+13, 6, -1, remindinghimofhisoriginalpromisetogivemeassistanceontoUsui
+14, 6, -1, saidhecoulddosonowwithaverygoodgrace.
+837 8
+(2, 3),
+1, 6, -1, Nasibthenreturnedtoinformusthatthekinghadheardourcomplaint
+2, 6, -1, andwassorryforit
+3, 6, -1, butsaidhecouldnotinterferewiththerightsofhisofficers
+4, 6, -1, Hedidnotwishhimselftotakeanythingfromus
+5, 0, -1, andhopedwewouldcomeontohimassoonaswehadsatisfiedhisofficerswiththetrifletheywanted
+6, 6, -1, Virembothensentussomepombebyhisofficers
+7, 6, -1, andbeggedustohavepatience
+8, 6, -1, forhewasthenfleecingMasudiattheencampinggroundnearthepalace.
+839 3
+(3, 3),
+1, 6, -1, WhilstBaraka'sargumentsallrestedtheotherway
+2, 6, -1, thatnoonecouldtellwhatwasaheadofhimBanahadsoldhimselftoluckandthedevilbutthoughhedidnotcareforhisownsafety
+3, 6, -1, heoughtnottosacrificethelivesofothersBombayandhislotwerefoolsfortheirpainsintrustingtohim.
+840 10
+(3, 4),(3, 5),
+1, 6, -1, AthisinvitationwenowcrossedoverthespurtotheIngeziKageraside
+2, 6, -1, when
+3, 3, -1, tosurpriseme
+4, 6, -1, thecanoesIhadcomeupthelakeinappearedbeforeus
+5, 6, -1, Theyhadgoneoutofthelakeatitsnorthernend
+6, 6, -1, paddledinto
+7, 6, -1, andthenuptheKageratowherewestood
+8, 6, -1, showing
+9, 6, -1, byactualnavigation
+10, 6, -1, theconnectionofthesehighlandlakeswiththeriverswhichdrainthevariousspursoftheMountainsoftheMoon.
+841 5
+(4, 3),
+1, 6, -1, AmanfromRuandathentoldusoftheWilyanwantu(meneaters)
+2, 6, -1, whodisdainedallfoodbuthumanflesh
+3, 6, -1, andRumanikaconfirmedthestatement
+4, 6, -1, ThoughIfeltveryscepticalaboutit
+5, 6, -1, IcouldnothelpthinkingitacuriouscoincidencethatthepositiontheyweresaidtooccupyagreedwithPetherick'sNyamNyams(meneaters).
+843 14
+(4, 5),
+1, 6, -1, Nextday
+2, 6, -1, aftercrossingmoreofthoseabominablerushdrains
+3, 6, -1, whilstinsightoftheVictoriaN'yanza
+4, 6, -1, weascendedthemostbeautifulhills
+5, 6, -1, coveredwithverdureofalldescriptions
+6, 6, -1, AtMeruka
+7, 6, -1, whereIputup
+8, 6, -1, thereresidedsomegrandees
+9, 6, -1, thechiefofwhomwastheking'saunt
+10, 6, -1, Shesentmeagoat
+11, 6, -1, ahen
+12, 6, -1, abasketofeggs
+13, 6, -1, andsomeplantains
+14, 6, -1, inreturnforwhichIsentherawireandsomebeads.
+844 13
+(8, 7),
+1, 6, -1, Nooneknewofalaketosupplythewaters
+2, 6, -1, norwheretheycamefrom
+3, 6, -1, ThattheyflowedintothelaketherewasnodoubtasIcouldseebythetricklingwatersinsomefewplacesandtheylayexactlyontheequator
+4, 6, -1, Risingoutofthevalley
+5, 6, -1, Ifoundallthecountryjustashillyasbefore
+6, 6, -1, butmanyoftherushdrainsgoingtonorthward
+7, 6, -1, andinthedellsweresuchmagnificenttrees
+8, 3, -1, theyquitetookmebysurprise
+9, 6, -1, cleantrunked
+10, 6, -1, theytoweredupjustassomanygreatpillars
+11, 6, -1, andthenspreadouttheirhighbrancheslikeacanopyoverus
+12, 6, -1, IthoughtofthebluegumsofAustralia
+13, 6, -1, andbelievedthesewouldbeatthem.
+845 13
+(2, 3),(2, 4),
+1, 6, -1, Ithen(16th)verymuchwishedtogoandseetheescapeoftheMwerangoriver
+2, 6, -1, asIstillfeltalittlescepticalastoitsorigin
+3, 6, -1, whetherornotitcameoffthosesmallerlakesIhadseenontheroadthedaybeforeIcrossedtheriver
+4, 6, -1, butnoonewouldlistentomyproject
+5, 6, -1, TheyallsaidImusthavetheking'ssanctionfirst
+6, 6, -1, elsepeople
+7, 6, -1, fromnotknowingmyobject
+8, 6, -1, wouldaccusemeofpractisingwitchcraft
+9, 6, -1, andwouldtelltheirkingso
+10, 6, -1, Theystillallmaintainedthattheriverdidcomeoutofthelake
+11, 6, -1, andsaid
+12, 6, -1, ifIlikedtoasktheking'sleavetovisitthespot
+13, 6, -1, thentheywouldgoandshowitme.
+846 15
+(5, 5),
+1, 6, -1, Thedaywasnowgone
+2, 6, -1, sotorcheswerelit
+3, 6, -1, andwewereorderedtogo
+4, 6, -1, thoughasyetIhadnotbeenabletospeakonewordIwishedtoimpartaboutPetherickandGrant
+5, 6, -1, formyinterpretersweresoafraidofthekingtheydarednotopentheirmouthsuntiltheywerespokento
+6, 6, -1, Thekingwasnowrisingtogo
+7, 6, -1, when
+8, 4, -1, ingreatfearandanxietythatthedaywouldbelost
+9, 6, -1, Isaid
+10, 6, -1, inKisuahili
+11, 6, -1, "IwishyouwouldsendaletterbyposttoGrant
+12, 6, -1, andalsosendaboatuptheKitangule
+13, 6, -1, asfarasRumanika'spalace
+14, 6, -1, forhim
+15, 6, -1, forheistotallyunabletowalk."
+848 7
+(5, 5),
+1, 6, -1, IthensentBombaytoseethequeen
+2, 6, -1, toaskafterherhealth
+3, 6, -1, begforahutinthepalaceenclosures
+4, 6, -1, andsayIshouldhavegonemyself
+5, 4, -1, onlyIfearedhergatemightbeshut
+6, 6, -1, andIcannotgobackwardsandforwardssofarinthesunwithoutahorseoranelephanttorideupon
+7, 6, -1, ShebeggedIwouldcomenextmorning.
+849 16
+(9, 11),
+1, 6, -1, 5th
+2, 0, -1, Alarmedathavinggotinvolvedinsomethingthatlookedlikecourtintrigues
+3, 6, -1, IcalledupN'yamgundu
+4, 6, -1, toldhimallthathappenedyesterday
+5, 6, -1, bothatthetwocourtsandwithMaulaathome
+6, 6, -1, andbeggedhimtoapplytothekingforameetingoffiveelders
+7, 6, -1, thataproperunderstandingmightbearrivedat
+8, 6, -1, butinsteadofdoingasIdesired
+9, 6, -1, hegotintoaterriblefright
+10, 6, -1, callingMaula
+11, 6, -1, andtoldmeifIpressedthematterinthiswaymenwouldlosetheirlives
+12, 6, -1, MeanwhilethecunningblackguardMaulabeggedforpardon
+13, 6, -1, saidIquitemisunderstoodhismeaning
+14, 6, -1, allhehadsaidwasthatIwasveryfortunate
+15, 6, -1, beinginsuchfavouratcourt
+16, 6, -1, forthekingandqueenbothequallylovedme.
+850 19
+(12, 11),
+1, 6, -1, TheseWakungu
+2, 6, -1, havingonlyjustthenreturnedfromplunderingUnyoro
+3, 6, -1, hadneverbeforeseentheirkinginachair
+4, 6, -1, oranybodysitting
+5, 6, -1, asIwas
+6, 6, -1, byhisside
+7, 6, -1, anditbeingforeigntotheirnotions
+8, 6, -1, aswellas
+9, 6, -1, perhaps
+10, 6, -1, unpleasanttotheirfeelings
+11, 6, -1, tofindastrangersittinghigherthanthemselves
+12, 6, -1, theycomplainedagainstthisoutragetocustom
+13, 6, -1, andinducedthekingtoordermydethronement
+14, 6, -1, Theresultwas
+15, 6, -1, asmyironstoolwasobjectionable
+16, 6, -1, IstoodforamomenttoseethatIthoroughlyunderstoodtheirmeaning
+17, 6, -1, andthenshowingthemmyback
+18, 6, -1, walkedstraightwayhometomakeagrassthrone
+19, 6, -1, anddodgethemthatway.
+851 8
+(5, 1),(5, 4),
+1, 6, -1, Thisdoublefailurewasamoreseriousaffairthenamereslight
+2, 6, -1, formycowswereeatenup
+3, 6, -1, andmymenclamouringincessantlyforfood
+4, 6, -1, andthoughtheymightbyordershelpthemselves"kun'yangania"byseizingfromtheWaganda
+5, 6, -1, ithurtmyfeelingssomuchtowitnessthis
+6, 6, -1, thatItriedfromthefirsttodispensewithit
+7, 6, -1, tellingthekingIhadalwaysfloggedmymenforstealing
+8, 6, -1, andnowheturnedthemintoapackofthieves.
+1118 11
+(1, 1),
+1, 6, -1, Itmaywellbebelievedthattheprincefeltindespairatthisfreshmisfortune
+2, 6, -1, whichobligedhimtospendanotheryearinastrangeanddistastefulcountry
+3, 6, -1, Moreover
+4, 6, -1, hehadoncemorelostthePrincessBadoura'stalisman
+5, 4, -1, whichhefearedhemightneverseeagain
+6, 6, -1, Therewasnothingleftforhimbuttohirethegardenastheoldmanhaddone
+7, 6, -1, andtoliveoninthecottage
+8, 6, -1, Ashecouldnotwellcultivatethegardenbyhimself
+9, 6, -1, heengagedaladtohelphim
+10, 6, -1, andtosecuretherestofthetreasureheputtheremaininggolddustintofiftymorejars
+11, 6, -1, fillingthemupwitholivessoastohavethemreadyfortransport.
+1119 8
+(4, 4),
+1, 6, -1, Sheatonceconcludedthatherhusbandhadtakenitandwouldshortlybringitback
+2, 3, -1, Shewaitedforhimtilleveningratherimpatiently
+3, 6, -1, andwonderingwhatcouldhavekepthimfromhersolong
+4, 6, -1, Whennightcamewithouthimshefeltindespairandabusedthetalismananditsmakerroundly
+5, 6, -1, Inspiteofhergriefandanxietyhowever
+6, 6, -1, shedidnotloseherpresenceofmind
+7, 6, -1, butdecidedonacourageous
+8, 6, -1, thoughveryunusualstep.
+1120 9
+(2, 2),
+1, 6, -1, "Myson
+2, 4, -1, thegreatthingnowistoarrangehowyoucanbestcarryoffthistreasureassecretlyaspossibleforfearoflosingit
+3, 6, -1, TherearenoolivesintheEbonyIsland
+4, 6, -1, andthoseimportedfromherefetchahighprice
+5, 6, -1, Asyouknow
+6, 6, -1, Ihaveagoodstockoftheoliveswhichgrewinthisgarden
+7, 6, -1, Nowyoumusttakefiftyjars
+8, 6, -1, filleachhalffullofgolddustandfillthemupwiththeolives
+9, 6, -1, Wewillthenhavethemtakenonboardshipwhenyouembark."
+1121 7
+(3, 3),
+1, 6, -1, Theprincetookthisadvice
+2, 6, -1, andspenttherestofthedayfillingthefiftyjars
+3, 4, -1, andfearinglesttheprecioustalismanmightslipfromhisarmandbelostagain
+4, 6, -1, hetooktheprecautionofputtingitinoneofthejars
+5, 6, -1, onwhichhemadeamarksoastobeabletorecogniseit
+6, 6, -1, Whennightcamethejarswereallready
+7, 6, -1, andtheprinceandhishostwenttobed.
+1122 7
+(4, 4),
+1, 6, -1, "Sire
+2, 6, -1, "repliedtheprince
+3, 6, -1, "praydonotincreasemydistressinthismatter
+4, 6, -1, butrathermakemehappybygivinghertomeinmarriage
+5, 6, -1, HowevermuchImayhaveobjectedtomatrimonyformerly
+6, 6, -1, thesightofthislovelygirlhasovercomeallmyprejudices
+7, 0, -1, andIwillgratefullyreceiveherfromyourhands."
+1123 4
+(1, 1),
+1, 3, -1, Thequeenwasmuchsurprisedbythesewords
+2, 6, -1, butwhenshedeclaredthatsheknewnothingwhateverofthemattertheprincesslostallrespect
+3, 6, -1, andansweredthatifshewerenotallowedtomarryasshewishedsheshouldkillherself
+4, 6, -1, anditwasinvainthatthequeentriedtopacifyherandbringhertoreason.
+1126 22
+(22, 22),
+1, 6, -1, "Theking
+2, 6, -1, herfather
+3, 6, -1, hascarefullyshieldedthistreasurefromthevulgargaze
+4, 6, -1, andhastakeneveryprecautiontokeepherfromthesightofeveryoneexceptthehappymortalhemaychoosetobeherhusband
+5, 6, -1, Butinordertogivehervarietyinherconfinementhehasbuilthersevenpalacessuchashaveneverbeenseenbefore
+6, 6, -1, Thefirstpalaceisentirelycomposedofrockcrystal
+7, 6, -1, thesecondofbronze
+8, 6, -1, thethirdoffinesteel
+9, 6, -1, thefourthofanotherandmorepreciousspeciesofbronze
+10, 6, -1, thefifthoftouchstone
+11, 6, -1, thesixthofsilver
+12, 6, -1, andtheseventhofsolidgold
+13, 6, -1, Theyareallmostsumptuouslyfurnished
+14, 6, -1, whilstthegardenssurroundingthemarelaidoutwithexquisitetaste
+15, 6, -1, Infact
+16, 6, -1, neithertroublenorcosthasbeensparedtomakethisretreatagreeabletotheprincess
+17, 6, -1, Thereportofherwonderfulbeautyhasspreadfarandwide
+18, 6, -1, andmanypowerfulkingshavesentembassiestoaskherhandinmarriage
+19, 6, -1, Thekinghasalwaysreceivedtheseembassiesgraciously
+20, 6, -1, butsaysthathewillneverobligetheprincesstomarryagainstherwill
+21, 6, -1, andassheregularlydeclineseachfreshproposal
+22, 1, -1, theenvoyshavehadtoleaveasdisappointedintheresultoftheirmissionsastheyweregratifiedbytheirmagnificentreceptions.
+1133 7
+(1, 1),
+1, 1, -1, TSosayinghestampeduponthegroundlikeonebesidehimselfwithmiseryanddespair
+2, 6, -1, Justatthismomentaservantcameoutofthepalace
+3, 6, -1, andtakinghimbythearmsaid
+4, 6, -1, "Comewithme
+5, 6, -1, thenobleSindbad
+6, 6, -1, mymaster
+7, 6, -1, wishestospeaktoyou."
+1134 5
+(2, 2),
+1, 6, -1, Aswillbeimagined
+2, 3, -1, thesewordstooktheSultanbysurprise
+3, 6, -1, andhelookedatmetoseehowIshouldtakethestatementoftheprincess
+4, 6, -1, AsIwasunabletospeak
+5, 6, -1, Iplacedmyhandonmyheadtoshowthatitwastrue.
+1141 11
+(1, 1),
+1, 3, -1, KingArmanosheardtheprincesswithsurpriseandadmiration
+2, 6, -1, then
+3, 6, -1, turningtoCamaralzaman
+4, 6, -1, hesaid
+5, 6, -1, "Myson
+6, 6, -1, asyourwife
+7, 6, -1, thePrincessBadoura(whomIhavehithertolookedonasmyson-in-law)
+8, 6, -1, consentstoshareyourhandandaffectionswithmydaughter
+9, 6, -1, Ihaveonlytoaskifthismarriageisagreeabletoyou
+10, 6, -1, andifyouwillconsenttoacceptthecrownwhichthePrincessBadouradeservestowearallherlife
+11, 6, -1, butwhichshepreferstoresignforloveofyou."
+1142 6
+(2, 2),
+1, 6, -1, Khacan
+2, 0, -1, overjoyedatthisnews
+3, 6, -1, gaveordersthattheslaveshouldbebroughtforhisinspectiononhisreturnfromthepalace
+4, 6, -1, Thedealerappearingattheappointedhour
+5, 6, -1, Khacanfoundtheslavebeautifulbeyondhisexpectations
+6, 6, -1, andimmediatelygaveherthenameof"TheFairPersian."
+1143 11
+(11, 11),
+1, 6, -1, Noureddinforsothevizir'ssonwasnamedwentfreelyinandoutofhismother'sapartments
+2, 6, -1, Hewasyoung
+3, 6, -1, well-madeandagreeable
+4, 6, -1, andhadthegiftofcharmingallwithwhomhecameincontact
+5, 6, -1, AssoonashesawthebeautifulPersian
+6, 6, -1, thoughawarethatshewasdestinedfortheking
+7, 6, -1, helethimselfbecarriedawaybyhercharms
+8, 6, -1, anddeterminedatoncetouseeverymeansinhispowertoretainherforhimself
+9, 6, -1, ThePersianwasequallycaptivatedbyNoureddin
+10, 6, -1, andsaidtoherself:"Thevizirdoesmetoogreathonourinbuyingmefortheking
+11, 0, -1, Ishouldesteemmyselfveryhappyifhewouldgivemetohisson."
+1144 28
+(11, 11),
+1, 6, -1, OnedayAladdinheardanorderfromtheSultanproclaimedthateveryonewastostayathomeandclosehisshutterswhiletheprincess
+2, 6, -1, hisdaughter
+3, 6, -1, wenttoandfromthebath
+4, 6, -1, Aladdinwasseizedbyadesiretoseeherface
+5, 6, -1, whichwasverydifficult
+6, 6, -1, asshealwayswentveiled
+7, 6, -1, Hehidhimselfbehindthedoorofthebath
+8, 6, -1, andpeepedthroughachink
+9, 6, -1, Theprincessliftedherveilasshewentin
+10, 6, -1, andlookedsobeautifulthatAladdinfellinlovewithheratfirstsight
+11, 4, -1, Hewenthomesochangedthathismotherwasfrightened
+12, 6, -1, Hetoldherhelovedtheprincesssodeeplythathecouldnotlivewithouther
+13, 6, -1, andmeanttoaskherinmarriageofherfather
+14, 6, -1, Hismother
+15, 6, -1, onhearingthis
+16, 6, -1, burstoutlaughing
+17, 6, -1, butAladdinatlastprevaileduponhertogobeforetheSultanandcarryhisrequest
+18, 6, -1, Shefetchedanapkinandlaidinitthemagicfruitsfromtheenchantedgarden
+19, 6, -1, whichsparkledandshonelikethemostbeautifuljewels
+20, 6, -1, ShetookthesewithhertopleasetheSultan
+21, 6, -1, andsetout
+22, 6, -1, trustinginthelamp
+23, 6, -1, ThegrandvizirandthelordsofcouncilhadjustgoneinassheenteredthehallandplacedherselfinfrontoftheSultan
+24, 6, -1, He
+25, 6, -1, however
+26, 6, -1, tooknonoticeofher
+27, 6, -1, Shewenteverydayforaweek
+28, 6, -1, andstoodinthesameplace.
+1145 6
+(1, 1),
+1, 4, -1, Theprincesswastoofrightenedtospeak
+2, 6, -1, andpassedthemostmiserablenightofherlife
+3, 6, -1, whileAladdinlaydownbesideherandsleptsoundly
+4, 6, -1, Attheappointedhourthegeniefetchedintheshiveringbridegroom
+5, 6, -1, laidhiminhisplace
+6, 6, -1, andtransportedthebedbacktothepalace.
+1148 6
+(2, 2),
+1, 6, -1, TheCaliph
+2, 3, -1, muchsurprisedatthisrequest
+3, 6, -1, repliedgently:"Mygoodman
+4, 6, -1, thatwhichyouaskisimpossible
+5, 6, -1, OfwhatusewouldmyalmsbeifItreatedyousoill
+6, 6, -1, "Andashespokehetriedtoloosenthegraspoftheblindbeggar.
+1149 7
+(1, 1),
+1, 6, -1, Hiswordsexcitedmycuriositytothehighestpitch
+2, 6, -1, "Maketrialonme
+3, 6, -1, Iimploreyou
+4, 6, -1, "Icried
+5, 6, -1, holdingouttheboxtothedervish
+6, 6, -1, "YouwillknowhowtodoitbetterthanI
+7, 6, -1, Iamburningwithimpatiencetotestitscharms."
+1152 8
+(7, 7),
+1, 6, -1, ThePrincessofBengalwastooreasonablenottaaccepttheexplanationofferedbyPrinceFirouzSchah
+2, 6, -1, butshewasmuchdisturbedathisintentionofdepartingatonce
+3, 6, -1, forshefearedthat
+4, 6, -1, nosoonerhadhelefther
+5, 6, -1, thantheimpressionshehadmadeonhimwouldfadeaway
+6, 6, -1, Soshemadeonemoreefforttokeephim
+7, 6, -1, andafterassuringhimthatsheentirelyapprovedofhisanxietytoseehisfather
+8, 1, -1, beggedhimtogiveheradayortwomoreofhiscompany.
+1153 33
+(11, 11),
+1, 6, -1, Whenthedervishsawthattheprince'smindwasmadeup
+2, 6, -1, hedrewaballfromabagthatlaynearhim
+3, 6, -1, andhelditout
+4, 6, -1, "Ifitmustbeso
+5, 6, -1, "hesaid
+6, 6, -1, withasigh
+7, 6, -1, "takethis
+8, 6, -1, andwhenyouhavemountedyourhorsethrowtheballinfrontofyou
+9, 6, -1, Itwillrollontillitreachesthefootofamountain
+10, 6, -1, andwhenitstopsyouwillstopalso
+11, 6, -1, Youwillthenthrowthebridleonyourhorse'sneckwithoutanyfearofhisstraying
+12, 6, -1, andwilldismount
+13, 6, -1, Oneachsideyouwillseevastheapsofbigblackstones
+14, 6, -1, andwillhearamultitudeofinsultingvoices
+15, 6, -1, butpaynoheedtothem
+16, 6, -1, and
+17, 6, -1, aboveall
+18, 6, -1, bewareofeverturningyourhead
+19, 6, -1, Ifyoudo
+20, 6, -1, youwillinstantlybecomeablackstoneliketherest
+21, 6, -1, Forthosestonesareinrealitymenlikeyourself
+22, 6, -1, whohavebeenonthesamequest
+23, 6, -1, andhavefailed
+24, 4, -1, asIfearthatyoumayfailalso
+25, 6, -1, Ifyoumanagetoavoidthispitfall
+26, 6, -1, andtoreachthetopofthemountain
+27, 6, -1, youwillfindtheretheTalkingBirdinasplendidcage
+28, 6, -1, andyoucanaskofhimwhereyouaretoseektheSingingTreeandtheGoldenWater
+29, 6, -1, ThatisallIhavetosay
+30, 6, -1, Youknowwhatyouhavetodo
+31, 6, -1, andwhattoavoid
+32, 6, -1, butifyouarewiseyouwillthinkofitnomore
+33, 6, -1, butreturnwhenceyouhavecome."
+1154 9
+(4, 4),
+1, 6, -1, "Sire
+2, 6, -1, "repliedthebird
+3, 6, -1, beforeeithertheprincesortheprincesscouldspeak
+4, 3, -1, "surelyyourHighnesscannotbesosurprisedatbeholdingacucumberstuffedwithpearls
+5, 6, -1, whenyoubelievedwithoutanydifficultythattheSultanahadpresentedyou
+6, 6, -1, insteadofchildren
+7, 6, -1, withadog
+8, 6, -1, acat
+9, 6, -1, andalogofwood."
+1568 3
+(2, 2),
+1, 6, -1, IwillgivetohimtowifeMynoblechildHermione
+2, 0, -1, withgiftsManyandgoodlyforhermarriagedowerWithagladheart
+3, 6, -1, trowheshallnotscornEitherhisbrideorhigh-bornsireinlaw.
+1885 5
+(2, 2),
+1, 6, -1, Ifthourefusethydaughter
+2, 0, -1, consenttofight:thoumustneedsgrantonethingortheotherWewisheithertodieortohaveourprayersbeardSomethingsorrowifnotjoywewillgetfromtheeFrodewillbebetterpleasedtohearof
+3, 6, -1, Withoutanotherword
+4, 6, -1, hethreatenedtoaimablowattheking'sthroatwithhisswordThekingrepliedthatitwasunseemlyfortheroyalmajestytomeetaninferiorinrankinlevelcombat
+5, 6, -1, andunfitthatthoseofunequalstationshouldfightasequals.
+1901 11
+(3, 3),(3, 6),
+1, 6, -1, HehadseveraltimestakencaravanstoKarague
+2, 6, -1, andknewallthelanguageswell
+3, 1, -1, butunfortunatelyheafterwardsprovedtobewhathisnameimplied
+4, 6, -1, That
+5, 6, -1, however
+6, 6, -1, Icouldnotforesee
+7, 6, -1, so
+8, 6, -1, trustingtohimandgood-luck
+9, 6, -1, Icommencedmakingfreshenlistmentsofporters
+10, 6, -1, buttheycameandwentinthemosttantalisingmanner
+11, 6, -1, notwithstandingIofferedthreetimesthehirethatanymerchantcouldaffordtogive.
+1903 10
+(3, 4),(3, 5),
+1, 6, -1, AthisinvitationwenowcrossedoverthespurtotheIngeziKageraside
+2, 6, -1, when
+3, 3, -1, tosurpriseme
+4, 6, -1, thecanoesIhadcomeupthelakeinappearedbeforeus
+5, 6, -1, Theyhadgoneoutofthelakeatitsnorthernend
+6, 6, -1, paddledinto
+7, 6, -1, andthenuptheKageratowherewestood
+8, 6, -1, showing
+9, 6, -1, byactualnavigation
+10, 6, -1, theconnectionofthesehighlandlakeswiththeriverswhichdrainthevariousspursoftheMountainsoftheMoon.
+1904 5
+(4, 3),
+1, 6, -1, AmanfromRuandathentoldusoftheWilyanwantu(meneaters)
+2, 6, -1, whodisdainedallfoodbuthumanflesh
+3, 6, -1, andRumanikaconfirmedthestatement
+4, 6, -1, ThoughIfeltveryscepticalaboutit
+5, 6, -1, IcouldnothelpthinkingitacuriouscoincidencethatthepositiontheyweresaidtooccupyagreedwithPetherick'sNyamNyams(meneaters).
+1905 13
+(8, 7),
+1, 6, -1, Nooneknewofalaketosupplythewaters
+2, 6, -1, norwheretheycamefrom
+3, 6, -1, ThattheyflowedintothelaketherewasnodoubtasIcouldseebythetricklingwatersinsomefewplacesandtheylayexactlyontheequator
+4, 6, -1, Risingoutofthevalley
+5, 6, -1, Ifoundallthecountryjustashillyasbefore
+6, 6, -1, butmanyoftherushdrainsgoingtonorthward
+7, 6, -1, andinthedellsweresuchmagnificenttrees
+8, 3, -1, theyquitetookmebysurprise
+9, 6, -1, cleantrunked
+10, 6, -1, theytoweredupjustassomanygreatpillars
+11, 6, -1, andthenspreadouttheirhighbrancheslikeacanopyoverus
+12, 6, -1, IthoughtofthebluegumsofAustralia
+13, 6, -1, andbelievedthesewouldbeatthem.
+1906 8
+(5, 1),(5, 4),
+1, 6, -1, Thisdoublefailurewasamoreseriousaffairthenamereslight
+2, 6, -1, formycowswereeatenup
+3, 6, -1, andmymenclamouringincessantlyforfood
+4, 6, -1, andthoughtheymightbyordershelpthemselves"kun'yangania"byseizingfromtheWaganda
+5, 6, -1, ithurtmyfeelingssomuchtowitnessthis
+6, 6, -1, thatItriedfromthefirsttodispensewithit
+7, 6, -1, tellingthekingIhadalwaysfloggedmymenforstealing
+8, 6, -1, andnowheturnedthemintoapackofthieves.
+1933 13
+(6, 5),
+1, 6, -1, theking
+2, 6, -1, then
+3, 6, -1, observingmymenwhohadgonetoUnyorotogetherwithKamrasi's
+4, 6, -1, questionedthemontheirmission
+5, 6, -1, andwhentoldthatnowhitemenwerethere
+6, 6, -1, hewaxedwrathful
+7, 6, -1, andsaiditwasafalsehood
+8, 6, -1, forhismenhadseenthem
+9, 6, -1, andcouldnotbemistaken
+10, 6, -1, Kamrasi
+11, 6, -1, hesaid
+12, 6, -1, musthavehiddenthemsomewhere
+13, 4, -1, fearfulofthenumberofgunswhichnowsurroundedhim
+1934 7
+(2, 3),
+1, 6, -1, IsentBombaywiththecompass
+2, 6, -1, muchtothedelightoftheking
+3, 0, -1, whonosoonersawitthanhejumpedandwohwohedwithintenseexcitementatthetreasurehehadgained
+4, 6, -1, saiditwasthegreatestpresentBanahadevergivenhim
+5, 6, -1, foritwasthethingbywhichhefoundoutalltheroadsandcountriesitwas
+6, 6, -1, infact
+7, 6, -1, halfhisknowledge
+1935 16
+(2, 1),
+1, 6, -1, Idrewalargewhiteandblackhornbillandagreenpigeonsentbyhimself
+2, 0, -1, buthewasnotsatisfied
+3, 6, -1, hesentmorebirds
+4, 6, -1, andwantedtoseemyshoes
+5, 6, -1, Thepageswhocamewiththesecondmessage
+6, 6, -1, however
+7, 6, -1, provingimpertinent
+8, 6, -1, gotabookflungattheirheads
+9, 6, -1, andawarningtobeoff
+10, 6, -1, asIintendedtoseethekingmyself
+11, 6, -1, andaskforfoodtokeepmyevercomplainingWanguanaquiet
+12, 6, -1, Proceedingtothepalace
+13, 6, -1, asIfoundMtesahadgoneoutshooting
+14, 6, -1, IcalledontheKamraviona
+15, 6, -1, complainedthatmycampwasstarving
+16, 6, -1, andasIhadnothinglefttogivethekingsaidIwishedtoleavethecountry.
+1945 7
+(6, 5),
+1, 6, -1, Theprincecouldhardlybelievehisears
+2, 6, -1, androdeoffashardashecould
+3, 6, -1, Hefoundhisway
+4, 6, -1, andarrivedsafeandsoundathisfather'shouse
+5, 6, -1, wherehetoldhimofthedangerhehadrunbecauseofthegrandvizir'scarelessness
+6, 5, -1, Thekingwasveryangry
+7, 5, -1, andhadhimstrangledimmediately.
+1993 4
+(3, 2),
+1, 6, -1, EmperorHuizongofSongandEmperorQianlongofQingleddrasticallydifferentlives
+2, 6, -1, WhileHuizong'smisfortunepermeateshissparse
+3, 4, -1, embitteredwritingstyle
+4, 6, -1, Qianlong'sworkoverflowswithrichnessandcontent.
+2215 2
+(1, 1),
+1, 1, -1, Miekoisworriedandafraidthatsheslosther5thtreasure–the"beautyinherheart
+2, 6, -1, Thistreasureisthekeytoherhappinessandherbeautifulart.
+2289 3
+(2, 2),
+1, 6, -1, Andcontrarytosomecritics
+2, 6, -1, whohavevoicedconcernsatChinasgrowingpresenceinAfrica
+3, 0, -1, residentsofMakinduareupbeatonthebiggestinfrastructureprojectinKenyasinceindependence54yearsago.
+2290 5
+(4, 4),
+1, 6, -1, BehindthemfollowtogethertheCountessVerebergandGeneralProvno
+2, 6, -1, andothers
+3, 6, -1, Asthecompanywalksslowlydowntheaisle
+4, 0, -1, PrincessAnnsmilesandnodsherheadtoacknowledgetheguestswholinetheirpath
+5, 6, -1, TheybowasthePrincesswalkspastthem.
+2292 6
+(4, 2),(5, 5),
+1, 6, -1, Suddenly
+2, 6, -1, PrincessAnnlosesherbalanceasherfootslipsoverhershoe
+3, 6, -1, knockingitover
+4, 3, -1, TheCount'seyeglasspopsoutinsurpriseandhesmilesbackassheregatheredherself
+5, 6, -1, TheAmbassadorlooksdownindisappointmentathererror
+6, 6, -1, TheMasterofCeremoniesintroducesthenextcoupleaSenorandSenora.
+2361 3
+(3, 3),
+1, 6, -1, ItwashighforMingora
+2, 6, -1, twostoreyswithabigwatertankontheroof
+3, 4, -1, Mymotherwasterrifieditwouldcollapseontopofussowekeptgoingoutside.
+2459 6
+(6, 6),
+1, 6, -1, WELLdone
+2, 6, -1, "saidAslaninavoicethatmadetheearthshake
+3, 6, -1, ThenDigoryknewthatalltheNarnianshadheardthosewordsandthatthestoryofthemwouldbehandeddownfromfathertosoninthatnewworldforhundredsofyearsandperhapsforever
+4, 6, -1, ButhewasinnodangeroffeelingconceitedforhedidntthinkaboutitatallnowthathewasfacetofacewithAslan
+5, 6, -1, ThistimehefoundhecouldlookstraightintotheLion'seyes
+6, 0, -1, Hehadforgottenhistroublesandfeltabsolutelycontent.
+2460 8
+(8, 8),
+1, 6, -1, Andhewassurenowthatherfacelookedalittledifferent
+2, 6, -1, Hebentdownandkissedherverysoftlyandstoleoutoftheroomwithabeatingheart
+3, 6, -1, takingthecoreoftheapplewithhim
+4, 6, -1, Fortherestofthatday
+5, 6, -1, wheneverhelookedatthethingsabouthim
+6, 6, -1, andsawhowordinaryandunmagicaltheywere
+7, 6, -1, hehardlydaredtohope
+8, 6, -1, butwhenherememberedthefaceofAslanhedidhope.
+2513 5
+(4, 4),
+1, 6, -1, "Oh
+2, 6, -1, Idowishwehadnot
+3, 6, -1, "saidCaspian
+4, 0, -1, "AndIamgladitwasalltrue
+5, 6, -1, evenifitisallover."
+2514 8
+(6, 6),
+1, 6, -1, "YourHighnessspeaksasyouhavebeentaught
+2, 6, -1, "saidtheDoctor
+3, 6, -1, "Butitisalllies
+4, 6, -1, Therearenoghoststhere
+5, 6, -1, ThatisastoryinventedbytheTelmarines
+6, 4, -1, YourKingsareindeadlyfearoftheseabecausetheycanneverquiteforgetthatinallstoriesAslancomesfromoverthesea
+7, 6, -1, Theydontwanttogonearitandtheydontwantanyoneelsetogonearit
+8, 6, -1, Sotheyhaveletgreatwoodsgrowuptocuttheirpeopleofffromthecoast.
+2522 7
+(6, 7),
+1, 6, -1, "Oh
+2, 6, -1, Aslan
+3, 6, -1, "saidKingPeter
+4, 6, -1, droppingononekneeandraisingtheLion'sheavypawtohisface
+5, 0, -1, "imsoglad
+6, 6, -1, Andimsosorry
+7, 6, -1, i'vebeenleadingthemwrongeversincewestartedandespeciallyyesterdaymorning."
+2524 7
+(1, 1),(1, 3),
+1, 6, -1, "IamsorryforNikabrik
+2, 6, -1, "saidCaspian
+3, 6, -1, "thoughhehatedmefromthefirstmomenthesawme
+4, 6, -1, Hehadgonesourinsidefromlongsufferingandhating
+5, 6, -1, IfwehadwonquicklyhemighthavebecomeagoodDwarfinthedaysofpeace
+6, 6, -1, Idontknowwhichofuskilledhim
+7, 0, -1, imgladofthat."
+2528 7
+(1, 1),(1, 4),
+1, 6, -1, AtthesightofAslanthecheeksoftheTelmarinesoldiersbecamethecolourofcoldgravy
+2, 6, -1, theirkneesknockedtogether
+3, 6, -1, andmanyfellontheirfaces
+4, 4, -1, Theyhadnotbelievedinlionsandthismadetheirfeargreater
+5, 6, -1, EventheRedDwarfs
+6, 6, -1, whoknewthathecameasafriend
+7, 6, -1, stoodwithopenmouthsandcouldnotspeak.
+2530 5
+(3, 3),
+1, 6, -1, "YourroyalHighness
+2, 6, -1, "hesaid
+3, 1, -1, "Iammosttrulysorrythatthingshavecometothisextremity
+4, 6, -1, YourHighnesswillbearwitnessthatitwasnoneofourdoing
+5, 0, -1, AndofcourseweshallbedelightedtoprovideyourHighnesswithshippingbacktoTashbaanforthe-er-treatmentwhichAslanhasprescribed.
+2532 10
+(9, 10),
+1, 6, -1, "Lettheskiesfall
+2, 2, -1, "shriekedRabadash
+3, 6, -1, "Lettheearthgape
+4, 6, -1, Letbloodandfireobliteratetheworld
+5, 6, -1, ButbesureIwillneverdesisttillIhavedraggedtomypalacebyherhairthebarbarianqueen
+6, 6, -1, thedaughterofdogs
+7, 6, -1, the-""Thehourhasstruck
+8, 6, -1, "saidAslan:andRabadashsaw
+9, 6, -1, tohissupremehorror
+10, 6, -1, thateveryonehadbeguntolaugh.
+2534 15
+(5, 5),(5, 6),
+1, 6, -1, "Well
+2, 6, -1, well
+3, 6, -1, "grumbledtheKing
+4, 6, -1, "we'llpassitoverforthistime
+5, 3, -1, Andnow-"WhatcamenextsurprisedShastaasmuchasanythingthathadeverhappenedtohiminhislife
+6, 6, -1, Hefoundhimselfsuddenlyembracedinnbear-likehugbyKingLuneandkissedonbothcheeks
+7, 6, -1, ThentheKingsethimdownagainandsaid
+8, 6, -1, "Standheretogether
+9, 6, -1, boys
+10, 6, -1, andletallthecourtseeyou
+11, 6, -1, Holdupyourheads
+12, 6, -1, Now
+13, 6, -1, gentlemen
+14, 6, -1, lookonthemboth
+15, 6, -1, Hasanymananydoubts
+2548 1
+(1, 1),
+1, 6, -1, tookbyforcewhatevertheydiscovered.
+2653 1
+(1, 1),
+1, 0, -1, AftersometimewesawlightsontheIllinoissideoftheriverandJimgotveryexcited.HethoughtitwasCairo

@@ -1,0 +1,609 @@
+45 8
+ (8, 1),
+1,null,disgust,They named the fonts after the stops on Philadelphia 's Main Line commuter train :  Overbrook
+2,null,null,Merion
+3,null,null,Ardmore
+4,null,null,and Rosemont
+5,null,null,Jobs found the process fascinating
+6,null,null,Late one afternoon he stopped by and started brooding about the font names
+7,null,null,They were little cities that nobody 's ever heard of
+8,disgust,complained,he complained .
+822 16
+ (11, 9),
+1,null,null,His bank was the Third National of Philadelphia
+2,null,null,located in that center of all Philadelphia and indeed
+3,null,null,at that time
+4,null,null,of practically all national finance Third Street and its owners conducted a brokerage business as a side line
+5,null,null,There was a perfect plague of State banks
+6,null,null,great and small
+7,null,null,in those days
+8,null,null,issuing notes practically without regulation upon insecure and unknown assets and failing and suspending with astonishing rapidity
+9,null,fear,and a knowledge of all these was an important requirement of Mr Cowperwood 's position
+10,null,null,As a result
+11,fear,become the soul of caution,he had become the soul of caution
+12,null,null,Unfortunately
+13,null,null,for him
+14,null,null,he lacked in a great measure the two things that are necessary for distinction in any field magnetism and vision
+15,null,null,He was not destined to be a great financier
+16,null,null,though he was marked out to be a moderately successful one
+829 6
+ (4, 4),
+1,null,null,It was while he was calling on her in this way that his Uncle Seneca died in Cuba and left him fifteen thousand dollars
+2,null,null,This money made him worth nearly twenty-five thousand dollars in his own right
+3,null,null,and he knew exactly what to do with it
+4,fear,fear,A panic had come since Mr Semple had died
+5,null,null,which had illustrated to him very clearly what an uncertain thing the brokerage business was
+6,null,null,There was really a severe business depression .
+1159 13
+ (5, 9),
+1,null,null,He believed sincerely that vast fortunes were to be made out of railroads if one only had the capital and that curious thing
+2,null,null,a magnetic personality the ability to win the confidence of others
+3,null,null,He was sure that Andrew Jackson was all wrong in his opposition to Nicholas Biddle and the United States Bank
+4,null,null,one of the great issues of the day
+5,fear,worried,and he was worried
+6,null,null,as he might well be
+7,null,null,by the perfect storm of wildcat money which was floating about and which was constantly coming to his bank discounted
+8,null,null,of course
+9,null,fear,and handed out again to anxious borrowers at a profit
+10,null,null,His bank was the Third National of Philadelphia
+11,null,null,located in that center of all Philadelphia and indeed
+12,null,null,at that time
+13,null,null,of practically all national finance Third Street and its owners conducted a brokerage business as a side line .
+1160 13
+ (9, 11),
+1,null,null,There was a perfect plague of State banks
+2,null,null,great and small
+3,null,null,in those days
+4,null,null,issuing notes practically without regulation upon insecure and unknown assets and failing and suspending with astonishing rapidity
+5,null,null,and a knowledge of all these was an important requirement of Mr
+6,null,null,Cowperwood 's position
+7,null,null,As a result
+8,null,null,he had become the soul of caution
+9,sadness,Unfortunately,Unfortunately
+10,null,null,for him
+11,null,sadness,he lacked in a great measure the two things that are necessary for distinction in any field magnetism and vision
+12,null,null,He was not destined to be a great financier
+13,null,null,though he was marked out to be a moderately successful one
+1163 6
+ (3, 3),
+1,null,null,In this progress of his father young Cowperwood definitely shared
+2,null,null,He was quite often allowed to come to the bank on Saturdays
+3,happiness,happiness,when he would watch with great interest the deft exchange of bills at the brokerage end of the business
+4,null,null,He wanted to know where all the types of money came from
+5,null,null,why discounts were demanded and received
+6,null,null,what the men did with all the money they received .
+1164 12
+ (8, 8),
+1,null,null,In this progress of his father young Cowperwood definitely shared
+2,null,null,He was quite often allowed to come to the bank on Saturdays
+3,null,null,when he would watch with great interest the deft exchange of bills at the brokerage end of the business
+4,null,null,He wanted to know where all the types of money came from
+5,null,null,why discounts were demanded and received
+6,null,null,what the men did with all the money they received
+7,null,null,His father
+8,happiness,happiness,pleased at his interest
+9,null,null,was glad to explain so that even at this early age from ten to fifteen the boy gained a wide knowledge of the condition of the country financially what a State bank was and what a national one
+10,null,null,what brokers did
+11,null,null,what stocks were
+12,null,null,and why they fluctuated in value .
+1165 12
+ (10, 10),
+1,null,null,Later
+2,null,null,in connection with the scheme to make Texas a State of the Union
+3,null,null,a bill was passed providing a contribution on the part of the United States of five million dollars
+4,null,null,to be applied to the extinguishment of this old debt
+5,null,null,Grund knew of this
+6,null,null,and also of the fact that some of this debt
+7,null,null,owing to the peculiar conditions of issue
+8,null,null,was to be paid in full
+9,null,null,while other portions were to be scaled down
+10,fear,fear,and there was to be a false or pre-arranged failure to pass the bill at one session in order to frighten off the outsiders who might have heard and begun to buy the old certificates for profit
+11,null,null,He acquainted the Third National Bank with this fact
+12,null,null,and of course the information came to Cowperwood as teller .
+1169 11
+ (10, 10),
+1,null,null,Young Cowperwood 's mind was working
+2,null,null,He had no money with him
+3,null,null,but his father was teller of the Third National Bank
+4,null,null,and he could quote him as reference
+5,null,null,He could sell all of his soap to the family grocer
+6,null,null,surely
+7,null,null,or
+8,null,null,if not
+9,null,null,to other grocers
+10,disgust,disgust,Other people were anxious to get this soap at this price
+11,null,null,Why not he
+1170 8
+ (4, 3),
+1,null,null,It was at seventeen that he decided to leave school
+2,null,null,He had not graduated
+3,null,disgust,He had only finished the third year in high school
+4,disgust,he had had enough,but he had had enough
+5,null,null,Ever since his thirteenth year his mind had been on finance
+6,null,null,that is
+7,null,null,in the form in which he saw it manifested in Third Street
+8,null,null,There had been odd things which he had been able to do to earn a little money now and then .
+1188 4
+ (2, 2),
+1,null,null,It was true
+2,anger,anger,The condition of the finances of the state and city was most reprehensible
+3,null,null,Both State and city were rich enough
+4,null,null,but there were so many schemes for looting the treasury in both instances that when any new work had to be undertaken bonds were necessarily issued to raise the money .
+1189 15
+ (10, 8),(10, 9),
+1,null,null,The occasion of the meeting was an evening call on the part of the Semples
+2,null,null,Mr
+3,null,null,Semple being desirous of talking with Henry Cowperwood concerning a new transportation feature which was then entering the world namely
+4,null,null,street cars
+5,null,null,A tentative line
+6,null,null,incorporated by the North Pennsylvania Railway Company
+7,null,null,had been put into operation on a mile and a half of tracks extending from Willow Street along Front to Germantown Road
+8,null,happiness,and thence by various streets to what was then known as the Cohocksink Depot
+9,null,happiness,and it was thought that in time this mode of locomotion might drive out the hundreds of omnibuses which now crowded and made impassable the downtown streets
+10,happiness,greatly interested,Young Cowperwood had been greatly interested from the start
+11,null,null,Railway transportation
+12,null,null,as a whole
+13,null,null,interested him
+14,null,null,anyway
+15,null,null,but this particular phase was most fascinating .
+1190 11
+ (9, 7),
+1,null,null,A tentative line
+2,null,null,incorporated by the North Pennsylvania Railway Company
+3,null,null,had been put into operation on a mile and a half of tracks extending from Willow Street along Front to Germantown Road
+4,null,null,and thence by various streets to what was then known as the Cohocksink Depot
+5,null,null,and it was thought that in time this mode of locomotion might drive out the hundreds of omnibuses which now crowded and made impassable the downtown streets
+6,null,null,Young Cowperwood had been greatly interested from the start
+7,null,happiness,Railway transportation
+8,null,null,as a whole
+9,happiness,interested him,interested him
+10,null,null,anyway
+11,null,null,but this particular phase was most fascinating .
+1198 13
+ (11, 10),
+1,null,null,Money was so scarce that it could fairly be said not to exist at all
+2,null,null,Capital
+3,null,null,frightened by uncertain trade and money conditions
+4,null,null,everywhere
+5,null,null,retired to its hiding places in banks
+6,null,null,vaults
+7,null,null,tea kettles
+8,null,null,and stockings
+9,null,null,The country seemed to be going to the dogs
+10,null,fear,War with the South or secession was vaguely looming up in the distance
+11,fear,nervous,The temper of the whole nation was nervous
+12,null,null,People dumped their holdings on the market in order to get money
+13,null,null,Tighe discharged three of his clerks .
+1200 18
+ (14, 13),
+1,null,null,During all these days young Cowperwood was following these financial complications with interest
+2,null,null,He was not disturbed by the cause of slavery
+3,null,null,or the talk of secession
+4,null,null,or the general progress or decline of the country
+5,null,null,except in so far as it affected his immediate interests
+6,null,null,He longed to become a stable financier
+7,null,null,but
+8,null,null,now that he saw the inside of the brokerage business
+9,null,null,he was not so sure that he wanted to stay in it
+10,null,null,Gambling in stocks
+11,null,null,according to conditions produced by this panic
+12,null,null,seemed very hazardous
+13,null,sadness,A number of brokers failed
+14,sadness,anguished faces,He saw them rush in to Tighe with anguished faces and ask that certain trades be canceled
+15,null,null,Their very homes were in danger
+16,null,null,they said
+17,null,null,They would be wiped out
+18,null,null,their wives and children put out on the street .
+1201 13
+ (10, 8),
+1,null,null,He longed to become a stable financier
+2,null,null,but
+3,null,null,now that he saw the inside of the brokerage business
+4,null,null,he was not so sure that he wanted to stay in it
+5,null,null,Gambling in stocks
+6,null,null,according to conditions produced by this panic
+7,null,null,seemed very hazardous
+8,null,fear,A number of brokers failed
+9,null,null,He saw them rush in to Tighe with anguished faces and ask that certain trades be canceled
+10,fear,in danger,Their very homes were in danger
+11,null,null,they said
+12,null,null,They would be wiped out
+13,null,null,their wives and children put out on the street .
+1210 6
+ (1, 1),
+1,happiness,happiness,Cowperwood had implicit faith in the future of the street railway
+2,null,null,In support of this belief he risked all he could spare on new issues of stock shares in new companies
+3,null,null,He wanted to be on the inside wherever possible
+4,null,null,always
+5,null,null,though this was a little difficult in the matter of the street railways
+6,null,null,he having been so young when they started and not having yet arranged his financial connections to make them count for much .
+1229 20
+ (1, 1),
+1,happiness,happiness,And Cowperwood felt confident when he left the house that evening that Butler would not fail him but would set the wheels working
+2,null,null,Therefore
+3,null,null,he was not surprised
+4,null,null,and knew exactly what it meant
+5,null,null,when a few days later he was introduced to City Treasurer Julian Bode
+6,null,null,who promised to introduce him to State Treasurer Van Nostrand and to see that his claims to consideration were put before the people
+7,null,null,"  Of course
+8,null,null,you know
+9,null,null,"   he said to Cowperwood
+10,null,null,in the presence of Butler
+11,null,null,for it was at the latter 's home that the conference took place
+12,null,null,"  this banking crowd is very powerful
+13,null,null,You know who they are
+14,null,null,They dont want any interference in this bond issue business
+15,null,null,I was talking to Terrence Relihan
+16,null,null,who represents them up there "   meaning Harrisburg
+17,null,null,the State capital  "  and he says they wont stand for it at all
+18,null,null,You may have trouble right here in Philadelphia after you get it theyre pretty powerful
+19,null,null,you know
+20,null,null,Are you sure just where you can place it
+1248 6
+ (6, 5),
+1,null,null,"  Cowperwood
+2,null,null,"   he said to him the first morning he ever broached this matter it was in Stener 's office
+3,null,null,at the old city hall at Sixth and Chestnut
+4,null,null,and Stener
+5,null,happiness,in view of his oncoming prosperity
+6,happiness,feeling very good indeed,was feeling very good indeed  "  is n't there some street railway property around town here that a man could buy in on and get control of if he had sufficient money
+1249 25
+ (23, 23),
+1,null,null,Cowperwood knew that there were such properties
+2,null,null,His very alert mind had long since sensed the general opportunities here
+3,null,null,The omnibuses were slowly disappearing
+4,null,null,The best routes were already preempted
+5,null,null,Still
+6,null,null,there were other streets
+7,null,null,and the city was growing
+8,null,null,The incoming population would make great business in the future
+9,null,null,One could afford to pay almost any price for the short lines already built if one could wait and extend the lines into larger and better areas later
+10,null,null,And already he had conceived in his own mind the theory of the  "  endless chain
+11,null,null,"   or  "  agreeable formula
+12,null,null,"   as it was later termed
+13,null,null,of buying a certain property on a long-time payment and issuing stocks or bonds sufficient not only to pay your seller
+14,null,null,but to reimburse you for your trouble
+15,null,null,to say nothing of giving you a margin wherewith to invest in other things  allied properties
+16,null,null,for instance
+17,null,null,against which more bonds could be issued
+18,null,null,and so on
+19,null,null,ad infinitum
+20,null,null,It became an old story later
+21,null,null,but it was new at that time
+22,null,null,and he kept the thought closely to himself
+23,happiness,happiness,None the less he was glad to have Stener speak of this
+24,null,null,since street railways were his hobby
+25,null,null,and he was convinced that he would be a great master of them if he ever had an opportunity to control them .
+1250 25
+ (25, 25),
+1,null,null,Cowperwood knew that there were such properties
+2,null,null,His very alert mind had long since sensed the general opportunities here
+3,null,null,The omnibuses were slowly disappearing
+4,null,null,The best routes were already preempted
+5,null,null,Still
+6,null,null,there were other streets
+7,null,null,and the city was growing
+8,null,null,The incoming population would make great business in the future
+9,null,null,One could afford to pay almost any price for the short lines already built if one could wait and extend the lines into larger and better areas later
+10,null,null,And already he had conceived in his own mind the theory of the  "  endless chain
+11,null,null,"   or  "  agreeable formula
+12,null,null,"   as it was later termed
+13,null,null,of buying a certain property on a long-time payment and issuing stocks or bonds sufficient not only to pay your seller
+14,null,null,but to reimburse you for your trouble
+15,null,null,to say nothing of giving you a margin wherewith to invest in other things  allied properties
+16,null,null,for instance
+17,null,null,against which more bonds could be issued
+18,null,null,and so on
+19,null,null,ad infinitum
+20,null,null,It became an old story later
+21,null,null,but it was new at that time
+22,null,null,and he kept the thought closely to himself
+23,null,null,None the less he was glad to have Stener speak of this
+24,null,null,since street railways were his hobby
+25,happiness,happiness,and he was convinced that he would be a great master of them if he ever had an opportunity to control them .
+1251 5
+ (1, 1),
+1,happiness,happiness,There was one line being laid out to within a few blocks of his new home the Seventeenth and Nineteenth Street line it was called  which interested him greatly
+2,null,null,He rode on it occasionally when he was delayed or did not wish to trouble about a vehicle
+3,null,null,It ran through two thriving streets of red-brick houses
+4,null,null,and was destined to have a great future once the city grew large enough
+5,null,null,As yet it was really not long enough .
+1301 9
+ (6, 6),
+1,null,null,As it was he was constantly watching the certificates of loan issue
+2,null,null,for the city treasury
+3,null,null,buying large quantities when the market was falling to protect it and selling heavily
+4,null,null,though cautiously
+5,null,null,when he saw it rising and to do this he had to have a great deal of free money to permit him to do it
+6,fear,fear,He was constantly fearful of some break in the market which would affect the value of all his securities and result in the calling of his loans
+7,null,null,There was no storm in sight
+8,null,null,He did not see that anything could happen in reason
+9,null,null,but he did not want to spread himself out too thin .
+1305 26
+ (24, 17),(24, 18),
+1,null,null,His one pet idea
+2,null,null,the thing he put more faith in than anything else
+3,null,null,was his street railway manipulations
+4,null,null,and particularly his actual control of the Seventeenth and Nineteenth Street line
+5,null,null,Through an advance to him
+6,null,null,on deposit
+7,null,null,made in his bank by Stener at a time when the stock of the Seventeenth and Nineteenth Street line was at a low ebb
+8,null,null,he had managed to pick up fifty-one per cent
+9,null,null,of the stock for himself and Stener
+10,null,null,by virtue of which he was able to do as he pleased with the road
+11,null,null,To accomplish this
+12,null,null,however
+13,null,null,he had resorted to some very  "  peculiar "   methods
+14,null,null,as they afterward came to be termed in financial circles
+15,null,null,to get this stock at his own valuation
+16,null,null,Through agents he caused suits for damages to be brought against the company for non-payment of interest due
+17,null,fear,A little stock in the hands of a hireling
+18,null,fear,a request made to a court of record to examine the books of the company in order to determine whether a receivership were not advisable
+19,null,null,a simultaneous attack in the stock market
+20,null,null,selling at three
+21,null,null,five
+22,null,null,seven
+23,null,null,and ten points off
+24,fear,frightened,brought the frightened stockholders into the market with their holdings
+25,null,null,The banks considered the line a poor risk
+26,null,null,and called their loans in connection with it .
+1306 7
+ (1, 2),
+1,happiness,intoxicated,This intoxicated him
+2,null,happiness,for immediately he saw the opportunity of fulfilling his long contemplated dream that of reorganizing the company in conjunction with the North Pennsylvania line
+3,null,null,issuing three shares where one had been before and after unloading all but a control on the general public
+4,null,null,using the money secured to buy into other lines which were to be boomed and sold in the same way
+5,null,null,In short
+6,null,null,he was one of those early
+7,null,null,daring manipulators who later were to seize upon other and ever larger phases of American natural development for their own aggrandizement .
+1307 13
+ (13, 12),
+1,null,null,However
+2,null,null,by the spring and summer of 1871
+3,null,null,Cowperwood had actually
+4,null,null,without being in any conceivable danger from any source
+5,null,null,spread himself out very thin
+6,null,null,Because of his great success he had grown more liberal easier in his financial ventures
+7,null,null,By degrees
+8,null,null,and largely because of his own confidence in himself
+9,null,null,he had induced his father to enter upon his street car speculations
+10,null,null,to use the resources of the Third National to carry a part of his loans and to furnish capital at such times as quick resources were necessary
+11,null,null,In the beginning the old gentleman had been a little nervous and skeptical
+12,null,happiness,but as time had worn on and nothing but profit eventuated
+13,happiness,bolder,he grew bolder and more confident .
+1308 13
+ (13, 12),
+1,null,null,However
+2,null,null,by the spring and summer of 1871
+3,null,null,Cowperwood had actually
+4,null,null,without being in any conceivable danger from any source
+5,null,null,spread himself out very thin
+6,null,null,Because of his great success he had grown more liberal easier in his financial ventures
+7,null,null,By degrees
+8,null,null,and largely because of his own confidence in himself
+9,null,null,he had induced his father to enter upon his street car speculations
+10,null,null,to use the resources of the Third National to carry a part of his loans and to furnish capital at such times as quick resources were necessary
+11,null,null,In the beginning the old gentleman had been a little nervous and skeptical
+12,null,happiness,but as time had worn on and nothing but profit eventuated
+13,happiness,more confident,he grew bolder and more confident .
+1314 15
+ (1, 2),(1, 3),
+1,happiness,helpful thought occurred,Suddenly a helpful thought occurred to him
+2,null,happiness,Butler and Mollenhauer and Simpson were long on local street railways
+3,null,happiness,They must combine to support the situation and protect their interests
+4,null,null,They could see the big bankers
+5,null,null,Drexel & Co
+6,null,null,and Cooke & Co
+7,null,null,and others and urge them to sustain the market
+8,null,null,They could strengthen things generally by organizing a buying ring
+9,null,null,and under cover of their support
+10,null,null,if they would
+11,null,null,he might sell enough to let him out
+12,null,null,and even permit him to go short and make something a whole lot
+13,null,null,It was a brilliant thought
+14,null,null,worthy of a greater situation
+15,null,null,and its only weakness was that it was not absolutely certain of fulfillment .
+1318 15
+ (10, 9),
+1,null,null,They were allied in no one particular financial proposition
+2,null,null,any more than Mollenhauer and Butler were
+3,null,null,And besides
+4,null,null,in all probability Cowperwood was no fool
+5,null,null,He was not equally guilty with Stener
+6,null,null,the latter had loaned him money
+7,null,null,The Senator reflected on whether he should broach some such subtle solution of the situation as had occurred to him to his colleagues
+8,null,null,but he decided not
+9,null,happiness,Really Mollenhauer was too treacherous a man to work with on a thing of this kind
+10,happiness,splendid,It was a splendid chance but dangerous
+11,null,null,He had better go it alone
+12,null,null,For the present they should demand of Stener that he get Cowperwood to return the five hundred thousand dollars if he could
+13,null,null,If not
+14,null,null,Stener could be sacrificed for the benefit of the party
+15,null,null,if need be .
+1319 15
+ (10, 9),
+1,null,null,They were allied in no one particular financial proposition
+2,null,null,any more than Mollenhauer and Butler were
+3,null,null,And besides
+4,null,null,in all probability Cowperwood was no fool
+5,null,null,He was not equally guilty with Stener
+6,null,null,the latter had loaned him money
+7,null,null,The Senator reflected on whether he should broach some such subtle solution of the situation as had occurred to him to his colleagues
+8,null,null,but he decided not
+9,null,fear,Really Mollenhauer was too treacherous a man to work with on a thing of this kind
+10,fear,dangerous,It was a splendid chance but dangerous
+11,null,null,He had better go it alone
+12,null,null,For the present they should demand of Stener that he get Cowperwood to return the five hundred thousand dollars if he could
+13,null,null,If not
+14,null,null,Stener could be sacrificed for the benefit of the party
+15,null,null,if need be .
+1320 8
+ (3, 3),
+1,null,null,He hurried down the street to various bankers and brokers suggesting that they do this close the exchange
+2,null,null,At a few minutes before twelve o'clock he drove rapidly to the station to meet Stener
+3,sadness,sadness,but to his great disappointment the latter did not arrive
+4,null,null,It looked as though he had missed his train
+5,null,null,Cowperwood sensed something
+6,null,null,some trick
+7,null,null,and decided to go to the city hall and also to Stener 's house
+8,null,null,Perhaps he had returned and was trying to avoid him .
+1321 12
+ (9, 9),
+1,null,null,Stener
+2,null,null,as he saw him now
+3,null,null,was a pawn in whosoever 's hands he happened to be at the time
+4,null,null,and despite Mr
+5,null,null,Mollenhauer and Mr
+6,null,null,Simpson and Mr
+7,null,null,Butler he proposed to attempt to keep him in his own hands if possible
+8,null,null,And so he stood there looking at him as might a snake at a bird determined to galvanize him into selfish self interest if possible
+9,fear,fear,But Stener was so frightened that at the moment it looked as though there was little to be done with him
+10,null,null,His face was a grayish blue :  his eyelids and eye rings puffy and his hands and lips moist
+11,null,null,God
+12,null,null,what a hole he was in now
+1325 12
+ (4, 4),
+1,null,null,Stener stood there ridiculously meditating when
+2,null,null,as a matter of fact
+3,null,null,his very financial blood was oozing away
+4,fear,fear,Yet he was afraid to act
+5,null,null,He was afraid of Mollenhauer
+6,null,null,afraid of Cowperwood
+7,null,null,afraid of life and of himself
+8,null,null,The thought of panic
+9,null,null,loss
+10,null,null,was not so much a definite thing connected with his own property
+11,null,null,his money
+12,null,null,as it was with his social and political standing in the community .
+1326 12
+ (5, 5),
+1,null,null,Stener stood there ridiculously meditating when
+2,null,null,as a matter of fact
+3,null,null,his very financial blood was oozing away
+4,null,null,Yet he was afraid to act
+5,fear,fear,He was afraid of Mollenhauer
+6,null,null,afraid of Cowperwood
+7,null,null,afraid of life and of himself
+8,null,null,The thought of panic
+9,null,null,loss
+10,null,null,was not so much a definite thing connected with his own property
+11,null,null,his money
+12,null,null,as it was with his social and political standing in the community .
+1327 12
+ (6, 6),
+1,null,null,Stener stood there ridiculously meditating when
+2,null,null,as a matter of fact
+3,null,null,his very financial blood was oozing away
+4,null,null,Yet he was afraid to act
+5,null,null,He was afraid of Mollenhauer
+6,fear,fear,afraid of Cowperwood
+7,null,null,afraid of life and of himself
+8,null,null,The thought of panic
+9,null,null,loss
+10,null,null,was not so much a definite thing connected with his own property
+11,null,null,his money
+12,null,null,as it was with his social and political standing in the community .
+1328 12
+ (7, 7),
+1,null,null,Stener stood there ridiculously meditating when
+2,null,null,as a matter of fact
+3,null,null,his very financial blood was oozing away
+4,null,null,Yet he was afraid to act
+5,null,null,He was afraid of Mollenhauer
+6,null,null,afraid of Cowperwood
+7,fear,fear,afraid of life and of himself
+8,null,null,The thought of panic
+9,null,null,loss
+10,null,null,was not so much a definite thing connected with his own property
+11,null,null,his money
+12,null,null,as it was with his social and political standing in the community .
+1329 7
+ (4, 3),
+1,null,null,That was why he had been so ready to let Cowperwood act for him
+2,null,null,and now
+3,null,fear,when he should have seen more clearly than ever the significance of what Cowperwood was proposing
+4,fear,frightened,he was frightened and his reason obscured by such things as Mollenhauer 's probable opposition and rage
+5,null,null,Cowperwood 's possible failure
+6,null,null,his own inability to face a real crisis
+7,null,null,Cowperwood 's innate financial ability did not reassure Stener in this hour .
+1330 16
+ (3, 8),
+1,null,null,"  Good God
+2,null,null,how you talk
+3,anger,exploded,"   exploded Cowperwood
+4,null,null,angrily
+5,null,null,looking at him with ill concealed contempt
+6,null,null,"  Go ahead
+7,null,null,See Mollenhauer
+8,null,anger,Let him tell you how to cut your own throat for his benefit
+9,null,null,It wont be right to loan me three hundred thousand dollars more
+10,null,null,but it will be right to let the five hundred thousand dollars you have loaned stand unprotected and lose it
+11,null,null,That 's right
+12,null,null,is n't it
+13,null,null,That 's just what you propose to do lose it
+14,null,null,and everything else besides
+15,null,null,I want to tell you what it is
+16,null,null,George you 've lost your mind .
+1331 16
+ (4, 8),
+1,null,null,"  Good God
+2,null,null,how you talk
+3,null,null,"   exploded Cowperwood
+4,anger,angrily,angrily
+5,null,null,looking at him with ill concealed contempt
+6,null,null,"  Go ahead
+7,null,null,See Mollenhauer
+8,null,anger,Let him tell you how to cut your own throat for his benefit
+9,null,null,It wont be right to loan me three hundred thousand dollars more
+10,null,null,but it will be right to let the five hundred thousand dollars you have loaned stand unprotected and lose it
+11,null,null,That 's right
+12,null,null,is n't it
+13,null,null,That 's just what you propose to do lose it
+14,null,null,and everything else besides
+15,null,null,I want to tell you what it is
+16,null,null,George you 've lost your mind .
+1332 16
+ (5, 8),
+1,null,null,"  Good God
+2,null,null,how you talk
+3,null,null,"   exploded Cowperwood
+4,null,null,angrily
+5,disgust,ill concealed contempt,looking at him with ill concealed contempt
+6,null,null,"  Go ahead
+7,null,null,See Mollenhauer
+8,null,disgust,Let him tell you how to cut your own throat for his benefit
+9,null,null,It wont be right to loan me three hundred thousand dollars more
+10,null,null,but it will be right to let the five hundred thousand dollars you have loaned stand unprotected and lose it
+11,null,null,That 's right
+12,null,null,is n't it
+13,null,null,That 's just what you propose to do lose it
+14,null,null,and everything else besides
+15,null,null,I want to tell you what it is
+16,null,null,George you 've lost your mind .
+1333 6
+ (5, 1),
+1,null,fear,Stener was just about to make another weak rejoinder when the door from the outer office opened
+2,null,null,and Albert Stires
+3,null,null,Stener 's chief clerk
+4,null,null,entered
+5,fear,too flustered,Stener was too flustered to really pay any attention to Stires for the moment
+6,null,null,but Cowperwood took matters in his own hands .
+1911 6
+ (4, 4),
+1,null,null,It was while he was calling on her in this way that his Uncle Seneca died in Cuba and left him fifteen thousand dollars
+2,null,null,This money made him worth nearly twenty-five thousand dollars in his own right
+3,null,null,and he knew exactly what to do with it
+4,fear,fear,A panic had come since Mr Semple had died
+5,null,null,which had illustrated to him very clearly what an uncertain thing the brokerage business was
+6,null,null,There was really a severe business depression .
+2036 2
+ (1, 1),
+1,fear,fear,The collapse of the bank caused ( a ) panic on the Stock Exchange
+2,null,null,ie the value of shares fell quickly .
+2565 5
+ (5, 5),
+1,null,null,Everybody staved in the kitchen and discussed the situation endlessly , imagining all sorts of unlikely things  .  Perhaps they would be retained as hostages
+2,null,null,but to what end
+3,null,null,or taken prisoners
+4,null,null,or rather a consider
+5,fear,fear,able ransom might be demanded  .  At this thought a panic prevailed  .  The richest were the most frightened , already seeing themselves constrained to pay for their lives with sacks of gold poured into the hands of this insolent soldier  .

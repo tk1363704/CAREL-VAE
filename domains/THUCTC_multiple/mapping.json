@@ -1,0 +1,20 @@
+{
+ "mapping": {
+  "0": "happiness",
+  "1": "sadness",
+  "2": "disgust",
+  "3": "surprise",
+  "4": "fear",
+  "5": "anger",
+  "6": "null"
+ },
+ "reverse": {
+  "anger": "5",
+  "disgust": "2",
+  "fear": "4",
+  "happiness": "0",
+  "null": "6",
+  "sadness": "1",
+  "surprise": "3"
+ }
+}

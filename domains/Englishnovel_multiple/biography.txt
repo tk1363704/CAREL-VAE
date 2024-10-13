@@ -1,0 +1,569 @@
+1 3
+ (2, 2),
+1,null,null,That day Jobs walked into the lobby of the video game manufacturer Atari and told the personnel director
+2,surprise,surprise,who was startled by his unkempt hair and attire
+3,null,null,that he would n't leave until they gave him a job .
+2 4
+ (4, 4),
+1,null,null,Jobs spent a few days in Munich
+2,null,null,where he solved the interference problem
+3,null,null,but in the process he flummoxed the dark suited German managers
+4,disgust,disgust,They complained to Alcorn that he dressed and smelled like a bum and behaved rudely .
+3 2
+ (2, 2),
+1,null,null,For his part
+2,fear,fear,Jobs was upset that the Germans kept trying to feed him meat and potatoes .
+8 4
+ (1, 1),
+1,happiness,happiness,Wozniak was thrilled when Jobs asked him to help and proposed splitting the fee
+2,null,null,this was the most wonderful offer in my life
+3,null,null,to actually design a game that people would use
+4,null,null,he recalled .
+9 4
+ (2, 2),
+1,null,null,The Atari experience helped shape Jobs 's approach to business and design
+2,happiness,happiness,He appreciated the user friendliness of Atari 's insert quarter avoid klingons games
+3,null,null,that simplicity rubbed off on him and made him a very focused product person
+4,null,null,said Ron Wayne .
+10 6
+ (1, 2),
+1,surprise,shocked,I typed a few keys on the keyboard and I was shocked
+2,null,surprise,The letters were displayed on the screen
+3,null,null,t was Sunday
+4,null,null,June 29
+5,null,null,1975
+6,null,null,a milestone for the personal computer .
+11 4
+ (3, 2),
+1,null,null,His argument was that a great engineer would be remembered only if he teamed with a great marketer
+2,null,happiness,and this required him to commit his designs to the partnership
+3,happiness,impressed,Jobs was so impressed and grateful that he offered Wayne a 10% stake in the new partnership
+4,null,null,turning him into a tie-breaker if Jobs and Wozniak disagreed over an issue .
+12 4
+ (3, 2),
+1,null,null,His argument was that a great engineer would be remembered only if he teamed with a great marketer
+2,null,happiness,and this required him to commit his designs to the partnership
+3,happiness,grateful,Jobs was so impressed and grateful that he offered Wayne a 10% stake in the new partnership
+4,null,null,turning him into a tie-breaker if Jobs and Wozniak disagreed over an issue .
+13 2
+ (2, 2),
+1,null,null,Jobs and Wozniak had no personal assets
+2,fear,fear,but Wayne ( who worried about a global financial Armageddon ) kept gold coins hidden in his mattress .
+14 5
+ (5, 5),
+1,null,null,Jobs and Wozniak had no personal assets
+2,null,null,but Wayne ( who worried about a global financial Armageddon ) kept gold coins hidden in his mattress
+3,null,null,Because they had structured Apple as a simple partnership rather than a corporation
+4,null,null,the partners would be personally liable for the debts
+5,fear,fear,and Wayne was afraid potential creditors would go after him .
+17 8
+ (1, 6),
+1,surprise,a bit taken aback,Terrell was a bit taken aback
+2,null,null,There was no power supply
+3,null,null,case
+4,null,null,monitor
+5,null,null,or keyboard
+6,null,surprise,He had expected something more finished
+7,null,null,But Jobs stared him down
+8,null,null,and he agreed to take delivery and pay .
+18 4
+ (1, 4),
+1,happiness,exulted,As Wozniak later exulted
+2,null,null,We were participating in the biggest revolution that had ever happened
+3,null,null,I thought
+4,null,happiness,I was so happy to be a part of it .
+19 5
+ (3, 1),
+1,null,surprise,You might want to buy us for a few hundred thousand dollars
+2,null,null,Jobs said when they got there
+3,surprise,was stunned by,Wozniak was stunned by this ridiculous
+4,null,null,suggestion
+5,null,null,but Jobs persisted .
+20 2
+ (2, 1),
+1,null,happiness,Within weeks he had produced a simple foam molded plastic case that was uncluttered and exuded friendliness
+2,happiness,thrilled,Jobs was thrilled .
+21 1
+ (1, 1),
+1,disgust,disgust,What bothered him more was that Jobs knew nothing about marketing and seemed content to peddle his product to individual stores one by one .
+22 3
+ (2, 1),
+1,null,surprise,He wanted to secure a location right at the front of the hall as a dramatic way to launch the Apple II
+2,surprise,shocked,and so he shocked Wozniak by paying $5
+3,null,null,000 in advance .
+23 2
+ (2, 2),
+1,null,null,Like Markkula
+2,disgust,disgust,he hated dealing with the conflicts that Jobs engendered .
+24 8
+ (7, 1),
+1,null,anger,Scott assigned  1 to Wozniak and  2 to Jobs
+2,null,null,Not surprisingly
+3,null,null,Jobs demanded to be  1
+4,null,null,I would n't let him have it
+5,null,null,because that would stoke his ego even more
+6,null,null,said Scott
+7,anger,tantrum,Jobs threw a tantrum
+8,null,null,even cried .
+25 8
+ (8, 1),
+1,null,sadness,Scott assigned  1 to Wozniak and  2 to Jobs
+2,null,null,Not surprisingly
+3,null,null,Jobs demanded to be  1
+4,null,null,I would n't let him have it
+5,null,null,because that would stoke his ego even more
+6,null,null,said Scott
+7,null,null,Jobs threw a tantrum
+8,sadness,cried,even cried .
+26 3
+ (3, 2),
+1,null,null,Jobs also insisted that Apple be different in how it treated customers
+2,null,surprise,He wanted a one year warranty to come with the Apple II
+3,surprise,flabbergasted,This flabbergasted Scott
+27 4
+ (3, 2),
+1,null,null,A year after Lisa was born
+2,null,surprise,Jobs agreed to take a paternity test
+3,surprise,surprised,Brennan 's family was surprised
+4,null,null,but Jobs knew that Apple would soon be going public and he decided it was best to get the issue resolved .
+29 4
+ (3, 2),(3, 4),
+1,null,null,Atkinson and others had read some of the papers published by Xerox PARC
+2,null,disgust,so they knew they were not getting a full description
+3,disgust,complain,Jobs phoned the head of the Xerox venture capital division to complain
+4,null,disgust,a call immediately came back from corporate headquarters in Connecticut decreeing that Jobs and his group should be shown everything .
+30 5
+ (4, 1),
+1,null,disgust,They said it would force us to use a phosphor that was a lot less persistent and would flicker more
+2,null,null,o Atkinson enlisted Jobs
+3,null,null,who came down on his side
+4,disgust,grumbled,The hardware folks grumbled
+5,null,null,but then went off and figured it out .
+31 6
+ (5, 3),
+1,null,null,He was working so hard that one morning
+2,null,null,in a daze
+3,null,fear,he drove his Corvette into a parked truck and nearly killed himself
+4,null,null,Jobs immediately drove to the hospital to see him
+5,fear,worried about,We were pretty worried about you
+6,null,null,he said when Atkinson regained consciousness .
+32 4
+ (3, 1),(3, 2),
+1,null,disgust,This required using a ball rather than the usual two wheels
+2,null,disgust,One of the engineers told Atkinson that there was no way to build such a mouse commercially
+3,disgust,complained,After Atkinson complained to Jobs over dinner
+4,null,null,he arrived at the office the next day to discover that Jobs had fired the engineer .
+33 3
+ (3, 3),
+1,null,null,But John Couch and the other professional engineers on his Lisa team
+2,null,null,many of them buttoned down HP types
+3,anger,anger,resented Jobs 's meddling and were infuriated by his frequent insults .
+34 3
+ (1, 1),
+1,fear,fear,Both Mike Scott and Mike Markkula were intent on bringing some order to Apple and became increasingly concerned about Jobs 's disruptive behavior
+2,null,null,So in September 1980
+3,null,null,they secretly plotted a reorganization .
+35 6
+ (5, 1),
+1,null,fear,He was made non-executive chairman of the board
+2,null,null,This position allowed him to remain Apple 's public face
+3,null,null,but it meant that he had no operating control
+4,null,null,That hurt
+5,fear,upset,I was upset and felt abandoned by Markkula
+6,null,null,he said .
+38 2
+ (2, 1),
+1,null,disgust,Some of the people on the project became enamored of the quest to do everything with the mouse
+2,disgust,grouse,he later grouse .
+39 6
+ (2, 2),
+1,null,null,Jobs even tried to reengage Wozniak
+2,disgust,disgust,I resented the fact that he had not been doing much
+3,null,null,but then I thought
+4,null,null,hell
+5,null,null,I would n't be here without his brilliance
+6,null,null,Jobs later told me .
+41 3
+ (3, 3),
+1,null,null,One day Jobs came into the cubicle of Larry Kenyon
+2,null,null,an engineer who was working on the Macintosh operating system
+3,disgust,disgust,and complained that it was taking too long to boot up .
+43 3
+ (1, 2),
+1,disgust,burst of criticism,Then Jobs let loose a blistering burst of criticism
+2,null,disgust,It 's way too boxy
+3,null,null,it 's got to be more curvaceous .
+44 9
+ (9, 1),(9, 4),
+1,null,surprise,He had just come up with a brilliant algorithm that could draw circles and ovals onscreen quickly
+2,null,null,The math for making circles usually required calculating square roots
+3,null,null,which the 68000 microprocessor didnt support
+4,null,surprise,But Atkinson did a workaround based on the fact that the sum of a sequence of odd numbers produces a sequence of perfect squares ( for example
+5,null,null,1 + 3 = 4
+6,null,null,1 + 3 + 5 = 9
+7,null,null,etc
+8,null,null,Hertzfeld recalled that when Atkinson fired up his demo
+9,surprise,impressed,everyone was impressed except Jobs .
+46 3
+ (3, 1),
+1,null,sadness,Jobs wants to destroy Lisa because we would n't let him control it
+2,null,null,he said
+3,sadness,looking as if he were about to cry,looking as if he were about to cry .
+47 5
+ (5, 2),
+1,null,null,Atkinson had been left out of the publicity interviews for the Lisa launch
+2,null,anger,and he marched into Jobs 's hotel room and threatened to quit
+3,null,null,Jobs tried to minimize the slight
+4,null,null,but Atkinson refused to be mollified
+5,anger,annoyed,Jobs got annoyed .
+48 8
+ (7, 2),
+1,null,null,But by the time the Lisa was ready to ship in the spring of 1983
+2,null,fear,it was clear that the Twiggy was buggy
+3,null,null,Because the Lisa also came with a hard-disk drive
+4,null,null,this was not a complete disaster
+5,null,null,But the Mac had no hard disk
+6,null,null,so it faced a crisis
+7,fear,panic,The Mac team was beginning to panic
+8,null,null,said Hertzfeld .
+49 5
+ (3, 2),(5, 2),
+1,null,null,A few days later he drove to Apple 's factory in San Jose to see the Twiggy being made
+2,null,anger,More than half were rejected
+3,anger,erupted,Jobs erupted
+4,null,null,With his face flushed
+5,anger,shouting and sputtering,he began shouting and sputtering about firing everyone who worked there .
+50 2
+ (2, 2),
+1,null,null,He took them to visit a computer store
+2,surprise,surprise,where he was struck by how poorly the products were marketed .
+51 2
+ (2, 2),
+1,null,null,When he arrived at Apple headquarters
+2,surprise,surprise,Sculley was startled by the unassuming offices and casual atmosphere .
+52 5
+ (4, 3),
+1,null,null,The explanation that Sculley might buy a lot of Macintoshes for Pepsi sounded a little bit fishy to me
+2,null,null,Hertzfeld recalled
+3,null,happiness,but he and Susan Kare created a screen of Pepsi caps and cans that danced around with the Apple logo
+4,happiness,excited,Hertzfeld was so excited he began waving his arms around during the demo
+5,null,null,but Sculley seemed underwhelmed .
+53 5
+ (4, 3),
+1,null,null,The explanation that Sculley might buy a lot of Macintoshes for Pepsi sounded a little bit fishy to me
+2,null,null,Hertzfeld recalled
+3,null,happiness,but he and Susan Kare created a screen of Pepsi caps and cans that danced around with the Apple logo
+4,happiness,waving his arms around,Hertzfeld was so excited he began waving his arms around during the demo
+5,null,null,but Sculley seemed underwhelmed .
+54 2
+ (1, 2),
+1,surprise,astonished,Sculley was astonished
+2,null,surprise,At Pepsi no one would have challenged the chairman like that .
+55 3
+ (3, 2),
+1,null,null,To him
+2,null,anger,the marketing costs were like any other production cost and needed to be factored into the price
+3,anger,resisted furiously,Jobs resisted furiously .
+56 6
+ (6, 6),
+1,null,null,So Jobs promised them
+2,null,null,dont worry
+3,null,null,im not going to let him get away with it
+4,null,null,But in the end
+5,null,null,Sculley prevailed
+6,anger,anger,Even twenty-five years later Jobs seethed when recalling the decision :  It 's the main reason the Macintosh sales slowed and Microsoft got to dominate the market .
+57 5
+ (2, 2),
+1,null,null,Hertzfeld
+2,happiness,happiness,who took great pride that they could achieve their functionality solely using software
+3,null,null,replied
+4,null,null,We dont have any special hardware for it
+5,null,null,Gates insisted that it was necessary to have special hardware to move the cursor that way .
+58 3
+ (2, 2),
+1,null,null,Despite their mutual wariness
+2,happiness,happiness,both teams were excited by the prospect that Microsoft would create graphical software for the Macintosh that would take personal computing into a new realm
+3,null,null,and they went to dinner at a fancy restaurant to celebrate .
+59 5
+ (1, 4),(1, 5),
+1,happiness,upset,But this arrangement upset competing software makers
+2,null,null,In addition
+3,null,null,it seemed that some of Microsoft 's programs might be late
+4,null,happiness,So Jobs invoked a provision in his deal with Microsoft and decided not to bundle its software
+5,null,happiness,Microsoft would have to scramble to distribute its software as products sold directly to consumers .
+60 2
+ (2, 2),
+1,null,null,As Jobs and his team began to work closely with Microsoft
+2,fear,fear,they grew worried that it would copy Macintosh 's graphical user interface .
+61 2
+ (2, 1),
+1,null,happiness,I drew a circle
+2,happiness,exclaimed proudly,Warhol exclaimed proudly after using QuickDraw .
+62 5
+ (3, 2),
+1,null,null,After Jobs talked about the just-in-time production schedules
+2,null,anger,she asked about overtime pay
+3,anger,annoyed,He was annoyed
+4,null,null,so he described how automation helped him keep down labor costs
+5,null,null,a subject he knew would not delight her .
+64 7
+ (6, 5),
+1,null,null,He was just completely obnoxious and thinking he could get away with anything
+2,null,null,she recalled
+3,null,null,In Paris she had arranged a formal dinner with French software developers
+4,null,null,but Jobs suddenly decided he didnt want to go
+5,null,anger,Instead he shut the car door on Hoffman and told her he was going to see the poster artist Folon instead
+6,anger,were so pissed off,The developers were so pissed off they would n't shake our hands
+7,null,null,she said .
+65 2
+ (2, 1),
+1,null,anger,When Jobs made his usual threat about cutting down on France 's allocations if Gass  e didnt jack up sales projections
+2,anger,got angry,Gass  e got angry .
+66 3
+ (1, 1),
+1,anger,anger,I was furious because the Mac XL wasnt real
+2,null,null,said Hoffman
+3,null,null,It was just to blow the excess Lisas out the door .
+68 8
+ (8, 3),
+1,null,null,The Macintosh team is doing great
+2,null,null,and im having the best time of my life right now
+3,null,sadness,you 're just completely out of touch
+4,null,null,is stare was withering
+5,null,null,but he also tried to look amused at Hertzfeld 's assessment
+6,null,null,you really believe that
+7,null,null,I dont think there 's any way that I can come back
+8,sadness,glumly,Hertzfeld replied glumly .
+69 2
+ (2, 2),
+1,null,null,By early 1985 Burrell Smith was also ready to leave
+2,fear,fear,He had worried that it would be hard to quit if Jobs tried to talk him out of it
+70 2
+ (2, 1),
+1,null,anger,There he happened to see sketches that the firm had made for Wozniak 's new remote control device
+2,anger,flew into a rage,and he flew into a rage .
+71 1
+ (1, 1),
+1,anger,anger,As the Macintosh continued to disappoint - sales in March 1985 were only 10% of the budget forecast  .  Jobs holed up in his office fuming or wandered the halls berating everyone else for the problems .
+72 2
+ (1, 2),
+1,anger,In his growling voice,In his growling voice
+2,null,anger,he said that Jobs had been behaving foolishly for a year and had no right to be managing a division .
+74 2
+ (1, 1),
+1,anger,anger,His ire stoked by hearing from Markkula that Jobs had spent the previous evening trying to subvert him
+2,null,null,Sculley walked over to Jobs 's office on Tuesday morning .
+76 2
+ (2, 1),
+1,null,anger,He warned them that there were strict laws against sharing technology with the Soviets
+2,anger,annoyed,Jobs was annoyed .
+77 2
+ (2, 2),
+1,null,null,Lewin 's university consortium had been a godsend to the Macintosh group
+2,sadness,sadness,but he had become frustrated after Jobs left and Bill Campbell had reorganized marketing in a way that reduced the role of direct sales to universities .
+79 1
+ (1, 1),
+1,surprise,surprise,What particularly struck Nocera was Jobs 's almost willful lack of tact .
+80 3
+ (3, 1),
+1,null,fear,In the spring of 1988 cash was running so short that he convened a meeting to decree deep spending cuts across the board
+2,null,null,When it was over
+3,fear,afraid,Lasseter and his animation group were almost too afraid to ask Jobs about authorizing some extra money for another short .
+81 6
+ (6, 3),
+1,null,null,Jobs had been reluctant to let Paul and Clara
+2,null,null,whom he considered his real parents
+3,null,anger,know about his search for his birth mother
+4,null,null,With a sensitivity that was unusual for him
+5,null,null,and which showed the deep affection he felt for his parents
+6,anger,offended,he worried that they might be offended .
+83 1
+ (1, 1),
+1,happiness,happiness,Jobs was thrilled to find that he had a sibling who was so similar to him .
+86 6
+ (2, 2),
+1,null,null,On occasion this could backfire
+2,fear,fear,such as when Jobs and Ive insisted on using a solid piece of brushed aluminum for the edge of the iPhone 4 even when the engineers worried that it would compromise the antenna
+3,null,null,But usually the distinctiveness of its designs for the iMac
+4,null,null,the iPod
+5,null,null,the iPhone
+6,null,null,and the iPad would set Apple apart and lead to its triumphs in the years after Jobs returned .
+94 6
+ (6, 4),
+1,null,null,So Woolard happily granted Jobs 's wish
+2,null,null,with a Gulfstream V
+3,null,null,and also offered him fourteen million stock options
+4,null,fear,Jobs gave an unexpected response
+5,null,null,He wanted more :  twenty million options
+6,fear,upset,Woolard was baffled and upset .
+96 3
+ (2, 1),
+1,null,surprise,The most Zen of all simplicities was Jobs 's decree
+2,surprise,astonished,which astonished his colleagues
+3,null,null,that the iPod would not have an on-off switch .
+99 9
+ (9, 8),
+1,null,null,But as soon as they checked in
+2,null,null,he braced himself
+3,null,null,and sure enough his phone rang a minute later
+4,null,null,I hate my room
+5,null,null,Jobs declared
+6,null,null,It 's a piece of shit
+7,null,null,let 's go
+8,null,surprise,So Ive gathered his luggage and went to the front desk
+9,surprise,shocked,where Jobs bluntly told the shocked clerk what he thought .
+100 7
+ (2, 2),
+1,null,null,Bewkes didnt agree with any of those premises
+2,happiness,happiness,He said he was happy for Apple to sell digital subscriptions for Time Inc
+3,null,null,Apple 's 30% take was not the problem
+4,null,null,im telling you right now
+5,null,null,if you sell a sub for us
+6,null,null,you can have 30%
+7,null,null,Bewkes told him .
+102 4
+ (2, 1),
+1,null,fear,What did he think of the suggestion that Apple sometimes acted arrogantly
+2,fear,worried about,im not worried about that
+3,null,null,he said
+4,null,null,because we 're not arrogant .
+718 6
+ (4, 2),
+1,null,null,Jobs stood back and proudly gazed at his new Macintosh
+2,null,happiness,It looks like it 's from another planet
+3,null,null,he said
+4,happiness,laughed,as the audience laughed
+5,null,null,a good planet
+6,null,null,A planet with better designers .
+719 7
+ (2, 4),
+1,null,null,He perked up when the reporter said something like
+2,happiness,get excited,dont get excited
+3,null,null,Mac users
+4,null,happiness,because it wont work with Macs
+5,null,null,ncaid said to himself
+6,null,null,Ha
+7,null,null,I can fix that
+721 1
+ (1, 1),
+1,fear,fear,He was worried that the era of promoting a song through airplay on the radio was over .
+722 3
+ (2, 2),
+1,null,null,We dont want to do this for anyone else
+2,fear,fear,e was worried about setting the precedent of artists getting a royalty from each iPod sold
+3,null,null,Vincent assured him that the U2 deal would be special .
+723 3
+ (1, 3),
+1,fear,get worried,Lasseter began to get worried when
+2,null,null,in early 1996
+3,null,fear,he heard rumors that DreamWorks might be making its own computer-animated movie about ants .
+726 4
+ (4, 3),
+1,null,null,Jony and Steve were riffing on their design problem
+2,null,null,then Jony asked
+3,null,happiness,what if the screen was separated from the base like a sunflower
+4,happiness,got excited,He got excited and started sketching .
+727 5
+ (1, 3),
+1,fear,worried about,The problem was that he worried about his image
+2,null,null,especially after the Fortune article
+3,null,fear,He did not want to accept the new grant unless the board canceled his old options at the same time
+4,null,null,But to do so would have adverse accounting implications
+5,null,null,because it would be effectively repricing the old options .
+728 4
+ (3, 3),
+1,null,null,He 's a one-of-a-kind person  a genius
+2,null,null,ubinstein 's case was a little more contentious
+3,fear,fear,He was upset by Cook 's ascendency and frazzled after working for nine years under Jobs
+4,null,null,Their shouting matches became more frequent .
+729 4
+ (2, 2),
+1,null,null,Because most of his colleagues were used to it by then and had learned to cope
+2,fear,fear,what upset them most was when his ire turned on strangers
+3,null,null,Once we went to a Whole Foods market to get a smoothie
+4,null,null,Ive recalled .
+730 6
+ (4, 4),
+1,null,null,Jobs would get bored
+2,null,null,grab Riley 's mobile phone
+3,null,null,and start pointing out all the ways it was brain-dead
+4,happiness,happiness,o Jobs and his team became excited  about the prospect of building a phone that they would want to use
+5,null,null,That 's the best motivator of all
+6,null,null,Jobs later said .
+731 3
+ (1, 1),
+1,anger,anger,Gates was annoyed that the guy kept revealing information about the tablet PC he had developed for Microsoft
+2,null,null,He 's our employee and he 's revealing our intellectual property
+3,null,null,Gates recounted .
+732 3
+ (3, 3),
+1,null,null,A lot of features that seem simple now were the result of creative brainstorms
+2,null,null,For example
+3,fear,fear,the team worried about how to prevent the device from playing music or making a call accidentally when it was jangling in your pocket .
+733 6
+ (6, 4),
+1,null,null,He continued to insist that the Microsoft approach of using a stylus for input would prevail
+2,null,null,i 've been predicting a tablet with a stylus for many years
+3,null,null,he told me
+4,null,sadness,I will eventually turn out to be right or be dead
+5,null,null,e night after his announcement
+6,sadness,depressed,Jobs was annoyed and depressed .
+734 5
+ (5, 5),
+1,null,null,Jobs liked Stengel
+2,null,null,who had assigned a talented team led by Josh Quittner to make a robust iPad version of the magazine each week
+3,null,null,But he was upset to see Andy Serwer of Fortune there
+4,null,null,Tearing up
+5,anger,anger,he told Serwer how angry he still was about Fortune 's story two years earlier revealing details of his health and the stock options problems .
+735 5
+ (3, 3),
+1,null,null,There was one problem :  When Powell told her husband
+2,null,null,he said he didnt want to do it
+3,anger,anger,He was annoyed that she had arranged it behind his back
+4,null,null,im not going to get slotted in for a token meeting so that he can check off that he met with a CEO
+5,null,null,he told her .
+736 2
+ (2, 2),
+1,null,null,He had made the same offer in 2008
+2,anger,anger,but he 'd become annoyed when Obama 's strategist David Axelrod wasnt totally deferential .
+857 6
+ (2, 4),
+1,null,null,Steve goes in to pitch him
+2,disgust,could n't stand him,but Joe could n't stand him
+3,null,null,Alcorn recalled
+4,null,disgust,He didnt appreciate Steve 's hygiene
+5,null,null,Jobs was barefoot
+6,null,null,and at one point put his feet up on a desk .
+858 3
+ (3, 3),
+1,null,null,But Apple was my baby
+2,null,null,and I didnt want to give it up
+3,sadness,sadness,Relinquishing any control was agonizing to him .
+859 6
+ (6, 3),
+1,null,null,Sculley recalled
+2,null,null,Most of them thought it was the worst commercial they had ever seen
+3,null,anger,Sculley himself got cold feet
+4,null,null,He asked Chiat Day to sell off the two commercial spots  one sixty seconds
+5,null,null,the other thirty  that they had purchased
+6,anger,beside,bs was beside himself .
+860 1
+ (1, 1),
+1,anger,anger,He would later bristle whenever anyone referred to Paul and Clara Jobs as his adoptive parents or implied that they were not his real parents .
+1377 1
+ (1, 1),
+1,fear,fear,He was stressed out by all the travelling in his job .
+2024 3
+ (3, 3),
+1,null,null,Spend some time looking at your own application and see if you can find functions that seem as if they should be undoable
+2,null,null,but currently arent
+3,surprise,surprise,You may be surprised by how many you find .
+2629 4
+ (4, 4),
+1,null,null,All the warehouse workers were coarse ,  rough people
+2,null,null,who were used to working in dirty conditions for long hours
+3,null,null,No words can describe the horror I felt ,  when I realized what my life was going to be like from now on
+4,disgust,disgust,I was deeply ashamed at having such a job and I was also afraid that I would forget everything I had learnt from my mother and my teachers .
+2837 1
+ (1, 1),
+1,fear,fear,He was very nervous during his first job interview

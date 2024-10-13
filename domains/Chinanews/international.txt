@@ -1,0 +1,700 @@
+108 3
+ (2,2)
+1,null,null,据 全国 广播公司 NBC 报道
+2,surprise,surprise,格兰特 的 一个 邻居 对 他 被 指控 性侵 非常 吃惊
+3,null,null,在 他 被捕 后 都 很 难 入睡
+1140 16
+ (13,13)
+1,null,null,涉案 中国 留学生 也 曾 返回 中国 为 犯罪集团 带 包裹
+2,null,null,目前 他 的 留学生 签证 已 被 移民 部门 取消
+3,null,null,并 正在 接受 调查
+4,null,null,警方 称
+5,null,null,目前 不能 对 案情 的 细节 做过 多 透露
+6,null,null,也 不便 发表 评论
+7,null,null,目前
+8,null,null,警方 已经 逮捕 了 6 名 嫌疑人
+9,null,null,其中 包括 多名 女性
+10,null,null,澳大利亚 警方 提醒
+11,null,null,利用 欠债 引诱 弱势群体 充当 贩毒 工具 是 国际 贩毒集团 的 惯用 手段
+12,null,null,民众 应当 提防
+13,fear,fear,这种 有 组织 的 犯罪活动 相当 令人担忧
+14,null,null,当 陌生人 向 你 提供 高利贷 借款 的 时候
+15,null,null,人们 一定 要 意识 到 这种 行为 给 自己 和 家人 可能 带来 的 风险
+16,null,null,警察 库克 说
+1193 18
+ (9,9), (15,12)
+1,null,null,据 美国 中文网 9 月 11 日 报道
+2,null,null,美国 密歇根州 小城 庞蒂亚 克 最近 发生 了 一件 离奇 的 强拆 事件
+3,null,null,原定 被 拆 房子 的 主人   改变 地址
+4,null,null,把 自家 门牌号 和 自己 隔壁 的 偷偷 调换
+5,null,null,最终 却 导致 他 邻居 的 房子 遭到 强拆
+6,null,null,他 的 邻居 麦克 告诉 记者
+7,null,null,他本 打算 10 月 1 号 之前 把 房子 租出去
+8,null,null,现在 他 想 知道 庞蒂亚 克市 是否 会 还 他 一栋 新房子
+9,happiness,happiness,但是 很多 邻居 对 拆错 了 房子 表示 很 开心
+10,null,null,他们 说 这栋 房子 破破烂烂 的 窗户 实在 是 太 碍眼
+11,null,null,他们 还 说 有 陌生人 擅自 住 在 那里
+12,null,happiness,当 我 听说 他们 不 小心 把 那座 房子 给 拆 了
+13,null,null,我 想 送 他们 一打 啤酒
+14,null,null,邻居 弗雷德 • 萨金特 说
+15,happiness,高兴,我 太高兴 了
+16,null,null,想 把 这栋 房子 租出去 的 人
+17,null,null,脑子 肯定 有病
+18,null,null,萨金特 补充 道
+1200 13
+ (6,6)
+1,null,null,维基百科 专门 列出 介绍 他 的 词条
+2,null,null,一部 讲述 他 人生 的 纪录片 正在 拍摄 中
+3,null,null,然而
+4,null,null,麦科 勒姆 的 母亲 伊丽莎白 认为
+5,null,null,这种 出名 只会 带给 儿子 伤害
+6,disgust,disgust,她 厌烦 记者 不停 打电话 骚扰
+7,null,null,我 儿子 没有 从 这些 描写 他 的 报道 中 得到 任何 好处
+8,null,null,那 只会 混淆视听
+9,null,null,他 需要 的 是 帮助
+10,null,null,美国 一家 非营利 团体   全球 和 地区 阿斯 佩尔 格氏 综合征 伙伴 的 创建者 迈克尔 · 约翰 · 卡利 说
+11,null,null,实际上
+12,null,null,如果 患 类似 自闭症 的 人群 触犯 法律
+13,null,null,现阶段 政府 没有 相应 的 救助 方案
+1209 15
+ (9,9)
+1,null,null,米 莱亚 和 他 的 家人 11 日晚 抵达 蒙特利尔
+2,null,null,并 在 那里 见到 了 魁北克 女孩
+3,null,null,米 莱亚 说 他 很 兴奋 地 开始 了 他 的 假期
+4,null,null,在 蒙特利尔 魁北克 市
+5,null,null,其中 包括 格兰德河 谷镇 － － 消息 瓶 的 出发地 旅游
+6,null,null,我 感觉 真 好
+7,null,null,米 莱亚 12 日 对 着 CTV 电视台 的 镜头 说 我们 昨晚 见到 了 女孩 并且 去 了 很多 地方
+8,null,null,米 莱亚 说
+9,happiness,happiness,最令 他 兴奋 的 是 看到 蒙特利尔 国际 烟花 大赛
+10,null,null,在 那里
+11,null,null,他 和 他 的 家人 都 拥有 有 贵宾席
+12,null,null,米 莱亚 在 回忆 他 去年 10 月 捡 到 消息 瓶 的 情景 时说 那 是 一个 阳光灿烂 的 日子
+13,null,null,我 不是 真的 在 寻找 什么
+14,null,null,而 只是 走来走去
+15,null,null,突然 间 就 踩 到 了 一只 绿色 的 七喜 瓶
+1246 9
+ (8,9)
+1,null,null,阿根廷 一名 母亲 十年如一日 亲自 寻找 女儿 的 下落
+2,null,null,她 冒着危险 扮做 卖淫女 或 老鸨 深入 一家家 妓院 寻找 线索
+3,null,null,其间 解救 了 数百名 性奴
+4,null,null,还 在 阿根廷 掀起 一场 打拐 运动
+5,null,null,成为 民众 心目 中 的 英雄
+6,null,null,但 悲情 的 是
+7,null,null,她 至今 仍 未找到 女儿
+8,sadness,失望,更让人 失望 的 是
+9,null,sadness,她 费尽心力 送上 法庭 的 13 名 绑架 嫌犯 竟 被 法庭 无罪开释
+1248 14
+ (1,1), (6,7)
+1,happiness,happiness,苏珊娜 的 母爱 勇气 和 执著 令人 赞叹
+2,null,null,2007 年
+3,null,null,她 获得 美国国务院 颁发 的 勇敢 女性 奖
+4,null,null,不久前
+5,null,null,她 又 从 阿根廷 总统 克里斯蒂娜 · 费尔南德斯 手中 接过 阿根廷 人权 奖
+6,happiness,可喜,更 可喜 的 是
+7,null,happiness,她 一个 人 对抗 人口 贩卖 的 战争 逐渐 变成 一场 社会 运动
+8,null,null,2008 年
+9,null,null,阿根廷 把 禁止 贩卖人口 写入 法律
+10,null,null,此外
+11,null,null,美国国务院 提供 资金
+12,null,null,成立 以 韦龙 的 名字 命名 的 基金会
+13,null,null,专门 帮助 阿根廷 解救 被迫 从事 卖淫 的 女性
+14,null,null,迄今已 帮助 900 多人 脱离 火坑
+1250 14
+ (9,9)
+1,null,null,在 韦龙 家乡 图库 曼 和 首都 布宜诺斯艾利斯
+2,null,null,都 有 妇女组织 和 人权 组织 上街 游行
+3,null,null,抗议 这个 判决
+4,null,null,阿根廷 安全部长 尼尔 达 · 加尔说
+5,null,null,这个 判决 是 对 司法 正义 的 一记 耳光
+6,null,null,有 政客 威胁 要 弹劾 法官
+7,null,null,指 三名 法官 收受 了 贿赂
+8,null,null,阿根廷 总统 克里斯蒂娜 亲自 打电话 给 苏珊娜
+9,anger,anger,称 自己 对 判决 感到 诧异 和 愤怒
+10,null,null,克里斯蒂娜 说 我 跟 她 说
+11,null,null,我 永远 是 你 的 靠山
+12,null,null,她 却 回答 说
+13,null,null,总统 别 担心
+14,null,null,我会 继续 战斗 的
+1299 9
+ (4,4)
+1,null,null,事发 前
+2,null,null,一位 游客 提议 让 图克 站 到 鳄鱼 旁边 好 让 他们 拍照 留念
+3,null,null,图克 好心 答应 没想到 却 遭到 鳄鱼 的 突然袭击
+4,surprise,surprise,这 突如其来 的 情形 让 游客 们 震惊 不已
+5,null,null,但 没 等 大家 反应 过来
+6,null,null,可怜 的 图克 就 已经 丧命
+7,null,null,当地 官员 奥古斯丁 · 提亚姆 表示
+8,null,null,政府部门 将会 引入 更 严密 的 安全措施
+9,null,null,避免 类似 的 悲剧 再次发生
+1308 15
+ (8,8)
+1,null,null,今年 1 月
+2,null,null,一组 保健专家 上门 探访 了 马丁
+3,null,null,并 警告 他 不 接受 我们 建议 的话 就 会 死
+4,null,null,除了 4 次进 医院
+5,null,null,马丁 最后 一次 走出 门口 是 在 2001 年 的 9 月 11 日
+6,null,null,恐怖主义 者 挟持 飞机 撞 向 美国 世贸中心 的 当天
+7,null,null,我 非常 清晰 地 记得 那天
+8,fear,fear,因为 人们 对 袭击 反应 非常 恐慌
+9,null,null,但 对 我 而言 事情 有 好 的 一面
+10,null,null,因为 我 再也 不 需要 走出 家门 了
+11,null,null,马丁 说
+12,null,null,马丁 表示
+13,null,null,自 那 以后
+14,null,null,他 就 一直 在 领受 伤残 补助金 了
+15,null,null,因为 他 身体 不 适合 工作
+1323 9
+ (5,6)
+1,null,null,16 日 报道
+2,null,null,英国 伯明翰 一名 计算机 专家 近期 引起 人们 关注
+3,null,null,他 不仅 对 所有 计算机 问题 了如指掌
+4,null,null,更 获得 了 欧洲 计算机 使用 执照 ECDL
+5,surprise,吃惊,令人吃惊 的 是
+6,null,surprise,这名 计算机 奇才 原来 只是 一名 8 岁 男童
+7,null,null,他 5 岁 时 已 懂得 创立 网站
+8,null,null,7 岁 完成 ECDL
+9,null,null,成就 或 可 媲美 微软 创办人 比尔 • 盖茨
+1332 12
+ (10,9)
+1,null,null,9 月 24 日 报道
+2,null,null,意大利 一名 58 岁 高龄产妇 日前 在 米兰 产下 一对 双胞胎
+3,null,null,然而 意大利 法庭 认为
+4,null,null,老年夫妇 生 孩子 是 自私 的 行为
+5,null,null,他们 应该 将 婴儿 送人 收养
+6,null,null,这位 58 岁 高龄产妇 的 丈夫 也 已经 65 岁 了
+7,null,null,他们 在 此前 27 年 中 一直 未能 拥有 自己 的 孩子
+8,null,null,直到 不久前 终于 通过 一名 外国 女性 捐赠 的 卵子 怀孕
+9,null,happiness,生 下 一对 龙凤 双胞胎
+10,happiness,高兴,他们 表示 我们 非常高兴
+11,null,null,这是 上帝 送给 我们 的 奇迹
+12,null,null,然而 意大利 司法 系统 似乎 对 这样 的 奇迹 并 不 认同
+1354 11
+ (3,3)
+1,null,null,据 英国 媒体 4 月 24 日 报道
+2,null,null,对于 植物学家 来说
+3,happiness,happiness,没有 比 这个 消息 更令 他们 兴奋 的 消息 了 — — 有着 世界 上 最 臭 的 花之称 的 泰坦 魔芋 日前 在 瑞士 盛开
+4,null,null,这 是 近 10 年来
+5,null,null,在 世界 范围 内 这种 珍稀 植物 首次 开花
+6,null,null,这朵 泰坦 魔芋 位于 瑞士 的 巴塞尔 大学 校内
+7,null,null,突然 在 22 日 夜间 盛开
+8,null,null,它 高约 9 英尺 约 2.7 米
+9,null,null,其 雨伞 状 深紫色 花瓣 的 直径约 3 到 4 英尺 0.9 至 1.2 米
+10,null,null,异常 艳丽
+11,null,null,类似 于 腐尸 的 臭味 甚至 在 半英里 约 800 米 之外 都 可以 闻到
+1365 15
+ (7,6)
+1,null,null,斯特 沃德 居住 在 新南威尔士州 的 潘 布拉
+2,null,null,当时 来到 亚斯 市 朋友家 借宿
+3,null,null,以便 带 妻子 去 堪培拉 看病
+4,null,null,结果 他 妻子 左 等 右 等
+5,null,null,六七个 小时 过去 了
+6,null,disgust,也 不见 丈夫 回来
+7,disgust,焦虑不安,焦虑不安 的 她 打电话 报 了 警
+8,null,null,因为 去 商店 买 牛奶 或者 报纸 不过 是 几分钟 的 事
+9,null,null,后来
+10,null,null,她 打通 了 丈夫 的 手机
+11,null,null,我 问 他 在 哪里
+12,null,null,结果 他 也 不 知道
+13,null,null,开车 八个 多 小时 后
+14,null,null,斯特 沃德 在 维多利亚州 季隆 附近 的 一个 加油站 停下 车
+15,null,null,告诉 警察 史密斯 自己 迷路 了
+1367 11
+ (5,4)
+1,null,null,我 从未 怀疑 过 他 想 结束 自己 生命 的 理由
+2,null,null,我 始终 在 维护 一个 成年人 选择 如何 死去 的 权利
+3,null,null,他 可以 自己 决定 在 什么 时候 什么 地方
+4,null,happiness,最终 他 从 最高法院 为 自己 赢得 了 这些 权利
+5,happiness,高兴,罗斯特 非常高兴
+6,null,null,在 罗斯特 案件 审理 时
+7,null,null,法庭 内外 都 有 不少 人 在 进行 激烈 的 争论
+8,null,null,安乐死 因为 触及 道德 和 法律 两个 层面 的 底线 而 成为 全世界 范围 内 的 争议 话题
+9,null,null,仅 在 澳大利亚
+10,null,null,就 经历 过 被 许可
+11,null,null,又 被 推翻 的 过程
+1374 9
+ (1,1)
+1,anger,anger,霍曼 夫人 对 暴徒 毫无 人性 的 行为 十分 愤慨 并 当即 报警
+2,null,null,目前
+3,null,null,警方 已 对 此事 展开 调查
+4,null,null,初步 调查 显示 暴徒 可能 先 绑住 罗西
+5,null,null,再用 气枪 连发 扫射 50 多枪
+6,null,null,让 人 疑惑 的 是
+7,null,null,这 并 不是 霍曼 夫人 的 宠物 第一次 遇袭
+8,null,null,早 在 3 年前 一伙 暴徒 就 曾 闯入 霍曼 夫人 先前 位于 另 一处 的 房子
+9,null,null,袭击 了 她 的 宠物 兔子
+1375 10
+ (7,7), (10,9), (10,10)
+1,null,null,雷切尔 的 一名 孙子 对 记者 说 我 祖母 是 一个 善良 的 女性
+2,null,null,她 居住 的 露天 市场 附近 经常 会 有 穷人 和 无家可归者 在 寻觅 食物
+3,null,null,而 我 的 祖母 经常 会 帮助 他们
+4,null,null,直到 两年 前
+5,null,null,她 都 一直 参与 所有 家庭 事件
+6,null,null,她 认识 所有 的 孙辈 曾孙 和 玄孙
+7,sadness,sadness,我们 为 她 的 去世 感到 悲哀
+8,null,null,不过
+9,null,happiness,我们 也 为 她 一生 中所 做 的 一切
+10,happiness,happiness,以及 她 的 正直 和 同情心 感到 骄傲
+1379 15
+ (11,12)
+1,null,null,宠物 医生 多娜 · 韦伯 在 接受 澳大利亚广播公司 采访 时说
+2,null,null,克鲁德 的 主人 在 它 走失 之后 曾 在 南 塔斯马尼亚 张贴 寻猫 启事
+3,null,null,可惜 一无所获
+4,null,null,据 报道
+5,null,null,刚 被 发现 时
+6,null,null,克鲁德 看上去 有些 病态
+7,null,null,很 明显
+8,null,null,它 像 一个 野生 的 猫
+9,null,null,多娜 说
+10,null,null,但是 值得 庆幸 的 是 它 很快 恢复 了 健康
+11,happiness,高兴,现在 克鲁德 的 主人 凯 思琳 · 菲利浦 一家 非常高兴
+12,null,happiness,因为 他们 的 宠物 又 重新 回到 身边 了
+13,null,null,凯 思琳 · 菲利浦 说
+14,null,null,克鲁德 3 年前 从 塔斯马尼亚岛 的 一个 码头 登上 了 一艘船
+15,null,null,并 辗转 到达 了 澳大利亚 大陆
+1380 17
+ (7,6)
+1,null,null,巴依 表示
+2,null,null,一名 自称 能 医治 任何 疑难杂症 的 巫医
+3,null,null,对 她 儿子 的 病情 也 束手无策
+4,null,null,据巴依 表示
+5,null,null,身为 家中 长子 的 帕里 哈
+6,null,sadness,是 在 中学 时因 某次 考试 失败
+7,sadness,沮丧,极度 沮丧
+8,null,null,不愿 见 外人
+9,null,null,开始 足不出户
+10,null,null,最后 演变 成群 医 所谓 的 惧 日症
+11,null,null,巴依 表示
+12,null,null,帕里 哈有 一名 弟弟 契坦
+13,null,null,身心 情况 正常
+14,null,null,据 契坦 告诉 媒体 说
+15,null,null,帕里 哈 居家 生活 以及 与 家人 对话 和 反应
+16,null,null,都 表现 正常
+17,null,null,但 就是 不肯 在 白天 走出 家门
+1381 14
+ (2,2)
+1,null,null,美国 一名 男子 在 同 女友 远足 途中 突然 求婚
+2,happiness,happiness,女友 因为 这 意外 惊喜 激动 得 头晕目眩
+3,null,null,居然 失足 从 悬崖 边 跌落
+4,null,null,造成 身上 多处 受伤
+5,null,null,据 英国 每日 电讯报 8 日 报道
+6,null,null,这名 男子 日前 和 女友 外出 远足
+7,null,null,当两人 沿 著名 的 比利 山羊 道 行至 马里兰州 蒙哥马利 县 的 一段 山道 时
+8,null,null,男子 突然 向 女友 求婚
+9,null,null,女友 马上 应允
+10,null,null,但 因事出 意外
+11,null,null,她 深深 沉浸 在 喜悦 之中
+12,null,null,因 极度 幸福 而 头晕目眩
+13,null,null,失足 跌倒
+14,null,null,坠入 一处 深约 3 米 的 悬崖
+1396 15
+ (6,5)
+1,null,null,今年 我 一直 倒霉
+2,null,null,1 月份 在 大街 上 被 狗 咬
+3,null,null,4 月份 查出 乳腺癌
+4,null,null,但 最终 还是 会 有 好事 在 等 着 我
+5,null,happiness,英国人 妮基 · 库萨克 中 了 巨额 大奖 后
+6,happiness,开心,开心 得 哭 了 起来
+7,null,null,据 英国 太阳报 7 日 报道
+8,null,null,43 岁 的 妮 基 · 库萨克 居住 在 英国 斯文 顿
+9,null,null,今年 她 似乎 流年不利
+10,null,null,先是 在 1 月份 时为 保护 自己 的 孩子 在 街头 被 6 条大狗 围攻
+11,null,null,4 月份 又 被 查出 患 了 乳腺癌
+12,null,null,这名 四个 孩子 的 单亲 妈妈 简直 欲哭无泪
+13,null,null,不过
+14,null,null,两周 前
+15,null,null,妮 基跌 到 谷底 的 运气 似乎 回来 了
+14 7
+ (2,1), (6,6)
+1,null,happiness,老公 站 在 楼栋 底下 同站 在 6 楼 的 妻子 隔空 拌嘴
+2,happiness,激动,妻子 一时 激动 竟 从 阳台 滑 下
+3,null,null,但 幸运地 挂 在 4 楼 晒衣架 上
+4,null,null,老公 立即 大喊 快抓紧
+5,null,null,我爱你
+6,happiness,happiness,妻子 被 温馨 的 话语 感动
+7,null,null,自救 成功
+1400 12
+ (7,6)
+1,null,null,怀孕 期间
+2,null,null,戴尔 很 担心
+3,null,null,她 说 当 我 知道 我怀 的 是 三胞胎 时
+4,null,null,我 很 怕 会 出 问题
+5,null,null,因为 怀 三个 孩子 出 问题 的 机率 会大 很多
+6,null,happiness,当 三个 孩子 平安 出生
+7,happiness,高兴,她 高兴 地 尖叫 起来
+8,null,null,现在 的 三个 孩子 每 四个 小时 喂养 一次
+9,null,null,一天 要换 20 块 尿布
+10,null,null,戴尔 夫人 透露
+11,null,null,她 母亲 的 家人 中 就 有 曾经 生 过 双胞胎 的 例子
+12,null,null,可以 追溯到 1837 年
+1627 13
+ (7,7)
+1,null,null,据 欧洲 时报 网 报道
+2,null,null,巴黎 警方 相关 消息 称
+3,null,null,20 日 晚间
+4,null,null,一名 涉嫌 于 上周四 （ 19 日 ） 在 巴黎 十三 区 的 皮 提耶 - 萨尔 佩特里 厄尔 （ Piti é - Salp ê tri è re ） 医院 地下室 强奸 26 岁 中国 女 游客 的 年轻 男子 被 警方 逮捕
+5,null,null,据 巴黎 人报 报道
+6,null,null,19 日 凌晨 5 点
+7,fear,fear,一位 26 岁 的 中国 女 游客 因 被 SNCF 办公室 起火 冒出 的 浓烟 惊吓
+8,null,null,离开 了 在 巴黎 里昂 火车站 附近 居住 了 一周 的 宾馆
+9,null,null,离开 途中 遇到 一 年轻 男子 主动 提出 陪同 游览 巴黎
+10,null,null,男子 利用 了 女 游客 的 天真 单纯
+11,null,null,将 其 带到 皮 提耶 - 萨尔 佩特里 厄尔 （ Piti é - Salp ê tri è re ） 医院 地下室
+12,null,null,实施 强奸
+13,null,null,随后 男子 抢走 女 游客 的 钱包 手机 和 照相机 后 逃跑
+1697 24
+ (16,15)
+1,null,null,1 月 23 日 报道
+2,null,null,美国 伊利诺伊州 警方 证实 称
+3,null,null,曼 德林 市 Mundelein 一名 14 岁 女孩 捅 11 岁 妹妹 40 刀致 其 死亡
+4,null,null,理由 竟是 她 觉得 妹妹 不 懂 感恩
+5,null,null,当地 时间 21 日 上午 8 点 30 分
+6,null,null,警方 接到 14 岁 女孩 报警
+7,null,null,称 有人 闯入 她家
+8,null,null,攻击 了 妹妹 后 逃离
+9,null,null,她 的 报案 导致 附近 3 所 学校 进入 一级 防范 状态
+10,null,null,但 这名 女孩 的 谎言 很快 被 揭穿
+11,null,null,在 警方 询问 下
+12,null,null,她 承认 自己 袭击 了 妹妹
+13,null,null,这名 女孩 告诉 警察
+14,null,null,她 为 妹妹 做饭 收拾 家务
+15,null,anger,但 妹妹 对此 毫不 领情 上周 还 动手 打伤 了 她
+16,anger,愤怒,这 让 她 感到 愤怒
+17,null,null,在 思考 10 多分钟 后
+18,null,null,她 下楼 用刀 刺 死 了 妹妹
+19,null,null,随后
+20,null,null,她 清理 了 现场
+21,null,null,报警 并 编造 了 上述 故事
+22,null,null,曼 德林 市长 史蒂夫 · 伦茨 Steve   Lentz 说 这 是 一场 令人 心碎 的 惨剧
+23,null,null,让 人 难以 理解
+24,null,null,我 已经 请求 所有人 为 这个 破碎 的 家 祈祷
+1761 28
+ (24,22)
+1,null,null,据 美国全国广播公司 报道
+2,null,null,在 被害者 家中 被 发现 时
+3,null,null,嫌疑人 光着 的 双脚 沾满 鲜血
+4,null,null,身旁 有 菜刀 和 一把 剪刀
+5,null,null,班克斯 说
+6,null,null,被害者 颈部 和 躯干 均 有 刀伤
+7,null,null,警方 抵达 时 他们 已经 失去 意识
+8,null,null,凶案 现场 让 人 永远 无法 忘记
+9,null,null,他们 被 人用 菜刀 砍死
+10,null,null,班克斯 说
+11,null,null,我们 找到 了 那 把 刀
+12,null,null,附近 居民 鲍勃 · 马登 描述
+13,null,null,他 看到 一名 男子 被 警方 从楼 内带 出
+14,null,null,这名 男子 赤脚 穿着 牛仔裤
+15,null,null,面 无表情
+16,null,null,凝视 前方
+17,null,null,被害者 一家 的 男主人 案发时 不 在家
+18,null,null,附近 居民 拉里 说
+19,null,null,他 看到 这名 失去 家人 的 男子 回到 家中
+20,null,null,他 大喊 自己 是 父亲
+21,null,null,然后 冲 进 家中
+22,null,sadness,警方 通过 中文翻译 告知 他 妻儿 都 不幸遇害 的 噩耗
+23,null,null,男子 哭 到 歇斯底里
+24,sadness,伤心欲绝,伤心欲绝
+25,null,null,只有 真正 邪恶 的 人才 会用 刀 刺 向 孩子
+26,null,null,邻居 迈克尔 · 詹 音译 说
+27,null,null,刺向 孩子 的 人 是 禽兽
+28,null,null,只有 禽兽 才 会 这么 做
+181 6
+ (5,6)
+1,null,null,2 日 晚上 9 点 30 分 左右
+2,null,null,丽水 龙泉市 凤起路 上演 疯狂 的 一幕 一名 女子 驾车 撞 向 路 人
+3,null,null,造成 6 人 受伤
+4,null,null,多车 受损
+5,surprise,惊讶,但 令人 惊讶 的 是
+6,null,surprise,这名 女子 并 不是 因为 操作 不当 误 将 油门 当 刹车 而是 有意 为 之
+1882 18
+ (11,9)
+1,null,null,据 当地 林区 官员 介绍
+2,null,null,接到 丈夫 报案 后
+3,null,null,森林 警卫 马上 进行 搜救
+4,null,null,但 完全 找 不到 该 妇女 的 踪影
+5,null,null,这起 袭击 事件 发生 在 印度 最大 的 红树林 区桑 德班 斯 地区
+6,null,null,据 报道
+7,null,null,这是 今年 该 地区 发生 的 第 6 起 老虎 袭击 事件
+8,null,null,今年 6 月
+9,null,fear,一只 孟加拉虎 突袭 另一名 乘船 捕蟹 的 男子
+10,null,null,当 他 被 拖入 红树林 沼泽 区时
+11,fear,惊恐,其子 在 船上 惊恐 地 目睹 了 这 一切
+12,null,null,据 环保 人士 介绍
+13,null,null,由于 老虎 栖息地 不断 缩减
+14,null,null,它们 被迫 离开 丛林 觅食
+15,null,null,目前 全球 仅存 约 3200 只 野生 老虎
+16,null,null,其中 超过 一半 生活 在 印度
+17,null,null,由于 捕猎 活动 猖獗
+18,null,null,这一 数字 也 在 迅速 下降
+1888 13
+ (2,1)
+1,null,anger,当 女性 遭遇 男朋友 背叛 后
+2,anger,愤怒,哭泣 愤怒 在所难免
+3,null,null,但据 外媒 报道
+4,null,null,英国 一名 一 脚踏两船 的 男子
+5,null,null,其 两名 女朋友 却 在 大桥 上 挂出 合影
+6,null,null,联手 宣布 与 劈 腿 男 分手
+7,null,null,据 报道
+8,null,null,英国 男子 弗雷泽 与 女子 莫兰 交往 数年 后 分手
+9,null,null,后来 开始 与 另 一 女子 伊林 沃恩 约会
+10,null,null,不过
+11,null,null,弗雷泽 又 与 莫兰 旧情 复燃
+12,null,null,于是 他 开始 同时 与 两名 女子 约会
+13,null,null,一 脚踏两船 大约 6 个 星期 时间
+1894 13
+ (5,4)
+1,null,null,据 西班牙 欧浪网 报道
+2,null,null,陈女士 9 岁 的 儿子 阿宝 化名 本 月初 一直 被 感冒 症状 侵扰
+3,null,null,去过 医院 后 康复 的 速度 依旧 很 缓慢
+4,null,sadness,看着 儿子 每天 在 鼻涕 咳嗽 甚至 是 低烧 的 状态 下 饱受 折磨
+5,sadness,心疼,陈女士 也 心疼 不已
+6,null,null,近日
+7,null,null,她 忽然 想起 尝试 用 中国 传统 的 刮痧 方式 帮助 儿子 减轻 点 症状
+8,null,null,于是 她 就 找 来 自己 从 国内 带来 的 牛角 梳帮 儿子 刮痧
+9,null,null,十几分钟 下来
+10,null,null,阿宝 的 身上 从 脖子 至 背部 就 开始 出现 了 一串串 紫红色 的 瘀 点
+11,null,null,面积 也 相当 大
+12,null,null,之后
+13,null,null,陈女士 还 熬 了 一碗 姜汤 试图 为 儿子 彻底 驱寒
+2003 14
+ (7,8)
+1,null,null,巴西 媒体 10 日 报道
+2,null,null,这名 妇女 来自 帕拉 州
+3,null,null,现年 35 岁
+4,null,null,她 近来 感到 自己 耳朵 附近 部位 疼痛 难忍
+5,null,null,前往 医院 接受 治疗
+6,null,null,在 X光 检查 中
+7,surprise,惊讶,医生 惊讶 地 发现
+8,null,surprise,这名 妇女 软组织 中嵌 有 24 根至 26 根针
+9,null,null,报道 说
+10,null,null,这名 妇女 出身 于 一个 裁缝 之 家
+11,null,null,医生 认为
+12,null,null,她 11 岁 将 这些 针刺 入 自己 的 身体
+13,null,null,眼下 不 清楚 这名 妇女 为什么 对 针刺 一事 毫无 记忆
+14,null,null,而且 20 多年 内 没有 感到 剧烈 疼痛
+2005 8
+ (5,4)
+1,null,null,试管 受精 术 怀上 双胞胎 卡伦 约翰逊 是 三个 月 前生 下 这 对 双胞胎 的
+2,null,null,6 日 刚刚 回家
+3,null,null,此前 这 对 双胞胎 已经 在 医院 与 死神 搏斗 了 3 个 月
+4,null,happiness,她 6 日 表示 当 我 知道 他们 平安 降生 时
+5,happiness,欣喜若狂,我 欣喜若狂
+6,null,null,在 他们 出生 后 的 3 个 月
+7,null,null,我 一直 处于 兴奋 和 焦虑 之中
+8,null,null,卡伦是 利用 他人 捐献 的 卵子 和 丈夫 的 精子 做 了 试管 受精 手术 才 怀上 这 对 双胞胎 的
+2016 17
+ (8,10)
+1,null,null,前妻 卧室 安 顺风耳 窃听 埃及 男子 穆罕默德 11 年前 因 移情别恋
+2,null,null,不顾 发妻 苦苦哀求 毅然 离婚
+3,null,null,随即 与 小 三 重新组建 了 家庭
+4,null,null,一 想到 结婚 多年 的 丈夫 如此 决然 分手
+5,null,null,前妻 心意 难平
+6,null,null,时不时 骚扰 穆罕默德
+7,null,null,让 后者 烦 不胜 烦
+8,fear,惊恐,更 让 他 惊恐 不已 的 是
+9,null,null,一天 他 竟然 在 卧室 角落里
+10,null,fear,发现 一枚 酷似 窃听器 的 黑匣子
+11,null,null,穆罕默德 心知肚明
+12,null,null,不用 多问
+13,null,null,这 一准 是 他 那 难缠 的 前妻 的 杰作
+14,null,null,为 彻底 摆脱 前妻 的 顺风耳
+15,null,null,穆罕默德 忍痛 卖掉 了 才 住 了 没多久 的 新房
+16,null,null,重新 在 远处 另外 购置 了 一套 新 公寓
+17,null,null,然后 带 着 怀孕 的 新婚 妻子 搬入 了 新 的 住处
+2017 10
+ (7,5)
+1,null,null,安妮 称
+2,null,null,她 和 鹦鹉 阿丽巴 在 一起 共同 生活 了 30 年
+3,null,null,她们 的 感情 就 像 家人 一样 深厚
+4,null,null,化疗 鹦鹉 本周 离开 人世 今年 3 月 16 日 晚上
+5,null,sadness,这 只 饱受 癌症 折磨 的 宠物 鹦鹉 由于 病情 加重 终于 不 治 身亡
+6,null,null,离开 了 人世 和 爱 它 的 主人 安妮
+7,sadness,伤心,伤心 的 安妮 含着 眼泪 回忆 说 当 医生 一 开始 告诉 我 阿丽巴 患有 癌症 最 多 只能 再活 两个 月 时
+8,null,null,我 是 那样 的 震惊
+9,null,null,因为 对于 一只 鹦鹉 来说 它 仍 处于 中年
+10,null,null,所以 我 毫不犹豫 地 决定 让 它 到 佛罗里达州 兽医 专家 医院 接受 化疗
+2026 14
+ (9,11)
+1,null,null,据悉
+2,null,null,那 对 不孕 夫妇 在 移植手术 前 曾 冷冻 了 6 枚 胚胎
+3,null,null,然而
+4,null,null,尽管 医生 多次 尝试 利用 这 6 枚 胚胎 植入 吉尔 体内 令 她 怀孕
+5,null,null,但 在 此后 长达 18 个 月 时间 里
+6,null,null,均 以 失败 告终
+7,null,null,直到 不久前
+8,null,null,医生 才 设法 将 2 枚 胚胎 植入 吉尔 的 子宫 内
+9,happiness,惊喜,令人 惊喜 的 是
+10,null,null,日前 检测 发现
+11,null,happiness,吉尔 成功 地 怀上 了 身孕
+12,null,null,2 枚 胚胎 中 至少 有 一枚 胚胎 已经 开始 在 她 的 子宫 内 生长
+13,null,null,10 月份 将生 第 8 胎 据悉
+14,null,null,这 将 是 吉尔 第一次 不是 利用 她 本人 的 卵子 怀上 身孕
+2027 16
+ (10,11)
+1,null,null,就 在 他 悲痛欲绝 之际
+2,null,null,奇迹 出现 了
+3,null,null,孕妇 特蕾西 的 心跳 停止 了 4 分钟 之后
+4,null,null,竟然 恢复 了 心跳 和 呼吸
+5,null,null,随即
+6,null,null,先前 无 任何 生命 迹象 的 婴儿 也 开始 慢慢 出现 了 微弱 呼吸
+7,null,null,继而 哇哇大哭
+8,null,null,经过 医生 紧急 抢救
+9,null,null,母子 双双 奇迹 生还
+10,happiness,激动,迈克 激动 地 表示
+11,null,happiness,母子 都 平安 活 下来 绝对 是 个 奇迹
+12,null,null,这是 上帝 给 他 最好 的 圣诞礼物
+13,null,null,如今
+14,null,null,特蕾西 母子 已 出院 回到 家中
+15,null,null,夫妇 两人 怀着 感恩 的 心情
+16,null,null,迎接 新 的 一年
+2039 10
+ (4,4)
+1,null,null,澳大利亚 牧牛 犬索菲 · 塔克 跟随 主人 简 · 格里菲斯 一家 乘 游艇 出海 玩耍 时 遭遇 恶劣 天气
+2,null,null,塔克 竟 被 狂风 骇浪 掀下 游艇
+3,null,null,掉落 海 中
+4,sadness,sadness,悲伤 的 主人 格里菲斯 以为 塔克 已经 淹死 在 了 海水 中
+5,null,null,然而 塔克 竟 在 风波 险恶 鲨鱼 遍布 的 海水 中游 了 约 9 公里 远
+6,null,null,直到 游到 了 一个 荒凉 的 小岛 圣 比斯 岛上
+7,null,null,据悉
+8,null,null,圣 比斯 岛上 当时 住 着 几名 研究 岛上 动物 的 科学家
+9,null,null,他们 发现 岛上 多出 了 几只 血肉模糊 的 小山羊 尸体 后
+10,null,null,开始 向 该州 野生 动植物 管理 部门 报警
+2042 20
+ (11,8)
+1,null,null,事件 发生 于 2007 年 6 月
+2,null,null,当时 只有 22 岁 的 克莱尔 远渡 大西洋
+3,null,null,到 美国 出席 父亲 与 继母 的 婚礼
+4,null,null,她 抵步 后 随即 感到 腹痛
+5,null,null,起初 以为 是 时差 或 在 飞机 上 吃喝 过度 所致
+6,null,null,但 两 日后
+7,null,null,腹痛 加剧
+8,null,fear,如厕 时 甚至 发觉 下身 出血
+9,null,null,其 家 人大 惊
+10,null,null,实时 将 她 送院
+11,fear,心急如焚,一家人 在 医院 心急如焚
+12,null,null,其父 甚至 以为 女儿 命 不久 矣
+13,null,null,医生 检查 后 却 点 出 剧痛 的 原因 不是 便秘
+14,null,null,而是 要 生产
+15,null,null,克莱尔 当时 还 以为 医生 在 说 笑
+16,null,null,但 随着 一阵 剧痛 传来
+17,null,null,她 用力 几下
+18,null,null,便 即 听到 婴儿 哭声
+19,null,null,她 至此 才 恍然大悟 我 的 天
+20,null,null,真是 个 孩子
+2047 9
+ (5,7)
+1,null,null,据悉
+2,null,null,苏什玛 的 哥哥 塞 兰德 达 · 韦玛 也 是 一名 智力 超群 的 优等生
+3,null,null,他 11 岁 时 通过 大学 入学考试 和 美国 高中生 进入 美国大学 必须 参加 的 托福考试
+4,null,null,并且 获得 美国大学 入学 许可
+5,sadness,惋惜,令人 惋惜 的 是
+6,null,null,由于 家境 过于 贫困
+7,null,sadness,他 最终 无法 实现 出国深造 的 梦想
+8,null,null,此前
+9,null,null,印度 全国 最 年轻 的 大学 入学考试 录取 生是 来自 印度 最 穷困 落后 的 比哈尔 省 的 男生 塔哈 加特 · 阿瓦 塔 · 图尔 西
+2073 9
+ (5,3)
+1,null,null,报道 称
+2,null,null,北方邦 副总 警监 拉克 米 · 辛格 表示
+3,null,disgust,这名 女孩 20 日晚 出门 后 在 村里 被 5 名 男子 轮奸
+4,null,null,她 的 家人 试图 掩盖 这起 事件
+5,disgust,羞辱,但是 女孩 难以承受 内心 的 羞辱
+6,null,null,21 日 居然 选择 自焚 结束 生命
+7,null,null,被 家人 发现 后
+8,null,null,女孩 被 送往 首都 新德里 一家 医院
+9,null,null,目前 暂无 生命危险
+215 15
+ (12,10)
+1,null,null,报道 称
+2,null,null,这起 事件 发生 在 本月 12 日
+3,null,null,这 只 小狗 冒 着 近 38 摄氏度 的 高温
+4,null,null,在 主人 的 尸体 旁 守候 了 好几个 小时
+5,null,null,虽然 附近 就 有 水源 和 遮挡 阳光 的 地方
+6,null,null,但 小狗 一直 寸步不离
+7,null,null,在 被 动物 管理 部门 人员 带走 时
+8,null,null,这 只 小狗 不断 挣扎
+9,null,null,只想 返回 主人 身边
+10,null,sadness,其 主人 系 自然 死亡
+11,null,null,据信 是 一名 流浪汉
+12,sadness,哀伤,小狗 在 抵达 收容 中心 后 极度 哀伤
+13,null,null,拒绝 进食 及 饮水
+14,null,null,也 不 发出 任何 声响
+15,null,null,甚至 不 愿意 抬头
+220 13
+ (5,4)
+1,null,null,警方 消息 显示
+2,null,null,华裔 女子 在 被捕 后 向 警方 表示 她 是因为 和 孩子 的 父亲 吵架
+3,null,null,在 一怒之下 才 选择 将 婴儿 丢 在 超市 里
+4,null,anger,而 超市 内 的 工作人员 也 表示 在 先前 多次 看到 女子 手持 孩子 父亲 的 照片 寻人 但 多次 未果
+5,anger,气愤,因为 气愤 选择 将 自己 孩童 遗留 在 公共场合 以 泄恨 一举
+6,null,null,华裔 律师 权立宏 表示
+7,null,null,根据 规定
+8,null,null,不论是 亲生父母 或 监护人
+9,null,null,只要 将 14 岁 以下 的 孩童 单独 遗留
+10,null,null,并且 有 遗弃 意图 者
+11,null,null,警方 皆 有权 将 其 逮捕
+12,null,null,若 罪名 成立
+13,null,null,可 构成 E 级 刑事案件
+257 5
+ (3,2)
+1,null,null,清晨 从 外面 上 完网 回到 家
+2,null,anger,发现 妈妈 和 一名 陌生 男子 衣衫不整 地 在 卧室 里
+3,anger,怒火中烧,少年 怒火中烧
+4,null,null,持 水果刀 狂 追 夺路 而 逃 的 陌生 男子
+5,null,null,将 刀架 在 对方 脖子 上
+294 16
+ (8,6)
+1,null,null,被害 男子 被 打倒 在 地
+2,null,null,继续 吃 拳脚
+3,null,null,其中 一人 还 拿 树枝 打
+4,null,null,最后
+5,null,null,男子 的 前女友 冲过来 劝架
+6,null,fear,但 眼看 男子 痛苦 躺 在 地上 爬不起来
+7,null,null,不 知道 该 怎么办
+8,fear,焦急,焦急 地 坐在 地上 哭
+9,null,null,据 报道
+10,null,null,男子 被 抬 上 救护车 后
+11,null,null,一 开始 还 可以 讲话
+12,null,null,不过 抵达 医院 之后
+13,null,null,医生 问 他 是否 胸闷 绞痛
+14,null,null,他 回答 不会
+15,null,null,但 没多久 后
+16,null,null,就 没 了 呼吸 心跳
+46 12
+ (12,11)
+1,null,null,据 台湾 中央社 16 日 报道
+2,null,null,日本 男性 2 月 14 日 情人节 通常 会 收到 巧克力 和 其他 礼物
+3,null,null,而 他们 3 月 14 日 白色 情人节 当天 必须 回 送礼物 给 另一半
+4,null,null,西山 美惠 31 岁 的 丈夫 一脚 将 她 踢开 后
+5,null,null,她 疑似 企图 用 领带 掐死 他
+6,null,null,老公 午夜 时分 打电话 报警
+7,null,null,西山 美惠 随后 在 日本 西部 堺 市 家中 被捕
+8,null,null,并 向 警方 表示
+9,null,null,她 怀疑 老公 有 外遇
+10,null,null,西山 告诉 警方
+11,null,anger,老公 情人节 没有 回 送礼物
+12,anger,气,她 气到 想 勒死 他
+614 16
+ (15,14)
+1,null,null,十年间
+2,null,null,他 共 救助 200   多只 流浪 猫 狗
+3,null,null,并 从 2011   年 开始
+4,null,null,辞去 工作
+5,null,null,开始 全职 照顾 流浪 猫 狗
+6,null,null,所用 的 费用
+7,null,null,大部分 来自 社会 爱心 人士 的 捐助
+8,null,null,他称
+9,null,null,虽然 看起来 有点 不务正业
+10,null,null,但 觉得 这 是 件 非常 有 意义 的 事情
+11,null,null,Chris   说
+12,null,null,他 的 流浪 动物 基地 刚 规划 好 不到 两个 月 的 时间
+13,null,null,却 面临 被 拆
+14,null,fear,100   多只 流浪 动物 突然 没 了 去处
+15,fear,担心,自己 十分 担心
+16,null,null,我 正在 找 新 的 适合 这些 流浪 猫 狗 生活 的 地方
+90 4
+ (3,3)
+1,null,null,76 岁 的 英国 老妇人 格瑞斯 · 贝茨 在 英国广播公司 BBC 帮助 下
+2,null,null,找到 分离 59 年 的 初恋 德国人 赫尔曼 · 博世
+3,sadness,sadness,格瑞斯 因 曾 欺骗 对方 一直 深感 愧疚
+4,null,null,死前 一定 要 见到 他
